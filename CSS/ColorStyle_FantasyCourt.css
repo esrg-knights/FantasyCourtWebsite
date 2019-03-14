@@ -44,6 +44,11 @@ body{
     border-bottom: 4px solid #f6f1b9;
 }
 
+.NavBarMenu li a{
+    text-decoration: none;
+    color: #3d5d1a;
+}
+
 .dropdown-menu li {
     color: #3d5d1a;
     background-color: #dac4ae;
