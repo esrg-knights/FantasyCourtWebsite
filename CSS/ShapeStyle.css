@@ -460,6 +460,10 @@ Footer {
 
     }
 
+    .leftAddition, .rightAddition{;
+        z-index: -10;
+    }
+
     .leftAddition{
         position: absolute;
         right: 55%;
