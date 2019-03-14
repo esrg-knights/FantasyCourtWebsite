@@ -6,8 +6,7 @@ body{
 
 .Title{
     height: 400px;
-    background-image: url("../Images/Title.jpg");
-    background-position: 50% 30%;
+
 
     border-bottom: 5px solid #66512c;
 }
