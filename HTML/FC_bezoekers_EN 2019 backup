@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Fantasy Court Website</title>
+    <link rel="stylesheet" href="../CSS/ShapeStyle.css">
+    <link rel="stylesheet" href="../CSS/CSS_basics.css">
+    <link rel="stylesheet" href="../CSS/ColorStyle_FantasyCourt.css">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="../Images/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../Images/icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../Images/icons/favicon-16x16.png">
+    <meta name="theme-color" content="#3d5d1a">
+
+</head>
+<body>
+
+
+<div class="Title" style="
+    background-image: url(../Images/Title.jpg);
+    background-position: 50% 30%;"></div>
+
+
+<div class="Main">
+
+    <div class="MainContentBackground">
+        <div class="MainContentBackground_mid">
+            <div class="MainContentBackground_left"></div>
+            <div class="MainContentBackground_right"></div>
+        </div>
+    </div>
+
+    <div class="FooterAdjuster">
+        <div class="MainScreen">
+            <h3><i>
+                Famers, nobels, citisens and travelors of all sort<br>
+                You are all formally invited to enter the Fantasy Court
+            </i></h3>
+            <h1>What is Fantasy Court?</h1>
+            <div class="rightAddition">
+                <div>
+                    <div class="additionInfo rot_-1">
+                        <div class="hanger"></div>
+                        <div class="additionInfoBlock">
+                            <h2>We are hosted by</h2><br>
+                            <div style="background-image: url(../Images/Knights_logo.png);
+                                background-size: contain; margin: auto; height: 150px; width: 120px;"></div>
+                            <p>ESRG Knights of the Kitchen Table</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p>
+                Fantasy Court is a fantasy festival that is focused on the somewhat unique and niche culture that surrounds fantasy events and LARP. This festival has a vast array of stalls, associations, and activities that all fall under the purview of the awesome world of fantasy. This would entail LARP associations, surprising board games, exotic foods, a LARP sword fighting tournament (with a special children’s division!), storytellers, a LARP archery range, family crest painting as well as a wide variety of stalls that sell anything related. We offer all that belongs in the world of fantasy, and anything that will make you feel part of that world.
+                <br>
+                Most importantly, everyone is welcome! If you’re a student or not, a parent with children or alone; it does not matter who you are. You will be welcome and you will find something to do. There will be workshops organized, various activities, and the all impressive sword fighting tournament for children and adults!
+            </p>
+
+
+
+            <p>
+                Do you want to be informed on all developments? Check out our
+                <a href="https://www.facebook.com/FantasyCourt/"> Facebook page</a>
+            </p>
+
+            <h1>Previous editions</h1>
+            <p>
+                The festical originally started back in 2016 as the <a href="https://www.facebook.com/events/564866377026074/">LarpBattle</a>, folloqed by two succesful editions of <a href="https://www.facebook.com/events/121539801858080/"> Fantasy Court 2018</a> and <a href="https://www.facebook.com/events/795289227288793/">Fantasy Court 2017</a>.
+                And this year has every intention to even better than the previous ones. So if you want to witness something magical, edition 2019 is not one you want to miss.
+            </p>
+            <div class="rightAddition">
+                <div>
+                    <div class="additionInfo rot_3">
+                        <div class="hanger"></div>
+                        <div class="additionInfoBlock">
+                            <h2>We are supported by</h2><br>
+                            <div style="background-image: url(../Images/Sponsor_SG.bmp);
+                                background-size: contain; margin: auto; height: 150px; width: 150px;"></div>
+                            <div style="background-image: url(../Images/Sponsor_Rabobank.png);
+                                background-size: contain; margin: auto; height: 72px; width: 200px;"></div>
+                            <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <h1>Edition 2019</h1>
+            <p>
+                The newest edition of Fantasy Court, FantasyCourt 2019, will take place on the 2nd of June 2019 and will be held in the midday and afternoon. It will take place on the campus of the Technical University of Eindhoven (a specific location with route directions will be provided in time).<br>
+                The festival itself and participation in the swordfighting tournament will be entirely free. However it should be considered that money will be asked for (some) activities, products in stalls, catering, and other such instances. It is going to be a most promising day full of amazing stories, combat and all around fun.
+            </p>
+
+            <h1>How can I participate?</h1>
+            <p>
+                The festival area is open to everyone and neither a ticket nor a reservation is required to enter. To join the tournament people will have to register (for free). This can be done at the tournament area before the start of the tournament.
+            </p>
+
+            <h1>Things to do on the festival.</h1>
+            <p>
+            There will be a varied set of stalls, activities and larp groups at the festival. At present these are confirmed. Of course this list is subject to change.
+			</p>
+            <h2>Stalls</h2>
+				<ul>
+					<li><a href="https://www.larpcenter.nl">Larpcenter:</a> A seller of LARP-weapons. These are weapons made from a composite foam and can be used for Live Action Role-Playing (LARP). Because of the use of composite foam the weapons are long-lasting and maintenance-free.	</li>
+					<li><a href="https://www.lettersandlights.nl/">Letters&Lights:</a> Handmade candles, posters, bookmarks and other goodies with literary themes. Ideal as decoration or to enhance your experience while reading.</li>
+					<li><a href="https://dungeonsanddice.nl/">Dungeons&Dice:</a> Are you also always in a desperate need for more dice, mini figurines or other role-play materials?  Dungeons&Dice will be your saviour with a broad assortment of d&d-related products to ensure your 100-troll army will actually contain one hundred trolls. </li>
+					<li><a href="https://www.facebook.com/drakkarwoodwork/">Drakkar Wood Works:</a> for your custom wood works and idea's. We make furniture and decoration the way you want them. </li>
+					<li><a href="https://www.starsandtimber.nl/">Stars & Timber:</a> A crafts, gift and photo shop in one. visit them in your best custome at their stand where they will have created an amazing fantasy background for pictures. They have also brought a large variety of crafting goods.</li>
+					<li><a href="http://www.fairyland.nl/">Fantasyshop Fairyland:</a> Sell almost everything you can mane when you think of 'fantasy'. They are specialised in Fantasy, Gothic, Larp, Medieval, fairy tale, New age- and Hobby goods. It's a great place to visit if you are in the market for decoration, need to finish your larp-costume or just want to browse their lovely wares.</li>
+					<li><a href="https://www.facebook.com/Cupcakebunny1/">Cupcakebunny:</a> If you are looking for a treat they can help you with the prettiest cupcakes and other goodies. got a sweet tooth? Cupcakebunny has got you covered for something fantastically delicious! </li>
+					<li><a href="http://www.defabriekeindhoven.nl/artist/jan/fabel/">Fabel Fabriek</a></li>
+					<li><a href="http://wp.zilverbron.com/">Zilverbron</a></li>
+					<li><a href="https://www.facebook.com/FantasyCourt/photos/a.841857729312101/1314971075334095/"> MC Art Custom Larp Nerf Props:</a> Nothing wrong with swords of course. But sometimes you just need to have a little more range. MC art Custom Larp Nerf Props will help you with this. His custom Nerf props offer your Larp-characters both firepower and style. Besides Nerf guns he also can make many other custom projects and commissions.</li>
+					<li><a href="https://www.books4life-eindhoven.nl/">Books4Life Eindhoven:</a> Books4Life Eindhoven has an impressive collection of second-hand fantasy and science fiction books, and they are not expensive! By selling them, we raise money for charity.</li>
+					<li><a href="https://www.facebook.com/Myr-of-Most-Trades-632283800535320nl">Myr of Most Trades</a> Keep an eye on these hand-crafted glass eyes as well as a varied assortment of other accessories. </li>
+					<li><a href="https://www.facebook.com/tinthimble">TinThimble:</a> TinThimble proves that being a nerd, loving nice clothes and protecting the environment are a great combination. She makes all her products from second-hand or recycled materials. If you need proof, visit her at the festival.</li>				
+					<li>Henna: Beautiful temporary tattoos made with Henna</li>
+					<li><a href="https://www.pippinfoods.nl/">Pippinfoods:</a> Bringing you a tasty and healthy meal. </li>
+					<li><a href="https://www.libris.nl/vanpiere/agenda/juni/tolkien/">Van Piere:</a> Bookshop Van Piere organises in combination with VUE cinemas an evening dedicated to J.J.R. Tolkien on the 6th of June Preceding the premier of the new film about his life. They will be at Fantasy Court with a special Tolkien-related stall to promote this event.</li>
+				</ul>			
+
+            <h2>Larp-groups</h2>
+  
+				<ul>
+					<li><a href="http://www.aren-larp.nl/larp/">A.R.E.N. Larp Postapobob:</a> Sadly the promo text of this group has been lost during the apocalypse that happened before their event.</li>
+					<li><a href="https://aderionlarp.wordpress.com/">Aderion:</a> Aderion is a small  fantasy larp ssociation that holds events in and around Eindhoven. </li>
+				</ul>			
+
+             <h2>Optredens en Activiteiten</h2>
+            <ul>
+				<li><a href="https://abundleofdjoy.bandcamp.com/">A Bundle of Djoy:</a> Guitar player Kim Van Stichel and vocalist/flute player Haike D'haese form the acoustic duo  'A Bundle of Djoy'. Hailing from Aalst in Belgium their music is atmospheric with dark, rock, triphop en metal influences. Dynamic music which tells fantastical stories and will take you on a journey.</li>
+				<li><a href="https://hellolarp.podbean.com/">Hello LARP: </a> Hello LARP is a podcast made by LARPers for LARPers (and other people interested in LARP). It's a Dutch podcast by 4 people: Imke, Pascal, Kotka and Mark, and diverse guests. They can be found at their own booth for extra information and a listen of pieces of podcast. You can even see them live on stage where they will record live a podcast with a Q&A.</li>
+				<li>LARP sword fighting Tournament: There wouldn't be a festival without a tournament. The Knights of the Kitchen table will arrange a grand sword-fighting tourney for both young and older warriors to compete for honour and eternal glory.</li>
+				<li>LARP-archery: Show of your archery prowess at out LARP-archery range. Try to hit the plushy. if you succeed you are allowed to take it home.</li>
+				<li>Trading corner: Are you bored using the same two Larp-swords all the time? Why not trade one of them in for a shield or an axe? Think it's time to trade your cloak for a dagger? Visit the trading corner.<br>
+				This is the first year we have provided a space where you can trade larp-goods or have one of our staff, who will be keeping guard at the stand for the duration of the event, do it for you. Bring your old or unused props and maybe you can find the perfect item to get in return. </li>
+			</ul>			
+            
+            <h1>To all tradesmen, standholders and travelling performers</h1>
+            <p>
+                Do you want to join with a stall, act, or service at Fantasy Court? Then please go to our <a href="FC_Standhouders_EN.html">Exhibitor information page</a>.
+            </p>
+            <p>
+                If you wish to sponsor us so that we can bring this wonderful subculture to the people at large through this wonderful festival this summer? Then please contact us at <a href="mailto:organisatie@fantasycourt.nl"> organisatie@fantasycourt.nl</a> With your sponsorship we can ensure that the festival is open to everyone and make it even more fantastical with extra entertainment to make it a most marvellous day.
+            </p>
+
+            <br><br><br>
+            <h3><i>
+                We hope to see you on the Court!
+            </i></h3>
+            <br><br><br><br><br>
+
+            <h2>Sponsors</h2>
+            We are made possible by:<br>
+
+            <lu class="link">
+                <li>ESRG Knights of the Kitchen Table</li>
+                <li>Studium Generale TU/e</li>
+                <li>Rabobank Eindhoven-Veldhoven</li>
+            </lu>
+
+
+
+        </div>
+        <div style="height: 200px;">
+
+        </div>
+    </div>
+
+    <footer class="Footer">
+        <div class="FooterContent">
+            <div class="w1">
+                <div class="Footer_titel">Contact data</div>
+                <p>
+                    Website: www.fantasycourt.nl<br>
+                    Mail: info@fantasycourt.nl <br>
+                    FB: FB.com/FantasyCourt <br>
+                </p>
+                <div class="Footer_titel">Business data</div>
+                <p>
+                    IBAN: NL49 RABO 0325 427 771
+                </p>
+            </div>
+        </div>
+    </footer>
+</div>
+<nav class="NavBarRoot">
+    <div class="NavBarHeader">
+        <input id="navMenu" type="checkbox"/>
+        <label for="navMenu" class="NavBarImage"></label>
+        <div class="NavBarContent">
+            <ul class="NavBarMenu">
+                <li>
+                    <a href="FC_Bezoekers_EN.html">Visitors</a>
+                </li>
+                <li>
+                    <a href="FC_Standhouders_EN.html">Stand keepers</a>
+                </li>
+                <li>
+                    <a href="FC_Toernooiregels_EN.html">Tourney rules</a>
+                </li>
+            </ul>
+        </div>
+        <div class="languagebox">
+            <div class="dropdown">
+                <div class="hideFromLarge">Taal</div>
+                <div class="hideOnLarge">Taal/ language</div>
+                <ul class="dropdown-menu">
+                    <li> <a href="FC_Bezoekers_NL.html"> Nederlands</a> </li>
+                    <li class="current"> English </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</nav>
+
+</body>
+</html>
