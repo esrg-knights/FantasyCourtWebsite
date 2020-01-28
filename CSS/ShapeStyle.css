@@ -463,6 +463,9 @@ Footer {
     .leftAddition, .rightAddition{;
         z-index: -10;
     }
+        .leftAddition.containsLink, .rightAddition.containsLink {
+            z-index: inherit;
+        }        
 
     .leftAddition{
         position: absolute;
