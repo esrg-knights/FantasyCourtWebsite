@@ -58,16 +58,34 @@ input#navMenu{ display: none}
     padding: 0 10px;
 }
 
-.NavBarMenu > Li > a > .doubleline{
+.NavBarMenu > Li > a > .doubleline {
     line-height: 25px;
     text-align: center;
 }
 
-.NavBarMenu > Li > a, .dropdown-menu > Li > a {
+.NavBarMenu > Li > a {
     display: block;
     height: 100%;
     width: 100%;
     padding: 0 10px;
+}
+
+.dropdown > * {
+    display: inline-block;
+}
+
+/* Add a triangle after dropdown text */
+.dropdown::after {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
 }
 
 .dropdown-menu {
@@ -75,10 +93,10 @@ input#navMenu{ display: none}
     margin-top: 0;
     position: absolute;
     list-style-type: none;
-    min-width: 160px;
+    min-width: 200px;
     margin-left: -10px;
     z-index: 1;
-    padding: 0;
+    padding: 10px;
 }
 .dropdown-menu > * {
     padding: 0 16px;
@@ -86,7 +104,14 @@ input#navMenu{ display: none}
 .dropdown:hover .dropdown-menu {
     display: block;
 }
+.languagebox .dropdown-menu li {
+    padding: 0px;
+}
 
+.languagebox .dropdown-menu li > a {
+    display: block;
+    padding: 5px 5px 5px 10px;
+}
 
 /***********************************************************************************************
  MAIN PAGE
@@ -117,16 +142,6 @@ input#navMenu{ display: none}
     position: relative;
     margin: 0 auto;
     height: 100%;
-}
-
-/* Given content more space on small screens */
-@media (max-width: 500px) {
-    .NavBarImage {
-        margin-left: 5px;
-    }
-    .MainScreen {
-        padding: 0px 10px 0px 55px;
-    }
 }
 
 /* Reduce the gap between lists and the text above it */
@@ -359,24 +374,61 @@ Footer {
     .leftAddition, .rightAddition{
         display: none;
     }
-
-    .languagebox {
-        text-align: center;
-    }
 }
 
 .languagebox {
     display: inline-block;
     position: absolute;
-    line-height: 50px;
     height: 100%;
     right: 0;
     top: 0;
-    padding-right: 10px;
+    margin-right: 10px;
+}
+
+.languagebox .dropdown {
+    display: inline-block;
+    height: inherit;
+}
+
+.languagebox .flag {
+   width: 40px;
+   height: 100%
+}
+.languagebox .dropdown-menu .flag {
+    width: 30px;
+    height: 25px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.languagebox .dropdown::after {
+    vertical-align: 60%;
+    margin-left: 0px;
 }
 
 .languagebox .dropdown-menu {
     width: 100%;
+    right: 10px;
+    top: 50px;
+    padding: 0px;
+}
+
+/* Given content more space on small screens */
+@media (max-width: 500px) {
+    .NavBarImage {
+        margin-left: 5px;
+    }
+    .MainScreen {
+        padding: 0px 10px 0px 55px;
+    }
+    .FooterContent {
+        padding: 25px 10px 0px 55px;
+    }
+    .languagebox .flag {
+       width: 30px;
+       height: 100%
+    }
 }
 
 @media (min-width: 800px){
@@ -395,24 +447,14 @@ Footer {
         display: inline-block;
     }
 
-    .NavBarMenu > Li, .dropdown-menu > Li{
-
-        height: 100%;
-        padding: 0;
-    }
-
     .NavBarMenu > li > a > div{
         position: relative;
 
         left: -10px;
     }
 
-    .NavBarMenu > .dropdown{
+    .NavBarMenu > .dropdown {
         padding: 0 10px;
-    }
-
-    .languagebox {
-        text-align: center;
     }
 
     .FooterAdjuster{
