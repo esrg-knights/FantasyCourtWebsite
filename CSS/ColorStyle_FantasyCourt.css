@@ -17,10 +17,19 @@ body{
     font-size: larger;
 }
 
-.NavBarImage{
+.NavBarImage {
     background-image: url("../Images/FC Vaandel.png");
-    height: 138px;
+    height: 100vh;
     width: 78px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 500px) {
+    /* Image should be smaller on smaller devices */
+    .NavBarImage {
+        width: 45px;
+    }
 }
 
 .dropdown-menu {

@@ -36,12 +36,16 @@ html, body {
 
 input#navMenu{ display: none}
 
-.NavBarImage{
-
-    background-size:100% 100%;
-    margin: 0 0 0 10px;
+.NavBarImage {
+    margin-left: 10px;
 }
 
+/* Given content more space on small screens */
+@media (max-width: 500px) {
+    .NavBarImage {
+        margin-left: 5px;
+    }
+}
 
 .NavBarMenu {
     list-style-type: none;
@@ -59,7 +63,7 @@ input#navMenu{ display: none}
     text-align: center;
 }
 
-.NavBarMenu > Li > a, .dropdown-menu > Li > a{
+.NavBarMenu > Li > a, .dropdown-menu > Li > a {
     display: block;
     height: 100%;
     width: 100%;
@@ -113,6 +117,16 @@ input#navMenu{ display: none}
     position: relative;
     margin: 0 auto;
     height: 100%;
+}
+
+/* Given content more space on small screens */
+@media (max-width: 500px) {
+    .NavBarImage {
+        margin-left: 5px;
+    }
+    .MainScreen {
+        padding: 0px 10px 0px 55px;
+    }
 }
 
 /* Reduce the gap between lists and the text above it */
@@ -282,10 +296,6 @@ Footer {
         height: 150px;
     }
 
-    .NavBarRoot{
-        position: fixed;
-    }
-
     .navMenuBox{
         width: 50px;
         height: 50px;
@@ -302,27 +312,21 @@ Footer {
     }
 
     .NavBarMenu {
-        position: absolute;
         max-height: 100%;
-        width: 100vw;
         bottom: 50px;
         margin-bottom: 0;
         padding: 0;
         font-size: large;
+        list-style-type: none;
     }
 
-    .NavBarContent{
-        position: absolute;
-        overflow: hidden;
-        left: 0;
+    .NavBarMenu > Li{
+        display: inline-block;
+    }
 
-        max-height: 100vh;
-        width:100%;
-        /*margin-left: -200px;*/
-        z-index: -1;
-        transition: top 0.5s ease;
-        /*border-bottom: 20px solid #222222;*/
-        border-radius: 0 0 20px 0;
+    .NavBarMenu > Li, .dropdown-menu > Li{
+        height: 100%;
+        padding: 0;
     }
 
     #navMenu:checked ~ .NavBarContent{
@@ -358,7 +362,6 @@ Footer {
 
     .languagebox {
         text-align: center;
-        padding-right: 0px;
     }
 }
 
