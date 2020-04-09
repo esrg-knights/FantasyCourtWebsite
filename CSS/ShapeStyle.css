@@ -13,14 +13,12 @@ html, body {
 
 
 
-
-
 .NavBarRoot{
     position: fixed;
     height: 50px;
     top: 0;
-    width: 100%;
     z-index: 40;
+    width: 100%;
 }
 
 .NavBarHeader{
@@ -243,17 +241,20 @@ a{
 }
 
 Footer {
-    position: absolute;
-    bottom: 0;
     font-size: small;
     width: 100%;
-}
+    overflow: auto;
+    position: relative;
+    margin-top: 25px;
+}  
+
 .FooterContent{
     box-sizing: border-box;
-
+    overflow: auto;
     margin: auto;
     padding-left: 100px;
-
+    padding-top: 25px;
+    padding-bottom: 10px;
     max-width: 800px;
 }
 .FooterContent > *{
@@ -318,21 +319,12 @@ Footer {
         /*width:400px;*/
     }
 
-/*
-    Footer {
-        height: 20px;
-    }*/
     .FooterAdjuster{
         padding: 0px 0 20px 0;
     }
-/*
-    .FooterContent{
-        display: none;
-    }*/
-
+    
     .MainScreen .fullWidthImage{
         width: 100vw;
-        /*left: -100px;*/
         margin: 0 0 10px -100px;
     }
 
@@ -356,42 +348,21 @@ Footer {
     .languagebox {
         text-align: center;
         padding-right: 0px;
-
     }
-/*
-    .languagebox {
-        display: inline-block;
-        padding: auto;
-        height: 100%;
-        width: 150px;
-    }
-    .languagebox > div > div{
-        margin-right: 20px;
-        text-align: right;
-    }
-
-    .languagebox > .dropdown > ul > Li{
-        height: 100%;
-        padding: 0;
-    }
-
-    .languagebox > .dropdown > ul > Li > a{
-        display: block;
-        height: 100%;
-        width: 100%;
-    }*/
-
 }
 
 .languagebox {
     display: inline-block;
     position: absolute;
     line-height: 50px;
-    padding: auto;
     height: 100%;
-    width: 150px;
     right: 0;
     top: 0;
+    padding-right: 10px;
+}
+
+.languagebox .dropdown-menu {
+    width: 100%;
 }
 
 @media (min-width: 800px){
