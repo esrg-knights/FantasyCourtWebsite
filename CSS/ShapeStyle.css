@@ -106,13 +106,18 @@ input#navMenu{ display: none}
     height: 100%;
 }
 
-
-
-.buttons{
-
+/* Reduce the gap between lists and the text above it */
+.no-padding-list > p {
+    margin-bottom: 0px;
+}
+.no-padding-list > ul, .no-padding-list ol {
+    margin-top: 5px;
 }
 
-
+/* Reduce the gap between headers and text */
+h1, h2 {
+    margin-bottom: 0px;
+}
 
 .contentWidthImage, .fullWidthImage, .backgroundImage{
     background-position:center center;
