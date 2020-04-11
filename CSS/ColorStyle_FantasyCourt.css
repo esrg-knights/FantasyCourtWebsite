@@ -2,12 +2,10 @@ body{
     background-color: lightgray;
     /*font-family: Arial;*/
     font-family: Book Antiqua, sans-serif;
+    background-color: #ceb29a;
 }
 
 .Title{
-    height: 400px;
-
-
     border-bottom: 5px solid #66512c;
 }
 
@@ -19,23 +17,48 @@ body{
     font-size: larger;
 }
 
-.NavBarImage{
+.NavBarImage {
     background-image: url("../Images/FC Vaandel.png");
-    height: 138px;
+    height: 100vh;
     width: 78px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 500px) {
+    /* Image should be smaller on smaller devices */
+    .NavBarImage {
+        width: 45px;
+    }
+}
+
+/* Flag Icons */
+.flag {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+.flag-nl {
+    background-image: url("../Images/flag-nl.svg");
+}
+.flag-gb {
+    background-image: url("../Images/flag-gb.svg");
 }
 
 .dropdown-menu {
-    background-color: #222222;
+    background-color: #dac4ae;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
-.dropdown-menu li:hover {
+.dropdown-menu li:hover:not(.current) {
     color: #764e9b;
     font-weight: bolder;
 }
 
-
+.dropdown-menu li.current {
+    background-color: #0f7b2761;
+    font-weight: bolder;
+}
 
 .NavBarMenu li:hover {
     color: #764e9b;
@@ -50,7 +73,6 @@ body{
 
 .dropdown-menu li {
     color: #3d5d1a;
-    background-color: #dac4ae;
     font-weight: normal;
 }
 
@@ -89,7 +111,6 @@ h1, h2{
 
 
 .FooterContent{
-
     border-top: 5px solid #66512c;
 }
 
