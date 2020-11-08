@@ -1,4 +1,34 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "kotkt"
+defaultContentLanguage = "nl"
+
+[languages]
+[languages.en]
+name = "English"
+title = "E.S.R.G. Knights of the Kitchen Table"
+weight = 1
+[[languages.en.menu.main]]
+identifier = "bezoekers"
+title = "Visitors"
+url = "/"
+weight = 1
+[[languages.en.menu.main]]
+identifier = "rpgs"
+title = "Vendors and Actors"
+url = "/standhouders"
+weight = 2
+
+[languages.nl]
+name = "Nederlands"
+title = "Fantasy Court"
+weight = 2
+[[languages.nl.menu.main]]
+identifier = "who-are-we"
+title = "Bezoekers"
+url = "/"
+weight = 1
+[[languages.nl.menu.main]]
+identifier = "rpgs"
+title = "Standhouders"
+url = "/standhouders"
+weight = 2
