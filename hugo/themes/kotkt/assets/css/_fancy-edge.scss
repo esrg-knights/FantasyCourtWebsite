@@ -1,0 +1,39 @@
+@media screen and (min-width: $mobileWidth) {
+
+    .fancy-edge {
+        background-color: $contentColour;
+        position: relative;
+    }
+
+        .fancy-edge .content-side {
+            background-image: url(../images/Edge.png);
+            background-size: contain;
+            background-repeat: repeat-y;
+            background-position: center;
+            width: 50px;
+            background-color: #66512caa;
+            position: absolute;
+            background-origin: content-box;
+            padding-left: 5px;
+            padding-right: 5px;
+            height: 100%;
+            top: 0;
+            bottom: 0;
+
+            &-left {
+                @extend .content-side;
+                -webkit-transform: rotate(180deg);
+                -moz-transform: rotate(180deg);
+                -ms-transform: rotate(180deg);
+                -o-transform: rotate(180deg);
+                transform: rotate(180deg);
+
+                left: 5-$containerPadding;
+            }
+
+            &-right {
+                @extend .content-side;
+                right: 5-$containerPadding;
+            }
+        }
+}

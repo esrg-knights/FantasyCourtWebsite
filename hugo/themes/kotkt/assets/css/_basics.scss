@@ -1,16 +1,23 @@
 // Sets up the basics of the website such as fonts and colors
 
 body, html {
-  font-family: 'Titillium Web', sans-serif;
-  background-color: $backgroundColor;
+  font-family: 'Book Antiqua', sans-serif;
+  background-color: $backgroundColour;
   color: $textColor;
   margin: 0;
   width: 100vw;
+  height: 100%;
   overflow-x: hidden;
 }
 
+body {
+  background-image: url('../images/Paperback.jpg');
+  background-position: center;
+  background-attachment: fixed;
+}
+
 h1, h2, h3, a, .dropdown {
-  font-family: 'IM Fell French Canon SC', serif;
+  font-family: 'Old London', 'IM Fell French Canon SC', serif;
 }
 
 h1{

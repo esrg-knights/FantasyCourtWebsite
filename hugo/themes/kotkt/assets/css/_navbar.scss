@@ -2,7 +2,7 @@ nav {
   z-index: 99;
   width: 100vw;
 
-  background-color: $backgroundColorInverted;
+  background-color: $backgroundColourInverted;
   display: flex;
 
   @media screen and (min-width: $containerWidth) {
@@ -35,10 +35,10 @@ nav {
   }
 
   *:hover {
-    background-color: lighten($backgroundColorInverted, 5);
+    background-color: lighten($backgroundColourInverted, 5);
   }
 
   .is-active {
-    background-color: lighten($backgroundColorInverted, 10);
+    background-color: lighten($backgroundColourInverted, 10);
   }
 }
