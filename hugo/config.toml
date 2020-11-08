@@ -13,7 +13,7 @@ weight = 1
 [[languages.nl.menu.main]]
 identifier = "visitors"
 title = "Bezoekers"
-url = "/#visitors"
+url = "/"
 weight = 2
 
 [[languages.nl.menu.main]]
@@ -31,11 +31,11 @@ weight = 1
 [[languages.en.menu.main]]
 identifier = "visitors"
 title = "Visitors"
-url = "/#visitors"
+url = "/"
 weight = 2
 
 [[languages.en.menu.main]]
 identifier = "vendors"
 title = "Vendors and Acts"
-url = "/vendors"
+url = "/standhouders"
 weight = 3

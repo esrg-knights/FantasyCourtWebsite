@@ -1,8 +1,6 @@
-<div class="header header-full" style='
-background: #222222 url({{ .Get "url" }}) center/cover;
+<div class="header header-medium" style='
+    background-image: url("{{ .Get "url" }}");
+    background-position: {{ .Get "position-x" | default "0%" }} {{ .Get "position-y"  | default "0%" }};
+    background-size: cover;
 '>
-    <div>
-        <h1>{{ .Get "title" }}</h1>
-        <h4>{{ .Get "subtitle" }}</h4>
-    </div>
 </div>

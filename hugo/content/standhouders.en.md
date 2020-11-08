@@ -1,3 +1,0 @@
----
-title: Vendors and Actors
----

@@ -9,26 +9,27 @@ body, html {
   height: 100%;
   overflow-x: hidden;
 }
-
+ 
 body {
   background-image: url('../images/Paperback.jpg');
   background-position: center;
   background-attachment: fixed;
 }
 
-h1, h2, h3, a, .dropdown {
+h1, h2, a, .dropdown {
   font-family: 'Old London', 'IM Fell French Canon SC', serif;
 }
 
-h1{
-  font-size: 3.2em;
+h1 {
+  margin-bottom: 0px;
+  font-size: 2.75em;
 }
 
-h2{
-  font-size: 2.5em;
+h2 {
+  margin-bottom: 0px;
+  font-size: 2em;
 }
 
-h3{
-  font-size: 1.7em;
-  margin-bottom: 0;
+ul {
+  margin-top: -20px;
 }

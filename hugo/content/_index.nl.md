@@ -1,20 +1,24 @@
 
 ---
-title: Fantasy Court - Bezoekers
+title: Bezoekers
 ---
 
-<!-- <div class="Title" style="
-    background-image: url(../images/Title.jpg);
-    background-position: 50% 30%;"></div> -->
+{{< articleimage
+    url="/images/Title.jpg" 
+    position-x="50%"
+    position-y="30%"
+>}}
 
-
-### _Burgers, boeren, edelen, zegt ten allen voort_ <br> _Jullie zijn allen uitgenodigd aan het hof van Fantasy Court_
+{{< message >}}
+  _Burgers, boeren, edelen, zegt ten allen voort_  
+  _Jullie zijn allen uitgenodigd aan het hof van Fantasy Court_
+{{< /message >}}
 
 {{< aside >}}
     {{< banner rotate="-3" >}}
-        <h2>Standhouder zijn?</h2><br>
-        <p>Bekijk dan onze <br>
-            <a href="FC_Standhouders_NL.html">standhouder-pagina</a>
+        <h2>Standhouder zijn?</h2>
+        <p>
+            Bekijk dan onze <a href="/standhouders">standhouder-pagina</a>
         </p>
     {{< /banner >}}
 {{< /aside >}}
@@ -29,9 +33,8 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
 
 {{< aside >}}
     {{< banner rotate="1" >}}
-        <h2>Wij worden georganiseerd door</h2><br>
-        <div style="background-image: url(../images/Knights_logo.png);
-            background-size: contain; margin: auto; height: 150px; width: 120px;"></div>
+        <h2>Wij worden georganiseerd door</h2>
+        {{< figure src="/images/Knights_logo.png" alt="ESRG Knights of the Kitchen Table Logo" >}}
         <p>ESRG Knights of the Kitchen Table</p>
     {{< /banner >}}
 {{< /aside >}}
@@ -46,19 +49,18 @@ Om deze reden hebben wij besloten ons te richten op de volgende editie rond juni
 Wil je op de hoogte blijven van ontwikkelingen voor Fantasy Court 2021? Kijk dan op onze [Facebook Pagina](https://www.facebook.com/FantasyCourt/)! We blijven zoals gewoonlijk ook nog bereikbaar via [e-mail](mailto:organisatie@fantasycourt.nl)!
 
 # Editie 2019
-<p>
-    De meest recente editie van <a href="https://www.facebook.com/events/2583251595022623/">Fantasy Court 2019</a> heeft plaats gevonden op 2 juni 2019 in de middag en namiddag, op het terrein van de Technische Universiteit Eindhoven. Om een succes te garanderen hadden we extra veel goed weer besteld. Helaas was het daardoor aan de warme kant. Dat mocht echter de pret niet drukken en met een extra laag zonnebrand is het uiteindelijk een mooie dag geweest vol prachtige verhalen, strijd en volop gezelligheid.
-</p>
+De meest recente editie van [Fantasy Court 2019](https://www.facebook.com/events/2583251595022623/) heeft plaats gevonden op 2 juni 2019 in de middag en namiddag, op het terrein van de Technische Universiteit Eindhoven. Om een succes te garanderen hadden we extra veel goed weer besteld. Helaas was het daardoor aan de warme kant. Dat mocht echter de pret niet drukken en met een extra laag zonnebrand is het uiteindelijk een mooie dag geweest vol prachtige verhalen, strijd en volop gezelligheid.
 
-<h1>Voorgaande edities</h1>
-<p>
-    De editie <a href="https://www.facebook.com/events/121539801858080/"> Fantasy Court 2018</a>, <a href="https://www.facebook.com/events/795289227288793/">Fantasy Court 2017</a> en de voorloper <a href="https://www.facebook.com/events/564866377026074/">LarpBattle 2016</a> trokken al veel enthousiast publiek en deze keer belooft het alleen nog maar beter te worden!
-    Ook hebben we meegedaan bij het <a href="http://agendastrijp.nl/evenement/freedom-is-bevrijdingsfestival-eindhoven/"> “Freemdom is”</a> Bevrijdingsfestival van 5 mei 2017.
-    Daarnaast heeft een van de organisatoren, en meerdere leden van de ons overkoepelende studentenvereniging een geweldig <a href="https://www.ed.nl/eindhoven/eindje-mee-met-dide-vonk-3-3-larpers~a611d2be/">interview gegeven </a> over wat LARPen nu eigenlijk is, en hoe ontzettend tof het wel niet is!
-</p>
+# Voorgaande edities
+De editie [Fantasy Court 2018](https://www.facebook.com/events/121539801858080/), [Fantasy Court 2017](https://www.facebook.com/events/795289227288793/) en de voorloper [LarpBattle 2016](https://www.facebook.com/events/564866377026074/) trokken al veel enthousiast publiek en deze keer belooft het alleen nog maar beter te worden!
 
-<h1>Hoe kan ik meedoen?</h1>
-Fantasy court is vrij te bezoeken. Het terrein is open er is geen toegangsbewijs of reservering nodig. Wel moet men zich (gratis) inschrijven om deel te nemen aan het toernooi. Dit kan ter plekke voor aanvang van elk toernooi.
+Ook hebben we meegedaan bij het [“Freemdom is”](http://agendastrijp.nl/evenement/freedom-is-bevrijdingsfestival-eindhoven/) Bevrijdingsfestival van 5 mei 2017.
+
+Daarnaast heeft een van de organisatoren, en meerdere leden van de ons overkoepelende studentenvereniging een geweldig [interview](https://www.ed.nl/eindhoven/eindje-mee-met-dide-vonk-3-3-larpers~a611d2be/) gegeven over wat LARPen nu eigenlijk is, en hoe ontzettend tof het wel niet is!
+
+
+# Hoe kan ik meedoen?
+Fantasy Court is vrij te bezoeken. Het terrein is open er is geen toegangsbewijs of reservering nodig. Wel moet men zich (gratis) inschrijven om deel te nemen aan het toernooi. Dit kan ter plekke voor aanvang van elk toernooi.
 
 # Wat is er op het festival te doen?
 Onder andere:
@@ -72,56 +74,25 @@ Onder andere:
 * Kleine activiteiten zoals bordspellen
 
 {{< aside >}}
-    {{< banner rotate="1" >}}
-        <h2>Wij worden ondersteund door</h2><br>
-        <div style="background-image: url(../images/Sponsor_SG.bmp);
-            background-size: contain; margin: auto; height: 150px; width: 150px;"></div>
-        <div style="background-image: url(../images/Sponsor_Rabobank.png);
-            background-size: contain; margin: auto; height: 72px; width: 200px;"></div>
+    {{< banner rotate="-2" >}}
+        <h2>Wij worden ondersteund door</h2>
+        {{< figure src="/images/Sponsor_SG.bmp" alt="Studium Generale Logo" >}}
+        {{< figure src="/images/Sponsor_Rabobank.png" alt="Rabobank Eindhoven-Veldhoven Logo" >}}
     {{< /banner >}}
 {{< /aside >}}
 
 # Aan alle kooplieden, standhouders en reizende acts
-Wilt u zelf met een kraam, act of dienst deelnemen aan het Festival? Kijk dan bij de [standhouder-pagina](FC_Standhouders_NL.html)
+Wilt u zelf met een kraam, act of dienst deelnemen aan het Festival? Kijk dan bij de [standhouder-pagina](/standhouders)
 
 Wilt u ons sponsoren zodat wij deze unieke Fantasycultuur aan een breder publiek kunnen brengen door middel van dit festival komende zomer? Neem dan vooral contact met ons op via [info@fantasycourt.nl](mailto:organisatie@fantsycourt.nl) om de zaken met ons door te spreken!
 Met uw sponsorbijdragen kunnen wij zorgen dat het festival vrij toegankelijk is en kunnen wij de locatie verfraaien met extra entertainment om het tot een nog leukere dag te brengen.
 
+{{< message padding-top="80px" padding-bottom="100px">}}
+_Tot op het hof!_  
+{{< /message >}}
 
-
-
-<!-- 
-
-            
-
-            <p>
-               
-            </p>
-
-		
-
-            
-
-            <br><br>
-            <h3>
-                <i>Tot op het hof!</i>
-            </h3>
-            <br><br>
-
-            <h2>Sponsoren</h2>
-            <div class='no-padding-list'>
-                <p>Wij worden mede mogelijk gemaakt door:</p>
-                <ul class="no-padding-list">
-                    <li>ESRG Knights of the Kitchen Table</li>
-                    <li>Studium Generale TU/e</li>
-                    <li>Rabobank Eindhoven-Veldhoven</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
-   
-</div>
-
-</body>
--->
+## Sponsoren
+Wij worden mede mogelijk gemaakt door:
+* ESRG Knights of the Kitchen Table
+* Studium Generale TU/e
+* Rabobank Eindhoven-Veldhoven

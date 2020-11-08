@@ -1,0 +1,7 @@
+
+<h4 style="
+padding-top: {{ .Get "padding-top" | default "0px" }};
+padding-bottom: {{ .Get "padding-bottom" | default "0px" }};
+">
+    {{ .Inner | markdownify }}
+</h4>

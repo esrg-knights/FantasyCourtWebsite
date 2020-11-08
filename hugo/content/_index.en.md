@@ -1,5 +1,5 @@
 ---
-title: Bezoekers
+title: Visitors
 ---
 
-HAllo bezoekers
+Hello Visitors
