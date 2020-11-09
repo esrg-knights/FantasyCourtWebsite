@@ -1,7 +1,7 @@
 name = "Fantasy Court"
 license = "MIT"
 licenselink = "https://github.com/esrg-knights/FantasyCourtWebsite/blob/hugo/hugo/themes/kotkt/LICENSE"
-description = "A hugo theme to accompany our various websites!"
+description = "A hugo theme to accompany the Fantasy Court website."
 homepage = "https://fantasycourt.nl"
 tags = []
 features = []

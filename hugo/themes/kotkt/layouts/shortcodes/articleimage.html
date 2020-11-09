@@ -2,5 +2,6 @@
     background-image: url("{{ .Get "url" }}");
     background-position: {{ .Get "position-x" | default "0%" }} {{ .Get "position-y"  | default "0%" }};
     background-size: cover;
+    alt: "{{ .Get "alt" | default "Image alt not provided" }}";
 '>
 </div>
