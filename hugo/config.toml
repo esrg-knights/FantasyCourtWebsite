@@ -4,6 +4,9 @@ DefaultContentLanguage = "nl"
 title = "Fantasy Court Website"
 theme = "kotkt"
 
+# We're not using taxonomies
+disableKinds = ["taxonomy", "term"]
+
 [languages]
 [languages.nl]
 name = "Nederlands"
