@@ -40,5 +40,6 @@ nav {
 
   .is-active {
     background-color: lighten($backgroundColourInverted, 10);
+    border-bottom: 3px solid $borderColour;
   }
 }
