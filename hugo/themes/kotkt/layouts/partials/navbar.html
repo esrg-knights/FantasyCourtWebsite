@@ -4,12 +4,16 @@
     {{- $currentPage := . -}}
     {{ range .Site.Menus.main -}}
     <a href="{{ .URL | relLangURL }}"
-       class='{{ if $currentPage.IsMenuCurrent "main" . }}is-active{{end}}'>{{.Title}}</a>
+       class='{{ if (eq $currentPage.RelPermalink (.URL | relLangURL)) }}is-active{{end}}'>{{.Title}}</a>    
     {{- end }}
 
     <p class="hide-on-mobile">|</p>
-
-    {{ range $language := .Site.Languages }}
-    <a href="/{{ $language }}">{{ $language }}</a>
+    
+    {{- $currentLanguage := .Lang -}}
+    {{ range .AllTranslations }}
+        <a href="{{ .RelPermalink }}"
+            class="{{ if (eq .Lang $currentLanguage) }}is-active{{end}}">
+                {{ default .Lang .Language.LanguageName }}
+        </a>
     {{ end }}
 </nav>

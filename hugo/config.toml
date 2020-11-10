@@ -22,13 +22,13 @@ weight = 2
 [[languages.nl.menu.main]]
 identifier = "vendors"
 title = "Standhouders"
-url = "/standhouders"
+url = "/standhouders/"
 weight = 3
 
 # [[languages.nl.menu.main]]
 # identifier = "tourney"
 # title = "Toernooiregels"
-# url = "/toernooiregels"
+# url = "/toernooiregels/"
 # weight = 4
 
 
@@ -46,11 +46,11 @@ weight = 2
 [[languages.en.menu.main]]
 identifier = "vendors"
 title = "Vendors and Acts"
-url = "/standhouders"
+url = "/standhouders/"
 weight = 3
 
 # [[languages.en.menu.main]]
 # identifier = "tourney"
 # title = "Tourney Rules"
-# url = "/toernooiregels"
+# url = "/toernooiregels/"
 # weight = 4
