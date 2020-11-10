@@ -5,9 +5,12 @@ body, html {
   background-color: $backgroundColour;
   color: $textColor;
   margin: 0;
-  width: 100vw;
-  height: 100%;
-  overflow-x: hidden;
+  width: 100%;
+  // overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
 }
  
 body {
@@ -22,12 +25,16 @@ h1, h2, a, .dropdown {
 
 h1 {
   margin-bottom: 0px;
-  font-size: 2.75em;
+  @media screen and (min-width: $mobileWidth) {
+    font-size: 2.75em;
+  }
 }
 
 h2 {
   margin-bottom: 0px;
-  font-size: 2em;
+  @media screen and (min-width: $mobileWidth) {
+    font-size: 2em;
+  }
 }
 
 ul {

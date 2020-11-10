@@ -5,6 +5,10 @@
         {{- partial "header.html" . -}}
         {{- partial "navbar.html" . -}}
 
+        {{- block "header-image" . }}
+            {{- partial "header-image.html" . -}}
+        {{- end }}
+
         <div class="content fancy-edge">
             <div class="content-side-left"></div>
             <div class="content-side-right"></div>

@@ -10,7 +10,7 @@
             background-size: contain;
             background-repeat: repeat-y;
             background-position: center;
-            width: 50px;
+            width: $fancyEdgeWidth;
             background-color: $borderColour;
             position: absolute;
             background-origin: content-box;
@@ -22,18 +22,14 @@
 
             &-left {
                 @extend .content-side;
-                -webkit-transform: rotate(180deg);
-                -moz-transform: rotate(180deg);
-                -ms-transform: rotate(180deg);
-                -o-transform: rotate(180deg);
-                transform: rotate(180deg);
+                transform: scaleX(-1);
 
-                left: 5-$containerPadding;
+                left: -$fancyEdgeWidth;
             }
 
             &-right {
                 @extend .content-side;
-                right: 5-$containerPadding;
+                right: -$fancyEdgeWidth;
             }
         }
 }

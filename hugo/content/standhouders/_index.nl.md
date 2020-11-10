@@ -1,13 +1,10 @@
 ---
 title: Standhouders
+header-image:
+  url: images/FC_crew.jpg
+  position-x: 50%
+  position-y: 50%
 ---
-
-{{< articleimage
-    url="/images/FC_crew.jpg"
-    alt="Fantasy Court Crew"
-    position-x="50%"
-    position-y="50%"
->}}
 
 {{< message >}}
   _Handelaren, edellieden en heren van de gunsten,_ \
@@ -67,7 +64,7 @@ Fantasy Court 2021 zal plaatsvinden rond juni 2021, op een van de grasvelden van
 De kosten voor standhouders zullen bestaan uit een kleine deelnemersbijdrage (€17,50) en de eventuele kosten van de kraam/tent die via ons gehuurd kan worden (afhankelijk van uw wensen en de beschikbaarheid). Eigen kramen/tenten mogen ook meegenomen worden zolang dit vooraf bekend is bij de organisatie (i.v.m. de veldindeling).
 Over de compensatie voor optredens en acts kan met de organisatie worden onderhandeld.
 
-{{< message padding-top="80px" padding-bottom="100px">}}
+{{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_  
 {{< /message >}}
 

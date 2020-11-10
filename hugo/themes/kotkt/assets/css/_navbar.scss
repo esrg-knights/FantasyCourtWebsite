@@ -1,6 +1,7 @@
 nav {
   z-index: 99;
-  width: 100vw;
+  width: 100%;
+  top: 0;
 
   background-color: $backgroundColourInverted;
   display: flex;
@@ -23,6 +24,15 @@ nav {
     left:5%;
   }
 
+  .nav-banner {
+    z-index: inherit;
+    width: 64px;
+    
+    @media screen and (min-width: $mobileWidth) {
+      width: 100px;
+    }
+  }
+
   * {
     padding: 0 10px;
     display: flex;
@@ -34,7 +44,7 @@ nav {
     text-decoration: none;
   }
 
-  *:hover {
+  *:hover:not(.nav-banner) {
     background-color: lighten($backgroundColourInverted, 5);
   }
 

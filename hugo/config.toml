@@ -7,6 +7,14 @@ theme = "kotkt"
 # We're not using taxonomies
 disableKinds = ["taxonomy", "term"]
 
+# Default image that shows up at the top of pages
+[params.header-image]
+url = "/images/FC_tournament.jpg"
+alt = "Fantasy Court Swordfighting Tournament"
+position-x = "50%"
+position-y = "30%"
+
+
 [languages]
 [languages.nl]
 name = "Nederlands"
@@ -30,7 +38,6 @@ weight = 3
 # title = "Toernooiregels"
 # url = "/toernooiregels/"
 # weight = 4
-
 
 [languages.en]
 name = "English"

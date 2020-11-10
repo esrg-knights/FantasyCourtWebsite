@@ -1,12 +1,10 @@
 ---
 title: Vendors & Acts
+header-image:
+  url: images/FC_crew.jpg
+  position-x: 50%
+  position-y: 50%
 ---
-{{< articleimage
-    url="/images/FC_crew.jpg"
-    alt="Fantasy Court Crew"
-    position-x="50%"
-    position-y="50%"
->}}
 
 {{< message >}}
   _To all the farmers, bakers, salesmen, living of their goods_ \
@@ -69,7 +67,7 @@ The costs for vendors will consist of a small fee (€17,50) and the additional 
 Compensation for performances and acts can be negotiated with the organisation.
 
 
-{{< message padding-top="80px" padding-bottom="100px">}}
+{{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_  
 {{< /message >}}
 

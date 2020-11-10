@@ -1,14 +1,6 @@
-
 ---
 title: Bezoekers
 ---
-
-{{< articleimage
-    url="/images/FC_tournament.jpg"
-    alt="Fantasy Court Swordfighting Tournament"
-    position-x="50%"
-    position-y="30%"
->}}
 
 {{< message >}}
   _Burgers, boeren, edelen, zegt ten allen voort_ \
@@ -88,7 +80,7 @@ Wilt u zelf met een kraam, act of dienst deelnemen aan het Festival? Kijk dan bi
 Wilt u ons sponsoren zodat wij deze unieke Fantasycultuur aan een breder publiek kunnen brengen door middel van dit festival komende zomer? Neem dan vooral contact met ons op via [info@fantasycourt.nl](mailto:info@fantsycourt.nl) om de zaken met ons door te spreken!
 Met uw sponsorbijdragen kunnen wij zorgen dat het festival vrij toegankelijk is en kunnen wij de locatie verfraaien met extra entertainment om het tot een nog leukere dag te brengen.
 
-{{< message padding-top="80px" padding-bottom="100px">}}
+{{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_  
 {{< /message >}}
 

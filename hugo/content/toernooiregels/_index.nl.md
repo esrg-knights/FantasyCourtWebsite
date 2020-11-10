@@ -3,13 +3,6 @@ title: Toernooiregels
 expirydate: 2018-06-11
 ---
 
-{{< articleimage
-    url="/images/FC_crew.jpg"
-    alt="Fantasy Court Crew"
-    position-x="50%"
-    position-y="50%"
->}}
-
 {{< message >}}
   _Neemt in acht de regels van dit toernooi,_ \
   _Anders verandert deze strijd in een zooi_
@@ -73,7 +66,7 @@ Verder zal er tussen de trainingen in van 13:30 tot 14:15 een kleine beginnerstr
 ##
 
 
-{{< message padding-top="80px" padding-bottom="100px">}}
+{{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_  
 {{< /message >}}
 

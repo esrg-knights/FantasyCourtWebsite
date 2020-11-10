@@ -3,13 +3,6 @@ title: Tournament Rules
 expirydate: 2018-06-11
 ---
 
-{{< articleimage
-    url="/images/FC_crew.jpg"
-    alt="Fantasy Court Crew"
-    position-x="50%"
-    position-y="50%"
->}}
-
 {{< message >}}
   _Please keep in mind, the rules of this tourney._ \
   _For panic and harm, we want to keep at bay._
@@ -78,7 +71,7 @@ Furthermore, there will be an quick instruction in Larp-swordfighting on 13:30-1
 
 We hope these rules are clear to all and wish all participants a pleasant experience during the tourney
 
-{{< message padding-top="80px" padding-bottom="100px">}}
+{{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_  
 {{< /message >}}
 

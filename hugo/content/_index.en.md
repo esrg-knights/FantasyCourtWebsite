@@ -2,14 +2,6 @@
 title: Visitors
 ---
 
-{{< articleimage
-    url="/images/FC_tournament.jpg"
-    alt="Fantasy Court Swordfighting Tournament"
-    position-x="50%"
-    position-y="30%"
->}}
-
-
 {{< message >}}
 _Farmers, nobels, citizens and travelers of all sort_ \
 _You are all formally invited to enter the Fantasy Court._
@@ -82,7 +74,7 @@ Do you want to join with a stall, act, or service at Fantasy Court? Then please 
 
 If you wish to sponsor us so that we can bring this wonderful subculture to the people at large through this wonderful festival this summer? Then please contact us at [info@fantasycourt.nl](mailto:info@fantasycourt.nl). With your sponsorship we can ensure that the festival is open to everyone and make it even more fantastical with extra entertainment to make it a most marvellous day.
 
-{{< message padding-top="80px" padding-bottom="100px">}}
+{{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_  
 {{< /message >}}
 
