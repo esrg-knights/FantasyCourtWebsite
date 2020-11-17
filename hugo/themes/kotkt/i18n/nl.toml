@@ -1,7 +1,4 @@
-[recent_posts]
-other = "Recente posts"
-[posts_read_more]
-other = "Lees meer"
+# Footer
 [footer_contact_information]
 other = "Contactinformatie"
 [footer_business_information]
@@ -10,3 +7,9 @@ other = "Zakelijke informatie"
 other = "Bezoekersadres"
 [footer_postal_address]
 other = "Postadres"
+
+# 404
+[404_page_not_found]
+other = "Pagina niet Gevonden"
+[404_description]
+other = "De pagina waar u naar zocht kon niet worden gevonden. Wilt u terug naar de <a href='/'>homepagina</a>?"

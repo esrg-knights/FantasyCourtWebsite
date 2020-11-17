@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html>
-{{- partial "head.html" . -}}
-<body>
-{{- partial "navbar.html" . -}}
-
-<div class="content">
-    <h1>404 - Page Not Found</h1>
-    <p>The page you were looking for could not be found. Do you want to go <a href='{{ "/" | relLangURL}}'>home?</a> </p>
-</div>
-{{- partial "footer.html" . -}}
-</body>
-</html>
+{{ define "main"}}
+  <h1>404 - {{ i18n "404_page_not_found" }}</h1>
+  <p>
+    {{ i18n "404_description" | safeHTML }}
+  </p>
+{{ end }}

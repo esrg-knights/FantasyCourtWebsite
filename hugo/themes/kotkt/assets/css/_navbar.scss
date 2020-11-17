@@ -13,6 +13,10 @@ nav {
   a {
     min-height: $mobileNavbarHeight;
     padding: 0 10px;
+
+    &:hover {
+      background-color: lighten($backgroundColourInverted, 5);
+    }
   }
 
   a:not(.hamburger) {
@@ -57,10 +61,6 @@ nav {
     @media screen and (min-width: $containerWidth) {
       align-items: center;
     }
-  }
-
-  *:hover:not(.nav-banner) {
-    background-color: lighten($backgroundColourInverted, 5);
   }
 
   #languagebox {
