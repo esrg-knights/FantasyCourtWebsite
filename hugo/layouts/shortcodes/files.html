@@ -1,7 +1,0 @@
-{{ with  .Page.Resources.ByType "pdf" }}
-<ul>
-    {{ range .}}
-    <li><a href="{{ .Permalink}}">{{ .Title }}</a></li>
-    {{ end }}
-</ul>
-{{ end }}
