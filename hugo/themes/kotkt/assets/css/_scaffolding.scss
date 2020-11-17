@@ -1,8 +1,11 @@
 .header-image {
   border-bottom: 3px solid $borderColour;
+  // overflow: hidden;
   height: 150px;
+  width: 100%;
+  margin-top: $mobileNavbarHeight;
 
-  @media screen and (min-width: $mobileWidth) {
+  @media screen and (min-width: $containerWidth) {
     height: 350px;
     margin-top: $navbarHeight;
   }

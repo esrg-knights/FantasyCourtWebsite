@@ -1,11 +1,9 @@
-@media screen and (min-width: $mobileWidth) {
+.fancy-edge {
+    background-color: $contentColour;
+    position: relative;
 
-    .fancy-edge {
-        background-color: $contentColour;
-        position: relative;
-    }
-
-        .fancy-edge .content-side {
+    @media screen and (min-width: $containerWidth) {
+        .content-side {
             background-image: url(../images/fancy-edge.png);
             background-size: contain;
             background-repeat: repeat-y;
@@ -32,4 +30,5 @@
                 right: -$fancyEdgeWidth;
             }
         }
+    }
 }

@@ -1,6 +1,12 @@
-<nav>
+<nav id="xyz">
     <img class="nav-banner" src="/images/FC_vaandel.png" alt="Fantasy Court Banner"/>
 
+    <!-- Hamburger -->
+    <a href="javascript:void(0);" class="hamburger icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+    </a>
+
+    <!-- Navigation -->
     {{- $currentPage := . -}}
     {{ range .Site.Menus.main -}}
     <a href="{{ .URL | relLangURL }}"
@@ -9,11 +15,14 @@
 
     <p class="hide-on-mobile">|</p>
     
-    {{- $currentLanguage := .Lang -}}
-    {{ range .AllTranslations }}
-        <a href="{{ .RelPermalink }}"
-            class="{{ if (eq .Lang $currentLanguage) }}is-active{{end}}">
-                {{ default .Lang .Language.LanguageName }}
-        </a>
-    {{ end }}
+    <!-- Language Options -->
+    <div id="languagebox">
+        {{- $currentLanguage := .Lang -}}
+        {{ range .AllTranslations }}
+            <a href="{{ .RelPermalink }}"
+                class="{{ if (eq .Lang $currentLanguage) }}is-active{{end}}">
+                    {{ default .Lang .Language.LanguageName }}
+            </a>
+        {{ end }}
+    </div>
 </nav>
