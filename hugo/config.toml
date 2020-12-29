@@ -2,7 +2,7 @@ baseURL = "https://www.fantasycourt.nl"
 languageCode = "nl-nl"
 DefaultContentLanguage = "nl"
 title = "Fantasy Court Website"
-theme = "kotkt"
+theme = "fantasy-court"
 
 # We're not using taxonomies
 disableKinds = ["taxonomy", "term"]
