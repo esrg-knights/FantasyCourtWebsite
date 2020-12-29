@@ -2,7 +2,7 @@
 This repository contains the source code for the website of Fantasy Court.
 
 # Legacy Code
-The old code (pure HTML and CSS) is avaible under the `legacy/` folder.
+The old code (pure HTML and CSS) is available under the `legacy/` folder.
 
 # Hugo
 The new site utilises Hugo to make everything more maintainable. It can be found under the `hugo/` folder.

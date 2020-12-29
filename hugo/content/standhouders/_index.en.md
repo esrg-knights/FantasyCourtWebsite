@@ -11,17 +11,16 @@ header-image:
   _The market has a space for you, be present if you could_
 {{< /message >}}
 
-
-# Vendors Edition 2020
-With pain in our hearts, we unfortunately needed to cancel Fantasy Court 2020. The current nationwide regulations concerning COVID-19 are in place until (at least) the 1st of June, whilst Fantasy Court 2020 would be on the 7th of June.
-
-This is too short to organise a festival without acceptable human risk, financial risk, or study delays. We have considered moving the festival, but cannot find any good options offering enough security for a successful event, good weather, or time until Fantasy Court 2021.
-
-Due to this reason, we have decided to fully focus on the next edition around June 2021. We hope to see you then in good health.
-
 # Vendors Edition 2021
 In order to make Fantasy Court the best version it could be, we'd like to have people who can enrich the experience in whatever way possible. \
 We offer an enthousiastic public looking for ambience and specific affairs, because where else can you find a festival focussed on LARP and LARP-related affairs?
+
+# Vendors Edition 2020
+With pain in our hearts, we unfortunately needed to cancel Fantasy Court 2020. The nationwide regulations concerning COVID-19 at that time were in place until (at least) the 1st of June, whilst Fantasy Court 2020 would be on the 7th of June. Futhermore, even stricter regulations later on forbid all festivals in the Netherlands from taking place.
+
+This was too short to organise a festival without acceptable human risk, financial risk, or study delays. We had considered moving the festival, but could not find any good options offering enough security for a successful event, good weather, or time until Fantasy Court 2021.
+
+Due to this reason, we had decided to fully focus on the next edition around June 2021. We hope to see you all then in good health.
 
 ## Who are we looking for?
 We look for people, organisations or businesses that could offer the following:

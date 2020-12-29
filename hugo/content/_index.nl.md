@@ -33,9 +33,9 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
 {{< /aside >}}
 
 # Editie 2020, GEANNULEERD
-Het doet pijn in ons hart, maar helaas hebben wij moeten besluiten om Fantasy Court 2020 af te gelasten. De huidige landelijke maatregelen betreffende COVID-19 lopen minimaal tot 1 juni terwijl Fantasy Court op 7 juni zou vallen. 
+Het doet pijn in ons hart, maar helaas hebben wij moeten besluiten om Fantasy Court 2020 af te gelasten. De toenmalige landelijke maatregelen betreffende COVID-19 liepen minimaal tot 1 juni terwijl Fantasy Court op 7 juni zou vallen. Daarbij stonden strengere landelijke maatregelen die later ingingen het ook niet meer toe om in Nederland een festival te organiseren.
 
-Dit is voor ons te kort om zonder acceptabel menselijk risico, financieel risico of studievertraging een festival neer te zetten. We hebben overwogen het festival te verschuiven, maar zien daar geen goede opties die voldoende zekerheid voor een geslaagd evenement, goed weer of tijd tot Fantasy Court 2021 bieden. 
+De mogelijke tijd van 1 juni tot 7 juni was voor ons te kort om zonder acceptabel menselijk risico, financieel risico, of studievertraging een festival neer te zetten. We hadden overwogen het festival te verschuiven, maar zagen daar geen goede opties die voldoende zekerheid boden voor een geslaagd evenement, goed weer, of tijd tot Fantasy Court 2021. 
 
 Om deze reden hebben wij besloten ons te richten op de volgende editie rond juni 2021. We hopen jullie dan allemaal in goede gezondheid te mogen ontvangen.
 

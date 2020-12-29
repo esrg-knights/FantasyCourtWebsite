@@ -32,11 +32,11 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
 {{< /aside >}}
 
 # Edition 2020, CANCELLED
-With pain in our hearts, we unfortunately needed to cancel Fantasy Court 2020. The current nationwide regulations concerning COVID-19 are in place until (at least) the 1st of June, whilst Fantasy Court 2020 would be on the 7th of June.
+With pain in our hearts, we unfortunately needed to cancel Fantasy Court 2020. The nationwide regulations concerning COVID-19 at that time were in place until (at least) the 1st of June, whilst Fantasy Court 2020 would be on the 7th of June. Futhermore, even stricter regulations later on forbid all festivals in the Netherlands from taking place.
 
-This is too short to organise a festival without acceptable human risk, financial risk, or study delays. We have considered moving the festival, but cannot find any good options offering enough security for a successful event, good weather, or time until Fantasy Court 2021.
+This was too short to organise a festival without acceptable human risk, financial risk, or study delays. We had considered moving the festival, but could not find any good options offering enough security for a successful event, good weather, or time until Fantasy Court 2021.
 
-Due to this reason, we have decided to fully focus on the next edition around June 2021. We hope to see you all then in good health.
+Due to this reason, we had decided to fully focus on the next edition around June 2021. We hope to see you all then in good health.
 
 Want to keep up with development regarding Fantasy Court 2021? Then check our [Facebook Page](https://www.facebook.com/FantasyCourt/)! As per usual, you can also reach us via [e-mail](mailto:organisatie@fantasycourt.nl)!
 
