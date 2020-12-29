@@ -41,6 +41,10 @@ Om deze reden hebben wij besloten ons te richten op de volgende editie rond juni
 
 Wil je op de hoogte blijven van ontwikkelingen voor Fantasy Court 2021? Kijk dan op onze [Facebook Pagina](https://www.facebook.com/FantasyCourt/)! We blijven zoals gewoonlijk ook nog bereikbaar via [e-mail](mailto:organisatie@fantasycourt.nl)!
 
+## Video en Artikel Editie 2019
+{{< youtube id="fhyHCuGGCp8" title="Fantasy Court 2019" >}}
+De Cursor heeft een video gemaakt en een [artikel](https://www.cursor.tue.nl/en/news/2019/juni/week-1/its-not-the-size-of-the-sword-that-matters-my-boy) geschreven over Fantasy Court 2019. Het was vrij warm die dag, maar desondanks was het een geslaagde dag!
+
 # Editie 2019
 De meest recente editie van [Fantasy Court 2019](https://www.facebook.com/events/2583251595022623/) heeft plaats gevonden op 2 juni 2019 in de middag en namiddag, op het terrein van de Technische Universiteit Eindhoven. Om een succes te garanderen hadden we extra veel goed weer besteld. Helaas was het daardoor aan de warme kant. Dat mocht echter de pret niet drukken en met een extra laag zonnebrand is het uiteindelijk een mooie dag geweest vol prachtige verhalen, strijd en volop gezelligheid.
 
