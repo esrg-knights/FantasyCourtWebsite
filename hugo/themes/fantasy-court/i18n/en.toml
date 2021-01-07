@@ -1,0 +1,15 @@
+# Footer
+[footer_contact_information]
+other = "Contact information"
+[footer_business_information]
+other = "Business information"
+[footer_visiting_address]
+other = "Visiting address"
+[footer_postal_address]
+other = "Postal address"
+
+# 404
+[404_page_not_found]
+other = "Page Not Found"
+[404_description]
+other = "The page you were looking for could not be found. Do you want to go the <a href='/'>homepage</a>?"

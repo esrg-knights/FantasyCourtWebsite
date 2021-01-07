@@ -1,0 +1,82 @@
+nav {
+  z-index: 99;
+  width: 100%;
+  top: 0;
+  position: fixed;
+
+  background-color: $backgroundColourInverted;
+  display: flex;
+
+  flex-direction: column;
+  justify-content: flex-start;
+
+  a {
+    min-height: $mobileNavbarHeight;
+    padding: 0 10px;
+
+    &:hover {
+      background-color: lighten($backgroundColourInverted, 5);
+    }
+  }
+
+  a:not(.hamburger) {
+    display: none;
+  }
+
+  @media screen and (min-width: $containerWidth) {
+    // Non-mobile display
+    flex-direction: row;
+    justify-content: center;
+    height: $navbarHeight;
+
+    a:not(.hamburger) {
+      display: flex;
+    }
+
+    a.hamburger {
+      display: none;
+    }
+  }
+
+  .nav-banner {
+    z-index: inherit;
+    width: 80px;
+    position: absolute;
+    right: 5%;
+    
+    @media screen and (min-width: $containerWidth) {
+      width: 100px;
+      left: 5%;
+    }
+  }
+
+  * {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: larger;
+    color: $textColorInverted;
+    text-decoration: none;
+
+    @media screen and (min-width: $containerWidth) {
+      align-items: center;
+    }
+  }
+
+  #languagebox {
+    flex-direction: row;
+  }
+
+  .is-active {
+    background-color: lighten($backgroundColourInverted, 10);
+    border-bottom: 3px solid $borderColour;
+  }
+}
+
+/*
+  The "responsive" class is added to the topnav with JavaScript when the user clicks on the hamburger icon. 
+  This class makes the navigation visible on mobile devices (where it would otherwise be hidden)
+*/
+nav.responsive a {
+  display: flex;
+}

@@ -1,0 +1,41 @@
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: $bannerWidth;
+
+  img {
+    width: 100%;
+  }
+
+  .banner-content {
+    text-align: center;
+    background-color: #fff;
+
+    border-color: $bannerBorderColor;
+    border-width: 1px 3px 10px 3px;
+    border-style: solid;
+    padding: 20px 10px 30px 10px;
+    margin-top: -12px;
+  }
+    .banner-content > :first-child {
+      margin-top: 0px;
+    }
+
+    .banner-content > :last-child {
+      margin-bottom: 0px;
+    }
+
+    .banner-content h1 {
+      font-size: 2em;
+    }
+
+    .banner-content h2 {
+      font-size: 1.5em;
+    }
+
+    .banner-content figure {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+}

@@ -1,0 +1,9 @@
+.hide-on-mobile {
+  @media screen and (max-width: $containerWidth) {
+    display: none;
+  }
+}
+
+.no-margin {
+  margin: 0;
+}

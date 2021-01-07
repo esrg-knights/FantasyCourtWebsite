@@ -1,0 +1,15 @@
+# Footer
+[footer_contact_information]
+other = "Contactinformatie"
+[footer_business_information]
+other = "Zakelijke informatie"
+[footer_visiting_address]
+other = "Bezoekersadres"
+[footer_postal_address]
+other = "Postadres"
+
+# 404
+[404_page_not_found]
+other = "Pagina niet Gevonden"
+[404_description]
+other = "De pagina waar u naar zocht kon niet worden gevonden. Wilt u terug naar de <a href='/'>homepagina</a>?"

@@ -1,0 +1,12 @@
+name = "Fantasy Court"
+license = "MIT"
+licenselink = "https://github.com/esrg-knights/FantasyCourtWebsite/blob/hugo/hugo/themes/fantasy-court/LICENSE"
+description = "A hugo theme to accompany the Fantasy Court website."
+homepage = "https://fantasycourt.nl"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+name = "UUPS Ultraviolet Programmer Squad"
+homepage = "https://github.com/esrg-knights"

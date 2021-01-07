@@ -1,0 +1,29 @@
+.header-image {
+  border-bottom: 3px solid $borderColour;
+  // overflow: hidden;
+  height: 150px;
+  width: 100%;
+  margin-top: $mobileNavbarHeight;
+
+  @media screen and (min-width: $containerWidth) {
+    height: 350px;
+    margin-top: $navbarHeight;
+  }
+}
+
+.content {
+  padding-left: $mobileContainerPadding;
+  padding-right: $mobileContainerPadding;
+
+  @media screen and (min-width: $mobileWidth) {
+    padding-left: $containerPadding;
+    padding-right: $containerPadding;
+  }
+  padding-top: $containerPadding/2;
+  padding-bottom: $containerPadding/2;
+
+  overflow-wrap: anywhere;
+  word-wrap: break-word;
+  max-width: $containerWidth;
+  margin: auto;
+}

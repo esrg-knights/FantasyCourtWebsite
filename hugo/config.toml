@@ -1,0 +1,86 @@
+baseURL = "https://www.fantasycourt.nl"
+languageCode = "nl-nl"
+DefaultContentLanguage = "nl"
+title = "Fantasy Court Website"
+theme = "fantasy-court"
+
+# We're not using taxonomies
+disableKinds = ["taxonomy", "term"]
+
+# Default image that shows up at the top of pages
+[params.header-image]
+url = "/images/FC_tournament.jpg"
+alt = "Fantasy Court Swordfighting Tournament"
+position-x = "50%"
+position-y = "30%"
+
+
+[languages]
+[languages.nl]
+name = "Nederlands"
+title = "Fantasy Court"
+weight = 1
+
+[[languages.nl.menu.main]]
+identifier = "visitors"
+title = "Bezoekers"
+url = "/"
+weight = 2
+
+[[languages.nl.menu.main]]
+identifier = "vendors"
+title = "Standhouders"
+url = "/standhouders/"
+weight = 3
+
+# [[languages.nl.menu.main]]
+# identifier = "tourney"
+# title = "Toernooiregels"
+# url = "/toernooiregels/"
+# weight = 4
+
+[languages.en]
+name = "English"
+title = "Fantasy Court"
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = "visitors"
+title = "Visitors"
+url = "/"
+weight = 2
+
+[[languages.en.menu.main]]
+identifier = "vendors"
+title = "Vendors and Acts"
+url = "/standhouders/"
+weight = 3
+
+# [[languages.en.menu.main]]
+# identifier = "tourney"
+# title = "Tourney Rules"
+# url = "/toernooiregels/"
+# weight = 4
+
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true

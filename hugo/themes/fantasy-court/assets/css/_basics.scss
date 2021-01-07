@@ -1,0 +1,42 @@
+// Sets up the basics of the website such as fonts and colors
+
+body, html {
+  font-family: 'Book Antiqua', sans-serif;
+  background-color: $backgroundColour;
+  color: $textColor;
+  margin: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+ 
+body {
+  background-image: url('../images/paperback.jpg');
+  background-position: center;
+  background-attachment: fixed;
+}
+
+h1, h2, a, .dropdown {
+  font-family: 'Old London', 'IM Fell French Canon SC', serif;
+}
+
+h1 {
+  margin-bottom: 0px;
+  @media screen and (min-width: $mobileWidth) {
+    font-size: 2.75em;
+  }
+}
+
+h2 {
+  margin-bottom: 0px;
+  @media screen and (min-width: $mobileWidth) {
+    font-size: 2em;
+  }
+}
+
+ul {
+  margin-top: -20px;
+}
