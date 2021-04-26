@@ -14,7 +14,16 @@ alt = "Fantasy Court Swordfighting Tournament"
 position-x = "50%"
 position-y = "30%"
 
+# Open Graph
+[params.og]
+locale = 'nl_NL' # Hugo's languageCode is in a different format and is not supported by OG
+site-name = "Fantasy Court"
+title = "Fantasy Court"
+description = "Fantasy Court is een fantasy festival dat zich focust op de unieke en niche cultuur rondom fantasy-evenementen en LARP (Live Action Roleplay)."
+image = "/images/icons/Fantasy Court - Logo.png"
+image-alt = "Fantasy Court Logo"
 
+# Languages
 [languages]
 [languages.nl]
 name = "Nederlands"
@@ -43,6 +52,21 @@ weight = 3
 name = "English"
 title = "Fantasy Court"
 weight = 1
+languageCode = "en-gb"
+
+[languages.en.og]
+locale = "en_GB"
+description = "Fantasy Court is a fantasy festival that is focused on the somewhat unique and niche culture that surrounds fantasy events and LARP (Live Action Role Playing)."
+# copy of above
+  # If this is omitted, then hugo uses the empty string for these values.
+  # The docs indicate it should just use the top-level params, but those values aren't
+  #   even avaible in $.Site.Parms in the first place... WHY!?
+  site-name = "Fantasy Court"
+  title = "Fantasy Court"
+  image = "/images/icons/Fantasy Court - Logo.png"
+  image-alt = "Fantasy Court Logo"
+# end copy
+
 
 [[languages.en.menu.main]]
 identifier = "visitors"

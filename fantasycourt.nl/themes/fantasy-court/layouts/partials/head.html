@@ -26,4 +26,20 @@
             }
         }
     </script>
+
+    <!-- Open Graph (for link previews in Discord, Telegram, etc.) -->
+    <meta property="og:title" content='{{ .Param "og.title" }}' />
+    <meta property="og:description" content='{{ .Param "og.description" }}' />
+    <meta property="og:image" content='{{ .Site.BaseURL }}{{ .Param "og.image" }}' />
+    <meta property="og:image:alt" content='{{ .Param "og.image-alt" }}' />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ .Site.BaseURL }}" />
+    <meta property="og:locale" content='{{ .Param "og.locale" }}' />
+    {{ range .AllTranslations }}
+        <!-- List all language codes except the currently selected language -->
+        {{ if (ne (.Param "og.locale") ($.Param "og.locale") ) }}
+            <meta property="og:locale:alternate" content='{{ .Param "og.locale" }}' />
+        {{end}}
+    {{ end }}
 </head>
