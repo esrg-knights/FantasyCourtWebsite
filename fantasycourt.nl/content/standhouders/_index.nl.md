@@ -5,7 +5,7 @@ header-image:
   position-x: 50%
   position-y: 50%
 og:
-  description: "Om Fantasy Court de beste versie ooit te kunnen geven zijn we op zoek naar mensen die de ervaring op hun eigen manier kunnen verrijken. Stanhouders, acts, workshops, demo's, LARP-verenigngen, of iets anders dat past!"
+  description: "Om Fantasy Court de beste versie ooit te kunnen geven zijn we op zoek naar mensen die de ervaring op hun eigen manier kunnen verrijken. Standhouders, acts, workshops, demo's, LARP-verenigingen, of iets anders dat past!"
 ---
 
 {{< message >}}
