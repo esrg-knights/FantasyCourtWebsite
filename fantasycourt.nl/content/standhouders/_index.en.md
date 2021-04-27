@@ -4,6 +4,8 @@ header-image:
   url: images/FC_crew.jpg
   position-x: 50%
   position-y: 50%
+og:
+  description: "In order to make Fantasy Court the best version it could be, we are looking for people who can enrich the experience in their own way. Vendors, acts, workshops, demos, LARP associations, or anything else that fits!"
 ---
 
 {{< message >}}
@@ -53,12 +55,12 @@ Edible products or drinks such as sandwiches, sweet snacks or medieval beverages
 {{< \small >}}
 
 Do you have anything that could fit our festival and got questions? Please do contact us via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl) or go to our [Facebook Page](https://www.facebook.com/FantasyCourt/). We'd love to know if you could contribute to our wonderful festival!
-            
+
 <!---
 The subscription for vendors will open soon! Are you already exited to join as a standholder? Sign up via [this](https://goo.gl/forms/iPVDBuA1ef0gqhN63) Goole Form.
 
 -->
-            
+
 ## Practical information
 Fantasy Court 2021 will take place around June 2021 on one of the grass fields on the campus of the Technical Univerisity of Eindhoven. Further information on the exact times will be announced later, though we intend to entertain through most of the afternoon till the early evening.
 
@@ -67,7 +69,7 @@ Compensation for performances and acts can be negotiated with the organisation.
 
 
 {{< message margin-top="80px" margin-bottom="100px">}}
-_See you at the court!_  
+_See you at the court!_
 {{< /message >}}
 
 ## Sponsors
