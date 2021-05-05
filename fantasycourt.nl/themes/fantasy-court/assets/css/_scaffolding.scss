@@ -13,11 +13,9 @@
   background-repeat: no-repeat;
 
   height: 150px;
-  margin-top: $mobileNavbarHeight;
 
   @media screen and (min-width: $containerWidth) {
     height: 350px;
-    margin-top: $navbarHeight;
   }
 }
 
