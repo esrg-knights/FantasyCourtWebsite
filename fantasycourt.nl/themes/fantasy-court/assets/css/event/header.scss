@@ -1,0 +1,20 @@
+
+.header-event {
+    @extend .header-image;
+
+    height: 500px;
+
+    // display: grid;
+    // grid-auto-rows: minmax(50px, auto);
+    // grid-template-columns: repeat(25, 10%);
+    // -ms-grid-columns: repeat(25, 10%);
+}
+
+.stand-category {
+    padding: 50px;
+    text-align: center;
+    border: 3px solid red;
+    background-color: rgba(255, 101, 186, 0.16);
+    min-width: 200px;
+    min-height: 50px;
+}

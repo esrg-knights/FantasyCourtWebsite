@@ -1,8 +1,18 @@
-.header-image {
+.header-element {
   border-bottom: 3px solid $borderColour;
-  // overflow: hidden;
-  height: 150px;
   width: 100%;
+}
+
+.header-image {
+  @extend .header-element;
+
+  overflow: hidden;
+
+  background-size: cover;
+  background-origin: content-box;
+  background-repeat: no-repeat;
+
+  height: 150px;
   margin-top: $mobileNavbarHeight;
 
   @media screen and (min-width: $containerWidth) {

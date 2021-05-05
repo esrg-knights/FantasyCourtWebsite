@@ -2,9 +2,11 @@
 <html>
     {{- partial "head.html" . -}}
     <body>
-        {{- partial "navbar.html" . -}}
+        {{- block "navbar" . }}
+            {{- partial "navbar.html" . -}}
+        {{- end }}
 
-        {{- block "header-image" . }}
+        {{- block "header-element" . }}
             {{- partial "header-image.html" . -}}
         {{- end }}
 

@@ -1,0 +1,22 @@
+{{ define "navbar" }}
+    <!-- Get rid of the navbar -->
+{{ end }}
+
+{{ define "header-element" }}
+    <!-- Get rid of the header image, and replace it by the stand-category urls -->
+    <div class="header-event" style='
+        background-image: url({{ $.Param "header-image.url" }});
+        background-position: {{ $.Param "header-image.position-x" }} {{ $.Param "header-image.position-y" }};
+        ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
+
+        {{ range .Param "header-event.stand-categories" }}
+            {{- partial "event/stand-category.html" . -}}
+        {{ end }}
+    </div>
+{{ end }}
+
+{{ define "main" }}
+    {{ .Params }}
+    {{ .Content }}
+{{ end }}
+
