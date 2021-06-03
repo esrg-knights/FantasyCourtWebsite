@@ -7,15 +7,15 @@ header-image:
   position-y: 50%
 header-event:
     stand-categories:
-        - name: Food
+        - name: Perenwinkel
           position-x: 60%
           position-y: 10px
           width: 300px
           height: 480px
           image: /images/event/pear_food.png
           image-alt: Nom nom
-          url: /standhouders
-        - name: Accessories
+          url: event-2021/pluchies/kevinpunten
+        - name: Kevinpunten webshop
           position-x: 10%
           position-y: 20px
           width: 300px
@@ -23,14 +23,14 @@ header-event:
           image: /images/event/pear_accesory.png
           image-alt: Apple
           url: https://kevinpunten.jimdofree.com/kevinpunten-shop/
-        - name: Pluchies
+        - name: PluchieCeption
           position-x: 20%
           position-y: 280px
           width: 350px
           height: 200px
           image: /images/event/pear_pluchie.png
           image-alt: cuteposting
-          url: event-2021/pluchies
+          url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ---
 
 
