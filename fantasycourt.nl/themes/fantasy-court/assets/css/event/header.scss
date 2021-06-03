@@ -1,0 +1,40 @@
+
+.header-event {
+    @extend .header-image;
+
+    height: 500px;
+}
+
+.stand-category {
+    position: absolute;
+    padding: 5px;
+    text-align: center;
+    border: 4px solid $borderColour;
+    background-color: #fff9;
+    // background-color: rgba(187, 158, 64, 0.411);
+    display: flex;
+    flex-direction: column;
+
+    h2 {
+        margin-top: 0px;
+    }
+
+    .category-image {
+        flex-grow: 1; /* Fill remaining vertical space */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: contain; /* Resize the background image to keep it within the container */
+    }
+
+    img {
+        max-height: 100%;
+        max-width: 100%;
+        padding-left: 25px;
+        padding-right: 25px;
+        object-fit: contain;
+    }
+
+    // Remove standard link colour and underline
+    color: $textColor;
+    text-decoration: none;
+}

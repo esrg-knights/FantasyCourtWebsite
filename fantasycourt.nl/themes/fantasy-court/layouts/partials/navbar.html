@@ -1,28 +1,31 @@
-<nav id="navbar">
-    <img class="nav-banner" src="/images/FC_vaandel.png" alt="Fantasy Court Banner"/>
+<div id="nav">
+    <div id="nav-offset"></div>
+    <nav id="nav-bar">
+        <img class="nav-banner" src="/images/FC_vaandel.png" alt="Fantasy Court Banner"/>
 
-    <!-- Hamburger -->
-    <a href="javascript:void(0);" aria-label="Toggle Navigation" class="hamburger icon" onclick="toggleNavigation()">
-        <i class="fa fa-bars"></i>
-    </a>
+        <!-- Hamburger -->
+        <a href="javascript:void(0);" aria-label="Toggle Navigation" class="hamburger icon" onclick="toggleNavigation()">
+            <i class="fa fa-bars"></i>
+        </a>
 
-    <!-- Navigation -->
-    {{- $currentPage := . -}}
-    {{ range .Site.Menus.main -}}
-    <a href="{{ .URL | relLangURL }}"
-       class='{{ if (eq $currentPage.RelPermalink (.URL | relLangURL)) }}is-active{{end}}'>{{.Title}}</a>    
-    {{- end }}
+        <!-- Navigation -->
+        {{- $currentPage := . -}}
+        {{ range .Site.Menus.main -}}
+        <a href="{{ .URL | relLangURL }}"
+        class='{{ if (eq $currentPage.RelPermalink (.URL | relLangURL)) }}is-active{{end}}'>{{.Title}}</a>
+        {{- end }}
 
-    <p class="hide-on-mobile">|</p>
-    
-    <!-- Language Options -->
-    <div id="languagebox">
-        {{- $currentLanguage := .Lang -}}
-        {{ range .AllTranslations }}
-            <a href="{{ .RelPermalink }}"
-                class="{{ if (eq .Lang $currentLanguage) }}is-active{{end}}">
-                    {{ default .Lang .Language.LanguageName }}
-            </a>
-        {{ end }}
-    </div>
-</nav>
+        <p class="hide-on-mobile">|</p>
+
+        <!-- Language Options -->
+        <div id="languagebox">
+            {{- $currentLanguage := .Lang -}}
+            {{ range .AllTranslations }}
+                <a href="{{ .RelPermalink }}"
+                    class="{{ if (eq .Lang $currentLanguage) }}is-active{{end}}">
+                        {{ default .Lang .Language.LanguageName }}
+                </a>
+            {{ end }}
+        </div>
+    </nav>
+</div>

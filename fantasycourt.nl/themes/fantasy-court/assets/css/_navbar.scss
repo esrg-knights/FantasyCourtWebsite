@@ -1,3 +1,11 @@
+#nav-offset {
+  margin-top: $mobileNavbarHeight;
+
+  @media screen and (min-width: $containerWidth) {
+    margin-top: $navbarHeight;
+  }
+}
+
 nav {
   z-index: 99;
   width: 100%;
@@ -43,7 +51,7 @@ nav {
     width: 80px;
     position: absolute;
     right: 5%;
-    
+
     @media screen and (min-width: $containerWidth) {
       width: 100px;
       left: 5%;
@@ -74,7 +82,7 @@ nav {
 }
 
 /*
-  The "responsive" class is added to the topnav with JavaScript when the user clicks on the hamburger icon. 
+  The "responsive" class is added to the topnav with JavaScript when the user clicks on the hamburger icon.
   This class makes the navigation visible on mobile devices (where it would otherwise be hidden)
 */
 nav.responsive a {

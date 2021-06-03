@@ -1,0 +1,62 @@
+// Generated at: https://projects.verou.me/bubbly/
+// Partially edited after that
+.speech-bubble {
+	position: relative;
+	background: #00aabb;
+	border-radius: .4em;
+}
+
+.speech-bubble:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	width: 0;
+	height: 0;
+	border: 50px solid transparent;
+	border-top-color: inherit; // EDITED
+	border-bottom: 0;
+	border-right: 0;
+	margin-left: -50px; // EDITED
+	margin-bottom: -50px;
+}
+
+///////////////////////////////////////////////////////////////
+
+.factoid {
+    width: $factoidWidth;
+
+    .factoid-remy {
+        height: 200px;
+        width: auto;
+        margin-top: 20px;
+        margin-left: calc(50% + 10px);
+    }
+
+    .factoid-content {
+        @extend .speech-bubble;
+        text-align: center;
+        background-color: #fff;
+
+        border-color: $factoidBorderColor;
+        border-width: 1px 3px 3px 3px;
+        border-style: solid;
+        padding: 10px 10px 10px 10px;
+
+        > :first-child {
+            margin-top: 0px;
+        }
+
+        > :last-child {
+            margin-bottom: 0px;
+        }
+
+        h1 {
+            font-size: 2em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+        }
+    }
+}
