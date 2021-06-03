@@ -49,7 +49,7 @@ weight = 3
 # weight = 4
 
 [[languages.nl.menu.main]]
-identifier = "test"
+identifier = "event/2021/home"
 title = "TIJDELIJKE EVENT LINK"
 url = "/event-2021/"
 weight = 5
