@@ -1,7 +1,17 @@
 // Sets up the basics of the website such as fonts and colors
 
+@font-face {
+  font-family: 'BlackChancery';
+  src: url(/fonts/BLKCHCRY.TTF);
+}
+
+@font-face {
+  font-family: 'Old London';
+  src: url(/fonts/OLDLONDON.TTF);
+}
+
 body, html {
-  font-family: 'Book Antiqua', sans-serif;
+  font-family: 'Book Antiqua', 'sans-serif';
   background-color: $backgroundColour;
   color: $textColor;
   margin: 0;
@@ -12,7 +22,7 @@ body, html {
 * {
   box-sizing: border-box;
 }
- 
+
 body {
   background-image: url('../images/paperback.jpg');
   background-position: center;
@@ -20,7 +30,7 @@ body {
 }
 
 h1, h2, a, .dropdown {
-  font-family: 'Old London', 'IM Fell French Canon SC', serif;
+  font-family: 'BlackChancery', 'serif';
 }
 
 h1 {
