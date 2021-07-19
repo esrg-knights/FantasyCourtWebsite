@@ -1,5 +1,6 @@
 ---
-layout: event # Render using section/event.html
+type: event
+layout: event # Render using event/event.html
 title: Event 2021
 header-image:
   url: images/event/placeholder_map.jpg
