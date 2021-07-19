@@ -2,6 +2,81 @@
     <!-- Get rid of the navbar -->
 {{ end }}
 
+{{ define "header-element" }}
+    <!-- Get rid of the header image, and replace it by the stand-category urls -->
+    <div class="header-stand" style='
+        background-image: url({{ $.Param "header-image.url" }});
+        background-position: {{ $.Param "header-image.position-x" }} {{ $.Param "header-image.position-y" }};
+        ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
+
+        {{ with .CurrentSection }}
+          <div id="stand-siblings" class="container">
+            <div class="row">
+              <div class="col-sm">
+                <!-- Back to Category Page -->
+                <div class="stand-category-v2">
+                  <a class="" href="{{ .Permalink }}">
+                      {{ with .Resources.GetMatch "preview"}}
+                        <img class='category-image' alt='{{ .Title }}'
+                                src="{{ .Permalink }}"/>
+                      {{ end }}
+                      <p><span class="back-btn" aria-hidden="true"></span> Terug naar {{ .Title }}</p>
+                  </a>
+                </div>
+              </div>
+              <div class="col-sm">
+                {{ with $.Site.GetPage "event-2021" }}
+                  <!-- Back to Event Homepage -->
+                  <div class="stand-category-v2">
+                    <a class="" href='{{ .Permalink }}'>
+                        {{ with .Resources.GetMatch "preview"}}
+                          <img class='category-image' alt='{{ .Title }}'
+                                  src="{{ .Permalink }}"/>
+                        {{ end }}
+                        <p><span class="back-btn" aria-hidden="true"></span> Terug naar {{ .Title }}</p>
+                    </a>
+                  </div>
+                {{ end }}
+              </div>
+            </div>
+            <div id="stand-category-title" class="row">
+              <h3>Meer {{ .Title }}</h3>
+            </div>
+            <div class="row">
+              <ul class=" col-sm">
+                <!-- Calculate the number of items that fit in each of the three rows -->
+                {{ $numItemsPerColumn := math.Ceil (div (len .Pages) 3.0) }}
+                {{ range $i, $e := .Pages }}
+                  <!-- if (i != 0) and (i % NumItemsPerColumn) == 0 -->
+                  {{ if and (ne $i 0) (modBool $i $numItemsPerColumn) }}
+                    </ul>
+                    <ul class=" col-sm">
+                  {{ end }}
+                  <li class="stand-element">
+                    {{- partial "event/stand-item.html" (dict "context" . "disabled" (eq .Permalink $.Permalink)) -}}
+                    {{ if false }}
+                            {{ if and false (eq .Permalink $.Permalink) }}
+                              <a class="btn btn-secondary disabled">
+                                {{ .Title }}
+                              </a>
+                            {{ else }}
+                              <a class="btn btn-light" href="{{ .Permalink }}">
+                                {{ with .Resources.GetMatch "preview"}}
+                                  <img src='{{ .Permalink }}' alt="{{ .Title }}">
+                                {{ end }}
+                                <span class="title">{{ .Title }}</span>
+                              </a>
+                            {{ end }}
+                    {{ end}}
+                  </li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+        {{ end }}
+    </div>
+{{ end }}
+
 {{ define "main" }}
   <!-- Carousel for certain set of images -->
   {{ with .Page.Resources.Match "carousel/*" }}

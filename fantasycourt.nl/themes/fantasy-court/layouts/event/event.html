@@ -16,6 +16,10 @@
 {{ end }}
 
 {{ define "main" }}
+{{ range .Pages }}
+<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+
     {{ .Content }}
 {{ end }}
 

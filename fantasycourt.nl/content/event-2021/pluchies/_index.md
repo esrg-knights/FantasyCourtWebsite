@@ -1,7 +1,7 @@
 ---
 type: event
 layout: event # Render using event/event.html
-title: Event 2021
+title: Pluchies
 header-image:
   url: images/event/placeholder_map.jpg
   position-x: 50%
@@ -32,6 +32,10 @@ header-event:
           image: /images/event/pear_pluchie.png
           image-alt: cuteposting
           url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+resources:
+  - src: "pear_pluchie.png" # Preview image used on overview pages
+    name: "preview" # Specific name required
+    title: "Pear Pluchie"
 ---
 
 

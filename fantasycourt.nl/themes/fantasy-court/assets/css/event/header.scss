@@ -1,3 +1,57 @@
+.header-stand {
+    @extend .header-image;
+
+    height: initial;
+
+    #stand-siblings {
+        height: 100%;
+        padding: 20px 0px 5px 0px;
+
+        .stand-element {
+            list-style: none;
+            margin: 10px 0px;
+
+            > .btn {
+                width: 100%;
+                text-align: start;
+            }
+
+            > .btn-light {
+                background-color: $contentColour;
+                border-color: $borderColour;
+                color: $textColor;
+
+                &:hover {
+                    background-color: darken($contentColour, 15%);
+                }
+            }
+
+            > .btn-secondary {
+                pointer-events: none;
+                opacity: 0.85;
+            }
+
+            img {
+                height: 60px;
+                width: 60px;
+                object-fit: contain;
+                margin-right: 10px;
+            }
+
+            .title {
+                font-weight: bold;
+                font-size: x-large;
+                vertical-align: middle;
+            }
+        }
+
+        #stand-category-title {
+            margin-top: 10px;
+            font-size: x-large;
+            vertical-align: middle;
+        }
+    }
+}
 
 .header-event {
     @extend .header-image;
@@ -37,4 +91,40 @@
     // Remove standard link colour and underline
     color: $textColor;
     text-decoration: none;
+}
+
+.stand-category-v2 {
+    width: 400px;
+    margin: 0px auto;
+
+    padding: 15px 5px;
+    border-radius: .25rem;
+    text-align: center;
+    border: 4px solid $borderColour;
+    background-color: $contentColour;
+    color: $textColor;
+
+    &:hover {
+        background-color: darken($contentColour, 15%);
+    }
+
+    p {
+        margin-bottom: 0px;
+        font-weight: bold;
+        font-size: large;
+    }
+
+    img {
+        width: 100%;
+        height: 200px;
+        padding-left: 25px;
+        padding-right: 25px;
+        object-fit: contain;
+    }
+
+    a {
+        // Remove standard link colour and underline
+        color: $textColor;
+        text-decoration: none;
+    }
 }

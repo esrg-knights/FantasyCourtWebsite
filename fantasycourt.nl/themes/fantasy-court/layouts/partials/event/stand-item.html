@@ -1,0 +1,16 @@
+{{ with .context }}
+<a
+    {{ if $.disabled -}}
+        class="btn btn-secondary"
+    {{ else }}
+        class="btn btn-light"
+        href="{{ .Permalink }}"
+    {{ end -}}
+    >
+
+    {{ with .Resources.GetMatch "preview"}}
+        <img src='{{ .Permalink }}' alt="{{ .Title }}">
+    {{ end }}
+    <span class="title">{{ .Title }}</span>
+</a>
+{{ end }}

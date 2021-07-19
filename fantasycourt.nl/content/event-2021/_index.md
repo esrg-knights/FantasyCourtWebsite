@@ -1,5 +1,6 @@
 ---
-layout: event # Render using section/event.html
+type: event
+layout: event # Render using event/event.html
 title: Event 2021
 header-image:
   url: images/event/placeholder_map.jpg
@@ -31,6 +32,10 @@ header-event:
           image: /images/event/pear_pluchie.png
           image-alt: cuteposting
           url: event-2021/pluchies
+resources:
+  - src: "FC_Logo.png"
+    name: "preview"
+    title: "Fantasy Court Logo"
 ---
 
 
