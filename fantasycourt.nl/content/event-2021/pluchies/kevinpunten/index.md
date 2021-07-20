@@ -9,6 +9,11 @@ resources:
   - src: "pear_food.png" # Preview image used on overview pages
     name: "preview" # Specific name required
     title: "pear TODO"
+    params:
+      categoryWidth: 15%
+      categoryHeight: 100px
+      categoryX: 100px
+      categoryY: 150px
   - src: "derpachu-v2.jpg"
     name: "the_real_derpachu" # Override a name to reference in the Markdown below. NB: Do not modify Carousel-item names
     title: "The cooler Derpachu"

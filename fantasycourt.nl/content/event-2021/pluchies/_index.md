@@ -1,52 +1,30 @@
 ---
-type: event
-layout: event # Render using event/event.html
+type: event # Render using event/list.html
 title: Pluchies
 header-image:
   url: images/event/placeholder_map.jpg
   position-x: 50%
   position-y: 50%
-header-event:
-    stand-categories:
-        - name: Perenwinkel
-          position-x: 60%
-          position-y: 10px
-          width: 300px
-          height: 480px
-          image: /images/event/pear_food.png
-          image-alt: Nom nom
-          url: event-2021/pluchies/kevinpunten
-        - name: Kevinpunten webshop
-          position-x: 10%
-          position-y: 20px
-          width: 300px
-          height: 200px
-          image: /images/event/pear_accesory.png
-          image-alt: Apple
-          url: https://kevinpunten.jimdofree.com/kevinpunten-shop/
-        - name: PluchieCeption
-          position-x: 20%
-          position-y: 280px
-          width: 350px
-          height: 200px
-          image: /images/event/pear_pluchie.png
-          image-alt: cuteposting
-          url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 resources:
   - src: "pear_pluchie.png" # Preview image used on overview pages
     name: "preview" # Specific name required
     title: "Pear Pluchie"
+    params:
+      categoryWidth: 20%
+      categoryHeight: 100px
+      categoryX: 300px
+      categoryY: 200px
 ---
 
 
 
 
-# Fantasy Court 2021
-Klik op een van de bovenstaande categoriën om over het digitale festival heen te lopen.
+# Pluchies
+Kijk naar deze coole pagina over pluchies!
 
 {{< aside >}}
     {{< factoid >}}
-        Hoi ik ben Remy! Wist je dat tomaten rood zijn?
+        Hoi ik ben Remy! Wist je dat Sir Bearington de pluchie-dictator van FC is?
     {{< /factoid >}}
 {{< /aside >}}
 

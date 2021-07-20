@@ -14,10 +14,10 @@
             <div class="row">
               <div class="col-sm">
                 <!-- Back to Category Page -->
-                <div class="stand-category-v2">
+                <div class="stand-category-v2-fixed">
                   <a class="" href="{{ .Permalink }}">
                       {{ with .Resources.GetMatch "preview"}}
-                        <img class='category-image' alt='{{ .Title }}'
+                        <img alt="{{ .Title }}"
                                 src="{{ .Permalink }}"/>
                       {{ end }}
                       <p><span class="back-btn" aria-hidden="true"></span> Terug naar {{ .Title }}</p>
@@ -27,10 +27,10 @@
               <div class="col-sm">
                 {{ with $.Site.GetPage "event-2021" }}
                   <!-- Back to Event Homepage -->
-                  <div class="stand-category-v2">
+                  <div class="stand-category-v2-fixed">
                     <a class="" href='{{ .Permalink }}'>
                         {{ with .Resources.GetMatch "preview"}}
-                          <img class='category-image' alt='{{ .Title }}'
+                          <img alt="{{ .Title }}"
                                   src="{{ .Permalink }}"/>
                         {{ end }}
                         <p><span class="back-btn" aria-hidden="true"></span> Terug naar {{ .Title }}</p>
@@ -54,20 +54,6 @@
                   {{ end }}
                   <li class="stand-element">
                     {{- partial "event/stand-item.html" (dict "context" . "disabled" (eq .Permalink $.Permalink)) -}}
-                    {{ if false }}
-                            {{ if and false (eq .Permalink $.Permalink) }}
-                              <a class="btn btn-secondary disabled">
-                                {{ .Title }}
-                              </a>
-                            {{ else }}
-                              <a class="btn btn-light" href="{{ .Permalink }}">
-                                {{ with .Resources.GetMatch "preview"}}
-                                  <img src='{{ .Permalink }}' alt="{{ .Title }}">
-                                {{ end }}
-                                <span class="title">{{ .Title }}</span>
-                              </a>
-                            {{ end }}
-                    {{ end}}
                   </li>
                 {{ end }}
               </ul>

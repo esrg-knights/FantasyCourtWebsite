@@ -1,41 +1,19 @@
 ---
-type: event
-layout: event # Render using event/event.html
+type: event # Render using event/list.html
 title: Event 2021
 header-image:
   url: images/event/placeholder_map.jpg
   position-x: 50%
   position-y: 50%
-header-event:
-    stand-categories:
-        - name: Food
-          position-x: 60%
-          position-y: 10px
-          width: 300px
-          height: 480px
-          image: /images/event/pear_food.png
-          image-alt: Nom nom
-          url: /standhouders
-        - name: Accessories
-          position-x: 10%
-          position-y: 20px
-          width: 300px
-          height: 200px
-          image: /images/event/pear_accesory.png
-          image-alt: Apple
-          url: https://kevinpunten.jimdofree.com/kevinpunten-shop/
-        - name: Pluchies
-          position-x: 20%
-          position-y: 280px
-          width: 350px
-          height: 200px
-          image: /images/event/pear_pluchie.png
-          image-alt: cuteposting
-          url: event-2021/pluchies
 resources:
   - src: "FC_Logo.png"
     name: "preview"
     title: "Fantasy Court Logo"
+    params:
+      categoryWidth: 10%
+      categoryHeight: 20px
+      categoryX: 300px
+      categoryY: 200px
 ---
 
 

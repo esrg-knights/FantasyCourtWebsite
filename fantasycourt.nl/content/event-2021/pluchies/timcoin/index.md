@@ -9,6 +9,11 @@ resources:
   - src: "naru-happy-2.png" # Preview image used on overview pages
     name: "preview" # Specific name required
     title: "TODO"
+    params:
+      categoryWidth: 20%
+      categoryHeight: 200px
+      categoryX: 25%
+      categoryY: 200px
   - src: "carousel/*"
     name: "carousel/carousel-item-:counter"
     title: "Sliding Stand Image :counter" # Every carousel image without an alt-text gets a special name

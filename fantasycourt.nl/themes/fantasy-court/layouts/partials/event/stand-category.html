@@ -1,12 +1,15 @@
-<a class="stand-category" href="{{ .url }}" style='
-    left: {{ index . "position-x" }};
-    top: {{ index . "position-y" }};
-    width: {{ index . "width" }};
-    height: {{ index . "height" }};
-        '>
-    <h2>{{ .name }}</h2>
-    <div class='category-image' role="img" aria-label='{{ index . "image-alt" }}' title='{{ index . "image-alt" }}'
-            style="background-image: url({{ .image }});" >
-            <!-- Do not add any elements in here -->
-    </div>
-</a>
+{{ with .Resources.GetMatch "preview"}}
+<div class="stand-category-v2-free" style="
+    left: calc({{ .Params.categoryX }});
+    top: {{ .Params.categoryY }};
+    width: {{ .Params.categoryWidth }};
+        ">
+    <a class="" href="{{ $.Permalink }}">
+        <img src="{{ .Permalink }}" alt="{{ .Title }}" style="
+        height: {{ .Params.categoryHeight }};
+            ">
+        <span class="title">{{ $.Title }}</span>
+    </a>
+</div>
+{{ end }}
+

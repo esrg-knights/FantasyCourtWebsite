@@ -1,0 +1,51 @@
+{{ define "navbar" }}
+    <!-- Get rid of the navbar -->
+{{ end }}
+
+{{ define "header-element" }}
+    <!-- Get rid of the header image, and replace it by the stand-category urls -->
+    <div class="header-event-category" style='
+        background-image: url({{ $.Param "header-image.url" }});
+        background-position: {{ $.Param "header-image.position-x" }} {{ $.Param "header-image.position-y" }};
+        ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
+
+        {{ with .CurrentSection }}
+          <div id="stand-siblings" class="container">
+            <div class="row">
+              <div class="col-sm">
+                <!-- Category Name -->
+                <div id="stand-category-title">
+                  <h1>{{ .Title }}</h1>
+                </div>
+              </div>
+              <div class="col-sm">
+                {{ with $.Site.GetPage "event-2021" }}
+                  <!-- Back to Event Homepage -->
+                  <div class="stand-category-v2-fixed">
+                    <a class="" href='{{ .Permalink }}'>
+                        {{ with .Resources.GetMatch "preview"}}
+                          <img class='category-image' alt='{{ .Title }}'
+                                  src="{{ .Permalink }}"/>
+                        {{ end }}
+                        <p><span class="back-btn" aria-hidden="true"></span> Terug naar {{ .Title }}</p>
+                    </a>
+                  </div>
+                {{ end }}
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm">
+                {{ range .Pages }}
+                    {{- partial "event/stand-category.html" . -}}
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        {{ end }}
+    </div>
+{{ end }}
+
+{{ define "main" }}
+    {{ .Content }}
+{{ end }}
+
