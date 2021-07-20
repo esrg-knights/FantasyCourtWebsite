@@ -1,6 +1,6 @@
 {{ with .Resources.GetMatch "preview"}}
-    <div class="btn btn-fc event-item-lg-fixed">
-        <a href="{{ $.Permalink }}">
+    <div class=" event-item-lg-fixed">
+        <a class="btn btn-fc" href="{{ $.Permalink }}">
             <img src="{{ .Permalink }}" alt="{{ .Title }}">
             <span class="item-title">
                 {{ if $.Scratch.Get "back-btn" }}
@@ -11,4 +11,3 @@
         </a>
     </div>
 {{ end }}
-

@@ -1,10 +1,9 @@
 {{ with .Resources.GetMatch "preview"}}
-<div class="btn btn-fc event-item-lg-free"
-    style="left: {{ .Params.categoryX }};
-        top: {{ .Params.categoryY }};
-        width: {{ .Params.categoryWidth }};"
-    >
-    <a href="{{ $.Permalink }}">
+<div class="event-item-lg-free"
+        style="left: {{ .Params.categoryX }};
+            top: {{ .Params.categoryY }};
+            width: {{ .Params.categoryWidth }};">
+    <a class="btn btn-fc" href="{{ $.Permalink }}">
         <img src="{{ .Permalink }}" alt="{{ .Title }}"
             style="height: {{ .Params.categoryHeight }};"
         >
@@ -16,8 +15,4 @@
         </span>
     </a>
 </div>
-
-
-
 {{ end }}
-

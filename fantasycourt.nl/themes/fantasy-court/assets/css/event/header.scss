@@ -60,7 +60,10 @@
     &-lg {
         @extend .event-item;
         padding: 15px 5px;
-        border-width: 4px;
+
+        > .btn {
+            border-width: 4px;
+        }
 
         img {
             width: 100%;
@@ -68,12 +71,6 @@
             padding-left: 25px;
             padding-right: 25px;
             object-fit: contain;
-        }
-
-        a {
-            // Remove standard link colour and underline
-            color: $textColor;
-            text-decoration: none;
         }
 
         // Back to XYZ buttons with a fixed width, appearing at a fixed location
