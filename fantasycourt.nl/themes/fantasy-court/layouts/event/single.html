@@ -4,43 +4,35 @@
 
 {{ define "header-element" }}
     <!-- Get rid of the header image, and replace it by the stand-category urls -->
-    <div class="header-stand" style='
+    <div class="header-event-stand" style='
         background-image: url({{ $.Param "header-image.url" }});
         background-position: {{ $.Param "header-image.position-x" }} {{ $.Param "header-image.position-y" }};
         ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
 
         {{ with .CurrentSection }}
-          <div id="stand-siblings" class="container">
+          <div class="container">
             <div class="row">
               <div class="col-sm">
                 <!-- Back to Category Page -->
-                <div class="stand-category-v2-fixed">
-                  <a class="" href="{{ .Permalink }}">
-                      {{ with .Resources.GetMatch "preview"}}
-                        <img alt="{{ .Title }}"
-                                src="{{ .Permalink }}"/>
-                      {{ end }}
-                      <p><span class="back-btn" aria-hidden="true"></span> Terug naar {{ .Title }}</p>
-                  </a>
-                </div>
+                {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                {{ .Scratch.Set "title" (print "Terug naar " .Title) }}
+                {{ .Scratch.Set "back-btn" true }}
+                {{- partial "event/event-item-lg-fixed.html" . -}}
               </div>
               <div class="col-sm">
                 {{ with $.Site.GetPage "event-2021" }}
                   <!-- Back to Event Homepage -->
-                  <div class="stand-category-v2-fixed">
-                    <a class="" href='{{ .Permalink }}'>
-                        {{ with .Resources.GetMatch "preview"}}
-                          <img alt="{{ .Title }}"
-                                  src="{{ .Permalink }}"/>
-                        {{ end }}
-                        <p><span class="back-btn" aria-hidden="true"></span> Terug naar {{ .Title }}</p>
-                    </a>
-                  </div>
+                  {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                  {{ .Scratch.Set "title" (print "Terug naar " .Title) }}
+                  {{ .Scratch.Set "back-btn" true }}
+                  {{- partial "event/event-item-lg-fixed.html" . -}}
                 {{ end }}
               </div>
             </div>
-            <div id="stand-category-title" class="row">
-              <h3>Meer {{ .Title }}</h3>
+            <div class="row">
+              <div class="col-sm">
+                <h2 id="stand-category-title">Meer {{ .Title }}</h2>
+              </div>
             </div>
             <div class="row">
               <ul class=" col-sm">
@@ -52,9 +44,10 @@
                     </ul>
                     <ul class=" col-sm">
                   {{ end }}
-                  <li class="stand-element">
-                    {{- partial "event/stand-item.html" (dict "context" . "disabled" (eq .Permalink $.Permalink)) -}}
-                  </li>
+                    {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                    {{ .Scratch.Set "title" .Title }}
+                    {{ .Scratch.Set "back-btn" false }}
+                    {{- partial "event/event-item-li" . -}}
                 {{ end }}
               </ul>
             </div>

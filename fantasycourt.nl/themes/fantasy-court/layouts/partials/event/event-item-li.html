@@ -1,0 +1,21 @@
+<li class="event-item-li">
+    <a
+        {{ if .Scratch.Get "isCurrentPage" -}}
+            class="btn btn-secondary"
+        {{ else -}}
+            class="btn btn-fc"
+            href="{{ .Permalink }}"
+        {{ end -}}
+        >
+
+        {{ with .Resources.GetMatch "preview"}}
+            <img src="{{ .Permalink }}" alt="{{ .Title }}">
+        {{ end }}
+        <span class="item-title">
+            {{ if $.Scratch.Get "back-btn" }}
+                <span class="back-btn" aria-hidden="true"></span>
+            {{ end }}
+            {{ $.Scratch.Get "title" }}
+        </span>
+    </a>
+</li>

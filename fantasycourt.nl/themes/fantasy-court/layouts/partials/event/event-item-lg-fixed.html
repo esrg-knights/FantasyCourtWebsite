@@ -1,0 +1,14 @@
+{{ with .Resources.GetMatch "preview"}}
+    <div class="btn btn-fc event-item-lg-fixed">
+        <a href="{{ $.Permalink }}">
+            <img src="{{ .Permalink }}" alt="{{ .Title }}">
+            <span class="item-title">
+                {{ if $.Scratch.Get "back-btn" }}
+                    <span class="back-btn" aria-hidden="true"></span>
+                {{ end }}
+                {{ $.Scratch.Get "title" }}
+            </span>
+        </a>
+    </div>
+{{ end }}
+

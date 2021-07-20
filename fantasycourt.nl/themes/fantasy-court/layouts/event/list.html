@@ -10,7 +10,7 @@
         ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
 
         {{ with .CurrentSection }}
-          <div id="stand-siblings" class="container">
+          <div class="container">
             <div class="row">
               <div class="col-sm">
                 <!-- Category Name -->
@@ -21,22 +21,20 @@
               <div class="col-sm">
                 {{ with $.Site.GetPage "event-2021" }}
                   <!-- Back to Event Homepage -->
-                  <div class="stand-category-v2-fixed">
-                    <a class="" href='{{ .Permalink }}'>
-                        {{ with .Resources.GetMatch "preview"}}
-                          <img class='category-image' alt='{{ .Title }}'
-                                  src="{{ .Permalink }}"/>
-                        {{ end }}
-                        <p><span class="back-btn" aria-hidden="true"></span> Terug naar {{ .Title }}</p>
-                    </a>
-                  </div>
+                  {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                  {{ .Scratch.Set "title" (print "Terug naar " .Title) }}
+                  {{ .Scratch.Set "back-btn" true }}
+                  {{- partial "event/event-item-lg-fixed.html" . -}}
                 {{ end }}
               </div>
             </div>
             <div class="row">
               <div class="col-sm">
                 {{ range .Pages }}
-                    {{- partial "event/stand-category.html" . -}}
+                    {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                    {{ .Scratch.Set "title" .Title }}
+                    {{ .Scratch.Set "back-btn" false }}
+                    {{- partial "event/event-item-lg-free.html" . -}}
                 {{ end }}
               </div>
             </div>
