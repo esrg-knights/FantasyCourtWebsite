@@ -9,6 +9,10 @@
         vertical-align: middle;
     }
 
+    #event-item-list > ul {
+        margin-bottom: 0px;
+    }
+
     // Category Page
     &-category {
         @extend .header-event;
@@ -29,22 +33,27 @@
         font-size: x-large;
     }
 
+    // Button is disabled
+    .btn-secondary {
+        pointer-events: none;
+        opacity: 0.85;
+    }
+
     // List variant
     &-li {
         @extend .event-item;
         list-style: none;
         margin: 10px 0px;
 
+        @media screen and (max-width: $containerWidth) {
+            // Smaller vertical margins on small screens
+            margin: 5px 0px;
+        }
+
         // Take up the entire width, and align text to the left
         > .btn {
             width: 100%;
             text-align: start;
-        }
-
-        // Button is disabled
-        > .btn-secondary {
-            pointer-events: none;
-            opacity: 0.85;
         }
 
         // Small preview image
@@ -76,7 +85,7 @@
         // Back to XYZ buttons with a fixed width, appearing at a fixed location
         &-fixed {
             @extend .event-item-lg;
-            width: 400px;
+            max-width: 400px;
             margin: 0px auto;
 
             display: block;

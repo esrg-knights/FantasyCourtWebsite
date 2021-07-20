@@ -34,15 +34,15 @@
                 <h2 id="stand-category-title">Meer {{ .Title }}</h2>
               </div>
             </div>
-            <div class="row">
-              <ul class=" col-sm">
+            <div id="event-item-list" class="row">
+              <ul class="col-sm">
                 <!-- Calculate the number of items that fit in each of the three rows -->
                 {{ $numItemsPerColumn := math.Ceil (div (len .Pages) 3.0) }}
                 {{ range $i, $e := .Pages }}
                   <!-- if (i != 0) and (i % NumItemsPerColumn) == 0 -->
                   {{ if and (ne $i 0) (modBool $i $numItemsPerColumn) }}
                     </ul>
-                    <ul class=" col-sm">
+                    <ul class="col-sm">
                   {{ end }}
                     {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
                     {{ .Scratch.Set "title" .Title }}
