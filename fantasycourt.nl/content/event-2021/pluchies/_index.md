@@ -1,6 +1,7 @@
 ---
 type: event # Render using event/list.html
 title: Pluchies
+draft: True
 header-image:
   url: images/event/placeholder_map.jpg
   position-x: 50%
