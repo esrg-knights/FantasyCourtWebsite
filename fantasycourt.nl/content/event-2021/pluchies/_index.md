@@ -1,17 +1,17 @@
 ---
 type: event # Render using event/list.html
-title: Event 2021
+title: Pluchies
 header-image:
   url: images/event/placeholder_map.jpg
   position-x: 50%
   position-y: 50%
 resources:
-  - src: "FC_Logo.png"
-    name: "preview"
-    title: "Fantasy Court Logo"
+  - src: "pear_pluchie.png" # Preview image used on overview pages
+    name: "preview" # Specific name required
+    title: "Pear Pluchie"
     params:
-      categoryWidth: 10%
-      categoryHeight: 20px
+      categoryWidth: 20%
+      categoryHeight: 100px
       categoryX: 300px
       categoryY: 200px
 ---
@@ -19,12 +19,12 @@ resources:
 
 
 
-# Fantasy Court 2021
-Klik op een van de bovenstaande categoriën om over het digitale festival heen te lopen.
+# Pluchies
+Kijk naar deze coole pagina over pluchies!
 
 {{< aside >}}
     {{< factoid >}}
-        Hoi ik ben Remy! Wist je dat tomaten rood zijn?
+        Hoi ik ben Remy! Wist je dat Sir Bearington de pluchie-dictator van FC is?
     {{< /factoid >}}
 {{< /aside >}}
 

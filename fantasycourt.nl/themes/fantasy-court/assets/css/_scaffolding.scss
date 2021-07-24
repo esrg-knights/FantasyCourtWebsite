@@ -35,3 +35,14 @@
   max-width: $containerWidth;
   margin: auto;
 }
+
+.back-btn {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 100% 100%;
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+  background-image: url("/images/back.svg");
+}

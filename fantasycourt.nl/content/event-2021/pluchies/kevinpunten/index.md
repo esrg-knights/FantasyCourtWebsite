@@ -1,0 +1,42 @@
+---
+type: event # Render using event/single.html
+title: Kevinpunten
+header-image:
+  url: images/event/pear_pluchie.png
+  position-x: 50%
+  position-y: 50%
+resources:
+  - src: "pear_food.png" # Preview image used on overview pages
+    name: "preview" # Specific name required
+    title: "pear TODO"
+    params:
+      categoryWidth: 15%
+      categoryHeight: 100px
+      categoryX: 100px
+      categoryY: 150px
+  - src: "derpachu-v2.jpg"
+    name: "the_real_derpachu" # Override a name to reference in the Markdown below. NB: Do not modify Carousel-item names
+    title: "The cooler Derpachu"
+  - src: "carousel/derpachu.jpg"
+    title: "Derpachu hanging from the ceiling" # Define alt text like this
+  - src: "carousel/*"
+    name: "carousel/carousel-item-:counter"
+    title: "Sliding Stand Image :counter" # Every carousel image without an alt-text gets a special name
+  - src: "**"
+    title: "Stand Image :counter" # Everything without an alt-text gets a special name
+---
+
+
+# Kevinpunten
+{{< standimage src="naru-happy.png" alt="Naru"  width="50px">}}
+
+Hier wat informatie over Kevinpunten. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere quam in neque faucibus lobortis. Duis in rutrum tellus. Nulla id fringilla arcu. Curabitur consectetur vestibulum magna et tristique. Fusce malesuada nisi sed tincidunt laoreet. Sed vel urna rutrum risus bibendum faucibus. Curabitur consectetur mattis sapien, vel efficitur felis fringilla non. Sed ut tellus sollicitudin, bibendum velit quis, porta lorem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec varius egestas eleifend.
+
+{{< standimage src="the_real_derpachu" alt="Derpachu v2" align="right" width="300px">}}
+{{< aside >}}
+    {{< factoid >}}
+        Hoi ik ben Remy! Wist je dat Kevinpunten een exchange rate hebben van $0.0042?
+    {{< /factoid >}}
+{{< /aside >}}
+
+Vivamus iaculis ultrices nunc ut porttitor. Nam dignissim maximus lectus. Proin auctor ac neque vitae mollis. Quisque pellentesque ex quam, dictum mollis nibh luctus nec. Aliquam quis tellus erat. Pellentesque pharetra libero ut sapien aliquet porta. Curabitur blandit euismod hendrerit. Cras quis pellentesque mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce sollicitudin lacus non nunc consectetur, ut malesuada augue elementum. Morbi cursus euismod nisi, eu luctus ex faucibus eget. Mauris pretium libero id libero elementum hendrerit. Phasellus vel iaculis dui. Mauris malesuada ligula at risus placerat faucibus. Mauris nec sapien quis ante ultricies scelerisque et quis odio.

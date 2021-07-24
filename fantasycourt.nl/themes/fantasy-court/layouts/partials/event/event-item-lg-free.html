@@ -1,0 +1,18 @@
+{{ with .Resources.GetMatch "preview"}}
+<div class="event-item-lg-free"
+        style="left: {{ .Params.categoryX }};
+            top: {{ .Params.categoryY }};
+            width: {{ .Params.categoryWidth }};">
+    <a class="btn btn-fc" href="{{ $.Permalink }}">
+        <img src="{{ .Permalink }}" alt="{{ .Title }}"
+            style="height: {{ .Params.categoryHeight }};"
+        >
+        <span class="item-title">
+            {{ if $.Scratch.Get "back-btn" }}
+                <span class="back-btn" aria-hidden="true"></span>
+            {{ end }}
+            {{ $.Scratch.Get "title" }}
+        </span>
+    </a>
+</div>
+{{ end }}

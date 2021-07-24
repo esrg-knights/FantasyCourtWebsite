@@ -7,3 +7,13 @@
 .no-margin {
   margin: 0;
 }
+
+.btn-fc {
+  background-color: $contentColour;
+  border-color: $borderColour;
+  color: $textColor;
+
+  &:hover {
+      background-color: darken($contentColour, 15%);
+  }
+}
