@@ -13,8 +13,8 @@ resources:
     params:
       categoryWidth: 20%
       categoryHeight: 100px
-      categoryX: 300px
-      categoryY: 200px
+      categoryX: 3400px
+      categoryY: 2400px
 ---
 
 

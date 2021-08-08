@@ -1,6 +1,7 @@
 ---
 type: event # Render using event/single.html
 title: Kevinpunten
+draft: true
 header-image:
   url: images/event/pear_pluchie.png
   position-x: 50%
