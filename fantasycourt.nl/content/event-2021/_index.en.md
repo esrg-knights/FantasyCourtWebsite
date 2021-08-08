@@ -1,7 +1,7 @@
 ---
 title: Under Construction - Event 2021
 header-image:
-  url: images/under-construction.png
+  url: images/under-construction.jpg
   position-x: 50%
   position-y: 50%
 og:
