@@ -40,16 +40,14 @@ resources:
 
 Beste mensen,
 
-Wij zijn larpcenter. Opgezet door Jarco en mijzelf Ziggy beide ervaren larpers. En we dachten he laten we een keer een IC stand openen bij onze eerste evenement van adventures in de runelands met leuke items en hebbedingetjes. Dit was een groot succes en zo zijn we onze eigen webshop begonnen en gaan we natuurlijk nog steeds heel Nederland af om te staan op de larp evenementen die onze aankleding willen en kunnen gebruiken.  
+Wij zijn larpcenter. Opgezet door ervaren larpers Jarco en mijzelf Ziggy. En we dachten: "Hé, laten we een keer een IC stand openen bij ons eerste evenement van *Adventures in de Runelands* met leuke items en hebbedingetjes". Dit was een groot succes en zo zijn we onze eigen webshop begonnen. Natuurlijk gaan we nog steeds heel Nederland af naar larp-evenementen die onze aankleding willen en kunnen gebruiken.
 
-Onze opbrengst gaat deels naar spullen die kleine larp-evenementen kunnen gebruiken om hen wereld nog beter neer te kunnen zetten! Dus als u bij ons koopt sponsort u ook larp in zijn geheel.
+Onze opbrengst gaat deels naar spullen die kleine larp-evenementen kunnen gebruiken om hun wereld nog beter neer te kunnen zetten! Dus als u bij ons koopt sponsort u ook larp in zijn geheel. Dus staat [Larpcenter.nl](https://www.larpcenter.nl/) staat dit keer helaas niet in persoon maar wel online op fantasycourt!
 
-Dus staat Larpcenter.nl staat dit keer helaas niet in persoon maar wel online op fantasycourt!
+Voor deze digitale versie hebben we onze site zo veel mogelijk geüpdate zodat u ook de kleinigheden gewoon bij ons kunt bestellen! Bij ons kunt u nu zijn voor Middeleeuwse hangers, kettingen, armbanden, schrijfgerei, schedels, natuurlijk onze larp-wapens en nog veel meer!. We hebben ook onze site geüpdate zodat u ook uw miniaturen gewoon weer bij ons kunt laten maken en printen!
 
-Voor deze digitale verzie hebben we onze site zo veel mogelijk geüpdate zodat u ook de kleinigheden gewoon bij ons kunt bestellen! Bij ons kunt u nu zijn voor middeleeuwse, hangers, kettingen, armbanden, schrijfgerei, schedels natuurlijk onze larp-wapens en nog veel meer!. We hebben ook onze site geüpdate zodat u ook uw miniaturen gewoon weer bij ons kunt laten maken en printen!
+Aangezien we een leuke actie willen doen voor Fantasy Court hebben we gedurende het event
+- 20% korting op 3D geprinte artikelen met code: digitaal2021
+- 10% korting op alle andere artikelen met code: fantasycourt2021
 
-Aangezien we een leuke actie willen doen voor fantasy court doen we gedurende het event  
-20% korting op 3D geprinte artikelen met code: digitaal2021
-10% korting op alle andere artikelen met code: fantasycourt2021
-
-Vragen over ons uitgebreidere evenementen assortiment of andere vragen stuur ons een bericht we reageren snel via [facebook](https://www.facebook.com/Larpcenter.nl/).
+Vragen over ons uitgebreidere evenementen assortiment of andere vragen? Stuur ons een bericht en we reageren snel via [Facebook](https://www.facebook.com/Larpcenter.nl/)!
