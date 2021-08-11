@@ -5,6 +5,22 @@ header-image:
   url: images/event/pear_pluchie.png
   position-x: 50%
   position-y: 50%
+contactInfos:
+  - name: Website
+    urls:
+      - name: www.books4life-eindhoven.nl
+        link: https://www.books4life-eindhoven.nl
+  - name: Adres
+    urls:
+      - name: Hertogstraat 2, 5611 PB Eindhoven
+  - name: Facebook
+    urls:
+      - name: Books4LifeEindhoven
+        link: https://www.facebook.com/Books4LifeEindhoven
+  - name: Instagram
+    urls:
+      - name: books.4.life.eindhoven
+        link: https://www.instagram.com/books.4.life.eindhoven
 resources:
   - src: "logo-books-4-life.png"
     name: "preview"
@@ -24,14 +40,11 @@ resources:
   - src: "**"
     title: "Stand Image :counter"
 ---
-
-<!--
-Contactgegevens (TODO):
-Adres: Hertogstraat 2, 5611 PB Eindhoven
-Website: www.books4life-eindhoven.nl
-facebook: www.facebook.com/Books4LifeEindhoven
-instagram: books.4.life.eindhoven
- -->
+{{< aside side="left">}}
+  {{< banner rotate="-3" class="wide" >}}
+      {{< contactInfos >}}
+  {{< /banner >}}
+{{< /aside >}}
 
 
 # Books 4 Life Eindhoven

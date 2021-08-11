@@ -4,6 +4,10 @@
   justify-content: space-around;
   width: $bannerWidth;
 
+  &.wide {
+    width: 1.6*$bannerWidth;
+  }
+
   img {
     width: 100%;
   }
