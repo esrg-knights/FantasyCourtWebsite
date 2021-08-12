@@ -3,7 +3,7 @@ type: event # Render using event/list.html
 title: Pluchies
 draft: True
 header-image:
-  url: images/event/placeholder_map.jpg
+  url: images/event/FCmap.jpg
   position-x: 50%
   position-y: 50%
 resources:

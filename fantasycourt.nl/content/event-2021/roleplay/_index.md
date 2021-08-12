@@ -2,7 +2,7 @@
 type: event
 title: Roleplay
 header-image:
-  url: images/event/placeholder_map.jpg
+  url: images/event/FCmap.jpg
   position-x: 50%
   position-y: 50%
 resources:

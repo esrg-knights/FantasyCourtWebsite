@@ -2,7 +2,7 @@
 type: event # Render using event/list.html
 title: Accessories
 header-image:
-  url: images/event/placeholder_map.jpg
+  url: images/event/FCmap.jpg
   position-x: 50%
   position-y: 50%
 resources:

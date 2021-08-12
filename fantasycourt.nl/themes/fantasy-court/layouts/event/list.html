@@ -4,9 +4,11 @@
 
 {{ define "header-element" }}
     <!-- Get rid of the header image, and replace it by the stand-category urls -->
+    <!-- Forced extra height, no idea if this breaks anything on other devices -->
     <div class="header-event-category" style='
         background-image: url({{ $.Param "header-image.url" }});
         background-position: {{ $.Param "header-image.position-x" }} {{ $.Param "header-image.position-y" }};
+        height: 800px
         ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
 
         {{ with .CurrentSection }}
