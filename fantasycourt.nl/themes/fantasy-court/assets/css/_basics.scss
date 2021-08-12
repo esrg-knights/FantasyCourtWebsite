@@ -50,3 +50,8 @@ h2 {
 ul {
   margin-top: -20px;
 }
+
+li > ul {
+  // Lists inside other lists should not have reduced margins
+  margin-top: initial;
+}

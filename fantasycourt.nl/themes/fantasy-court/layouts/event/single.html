@@ -69,6 +69,9 @@
         {{ range $i, $e := . }}
           <div class="carousel-item {{ if eq $i 0}}active{{ end }}">
             <img src="{{ .Permalink }}" class="d-block" alt="{{ .Title }}">
+            {{ if .Params.text }}
+              <div class="carousel-caption d-none d-md-block"><p><em>{{ .Params.text }}</em></p></div>
+            {{ end }}
           </div>
         {{ end }}
       </div>

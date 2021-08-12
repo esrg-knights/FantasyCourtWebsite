@@ -17,6 +17,20 @@
         margin: auto;
         object-fit: contain;
     }
+
+    .carousel-caption {
+        left: initial;
+        right: 0;
+        bottom: 0;
+        text-align: right;
+        padding: 10px 20px;
+
+        p {
+            margin-bottom: 0px;
+            font-size: 14px;
+        }
+
+    }
 }
 
 ///////////////////////////////////////////////////////////////////
