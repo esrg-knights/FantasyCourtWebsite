@@ -62,12 +62,12 @@ resources:
 {{< /aside >}}
 
 {{< standimage src="preview" width="125px" align="right">}}
-_Out of sight there is a hidden forest where the flora is alive and fauna their caretaker where each resident has their own story to tell. But some daring inhabitants want to explore the world: each with their own reasons._
+_Ergens buiten ons bereik zit een verstopt bos waar de flora leeft en de fauna verzorgd en waar elke bewoner een eigen verhaal kent. Maar sommige moedige bewoners willen graag de wereld verkennen: ieder met zijn of haar eigen redenen._
 
-_The plum rabbits built a center where the residents can sign up for adoption. When accepting a roommate please note that they need attention and care. Usually the residents apply for adoption during the season they prefer: winter, spring, summer or autumn._
+_De Plum Rabbits hebben een adoptiecentrum gebouwd waar bewoners zichzelf kunnen inschrijven om in contact te kunnen komen met mensen. Wanneer je een nieuw huisgenootje neemt houdt er rekening mee dat ze aandacht en verzorging nodig hebben. Vaak zullen bewoners zichzelf inschrijven in de tijd van het jaar dat ze op hun best zijn: winter, lente, zomer of herfst._
 
-Mamorumori forest residents are completely handmade. Most fabrics used are bought locally. Each resident has a unique name, history and personality. They are one of a kind.
+Mamorumori-bewoners zijn compleet handgemaakt. De meeste stoffen zijn lokaal ingekocht. Elke bewoner heeft een unieke naam, geschiedenis en persoonlijkheid. Ze zijn one-of-a-kind.
 
-The founder, Zoë Seekles, is a 26 year old Dutch girl that designs and creates Mamorumori residents. Since 2019 she has created this idea of a forest hidden away from humans where flora lives and fauna is their caretaker. She can combine her love and passion for nature, fantasy, storytelling, art, Japan and design into Mamorumori. Since 2021 she is trying to pursue her dream of doing this fulltime. Support her and her small business and find yourself a new roommate to live with! P.S. You do not need to water these plants.
+De stichter van het bos, Zoë Seekles, is een 26-jarige Nederlandse vrouw die de Mamorumori-bewoners ontwerpt en maakt. Sinds 2019 is ze bezig met het creeëren van dit verborgen bos. Ze kan hierin haar passies voor natuur, fantasie, storytelling, kunst, Japan en design combineren. Vanaf halverwege 2021 gaat ze proberen haar droom achterna te gaan door Mamorumori fulltime te doen. Steun haar en haar kleine bedrijf en vindt een nieuw huisgenootje om samen mee te wonen! P.S. Je hoeft deze planten geen water te geven.
 
 {{< standimage src="mm-pluchie-cactus-outside.JPG">}}
