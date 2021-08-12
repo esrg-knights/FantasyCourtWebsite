@@ -1,4 +1,4 @@
-<div class="stand-image-{{ with .Get "align" }}{{ . }}{{ else }}left{{ end -}}
+<div class="stand-image-{{ .Get "align"|default "center" }}
     {{- with .Get "class" }} {{ . }}{{ end }}">
     {{ with .Get "src" | $.Page.Resources.GetMatch -}}
     <img src="{{ .RelPermalink }}"
