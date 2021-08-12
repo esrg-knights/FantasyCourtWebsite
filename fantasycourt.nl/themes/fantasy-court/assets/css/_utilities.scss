@@ -8,10 +8,16 @@
   margin: 0;
 }
 
-.btn-fc {
+.fc-block {
   background-color: $contentColour;
-  border-color: $borderColour;
+  border: 4px solid $borderColour;
   color: $textColor;
+  text-align: center;
+  font-family: blackchancery, serif;
+}
+
+.btn-fc {
+  @extend .fc-block;
 
   &:hover {
       background-color: darken($contentColour, 15%);

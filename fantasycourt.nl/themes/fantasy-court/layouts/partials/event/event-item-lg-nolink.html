@@ -1,0 +1,10 @@
+{{ with .Resources.GetMatch "preview"}}
+    <div class=" event-item-lg-nolink">
+        <div class="fc-block btn">
+            <img src="{{ .Permalink }}" alt="{{ .Title }}">
+            <span class="item-title">
+                {{ $.Scratch.Get "title" }}
+            </span>
+        </div>
+    </div>
+{{ end }}
