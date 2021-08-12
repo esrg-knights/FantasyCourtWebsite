@@ -15,7 +15,8 @@
               <div class="col-sm">
                 <!-- Category Name -->
                 <div id="stand-category-title">
-                  <h1>{{ .Title }}</h1>
+                  {{ .Scratch.Set "title" .Title }}
+                  {{- partial "event/event-item-lg-nolink.html" . -}}
                 </div>
               </div>
               <div class="col-sm">
@@ -30,6 +31,7 @@
             </div>
             <div class="row">
               <div class="col-sm">
+                <!-- Categories -->
                 {{ range .Pages }}
                     {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
                     {{ .Scratch.Set "title" .Title }}

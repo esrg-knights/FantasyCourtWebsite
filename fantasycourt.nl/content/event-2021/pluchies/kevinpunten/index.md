@@ -29,11 +29,11 @@ resources:
 
 
 # Kevinpunten
-{{< standimage src="naru-happy.png" alt="Naru"  width="50px">}}
+{{< standimage src="naru-happy.png" width="50px" align="center">}}
 
 Hier wat informatie over Kevinpunten. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere quam in neque faucibus lobortis. Duis in rutrum tellus. Nulla id fringilla arcu. Curabitur consectetur vestibulum magna et tristique. Fusce malesuada nisi sed tincidunt laoreet. Sed vel urna rutrum risus bibendum faucibus. Curabitur consectetur mattis sapien, vel efficitur felis fringilla non. Sed ut tellus sollicitudin, bibendum velit quis, porta lorem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec varius egestas eleifend.
 
-{{< standimage src="the_real_derpachu" alt="Derpachu v2" align="right" width="300px">}}
+{{< standimage src="the_real_derpachu" align="right" width="300px">}}
 {{< aside >}}
     {{< factoid >}}
         Hoi ik ben Remy! Wist je dat Kevinpunten een exchange rate hebben van $0.0042?

@@ -3,12 +3,6 @@
 
     padding: 20px 0px 5px 0px;
 
-    #stand-category-title {
-        margin-top: 10px;
-        font-weight: bold;
-        vertical-align: middle;
-    }
-
     #event-item-list > ul {
         margin-bottom: 0px;
     }
@@ -70,13 +64,13 @@
         @extend .event-item;
         padding: 15px 5px;
 
-        > .btn {
+        > .btn-fc {
             border-width: 4px;
         }
 
         img {
             width: 100%;
-            height: 200px;
+            height: 160px;
             padding-left: 25px;
             padding-right: 25px;
             object-fit: contain;
@@ -85,10 +79,20 @@
         // Back to XYZ buttons with a fixed width, appearing at a fixed location
         &-fixed {
             @extend .event-item-lg;
-            max-width: 400px;
+            max-width: 360px;
             margin: 0px auto;
 
             display: block;
+        }
+
+        &-nolink {
+            @extend .event-item-lg-fixed;
+
+            .fc-block {
+                background-color: darken($contentColour, 30%);
+                border-color: darken($borderColour, 15%);
+                cursor: inherit;
+            }
         }
 
         // Individual category/stand buttons with a variable width, which can overlap

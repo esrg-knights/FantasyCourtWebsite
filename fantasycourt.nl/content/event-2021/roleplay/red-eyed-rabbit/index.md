@@ -43,7 +43,7 @@ Contactgegevens (TODO):
 
 Diep in ons collectief geheugen, verhuld door nevelen van vergetelheid, ligt een wereld die balanceert op dat fijne randje tussen sluimer en ontwaken. Een wereld die uit een schilderij van Jheronimus Bosch of Pieter Brueghel lijkt te komen, een wereld van goden en monsters. Dit is de wereld van Ambrosia, een uniek rollenspel geïnspireerd door de geschiedenis en de folklore van de Lage Landen.
 
-{{< standimage src="carousel/r3r-amborsia-basisspel.jpg" alt="Ambrosia Basisspel Cover" width="240px" align="right">}}
+{{< standimage src="carousel/r3r-amborsia-basisspel.jpg" width="240px" align="right">}}
 
 Ambrosia haalt zijn inspiratie uit de geschiedenis en folklore van de Lage Landen. Vergeet dus al wat je weet over hoge bergen en locaties die verdacht veel weg hebben van Nieuw-Zeeland; we verplaatsen de actie naar zompige polders en mistige heidelandschappen. Orks en goblins ruimen plaats voor aardmannen en witte wieven, terwijl bokkenrijders de regio teisteren. Dit alles speelt zich bovendien af in een duistere, middeleeuwse fantasy-setting waar klasseverschillen heersen,
 iedereen wel aan een vieze huidziekte lijkt te lijden, en de grenzen van het moreel aanvaardbare vaak lijken te verschuiven...
@@ -72,7 +72,7 @@ het Nederlands.
 ## Unfamiliar - D&D 5e Adventure
 Voor wie toch liever bij het vertrouwde Dungeons & Dragons blijft, heb ik ook wat te bieden. Vorig jaar heb ik een succesvolle Kickstarter-campagne gedaan voor “Unfamiliar”, een volledige sandbox-campaign compatibel met de regels van 5th edition. Deze modulaire campaign is geschikt voor personages van elk Level, waarbij de sterkte van een encounter zich aanpast aan het niveau van de PCs in plaats van andersom. “Unfamiliar” begint wanneer de PCs buiten hun wil om geteleporteerd worden naar het mystieke land Valdir, dat ooit door vier machtige magiërs geregeerd werd. Zo’n honderd jaar geleden is de voltallige menselijke bevolking van Valdir echter op mysterieuze wijze van de aardbodem verdwenen, waardoor de slavenrassen die ze hebben gecreëerd (fey, undead, beasts en constructs) in een machtsvacuüm zijn terechtgekomen. Als de PCs aankomen, strijden de oude familiars van de vier magiërs nog steeds voor de overhand; afhankelijk van de beslissingen die de spelers maken en welke facties ze steunen of net tegenwerken, zal het machtsevenwicht veranderen. Deze campaign bevat bovendien vier mogelijke eindes; de spelers kiezen zelf welk pad ze bewandelen en hoe de toekomst van Valdir eruit gaat zien.
 
-{{< standimage src="r3r-A-nightmare-in-porcelain-cover.jpg" alt="A nightmare in Porcelain Cover" width="230px" align="left">}}
+{{< standimage src="r3r-A-nightmare-in-porcelain-cover.jpg" width="230px" align="left">}}
 
 Ik verwacht “Unfamiliar” eind dit jaar te publiceren, maar als voorproefje heb ik al “A nightmare in porcelain” klaarliggen. Deze module voor Level 1 personages kan gespeeld worden als aanloop tot “Unfamiliar”; de campaign begint waar de module eindigt. “A nightmare in porcelain” is een horror-avontuur dat zich afspeelt in en rond het landhuis van de magiër Meryndrax, waar vreemde gebeurtenissen onnatuurlijke gevolgen hebben.
 

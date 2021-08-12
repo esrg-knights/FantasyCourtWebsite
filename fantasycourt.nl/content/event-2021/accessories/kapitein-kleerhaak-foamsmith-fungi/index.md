@@ -74,9 +74,9 @@ resources:
     {{< /factoid >}}
 {{< /aside >}}
 
-{{< standimage src="kk-ff-kapitein-kleerhaak-logo.png" alt="Kapitein Kleerhaak Logo" width="160px" align="left">}}
+{{< standimage src="kk-ff-kapitein-kleerhaak-logo.png" width="160px" align="left">}}
 **Ahoy mateys!**
-{{< standimage src="kk-ff-the-foamsmith-fungi-logo.png" alt="The Foamsmith Fungi Logo" width="160px" align="right">}}
+{{< standimage src="kk-ff-the-foamsmith-fungi-logo.png" width="160px" align="right">}}
 
 Mijn naam is Kapitein Veronica Kleerhaak, en vanuit mijn Workship in Hilvarenbeek maak ik samen met The Foamsmith Fungi unieke kostuums en accessoires met onder andere stof, leer, foam en borduurwerk. 
 

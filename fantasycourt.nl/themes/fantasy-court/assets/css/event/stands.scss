@@ -43,8 +43,17 @@
 ///////////////////////////////////////////////////////////////////
 // Images
 .stand-image {
+    max-width: $containerWidth;
     margin-top: 5px;
     margin-bottom: 5px;
+
+    img {
+        max-width: 100%;
+    }
+
+    &-center {
+        @extend .stand-image;
+    }
 
     &-left {
         @extend .stand-image;
