@@ -8,7 +8,6 @@
     <div class="header-event-category" style='
         background-image: url({{ $.Param "header-image.url" }});
         background-position: {{ $.Param "header-image.position-x" }} {{ $.Param "header-image.position-y" }};
-        height: 800px
         ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
 
         {{ with .CurrentSection }}
@@ -17,6 +16,7 @@
               <div class="col-sm">
                 <!-- Category Name -->
                 <div>
+                  {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
                   {{ .Scratch.Set "title" .Title }}
                   {{- partial "event/event-item-lg-nolink.html" . -}}
                 </div>

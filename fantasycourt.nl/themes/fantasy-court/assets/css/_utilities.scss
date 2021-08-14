@@ -14,6 +14,10 @@
   color: $textColor;
   text-align: center;
   font-family: blackchancery, serif;
+
+  @media screen and (max-width: 1.75*$mobileWidth) {
+    width: 100%;
+  }
 }
 
 .btn-fc {
