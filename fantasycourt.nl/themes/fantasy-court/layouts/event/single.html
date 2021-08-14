@@ -69,6 +69,9 @@
         {{ range $i, $e := . }}
           <div class="carousel-item {{ if eq $i 0}}active{{ end }}">
             <img src="{{ .Permalink }}" class="d-block" alt="{{ .Title }}">
+            {{ if .Params.text }}
+              <div class="carousel-caption d-none d-md-block"><p><em>{{ .Params.text }}</em></p></div>
+            {{ end }}
           </div>
         {{ end }}
       </div>
@@ -85,4 +88,31 @@
 
   <!-- List page-specific content -->
   {{ .Content }}
+
+  <!-- Carousel for certain set of images -->
+  {{ with .Resources.Match "carouselProduct/*" }}
+    <div id="carouselProduct" class="carousel slide" data-bs-ride="carousel" data-bs-pause="hover">
+      <div class="carousel-indicators">
+          {{ range $i, $e := . }}
+            <button type="button" data-bs-target="#carouselProduct" data-bs-slide-to="{{$i}}" aria-label="Slide {{add $i 1}}" class="{{ if eq $i 0}}active{{ end }}"></button>
+          {{ end }}
+      </div>
+      <div class="carousel-inner" role="listbox">
+        {{ range $i, $e := . }}
+          <div class="carousel-item {{ if eq $i 0}}active{{ end }}">
+            <img src="{{ .Permalink }}" class="d-block" alt="{{ .Title }}">
+          </div>
+        {{ end }}
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselProduct" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselProduct" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  {{ end }}
+
 {{ end }}

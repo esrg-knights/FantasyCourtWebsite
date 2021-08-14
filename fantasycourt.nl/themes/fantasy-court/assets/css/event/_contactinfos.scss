@@ -1,0 +1,19 @@
+#contactInfos {
+    table {
+        text-align: left;
+    }
+
+    td:first-child {
+        padding-right: 10px;
+        text-align: right;
+        vertical-align: top;
+    }
+
+    td {
+        padding: 2px 5px;
+
+        a {
+            overflow-wrap: anywhere;
+        }
+    }
+}

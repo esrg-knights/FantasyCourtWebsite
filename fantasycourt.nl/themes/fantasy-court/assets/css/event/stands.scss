@@ -17,13 +17,57 @@
         margin: auto;
         object-fit: contain;
     }
+
+    .carousel-caption {
+        left: initial;
+        right: 0;
+        bottom: 0;
+        text-align: right;
+        padding: 10px 20px;
+
+        p {
+            margin-bottom: 0px;
+            font-size: 14px;
+        }
+
+    }
+}
+
+///////////////////////////////////////////////////////////////////
+// Carrousel
+#carouselProduct {
+    // Add a small border
+    border: 1px solid $borderColour;
+    margin-bottom: 20px;
+
+    // Fill empty space with another colour
+    .carousel-item {
+        background-color: $textColor;
+    }
+
+    // Ensure that all Carousel images have the same dimensions
+    .carousel-item > img {
+        height: 400px;
+        width: 100%;
+        margin: auto;
+        object-fit: contain;
+    }
 }
 
 ///////////////////////////////////////////////////////////////////
 // Images
 .stand-image {
+    max-width: $containerWidth;
     margin-top: 5px;
     margin-bottom: 5px;
+
+    img {
+        max-width: 100%;
+    }
+
+    &-center {
+        @extend .stand-image;
+    }
 
     &-left {
         @extend .stand-image;

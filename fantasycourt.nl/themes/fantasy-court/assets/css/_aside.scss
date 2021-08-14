@@ -4,5 +4,12 @@ aside {
   }
 
   position: absolute;
-  right: -20vw;
+
+  &.right {
+    right: -20vw;
+  }
+
+  &.left {
+    left: -25vw;
+  }
 }

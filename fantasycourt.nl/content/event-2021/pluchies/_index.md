@@ -1,8 +1,9 @@
 ---
 type: event # Render using event/list.html
 title: Pluchies
+draft: True
 header-image:
-  url: images/event/placeholder_map.jpg
+  url: images/event/FCmap.jpg
   position-x: 50%
   position-y: 50%
 resources:
@@ -10,10 +11,10 @@ resources:
     name: "preview" # Specific name required
     title: "Pear Pluchie"
     params:
-      categoryWidth: 20%
+      categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 300px
-      categoryY: 200px
+      categoryX: 3400px
+      categoryY: 2400px
 ---
 
 

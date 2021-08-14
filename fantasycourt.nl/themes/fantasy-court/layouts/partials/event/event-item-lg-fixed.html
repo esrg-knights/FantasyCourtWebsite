@@ -1,13 +1,15 @@
-{{ with .Resources.GetMatch "preview"}}
-    <div class=" event-item-lg-fixed">
-        <a class="btn btn-fc" href="{{ $.Permalink }}">
-            <img src="{{ .Permalink }}" alt="{{ .Title }}">
-            <span class="item-title">
-                {{ if $.Scratch.Get "back-btn" }}
-                    <span class="back-btn" aria-hidden="true"></span>
-                {{ end }}
-                {{ $.Scratch.Get "title" }}
-            </span>
-        </a>
-    </div>
+{{ if not (.Scratch.Get "isCurrentPage") -}}
+    {{ with .Resources.GetMatch "preview"}}
+        <div class=" event-item-lg-fixed">
+            <a class="btn btn-fc" href="{{ $.Permalink }}">
+                <img src="{{ .Permalink }}" alt="{{ .Title }}">
+                <span class="item-title">
+                    {{ if $.Scratch.Get "back-btn" }}
+                        <span class="back-btn" aria-hidden="true"></span>
+                    {{ end }}
+                    {{ $.Scratch.Get "title" }}
+                </span>
+            </a>
+        </div>
+    {{ end }}
 {{ end }}
