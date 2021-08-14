@@ -7,14 +7,14 @@ header-image:
   position-x: 50%
   position-y: 60%
 resources:
-  - src: "preview_accessories.png"
+  - src: "preview_kleding.png"
     name: "preview"
     title: "Accessories Image"
     params:
-      categoryWidth: 20%
+      categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 40%
-      categoryY: 100px
+      categoryX: 20%
+      categoryY: 300px
 ---
 
 

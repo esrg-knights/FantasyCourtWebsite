@@ -11,7 +11,7 @@ resources:
     name: "preview" # Specific name required
     title: "Pear Pluchie"
     params:
-      categoryWidth: 20%
+      categoryWidth: 15%
       categoryHeight: 100px
       categoryX: 3400px
       categoryY: 2400px
