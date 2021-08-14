@@ -6,14 +6,14 @@ header-image:
   position-x: 50%
   position-y: 50%
 resources:
-  - src: "preview_larp.png"
+  - src: "preview_accessories.png"
     name: "preview"
     title: "Roleplay Image"
     params:
-      categoryWidth: 15%
+      categoryWidth: 20%
       categoryHeight: 100px
-      categoryX: 45%
-      categoryY: 300px
+      categoryX: 20%
+      categoryY: 50px
 ---
 
 

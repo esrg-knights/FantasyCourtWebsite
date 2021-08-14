@@ -60,9 +60,9 @@ resources:
 {{< standimage src="DG.JPG" alt="Dolle Griet" align="left" width="380px">}}
 
 Bij Dolle Griet vind je de mooiste kostuums voor je volgende evenement.
-Van een bijzondere mantel tot een volledige outfit voor jouw unieke
-lichaam, bij Dolle Griet ben je aan het juiste adres. Een warme mantel,
-een stoere tuniek, een strak gilet, noem het maar op.
-Ook voor de creatieveling die zelf aan de slag gaat om een kostuum te
-maken staat de shop vol fournituren, mantelsluitingen en vikingbroches.
+Van een bijzondere mantel tot een volledige outfit voor jouw unieke lichaam, bij Dolle Griet ben je aan het juiste adres. 
+Een warme mantel, een stoere tuniek, een strak gilet, noem het maar op.
+Ook voor de creatieveling die zelf aan de slag gaat om een kostuum te maken staat de shop vol fournituren, mantelsluitingen en vikingbroches.
 Die ene finishing touch ligt voor je klaar!
+
+Psst een van deze fournituren is te winnen in de 

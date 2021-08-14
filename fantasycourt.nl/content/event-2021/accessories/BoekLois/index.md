@@ -59,6 +59,8 @@ Wanneer Julia haar ouders verliest, maakt ze haar eigen keuze; ze kan geen konin
 Twee jaar later blijkt dit niet de meest verstandige beslissing geweest te zijn. Julia's laatste familielid sterft en Zorifia heeft geen troon opvolger meer.
 De spanningen tussen licht en duisternis lopen hoger op en een oorlog lijkt onvermijdelijk.
 
-Wil je meer weten? Lees hier het eerste hoofdstuk: [Design | Acting | Writing - Loïs Lentz ](https://www.loislentz.nl/)  
-Klinkt dat nu leuk? Bestel dan het boek (of ebook) bij je lokale boekhandel of via deze link: [Tussen licht en duisternis – Loïs Lentz | Young adults | Uitgeverij Zilverspoor](https://www.artbooksshop.com/a-46949905/young-adults/tussen-licht-en-duisternis-lois-lentz/)  
-Wil je nog meer? Als je een mailtje stuurt naar loislentz@xs4all.nl en je bereidt bent verzendkosten te betalen, kan ik ook persoonlijk een gesigneerd exemplaar naar je opsturen.  
+Wil je meer weten? Lees hier het eerste hoofdstuk: [Design | Acting | Writing - Loïs Lentz ](https://www.loislentz.nl/) 
+ 
+Klinkt dat nu leuk? Bestel dan het boek (of e-book) bij je lokale boekhandel of via deze link: [Tussen licht en duisternis – Loïs Lentz | Young adults | Uitgeverij Zilverspoor](https://www.artbooksshop.com/a-46949905/young-adults/tussen-licht-en-duisternis-lois-lentz/)  
+
+Wil je nog meer? Als je een mailtje stuurt naar [loislentz@xs4all.nl](mailto:loislentz@xs4all.nl) en je bereid bent verzendkosten te betalen, kan ik ook persoonlijk een gesigneerd exemplaar naar je opsturen.  

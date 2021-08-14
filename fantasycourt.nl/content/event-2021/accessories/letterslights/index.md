@@ -47,17 +47,17 @@ resources:
 # Letters & Lights
 {{< aside >}}
     {{< factoid >}}
-        PLACEHOLDER
+        Wist je dat Emmy vaak samen met haar man op fairs staat? En dat hij ook hier op de site te vinden is? /event-2021/roleplay/dungeonsdice
     {{< /factoid >}}
 {{< /aside >}}
 
 Een boek lezen rook nog nooit zo goed! 
 
-Hoi ik ben Emmy! Sinds 2916 bestaat Letters & Lights en maak ik de mooiste kaarsen en andere handgemaakte producten, veelal geïnspireerd op boeken, series, films en hekserij. Als illustrator vind ik het fantastisch om mijn tekeningen tot leven te zien komen, of het nu boekenleggers zijn of grotere producten. 
+Hoi ik ben Emmy! Sinds 2016 bestaat Letters & Lights en maak ik de mooiste kaarsen en andere handgemaakte producten. Veelal geïnspireerd op boeken, series, films en hekserij. Als illustrator vind ik het fantastisch om mijn tekeningen tot leven te zien komen, of het nu boekenleggers zijn of grotere producten. 
 
 Letters & Lights is dé webshop voor nerdy en bookish kaarsen, thee, boekenleggers, boekenlinten, pins, mokken, sieraden, wierook, kaarten en meer. 
 
 Tijdens evenementen verkoop ik vaak niet alleen mij producten - en mijn boek! - vaak ben ik ook live aan het tekenen. 
 
-Kom je shoppen? Surf dan naar www.lettersandlights.nl 
+Kom je shoppen? Surf dan naar [www.lettersandlights.nl](https://www.lettersandlights.nl/)
 

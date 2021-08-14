@@ -1,21 +1,21 @@
 ---
 type: event # Render using event/list.html
-title: Andere Waren
+title: Accessories
+draft: true
 header-image:
   url: images/event/FCmap2.png
   position-x: 50%
   position-y: 60%
 resources:
-  - src: "preview_schatkist.png"
+  - src: "preview_accessories.png"
     name: "preview"
-    title: "Andere waren"
+    title: "Accessories Image"
     params:
-      categoryWidth: 15%
+      categoryWidth: 20%
       categoryHeight: 100px
-      categoryX: 45%
+      categoryX: 40%
       categoryY: 100px
 ---
-
 
 
 
