@@ -31,14 +31,11 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
     {{< /banner >}}
 {{< /aside >}}
 
-# Edition 2020, CANCELLED
-With pain in our hearts, we unfortunately needed to cancel Fantasy Court 2020. The nationwide regulations concerning COVID-19 at that time were in place until (at least) the 1st of June, whilst Fantasy Court 2020 would be on the 7th of June. Futhermore, even stricter regulations later on forbid all festivals in the Netherlands from taking place.
+# Edition 2021
+Fantasy Court 2021 will take place online. Please view the relevant page [here](en/event-2021).
 
-This was too short to organise a festival without acceptable human risk, financial risk, or study delays. We had considered moving the festival, but could not find any good options offering enough security for a successful event, good weather, or time until Fantasy Court 2021.
-
-Due to this reason, we had decided to fully focus on the next edition around June 2021. We hope to see you all then in good health.
-
-Want to keep up with development regarding Fantasy Court 2021? Then check our [Facebook Page](https://www.facebook.com/FantasyCourt/)! As per usual, you can also reach us via [e-mail](mailto:organisatie@fantasycourt.nl)!
+# Edition 2020
+With pain in our hearts, we unfortunately needed to cancel Fantasy Court 2020. The at the time nationwide regulations regarding COVID-19 did not allow for a physical festival at that time. We had considered moving the festival to a later date, but did not see good options that would guarantee a successful event.
 
 ## Video and Article Edition 2019
 {{< youtube id="fhyHCuGGCp8" title="Fantasy Court 2019" >}}
@@ -79,7 +76,7 @@ Do you want to join with a stall, act, or service at Fantasy Court? Then please 
 If you wish to sponsor us so that we can bring this wonderful subculture to the people at large through this wonderful festival this summer? Then please contact us at [info@fantasycourt.nl](mailto:info@fantasycourt.nl). With your sponsorship we can ensure that the festival is open to everyone and make it even more fantastical with extra entertainment to make it a most marvellous day.
 
 {{< message margin-top="80px" margin-bottom="100px">}}
-_See you at the court!_  
+_See you at the court!_
 {{< /message >}}
 
 ## Sponsors

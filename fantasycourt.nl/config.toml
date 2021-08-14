@@ -42,6 +42,12 @@ title = "Standhouders"
 url = "/standhouders/"
 weight = 3
 
+[[languages.nl.menu.main]]
+identifier = "event-2021"
+title = "Editie 2021"
+url = "/event-2021/"
+weight = 4
+
 # [[languages.nl.menu.main]]
 # identifier = "tourney"
 # title = "Toernooiregels"
@@ -85,6 +91,12 @@ identifier = "vendors"
 title = "Vendors and Acts"
 url = "/standhouders/"
 weight = 3
+
+[[languages.en.menu.main]]
+identifier = "event-2021"
+title = "Event 2021"
+url = "/event-2021/"
+weight = 4
 
 # [[languages.en.menu.main]]
 # identifier = "tourney"
