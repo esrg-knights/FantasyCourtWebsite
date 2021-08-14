@@ -19,11 +19,13 @@ aside {
   // Screen is big enough for content to float (tablet)
   @media screen and (min-width: 1.75*$mobileWidth) {
     &.right {
-      float: right
+      float: right;
+      padding-left: 20px;
     }
 
     &.left {
-      float: left
+      float: left;
+      padding-right: 20px;
     }
   }
 

@@ -9,7 +9,7 @@
 }
 
 .fc-block {
-  background-color: $contentColour;
+  background-color: $eventBlockBackgroundColor;
   border: 4px solid $borderColour;
   color: $textColor;
   text-align: center;
@@ -20,6 +20,6 @@
   @extend .fc-block;
 
   &:hover {
-      background-color: darken($contentColour, 15%);
+      background-color: darken($eventBlockBackgroundColor, 15%);
   }
 }

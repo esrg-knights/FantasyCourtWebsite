@@ -1,7 +1,7 @@
 .header-event {
     @extend .header-image;
 
-    padding: 20px 0px 5px 0px;
+    padding: 0px 0px 5px 0px;
 
     #event-item-list > ul {
         margin-bottom: 0px;
@@ -24,7 +24,12 @@
     // Category Name/"Back to X"
     .item-title {
         font-weight: bold;
-        font-size: x-large;
+        font-size: large;
+
+        // Larger than mobile screens
+        @media screen and (min-width: $containerWidth) {
+            font-size: x-large;
+        }
     }
 
     // Button is disabled
@@ -37,17 +42,20 @@
     &-li {
         @extend .event-item;
         list-style: none;
-        margin: 10px 0px;
+        padding-bottom: 10px;
 
         @media screen and (max-width: $containerWidth) {
-            // Smaller vertical margins on small screens
-            margin: 5px 0px;
+            // Smaller vertical padding on small screens
+            padding-bottom: 5px;
         }
 
         // Take up the entire width, and align text to the left
         > .btn {
+            display: flex;
+            align-items: center;
             width: 100%;
             text-align: start;
+            border-width: 4px;
         }
 
         // Small preview image
@@ -55,7 +63,11 @@
             height: 60px;
             width: 60px;
             object-fit: contain;
-            margin-right: 10px;
+        }
+
+        // Vendor name
+        .item-title {
+            margin-left: 20px;
         }
     }
 
@@ -70,10 +82,15 @@
 
         img {
             width: 100%;
-            height: 160px;
+            height: 60px;
             padding-left: 25px;
             padding-right: 25px;
             object-fit: contain;
+
+            // Larger than mobile screens
+            @media screen and (min-width: $containerWidth) {
+                height: 160px;
+            }
         }
 
         // Back to XYZ buttons with a fixed width, appearing at a fixed location
@@ -89,7 +106,7 @@
             @extend .event-item-lg-fixed;
 
             .fc-block {
-                background-color: darken($contentColour, 30%);
+                background-color: darken($eventBlockBackgroundColor, 30%);
                 border-color: darken($borderColour, 15%);
                 cursor: inherit;
             }
