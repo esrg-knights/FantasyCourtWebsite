@@ -2,9 +2,9 @@
 type: event
 title: De Organisatie
 header-image:
-  url: images/event/pear_pluchie.png
+  url: images/event/FCmap2.png
   position-x: 50%
-  position-y: 50%
+  position-y: 40%
 contactInfos:
   - name: Website
     urls:

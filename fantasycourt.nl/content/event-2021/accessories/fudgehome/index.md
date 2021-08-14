@@ -2,9 +2,9 @@
 type: event
 title: Fudge Factory en Happy Homestuff
 header-image:
-  url: images/event/pear_pluchie.png
+  url: images/event/FCmap2.png
   position-x: 50%
-  position-y: 50%
+  position-y: 40%
 contactInfos:
   - name: Website
     urls:

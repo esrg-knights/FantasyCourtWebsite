@@ -1,8 +1,8 @@
 ---
 type: event
-title: Roleplay
+title: Larp en Rollenspel
 header-image:
-  url: images/event/FCmap.jpg
+  url: images/event/FCmap2.jpg
   position-x: 50%
   position-y: 50%
 resources:

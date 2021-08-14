@@ -3,7 +3,7 @@ type: event # Render using event/list.html
 title: Event 2021
 draft: true
 header-image:
-  url: images/event/FCmap.png
+  url: images/event/FCmap2.png
   position-x: 50%
   position-y: 60%
 

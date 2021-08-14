@@ -2,9 +2,9 @@
 type: event
 title: Red Eyed Rabbit
 header-image:
-  url: images/event/pear_pluchie.png
+  url: images/event/FCmap2.png
   position-x: 50%
-  position-y: 50%
+  position-y: 40%
 resources:
   - src: "logo-red-eyed-rabbit.jpg"
     name: "preview"
