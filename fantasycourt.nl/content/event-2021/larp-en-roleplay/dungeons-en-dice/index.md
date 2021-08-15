@@ -55,7 +55,7 @@ Dungeons and Dice is dé webshop voor Dungeons and Dragons / Pathfinder. We zijn
 
 {{< aside >}}
     {{< factoid >}}
-        Wist je dat Dungeons&Dice ook verzamelingen opkopen? Of samen met jou die éne mini zoeken? Leg dan contact met hen via [Dungeonsanddicenl@gmail.com](mailto:Dungeonsanddicenl@gmail.com) en dan mailen zij je terug.
+        Wist je dat Dungeons&Dice ook verzamelingen opkopen? Of samen met jou die éne mini zoeken? Leg dan contact met hen via <a href="mailto:Dungeonsanddicenl@gmail.com">Dungeonsanddicenl@gmail.com</a> en dan mailen zij je terug.
     {{< /factoid >}}
 {{< /aside >}}
 
