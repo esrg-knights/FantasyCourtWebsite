@@ -30,8 +30,6 @@ Dit jaar kon ons fysieke festival helaas niet doorgaan en hebben wij besloten ee
 
 We hopen jullie in 2022 allemaal weer terug te zien op een fysieke editie van Fantasy Court!
 
-Hoffelijke groetjes,
-
-Het team achter Fantasy Court
-
+Hoffelijke groetjes,  
+Het team achter Fantasy Court  
 Linde, Eric, Kevin, Remy, Hans, Annemarie en Maikel

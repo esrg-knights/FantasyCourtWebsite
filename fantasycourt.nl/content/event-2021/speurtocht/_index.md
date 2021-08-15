@@ -17,7 +17,11 @@ resources:
 ---
 
 # Speurtocht
+Voor deze digitale editie van Fantasy Court hebben we een leuke prijs om te winnen.
+Speur de evenementwebsite af naar antwoorden en vul het formulier in om kans te maken op de Larp Xperience box van [LARP platform](https://www.larp-platform.nl/merch/xperiencebox-2021/)!
 
+Deze box bevat allemaal leuke goodies zoals die hier beneden te zien zijn, exclusief de knuffels en het T-shirt.
+{{< standimage src="larpxp.png" alt="Dolle Griet" align="center" width="100%">}}  
 
 {{< aside >}}
     {{< factoid >}}
