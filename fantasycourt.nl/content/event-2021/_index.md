@@ -15,15 +15,6 @@ resources:
       categoryX: 300px
       categoryY: 200px
 ---
-
-
-{{< aside >}}
-    {{< factoid >}}
-        Hoi ik ben Remy! Wist je dat tomaten rood zijn?
-    {{< /factoid >}}
-{{< /aside >}}
-
-
 # Fantasy Court 2021
 Fantasy court is dit jaar online!
 

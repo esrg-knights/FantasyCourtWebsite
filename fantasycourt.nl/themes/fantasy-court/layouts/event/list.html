@@ -56,7 +56,8 @@
   {{ $isMainSite := eq ($.Site.GetPage "event-2021").Permalink $.Permalink }}
   {{ $isOrgPage := eq ($.Site.GetPage "event-2021/organisatie").Permalink $.Permalink }}
   {{ $isSpeurtochtPage := eq ($.Site.GetPage "event-2021/speurtocht").Permalink $.Permalink }}
-  {{- if or (or $isMainSite $isOrgPage) $isSpeurtochtPage -}}
+  {{ $isMuziekPage := eq ($.Site.GetPage "event-2021/muziek").Permalink $.Permalink }}
+  {{- if or (or  (or $isMainSite $isOrgPage) $isSpeurtochtPage ) $isMuziekPage -}}
     content fancy-edge
   {{- else -}}
     {{/* Nothing */}}
