@@ -1,7 +1,7 @@
 ---
 type: event # Render using event/list.html
 title: Pluchies
-draft: True
+draft: true
 header-image:
   url: images/event/FCmap.jpg
   position-x: 50%
@@ -13,8 +13,8 @@ resources:
     params:
       categoryWidth: 20%
       categoryHeight: 100px
-      categoryX: 3400px
-      categoryY: 2400px
+      categoryX: 0px
+      categoryY: 0px
 ---
 
 

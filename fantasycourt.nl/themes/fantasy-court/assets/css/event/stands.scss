@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////
 // Carrousel
-#carouselStand {
+#carouselStand, #carouselProduct {
     // Add a small border
     border: 1px solid $borderColour;
     margin-bottom: 20px;
@@ -30,27 +30,6 @@
             font-size: 14px;
         }
 
-    }
-}
-
-///////////////////////////////////////////////////////////////////
-// Carrousel
-#carouselProduct {
-    // Add a small border
-    border: 1px solid $borderColour;
-    margin-bottom: 20px;
-
-    // Fill empty space with another colour
-    .carousel-item {
-        background-color: $textColor;
-    }
-
-    // Ensure that all Carousel images have the same dimensions
-    .carousel-item > img {
-        height: 400px;
-        width: 100%;
-        margin: auto;
-        object-fit: contain;
     }
 }
 

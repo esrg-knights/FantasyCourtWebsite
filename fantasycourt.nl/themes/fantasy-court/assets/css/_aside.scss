@@ -1,15 +1,46 @@
 aside {
-  @media screen and (max-width: $containerWidth + $bannerWidth*3) {
-    display: none;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-right: 5px;
+  padding-left: 5px;
+
+  * {
+    max-width: 100%;
   }
 
-  position: absolute;
-
-  &.right {
-    right: -20vw;
+  > * {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
   }
 
-  &.left {
-    left: -25vw;
+
+  // Screen is big enough for content to float (tablet)
+  @media screen and (min-width: 1.75*$mobileWidth) {
+    &.right {
+      float: right;
+      padding-left: 20px;
+    }
+
+    &.left {
+      float: left;
+      padding-right: 20px;
+    }
+  }
+
+  // Screen is big enough to appear as content on the side (pc)
+  @media screen and (min-width: $containerWidth + $bannerWidth*3) {
+    display: block;
+    float: none;
+    position: absolute;
+
+    &.right {
+      right: -20vw;
+    }
+
+    &.left {
+      left: -25vw;
+    }
   }
 }
