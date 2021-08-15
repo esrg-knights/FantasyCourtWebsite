@@ -33,8 +33,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 400px
-      categoryY: 450px
+      categoryX: 40%
+      categoryY: 300px
   - src: "carousel/jod-5e-candlekeep-mysteries.jpeg"
     title: "D&D 5e Candlekeep Mysteries book"
   - src: "carousel/jod-button-melee-range.JPG"

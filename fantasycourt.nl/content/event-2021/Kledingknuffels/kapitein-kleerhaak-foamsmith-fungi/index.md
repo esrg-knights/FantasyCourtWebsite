@@ -31,8 +31,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 400px
-      categoryY: 180px
+      categoryX: 40%
+      categoryY: 300px
   - src: "carousel/kk-ff-art.jpg"
     title: "Tekening van een draak."
   - src: "carousel/kk-ff-bottleholder.jpg"

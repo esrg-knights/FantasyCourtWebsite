@@ -1,7 +1,6 @@
 ---
 type: event # Render using event/list.html
 title: Kleding en Knuffels
-draft: true
 header-image:
   url: images/event/FCmap2.png
   position-x: 50%
@@ -13,10 +12,10 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 20%
+      categoryX: 25%
       categoryY: 300px
 ---
-
+<!--
 
 
 
@@ -27,4 +26,4 @@ Kijk naar deze coole pagina over nietaccesoires!
     {{< factoid >}}
         TODO
     {{< /factoid >}}
-{{< /aside >}}
+{{< /aside >}} -->

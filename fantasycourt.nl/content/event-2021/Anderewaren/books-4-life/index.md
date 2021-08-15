@@ -28,8 +28,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 100px
-      categoryY: 150px
+      categoryX: 40%
+      categoryY: 300px
   - src: "carousel/b4l-fantasykast.jpg"
     title: "Volle kast met Fantasyboeken"
   - src: "carousel/b4l-gevel.jpg"

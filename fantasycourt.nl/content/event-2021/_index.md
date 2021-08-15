@@ -24,16 +24,20 @@ resources:
     {{< /factoid >}}
 {{< /aside >}}
 # Fantasy Court 2021
-Fantasy court is dit jaar online!
-Dit jaar organiseren we de boel in een ander format, zonder de fysieke gezelligheid en activiteiten maar wel met leuke content!
+Fantasy court is dit jaar online! 
+
+Fantasy court is een kleinschalig, gratis Fantasy Festival in Eindhoven dat zich bezighoud met de cultuur rondom fantasy, LARP, bord- en rollenspellen. Normaliter fysiek georganiseerd in de zomer met leuke activiteiten zoals LARP zwaardvechttraining, een zwaardvechttoernooi, boogschieten en allerlei leuke kraampjes met accessoires, larp attributen, boeken, kleding, eten en enkele verenigingen. Daarnaast zijn er altijd enkele live acts rondom muziek, dans, verhalenvertellen, podcasts, etc. 
+Dit jaar kon ons fysieke festival helaas niet doorgaan en hebben wij besloten een event website te maken met daarop verkopers die normaal op de mark zouden staan, leuke informatie en een puzzel waarmee een leuk prijzenpakket te winnen valt. 
+
+
+Dit jaar is het een ander format dan jullie gewend zijn, helaas zonder de fysieke gezelligheid en activiteiten maar wel met leuke content!
 
 Klik op een van de bovenstaande categoriën om over het digitale festival heen te lopen.
 
 We hopen jullie in 2022 allemaal weer terug te zien op een fysieke editie van Fantasy Court!
 
-
-Hoffelijke groetjes,
-Het team achter Fantasy Court
+Hoffelijke groetjes,  
+Het team achter Fantasy Court  
 Linde, Eric, Kevin, Remy, Hans, Annemarie en Maikel
 
 

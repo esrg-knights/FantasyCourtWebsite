@@ -2,7 +2,7 @@
 type: event
 title: Larp en Rollenspel
 header-image:
-  url: images/event/FCmap2.jpg
+  url: images/event/FCmap2.png
   position-x: 50%
   position-y: 50%
 resources:
@@ -15,7 +15,7 @@ resources:
       categoryX: 45%
       categoryY: 300px
 ---
-
+<!-- 
 
 
 
@@ -36,4 +36,4 @@ Mauris interdum pretium maximus. Donec malesuada dui quis augue blandit ultrices
 
 Donec laoreet magna et tortor rhoncus, quis luctus augue posuere. Etiam tincidunt nulla tortor, mattis ultrices dolor feugiat a. Nunc nisi orci, sollicitudin nec ligula vel, sollicitudin iaculis sapien. Aliquam erat volutpat. Morbi luctus ex vel sem mattis fringilla. Vestibulum ut metus purus. Nullam interdum dictum quam, eget dignissim odio vestibulum at. Sed enim ipsum, luctus eleifend congue ut, facilisis sit amet augue. Proin nulla eros, dictum in semper et, feugiat vitae magna. Nulla efficitur venenatis urna eu bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc ut est pulvinar, fringilla diam vitae, auctor lorem. Praesent egestas nibh nulla, nec volutpat turpis vestibulum quis.
 
-Donec gravida gravida velit vitae tincidunt. Nullam viverra urna nisl, eget sagittis dolor pulvinar vitae. In hac habitasse platea dictumst. Ut vulputate turpis purus, eget rutrum metus aliquam nec. Praesent sodales tortor at mi fringilla, nec varius est euismod. Suspendisse nec cursus velit. Maecenas porttitor sed risus et pretium. Suspendisse potenti. Nulla rhoncus feugiat ligula vel semper. Quisque quis urna leo. Suspendisse vel tristique felis.
+Donec gravida gravida velit vitae tincidunt. Nullam viverra urna nisl, eget sagittis dolor pulvinar vitae. In hac habitasse platea dictumst. Ut vulputate turpis purus, eget rutrum metus aliquam nec. Praesent sodales tortor at mi fringilla, nec varius est euismod. Suspendisse nec cursus velit. Maecenas porttitor sed risus et pretium. Suspendisse potenti. Nulla rhoncus feugiat ligula vel semper. Quisque quis urna leo. Suspendisse vel tristique felis. -->

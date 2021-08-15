@@ -21,8 +21,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 600px
-      categoryY: 150px
+      categoryX: 20%
+      categoryY: 550px
   - src: "carousel/fc 3.jpg"
     title: "Wands"
   - src: "fc 7.jpg"
