@@ -47,24 +47,24 @@ resources:
   - src: "**"
     title: "Stand Image :counter"
 ---
+
+# Mamorumori
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
 
+{{< standimage src="preview" width="125px" align="right">}}
+_Ergens buiten ons bereik zit een verstopt bos waar de flora leeft en de fauna verzorgd en waar elke bewoner een eigen verhaal kent. Maar sommige moedige bewoners willen graag de wereld verkennen: ieder met zijn of haar eigen redenen._
 
-# Mamorumori
+_De Plum Rabbits hebben een adoptiecentrum gebouwd waar bewoners zichzelf kunnen inschrijven om in contact te kunnen komen met mensen. Wanneer je een nieuw huisgenootje neemt houdt er rekening mee dat ze aandacht en verzorging nodig hebben. Vaak zullen bewoners zichzelf inschrijven in de tijd van het jaar dat ze op hun best zijn: winter, lente, zomer of herfst._
+
 {{< aside >}}
     {{< factoid >}}
        Wist je dat de plum Kurisu deel uitmaakte van de <a href="https://www.facebook.com/FantasyCourt/posts/1843119395852591" target="_blank">Fantasy Court kerstkaart/foto</a>?
     {{< /factoid >}}
 {{< /aside >}}
-
-{{< standimage src="preview" width="125px" align="right">}}
-_Ergens buiten ons bereik zit een verstopt bos waar de flora leeft en de fauna verzorgd en waar elke bewoner een eigen verhaal kent. Maar sommige moedige bewoners willen graag de wereld verkennen: ieder met zijn of haar eigen redenen._
-
-_De Plum Rabbits hebben een adoptiecentrum gebouwd waar bewoners zichzelf kunnen inschrijven om in contact te kunnen komen met mensen. Wanneer je een nieuw huisgenootje neemt houdt er rekening mee dat ze aandacht en verzorging nodig hebben. Vaak zullen bewoners zichzelf inschrijven in de tijd van het jaar dat ze op hun best zijn: winter, lente, zomer of herfst._
 
 Mamorumori-bewoners zijn compleet handgemaakt. De meeste stoffen zijn lokaal ingekocht. Elke bewoner heeft een unieke naam, geschiedenis en persoonlijkheid. Ze zijn one-of-a-kind.
 

@@ -15,15 +15,3 @@ resources:
       categoryX: 20%
       categoryY: 300px
 ---
-<!--
-
-
-
-# Accessories
-Kijk naar deze coole pagina over nietaccesoires!
-
-{{< aside >}}
-    {{< factoid >}}
-        TODO
-    {{< /factoid >}}
-{{< /aside >}} -->

@@ -23,30 +23,16 @@ resources:
       categoryHeight: 100px
       categoryX: 60%
       categoryY: 300px
-  # - src: "carousel/b4l-fantasykast.jpg"
-  #   title: "Volle kast met Fantasyboeken"
-  # - src: "carousel/b4l-gevel.jpg"
-  #   title: "Gebouw Books 4 Life Eindhoven"
-  # - src: "carousel/*"
-  #   name: "carousel/carousel-item-:counter"
-  #   title: "Sliding Stand Image :counter"
-  # - src: "**"
-  #   title: "Stand Image :counter"
 ---
+
+# Fudge Factory en Happy Homestuff
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
 
-
-# Fudge Factory en Happy Homestuff
-{{< aside >}}
-    {{< factoid >}}
-        PLACEHOLDER
-    {{< /factoid >}}
-{{< /aside >}}
-{{< standimage src="Fugde.PNG" alt="Fudge Factory" align="left" width="380px">}}
+{{< standimage src="Fudge.png" align="center">}}
 
 Wij zijn Ron en Sonja van The Fudge Factory en van Happy Homestuff.
 
@@ -54,6 +40,11 @@ The Fudge Factory draait sinds een jaar of 5 mee op de fantasy’s. We maken all
 
 We hebben 45 smaken online en op beurzen proberen we 20 tot 24 smaken mee te hebben. Er is voor iedereen wel een smaak die ze lekker vinden! De topper is wel de Oreo Cookie.
 
+{{< aside >}}
+    {{< factoid >}}
+        Wist je dat Fantasy Court begonnen is als LARP Battle, een larpzwaardvechttoernooi? Maar de kraampjes en sfeer waren veel te gezellig!
+    {{< /factoid >}}
+{{< /aside >}}
 
 De Happy Homestuff verkoopt houten geurballetjes in leuke kleuren, heerlijke geuren en verschillende soorten olie. De geurballetjes kan je in je badkamer of toilet leggen maar ook in de auto, kledingkast of welke andere ruimte je dan ook in gedachten had. Ze blijven zeker een jaar geuren.
 
