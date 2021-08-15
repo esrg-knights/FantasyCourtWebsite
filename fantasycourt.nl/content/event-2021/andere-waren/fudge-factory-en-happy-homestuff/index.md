@@ -23,15 +23,6 @@ resources:
       categoryHeight: 100px
       categoryX: 60%
       categoryY: 300px
-  # - src: "carousel/b4l-fantasykast.jpg"
-  #   title: "Volle kast met Fantasyboeken"
-  # - src: "carousel/b4l-gevel.jpg"
-  #   title: "Gebouw Books 4 Life Eindhoven"
-  # - src: "carousel/*"
-  #   name: "carousel/carousel-item-:counter"
-  #   title: "Sliding Stand Image :counter"
-  # - src: "**"
-  #   title: "Stand Image :counter"
 ---
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
