@@ -12,8 +12,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 100px
-      categoryY: 150px
+      categoryX: 40%
+      categoryY: 550px
   - src: "carousel/r3r-Alverlanden.jpg"
     title: "Kaart Alverlanden"
   - src: "carousel/r3r-amborsia-basisspel.jpg"

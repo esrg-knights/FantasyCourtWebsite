@@ -29,8 +29,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 300px
-      categoryY: 150px
+      categoryX: 20%
+      categoryY: 300px
   - src: "carousel/overview-different-items.jpg"
     title: "Waren Dungeons and Dice"
   - src: "carousel/fantasy-court-2019"
