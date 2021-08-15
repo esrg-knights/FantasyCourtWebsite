@@ -2,9 +2,9 @@
 type: event
 title: Red Eyed Rabbit
 header-image:
-  url: images/event/FCmap2.png
+  url: images/event/FCback.JPG
   position-x: 50%
-  position-y: 40%
+  position-y: 60%
 resources:
   - src: "logo-red-eyed-rabbit.jpg"
     name: "preview"
@@ -35,11 +35,11 @@ Contactgegevens (TODO):
 
 
 # Red Eyed Rabbit
-<!-- {{< aside >}}
+{{< aside >}}
     {{< factoid >}}
-        Wist je dat dobbelstenen een vitaal onderdeel zijn van vele tabletop rollenspellen? Maar in de meeste live action rollenspelen (LARPs) komen ze juist bijna niet voor
+        Wist je dat dobbelstenen een vitaal onderdeel zijn van vele tabletop rollenspellen? Maar in de meeste live action rollenspelen (LARPs) komen ze juist bijna niet voor.
     {{< /factoid >}}
-{{< /aside >}} -->
+{{< /aside >}} 
 
 Diep in ons collectief geheugen, verhuld door nevelen van vergetelheid, ligt een wereld die balanceert op dat fijne randje tussen sluimer en ontwaken. Een wereld die uit een schilderij van Jheronimus Bosch of Pieter Brueghel lijkt te komen, een wereld van goden en monsters. Dit is de wereld van Ambrosia, een uniek rollenspel geïnspireerd door de geschiedenis en de folklore van de Lage Landen.
 

@@ -2,9 +2,9 @@
 type: event
 title: Jack of Dice
 header-image:
-  url: images/event/FCmap2.png
+  url: images/event/FCback.JPG
   position-x: 50%
-  position-y: 40%
+  position-y: 60%
 contactInfos:
   - name: Website
     urls:

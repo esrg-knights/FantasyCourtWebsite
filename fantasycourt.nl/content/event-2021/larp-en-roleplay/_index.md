@@ -2,9 +2,9 @@
 type: event
 title: Larp en Rollenspel
 header-image:
-  url: images/event/FCmap2.png
+  url: images/event/FCback.JPG
   position-x: 50%
-  position-y: 50%
+  position-y: 55%
 resources:
   - src: "preview_larp.png"
     name: "preview"
@@ -12,7 +12,7 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 45%
+      categoryX: 40%
       categoryY: 300px
 ---
 <!--

@@ -2,9 +2,9 @@
 type: event # Render using event/single.html
 title: Larpcenter
 header-image:
-  url: images/event/larpcenter1.jpg
+  url: images/event/FCback.jpg
   position-x: 50%
-  position-y: 50%
+  position-y: 60%
 resources:
   - src: "visitekaartje_extra.jpg" # Preview image used on overview pages
     name: "preview" # Specific name required

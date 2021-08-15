@@ -2,9 +2,9 @@
 type: event # Render using event/list.html
 title: Event 2021
 header-image:
-  url: images/event/FCmap2.png
+  url: images/event/FCback.JPG
   position-x: 50%
-  position-y: 60%
+  position-y: 55%
 resources:
   - src: "FC_Logo.png"
     name: "preview"
@@ -15,6 +15,14 @@ resources:
       categoryX: 300px
       categoryY: 200px
 ---
+
+
+{{< aside >}}
+    {{< factoid >}}
+        Hoi ik ben Remy! Wist je dat tomaten rood zijn?
+    {{< /factoid >}}
+{{< /aside >}}
+
 
 # Fantasy Court 2021
 Fantasy court is dit jaar online!
@@ -32,10 +40,3 @@ We hopen jullie in 2022 allemaal weer terug te zien op een fysieke editie van Fa
 Hoffelijke groetjes,
 Het team achter Fantasy Court
 Linde, Eric, Kevin, Remy, Hans, Annemarie en Maikel
-
-
-{{< aside >}}
-    {{< factoid >}}
-        Hoi ik ben Remy! Wist je dat tomaten rood zijn?
-    {{< /factoid >}}
-{{< /aside >}}

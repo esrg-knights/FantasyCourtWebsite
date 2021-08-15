@@ -2,9 +2,9 @@
 type: event
 title: De Organisatie
 header-image:
-  url: images/event/FCmap2.png
+  url: images/event/FCback.JPG
   position-x: 50%
-  position-y: 40%
+  position-y: 55%
 contactInfos:
   - name: Website
     urls:
@@ -29,7 +29,7 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 25%
+      categoryX: 20%
       categoryY: 550px
   - src: "carousel/fc-balfolk-dancing-ronald-rietman.jpg"
     title: "Fantasy Court Balfolk dansen"

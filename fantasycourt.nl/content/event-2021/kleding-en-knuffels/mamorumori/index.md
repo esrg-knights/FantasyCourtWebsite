@@ -2,9 +2,9 @@
 type: event
 title: Mamorumori
 header-image:
-  url: images/event/FCmap2.png
+  url: images/event/FCback.JPG
   position-x: 50%
-  position-y: 40%
+  position-y: 60%
 contactInfos:
   - name: Website
     urls:
@@ -57,8 +57,7 @@ resources:
 # Mamorumori
 {{< aside >}}
     {{< factoid >}}
-       Wist je dat de plum Kurisu deel uitmaakte van de Fantasy Court kerstkaart/foto?
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FFantasyCourt%2Fposts%2F1843119395852591&show_text=true&width=500" width="500" height="767" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+       Wist je dat de plum Kurisu deel uitmaakte van de <a href="https://www.facebook.com/FantasyCourt/posts/1843119395852591" target="_blank">Fantasy Court kerstkaart/foto</a>?
     {{< /factoid >}}
 {{< /aside >}}
 

@@ -2,9 +2,9 @@
 type: event # Render using event/list.html
 title: Andere Waren
 header-image:
-  url: images/event/FCmap2.png
+  url: images/event/FCback.JPG
   position-x: 50%
-  position-y: 60%
+  position-y: 55%
 resources:
   - src: "preview_schatkist.png"
     name: "preview"
@@ -12,7 +12,7 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 45%
+      categoryX: 40%
       categoryY: 550px
 ---
 <!--
