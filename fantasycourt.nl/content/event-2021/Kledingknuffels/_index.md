@@ -1,7 +1,6 @@
 ---
 type: event # Render using event/list.html
 title: Kleding en Knuffels
-draft: true
 header-image:
   url: images/event/FCmap2.png
   position-x: 50%
