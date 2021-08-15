@@ -33,8 +33,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 400px
-      categoryY: 450px
+      categoryX: 40%
+      categoryY: 300px
   - src: "carousel/jod-5e-candlekeep-mysteries.jpeg"
     title: "D&D 5e Candlekeep Mysteries book"
   - src: "carousel/jod-button-melee-range.JPG"
@@ -63,7 +63,7 @@ resources:
 # Jack of Dice
 {{< aside >}}
     {{< factoid >}}
-        TODO
+        Wist je dat de favouriete dobbelsteen van de Fantasy Court voorzitter fudge/fate dice zijn? En dat Jack of Dice deze ook verkoopt?
     {{< /factoid >}}
 {{< /aside >}}
 
@@ -72,6 +72,6 @@ Jack of Dice is ontstaan uit liefde voor dobbelstenen en spelletjes. Toen de eer
 ### _De mythe genaamd Jack._
 Jack is onze patroon, een entiteit waarvan niemand precies weet wie het is, wat het is en waarom het zo van dobbelstenen houdt. Niet dat we klagen, want Jack is ons (voor zover we weten) goedgezind, gek op spelletjes en vooral lyrisch over dobbelstenen.
 
-We weten dus niet veel over Jack, maar wat we weten is wel ontzettend indrukwekkend. Wist je dat als het langskomt alle dobbelstenen 20 rollen? Zelfs de zes zijdige dobbelstenen? Of dat waar Jack vandaan komt het nationale dier een Mimic is? Word lid van onze nieuwsbrief en kom alles te weten over Jack!
+We weten dus niet veel over Jack, maar wat we weten is wel ontzettend indrukwekkend. Wist je dat als het langskomt alle dobbelstenen 20 rollen? Zelfs de zes zijdige dobbelstenen? Of dat waar Jack vandaan komt het nationale dier een Mimic is? Word lid van onze [nieuwsbrief](https://jackofdice.us16.list-manage.com/subscribe?u=c64319022d1e1c5270274dc49&id=11adb6a98e) en kom alles te weten over Jack!
 
 {{< standimage src="jod-d8-healingpotion.JPG">}}

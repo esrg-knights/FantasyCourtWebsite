@@ -31,8 +31,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 400px
-      categoryY: 180px
+      categoryX: 40%
+      categoryY: 300px
   - src: "carousel/kk-ff-art.jpg"
     title: "Tekening van een draak."
   - src: "carousel/kk-ff-bottleholder.jpg"
@@ -78,8 +78,8 @@ resources:
 **Ahoy mateys!**
 {{< standimage src="kk-ff-the-foamsmith-fungi-logo.png" width="160px" align="right">}}
 
-Mijn naam is Kapitein Veronica Kleerhaak, en vanuit mijn Workship in Hilvarenbeek maak ik samen met The Foamsmith Fungi unieke kostuums en accessoires met onder andere stof, leer, foam en borduurwerk. 
+Mijn naam is Kapitein Veronica Kleerhaak en vanuit mijn Workship in Hilvarenbeek maak ik samen met The Foamsmith Fungi unieke kostuums en accessoires met onder andere stof, leer, foam en borduurwerk. 
 
-In mijn webshop www.kapiteinkleerhaak.com zijn een aantal van onze producten te vinden, zoals stevige larp-proof broeken, unieke foam maskers en prachtig beschilderde leren tassen. Naast het standaard aanbod is het ook mogelijk om van alles custom te laten maken. Kijk vooral eens bij de ‘Trash into Treasures’ dicebags en knapsack tassen! Deze zijn gemaakt van reststoffen van de meubelindustrie, zo maken we minder rommel en meer prachtige items!
+In mijn webshop [kapiteinkleerhaak.com](http://www.kapiteinkleerhaak.com) zijn een aantal van onze producten te vinden, zoals stevige larp-proof broeken, unieke foam maskers en prachtig beschilderde leren tassen. Naast het standaard aanbod is het ook mogelijk om van alles custom te laten maken. Kijk vooral eens bij de ‘Trash into Treasures’ dicebags en knapsack tassen! Deze zijn gemaakt van reststoffen van de meubelindustrie, zo maken we minder rommel en meer prachtige items!
 
 Dus wil jij een unieke bag voor je shiny click clacks? Zoek jij die ene bijzondere accessoire om je kostuum compleet te maken? Houd dan vooral onze Facebook, Instagram en Etsy shop in de gaten of stuur een berichtje met jouw project!
