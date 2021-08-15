@@ -15,7 +15,7 @@ resources:
       categoryX: 25%
       categoryY: 300px
 ---
-<!-- 
+<!--
 
 
 

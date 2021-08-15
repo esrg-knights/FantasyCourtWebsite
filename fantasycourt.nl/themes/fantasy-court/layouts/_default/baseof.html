@@ -10,7 +10,7 @@
             {{- partial "header-image.html" . -}}
         {{- end }}
 
-        <div class="content fancy-edge">
+        <div class="{{ block "main-class" . }}content fancy-edge{{ end}}">
             <div class="content-side-left"></div>
             <div class="content-side-right"></div>
             {{- block "main" . }}
