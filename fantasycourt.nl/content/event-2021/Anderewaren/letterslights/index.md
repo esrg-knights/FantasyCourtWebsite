@@ -21,8 +21,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 400px
-      categoryY: 150px
+      categoryX: 20%
+      categoryY: 550px
   - src: "carousel/image0.jpg"
     # title: "Volle kast met Fantasyboeken"
   - src: "carousel/image1.jpg"

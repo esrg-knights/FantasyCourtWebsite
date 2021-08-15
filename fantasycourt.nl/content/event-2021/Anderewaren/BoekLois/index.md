@@ -25,8 +25,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 100px
-      categoryY: 400px
+      categoryX: 20%
+      categoryY: 300px
   - src: "carousel/Boekkast.jpg"
     title: "Boeken"
   - src: "carousel/Comiccon.jpg"

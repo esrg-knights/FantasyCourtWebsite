@@ -29,8 +29,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 60%
-      categoryY: 150px
+      categoryX: 25%
+      categoryY: 550px
   - src: "carousel/fc-balfolk-dancing-ronald-rietman.jpg"
     title: "Fantasy Court Balfolk dansen"
     params:

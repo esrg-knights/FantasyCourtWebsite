@@ -29,8 +29,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 50px
-      categoryY: 50px
+      categoryX: 20%
+      categoryY: 550px
   - src: "mm-pluchie-cactus-outside.JPG"
     title: "Cactus Pluchie buiten"
   - src: "carousel/mm-pluchie-cactus.JPG"

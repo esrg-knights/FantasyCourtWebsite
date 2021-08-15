@@ -12,8 +12,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 600px
-      categoryY: 350px
+      categoryX: 60%
+      categoryY: 300px
   - src: "carousel/*"
     name: "carousel/carousel-item-:counter"
     title: "Sliding Stand Image :counter" # Every carousel image without an alt-text gets a special name
