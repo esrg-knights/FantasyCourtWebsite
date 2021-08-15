@@ -31,13 +31,13 @@
             </div>
             <div class="row">
               <div class="col-sm">
-                <h2 id="stand-category-title">Meer {{ .Title }}</h2>
+                <h2 id="stand-category-title" style="text-shadow: 0px 0px 10px white;">Meer {{ .Title }}</h2>
               </div>
             </div>
             <div id="event-item-list" class="row">
               <ul class="col-sm">
-                <!-- Calculate the number of items that fit in each of the three rows -->
-                {{ $numItemsPerColumn := math.Ceil (div (len .Pages) 3.0) }}
+                <!-- Calculate the number of items that fit in each of the two rows -->
+                {{ $numItemsPerColumn := math.Ceil (div (len .Pages) 2.0) }}
                 {{ range $i, $e := .Pages }}
                   <!-- if (i != 0) and (i % NumItemsPerColumn) == 0 -->
                   {{ if and (ne $i 0) (modBool $i $numItemsPerColumn) }}

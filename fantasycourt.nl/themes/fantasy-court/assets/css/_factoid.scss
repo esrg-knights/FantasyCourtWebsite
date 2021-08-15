@@ -24,13 +24,25 @@
 ///////////////////////////////////////////////////////////////
 
 .factoid {
-    width: $factoidWidth;
+    width: 0.9*$factoidWidth;
 
     .factoid-remy {
+        width: 0.6*0.8*$factoidWidth;
         height: auto;
-        width: 250px;
+        display: block;
         margin-top: 5px;
-        margin-left: 25px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    // Screen is big enough for content on the side
+    @media screen and (min-width: $containerWidth + $bannerWidth*3) {
+        width: $factoidWidth;
+
+        .factoid-remy {
+            width: 0.8*$factoidWidth;
+            margin-left: 25px;
+        }
     }
 
     .factoid-content {
