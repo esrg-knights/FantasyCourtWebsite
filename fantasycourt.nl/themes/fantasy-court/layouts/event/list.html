@@ -53,11 +53,11 @@
 
 {{- define "main-class" -}}
   {{- /* HACK: This is fine for now, we just want to get rid of content padding on pages without content */ -}}
-  {{- with $.Site.GetPage "event-2021" -}}
-    {{- if (eq .Permalink $.Permalink) -}}
-      content fancy-edge
-    {{- else -}}
-      {{/* Nothing */}}
-    {{- end -}}
+  {{ $isMainSite := eq ($.Site.GetPage "event-2021").Permalink $.Permalink }}
+  {{ $isOrgPage := eq ($.Site.GetPage "event-2021/organisatie").Permalink $.Permalink }}
+  {{- if or $isMainSite $isOrgPage -}}
+    content fancy-edge
+  {{- else -}}
+    {{/* Nothing */}}
   {{- end -}}
 {{- end -}}

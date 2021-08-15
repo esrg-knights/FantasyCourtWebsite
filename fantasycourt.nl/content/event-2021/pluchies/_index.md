@@ -11,7 +11,7 @@ resources:
     name: "preview" # Specific name required
     title: "Pear Pluchie"
     params:
-      categoryWidth: 15%
+      categoryWidth: 20%
       categoryHeight: 100px
       categoryX: 3400px
       categoryY: 2400px
@@ -25,7 +25,7 @@ Kijk naar deze coole pagina over pluchies!
 
 {{< aside >}}
     {{< factoid >}}
-        Hoi ik ben Remy! Wist je dat Sir Bearington de pluchie-dictator van FC is?
+        Hoi ik ben Remy! Wist je dat Sir Bearington de pluchie-mascotte van FC is?
     {{< /factoid >}}
 {{< /aside >}}
 

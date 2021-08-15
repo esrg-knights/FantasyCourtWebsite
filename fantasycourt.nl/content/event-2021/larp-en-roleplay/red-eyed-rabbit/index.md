@@ -37,7 +37,7 @@ Contactgegevens (TODO):
 # Red Eyed Rabbit
 <!-- {{< aside >}}
     {{< factoid >}}
-        TODO
+        Wist je dat dobbelstenen een vitaal onderdeel zijn van vele tabletop rollenspellen? Maar in de meeste live action rollenspelen (LARPs) komen ze juist bijna niet voor
     {{< /factoid >}}
 {{< /aside >}} -->
 
@@ -45,10 +45,9 @@ Diep in ons collectief geheugen, verhuld door nevelen van vergetelheid, ligt een
 
 {{< standimage src="carousel/r3r-amborsia-basisspel.jpg" width="240px" align="right">}}
 
-Ambrosia haalt zijn inspiratie uit de geschiedenis en folklore van de Lage Landen. Vergeet dus al wat je weet over hoge bergen en locaties die verdacht veel weg hebben van Nieuw-Zeeland; we verplaatsen de actie naar zompige polders en mistige heidelandschappen. Orks en goblins ruimen plaats voor aardmannen en witte wieven, terwijl bokkenrijders de regio teisteren. Dit alles speelt zich bovendien af in een duistere, middeleeuwse fantasy-setting waar klasseverschillen heersen,
-iedereen wel aan een vieze huidziekte lijkt te lijden, en de grenzen van het moreel aanvaardbare vaak lijken te verschuiven...
+Ambrosia haalt zijn inspiratie uit de geschiedenis en folklore van de Lage Landen. Vergeet dus al wat je weet over hoge bergen en locaties die verdacht veel weg hebben van Nieuw-Zeeland; we verplaatsen de actie naar zompige polders en mistige heidelandschappen. Orks en goblins ruimen plaats voor aardmannen en witte wieven, terwijl bokkenrijders de regio teisteren. Dit alles speelt zich bovendien af in een duistere, middeleeuwse fantasy-setting waar klasseverschillen heersen, iedereen wel aan een vieze huidziekte lijkt te lijden, en de grenzen van het moreel aanvaardbare vaak lijken te verschuiven...
 
-Maar Ambrosia biedt ook een volledig interactief verhaal waarin spelers evenveel hand hebben als de spelleider. Spelerpersonages zijn niet langer toeristen die het eens snel komen oplossen, maar volledig uitgewerkte protagonisten van een logische narrative, elk met een persoonlijke motivatie om het verhaal verder te zetten. Hoe de spelers zich juist gedragen in één scenario hebben bovendien een belangrijke impact op latere scenario's! Daarmee zorgt Ambrosia er dus voor dat de setting echt leeft en op organische wijze met de beslissingen van de spelers mee evolueert.
+Maar Ambrosia biedt ook een volledig interactief verhaal waarin spelers evenveel hand hebben als de spelleider. Spelerpersonages zijn niet langer toeristen die het eens snel komen oplossen, maar volledig uitgewerkte protagonisten van een logische narrative, elk met een persoonlijke motivatie om het verhaal verder te zetten. Hoe de spelers zich juist gedragen in één scenario heeft bovendien een belangrijke impact op latere scenario's! Daarmee zorgt Ambrosia er dus voor dat de setting echt leeft en op organische wijze met de beslissingen van de spelers mee evolueert.
 
 #### Trailer Ambrosia
 {{< youtube id="2-HrkyNCNvk" title="Trailer Ambrosia Video" >}}
@@ -58,12 +57,10 @@ Maar Ambrosia biedt ook een volledig interactief verhaal waarin spelers evenveel
 <br><br>
 
 - __Basisspel__: Dit boek bevat de basisregels voor Ambrosia, en vormt daarmee een onmisbaar naslagwerk voor alle spelers en spelleiders. Hierin staat alles vermeld wat je moet weten om een personage samen te stellen, zowel qua persoonlijkheid en vaardigheden als wat de uitrusting betreft, en worden ook de geheimen van de magische stroom blootgelegd. Het Basisspel is en blijft het enige handboek voor Ambrosia; verdere achtergrondinformatie is niet meteen toegankelijk voor spelers, maar kunnen ze wel gaandeweg ontdekken in de Kronieken.
-- __Duivelswinter__: Er gebeuren vreemde dingen in Hoogwoude, een afgelegen  stadje in de Morense Bergen. Strenge winters zijn hier niet ongewoon, maar de afgelopen maanden gaat de stad gebukt onder een onnatuurlijke vrieskou en onophoudelijke sneeuwstormen. Voedselschaarste dreigt, en de stad wordt belaagd door zowel uitgehongerde, wilde dieren als monsterachtige creaturen... Kerk noch staat durven het aan om hulp te sturen over de verraderlijke bergpassen. Daarom looft de stadhouder zelf een beloning it voor wie een einde kan maken aan deze eindeloze winter. Duivelswinter is een inleidend scenario voor
-Ambrosia dat spelers wegwijs maakt in het spelsysteem en de spelwereld.
+- __Duivelswinter__: Er gebeuren vreemde dingen in Hoogwoude, een afgelegen  stadje in de Morense Bergen. Strenge winters zijn hier niet ongewoon, maar de afgelopen maanden gaat de stad gebukt onder een onnatuurlijke vrieskou en onophoudelijke sneeuwstormen. Voedselschaarste dreigt, en de stad wordt belaagd door zowel uitgehongerde, wilde dieren als monsterachtige creaturen... Kerk noch staat durven het aan om hulp te sturen over de verraderlijke bergpassen. Daarom looft de stadhouder zelf een beloning uit voor wie een einde kan maken aan deze eindeloze winter. Duivelswinter is een inleidend scenario voor Ambrosia dat spelers wegwijs maakt in het spelsysteem en de spelwereld.
 - __Kroniek 1 - De schaduw in het Zilte__: Grootse gebeurtenissen staan op til in het waterachtige Merendal. Gouwgraaf Nicoterus Markolf heeft een conclaaf afgekondigd waarop iedereen uitgenodigd is die enige faam geniet binnen de magische gemeenschap. Maar niets is wat het lijkt als het adellijk huis Markolf erbij betrokken is. Baron Calistus Markolf heeft immers enkele schijnbaar onbelangrijke lieden opgedragen om van heinde en ver naar zijn kasteel Overzilte af te reizen, waar hij hen een verschrikkelijk geheim zal onthullen. En tijdens dit alles verroert een mysterieus iets zich diep onder de golven van het Zilte, immer in kracht groeiend, en haar schaduw steeds verder op het land werpend...
 
-Het Basisspel is beschikbaar in het Nederlands en het Engels, de andere producten voorlopig enkel in
-het Nederlands.
+Het Basisspel is beschikbaar in het Nederlands en het Engels, de andere producten voorlopig enkel in het Nederlands.
 
 ### Uitleg Ambrosia
 {{< youtube id="l3vjhpIisWM" title="Uitleg Ambrosia Video" >}}
