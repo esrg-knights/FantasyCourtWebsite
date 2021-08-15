@@ -5,6 +5,15 @@ header-image:
   url: images/event/FCmap2.png
   position-x: 50%
   position-y: 40%
+contactInfos:
+  - name: Website
+    urls:
+      - name: www.r3r.be
+        link: https://www.r3r.be
+  - name: Email
+    urls:
+      - name: erlend@r3r.be
+        link: mailto:erlend@r3r.be?subject=Fantasy Court 2021
 resources:
   - src: "logo-red-eyed-rabbit.jpg"
     name: "preview"
@@ -28,13 +37,13 @@ resources:
     title: "Stand Image :counter"
 ---
 
-<!--
-Contactgegevens (TODO):
-
- -->
-
 
 # Red Eyed Rabbit
+{{< aside side="left">}}
+  {{< banner rotate="-3" class="wide" >}}
+      {{< contactInfos >}}
+  {{< /banner >}}
+{{< /aside >}}
 <!-- {{< aside >}}
     {{< factoid >}}
         Wist je dat dobbelstenen een vitaal onderdeel zijn van vele tabletop rollenspellen? Maar in de meeste live action rollenspelen (LARPs) komen ze juist bijna niet voor
