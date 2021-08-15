@@ -44,11 +44,6 @@ resources:
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
-<!-- {{< aside >}}
-    {{< factoid >}}
-        Wist je dat dobbelstenen een vitaal onderdeel zijn van vele tabletop rollenspellen? Maar in de meeste live action rollenspelen (LARPs) komen ze juist bijna niet voor
-    {{< /factoid >}}
-{{< /aside >}} -->
 
 Diep in ons collectief geheugen, verhuld door nevelen van vergetelheid, ligt een wereld die balanceert op dat fijne randje tussen sluimer en ontwaken. Een wereld die uit een schilderij van Jheronimus Bosch of Pieter Brueghel lijkt te komen, een wereld van goden en monsters. Dit is de wereld van Ambrosia, een uniek rollenspel geïnspireerd door de geschiedenis en de folklore van de Lage Landen.
 
@@ -70,6 +65,12 @@ Maar Ambrosia biedt ook een volledig interactief verhaal waarin spelers evenveel
 - __Kroniek 1 - De schaduw in het Zilte__: Grootse gebeurtenissen staan op til in het waterachtige Merendal. Gouwgraaf Nicoterus Markolf heeft een conclaaf afgekondigd waarop iedereen uitgenodigd is die enige faam geniet binnen de magische gemeenschap. Maar niets is wat het lijkt als het adellijk huis Markolf erbij betrokken is. Baron Calistus Markolf heeft immers enkele schijnbaar onbelangrijke lieden opgedragen om van heinde en ver naar zijn kasteel Overzilte af te reizen, waar hij hen een verschrikkelijk geheim zal onthullen. En tijdens dit alles verroert een mysterieus iets zich diep onder de golven van het Zilte, immer in kracht groeiend, en haar schaduw steeds verder op het land werpend...
 
 Het Basisspel is beschikbaar in het Nederlands en het Engels, de andere producten voorlopig enkel in het Nederlands.
+
+{{< aside >}}
+    {{< factoid >}}
+        Wist je dat dobbelstenen een vitaal onderdeel zijn van vele tabletop rollenspellen? Maar in de meeste live action rollenspelen (LARPs) komen ze juist bijna niet voor
+    {{< /factoid >}}
+{{< /aside >}}
 
 ### Uitleg Ambrosia
 {{< youtube id="l3vjhpIisWM" title="Uitleg Ambrosia Video" >}}

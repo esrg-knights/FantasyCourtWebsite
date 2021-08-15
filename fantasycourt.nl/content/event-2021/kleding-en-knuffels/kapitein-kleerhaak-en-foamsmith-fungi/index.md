@@ -58,6 +58,8 @@ resources:
     title: "Stand Image :counter"
 ---
 
+
+# Kapitein Kleerhaak & The Foamsmith Fungi
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
@@ -66,19 +68,17 @@ resources:
   {{< /banner >}}
 {{< /aside >}}
 
-
-# Kapitein Kleerhaak & The Foamsmith Fungi
-{{< aside >}}
-    {{< factoid >}}
-        TODO
-    {{< /factoid >}}
-{{< /aside >}}
-
 {{< standimage src="kk-ff-kapitein-kleerhaak-logo.png" width="160px" align="left">}}
 **Ahoy mateys!**
 {{< standimage src="kk-ff-the-foamsmith-fungi-logo.png" width="160px" align="right">}}
 
 Mijn naam is Kapitein Veronica Kleerhaak en vanuit mijn Workship in Hilvarenbeek maak ik samen met The Foamsmith Fungi unieke kostuums en accessoires met onder andere stof, leer, foam en borduurwerk. 
+
+{{< aside >}}
+    {{< factoid >}}
+        Wist je dat Fantasy Court al sinds 2016 bestaat?
+    {{< /factoid >}}
+{{< /aside >}}
 
 In mijn webshop [kapiteinkleerhaak.com](http://www.kapiteinkleerhaak.com) zijn een aantal van onze producten te vinden, zoals stevige larp-proof broeken, unieke foam maskers en prachtig beschilderde leren tassen. Naast het standaard aanbod is het ook mogelijk om van alles custom te laten maken. Kijk vooral eens bij de ‘Trash into Treasures’ dicebags en knapsack tassen! Deze zijn gemaakt van reststoffen van de meubelindustrie, zo maken we minder rommel en meer prachtige items!
 

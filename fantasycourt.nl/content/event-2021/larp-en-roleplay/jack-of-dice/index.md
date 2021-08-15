@@ -53,21 +53,21 @@ resources:
   - src: "**"
     title: "Stand Image :counter"
 ---
+
+# Jack of Dice
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
 
+Jack of Dice is ontstaan uit liefde voor dobbelstenen en spelletjes. Toen de eerste stappen waren gezet bleek al snel dat er vraag was naar meer! Zo is Jack of Dice uitgegroeid van een hoekje op zolder naar een geheel op zichzelf staand bedrijf gerund door liefhebbers. Onze visie is om een zo breed mogelijk assortiment te hebben voor een goede prijs, van dobbelstenen tot RPG materiaal.
 
-# Jack of Dice
 {{< aside >}}
     {{< factoid >}}
         Wist je dat de favouriete dobbelsteen van de Fantasy Court voorzitter fudge/fate dice zijn? En dat Jack of Dice deze ook verkoopt?
     {{< /factoid >}}
 {{< /aside >}}
-
-Jack of Dice is ontstaan uit liefde voor dobbelstenen en spelletjes. Toen de eerste stappen waren gezet bleek al snel dat er vraag was naar meer! Zo is Jack of Dice uitgegroeid van een hoekje op zolder naar een geheel op zichzelf staand bedrijf gerund door liefhebbers. Onze visie is om een zo breed mogelijk assortiment te hebben voor een goede prijs, van dobbelstenen tot RPG materiaal.
 
 ### _De mythe genaamd Jack._
 Jack is onze patroon, een entiteit waarvan niemand precies weet wie het is, wat het is en waarom het zo van dobbelstenen houdt. Niet dat we klagen, want Jack is ons (voor zover we weten) goedgezind, gek op spelletjes en vooral lyrisch over dobbelstenen.

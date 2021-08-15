@@ -20,10 +20,14 @@ resources:
 Fantasy court is dit jaar online!
 
 Fantasy court is een kleinschalig, gratis Fantasy Festival in Eindhoven dat zich bezighoud met de cultuur rondom fantasy, LARP, bord- en rollenspellen. Normaliter fysiek georganiseerd in de zomer met leuke activiteiten zoals LARP zwaardvechttraining, een zwaardvechttoernooi, boogschieten en allerlei leuke kraampjes met accessoires, larp attributen, boeken, kleding, eten en enkele verenigingen. Daarnaast zijn er altijd enkele live acts rondom muziek, dans, verhalenvertellen, podcasts, etc.
+
+{{< aside >}}
+    {{< factoid >}}
+        Hoi ik ben Remy! Wist je dat Sir Bearington de pluchie-mascotte van FC is?
+    {{< /factoid >}}
+{{< /aside >}}
+
 Dit jaar kon ons fysieke festival helaas niet doorgaan en hebben wij besloten een event website te maken met daarop verkopers die normaal op de mark zouden staan, leuke informatie en een puzzel waarmee een leuk prijzenpakket te winnen valt.
-
-
-Dit jaar is het een ander format dan jullie gewend zijn, helaas zonder de fysieke gezelligheid en activiteiten maar wel met leuke content!
 
 Klik op een van de bovenstaande categoriën om over het digitale festival heen te lopen.
 
@@ -34,8 +38,4 @@ Het team achter Fantasy Court
 Linde, Eric, Kevin, Remy, Hans, Annemarie en Maikel
 
 
-{{< aside >}}
-    {{< factoid >}}
-        Hoi ik ben Remy! Wist je dat tomaten rood zijn?
-    {{< /factoid >}}
-{{< /aside >}}
+

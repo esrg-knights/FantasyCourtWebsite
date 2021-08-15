@@ -57,18 +57,12 @@ resources:
   - src: "**"
     title: "Stand Image :counter"
 ---
+
+# Fantasy Court Organisatie
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
-{{< /aside >}}
-
-
-# Fantasy Court Organisatie
-{{< aside >}}
-    {{< factoid >}}
-        TODO
-    {{< /factoid >}}
 {{< /aside >}}
 
 Met een groep van 7 trouwe vrijwilligers organiseren wij al sinds 2016 een gratis openlucht Fantasy-evenement in Eindhoven. Origineel zijn wij begonnen als een larp-zwaardvechttoernooi, georganiseerd vanuit onze moedervereniging: de studenten bord- en rollenspellen vereniging ESRG Knights of the Kitchen Table. Ons toernooi is inmiddels uitgegroeid tot een kleinschalig en gevarieerd eendagsfestival. Normaal kun je ons vinden op het terrein van de Technische Universiteit Eindhoven voor een relaxed dagje in de zon voor jong en oud met onder andere:
@@ -85,6 +79,12 @@ Met een groep van 7 trouwe vrijwilligers organiseren wij al sinds 2016 een grati
 - Verschillende LARP verenigingen
 - Live muziek, dans en andere acts
 - Activiteiten zoals bordspellen en workshops.
+
+{{< aside >}}
+    {{< factoid >}}
+        Wist je dat al deze wist je dat's schrijven vooral gedaan is door één enkel commissie lid? Nee.. dat is niet diegene op de foto.
+    {{< /factoid >}}
+{{< /aside >}}
 
 Fantasy Court wordt gekenmerkt door zijn kleine schaal, relaxte sfeer, leuke mensen en kostuums. Het is ook een goede laagdrempelige manier voor zowel nieuwe als ervaren bezoekers om kennis te maken met mensen uit de LARP-wereld.
 
