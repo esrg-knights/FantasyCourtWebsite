@@ -25,4 +25,6 @@ resources:
     {{< /factoid >}}
 {{< /aside >}}
 
+{{< speurtocht >}}
+
 
