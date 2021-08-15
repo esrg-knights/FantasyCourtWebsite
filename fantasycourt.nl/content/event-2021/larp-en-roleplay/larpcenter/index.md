@@ -2,9 +2,9 @@
 type: event # Render using event/single.html
 title: Larpcenter
 header-image:
-  url: images/event/larpcenter1.jpg
+  url: images/event/FCmap2.png
   position-x: 50%
-  position-y: 50%
+  position-y: 40%
 contactInfos:
   - name: Website
     urls:
