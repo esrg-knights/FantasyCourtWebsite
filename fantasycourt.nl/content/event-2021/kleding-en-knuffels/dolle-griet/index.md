@@ -43,7 +43,7 @@ resources:
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
-{{< standimage src="DG.JPG" alt="Dolle Griet" align="left" width="380px">}}
+{{< standimage src="DG.JPG" alt="Dolle Griet" align="center" width="100%">}}
 {{< aside >}}
     {{< factoid >}}
         Wist je dat het kostuum op deze foto door de maker zelf gebruikt wordt in de LARP Malakden?
