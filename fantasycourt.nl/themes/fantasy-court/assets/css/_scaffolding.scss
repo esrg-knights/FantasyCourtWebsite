@@ -1,13 +1,21 @@
-.header-image {
+.header-element {
   border-bottom: 3px solid $borderColour;
-  // overflow: hidden;
-  height: 150px;
   width: 100%;
-  margin-top: $mobileNavbarHeight;
+}
+
+.header-image {
+  @extend .header-element;
+
+  overflow: hidden;
+
+  background-size: cover;
+  background-origin: content-box;
+  background-repeat: no-repeat;
+
+  height: 150px;
 
   @media screen and (min-width: $containerWidth) {
     height: 350px;
-    margin-top: $navbarHeight;
   }
 }
 
@@ -26,4 +34,15 @@
   word-wrap: break-word;
   max-width: $containerWidth;
   margin: auto;
+}
+
+.back-btn {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 100% 100%;
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+  background-image: url("/images/back.svg");
 }

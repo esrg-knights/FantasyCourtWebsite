@@ -1,4 +1,4 @@
-<div class="banner" style='transform: rotate({{ .Get "rotate" }}deg); padding-top: {{ .Get "padding" }};'>
+<div class="banner {{ .Get "class" }}" style='transform: rotate({{ .Get "rotate"|default 0 }}deg);'>
     <img src="/images/hanger.svg" alt=""/>
     <div class="banner-content">
         {{ .Inner }}

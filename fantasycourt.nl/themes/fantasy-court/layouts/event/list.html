@@ -1,0 +1,65 @@
+{{ define "navbar" }}
+    <!-- Get rid of the navbar -->
+{{ end }}
+
+{{ define "header-element" }}
+    <!-- Get rid of the header image, and replace it by the stand-category urls -->
+    <!-- Forced extra height, no idea if this breaks anything on other devices -->
+    <div class="header-event-category" style='
+        background-image: url({{ $.Param "header-image.url" }});
+        background-position: {{ $.Param "header-image.position-x" }} {{ $.Param "header-image.position-y" }};
+        ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
+
+        {{ with .CurrentSection }}
+          <div class="container">
+            <div class="row">
+              <div class="col-sm">
+                <!-- Category Name -->
+                <div>
+                  {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                  {{ .Scratch.Set "title" .Title }}
+                  {{- partial "event/event-item-lg-nolink.html" . -}}
+                </div>
+              </div>
+              <div class="col-sm">
+                {{ with $.Site.GetPage "event-2021" }}
+                  <!-- Back to Event Homepage -->
+                  {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                  {{ .Scratch.Set "title" (print "Terug naar " .Title) }}
+                  {{ .Scratch.Set "back-btn" true }}
+                  {{- partial "event/event-item-lg-fixed.html" . -}}
+                {{ end }}
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm">
+                <!-- Categories -->
+                {{ range .Pages }}
+                    {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                    {{ .Scratch.Set "title" .Title }}
+                    {{ .Scratch.Set "back-btn" false }}
+                    {{- partial "event/event-item-lg-free.html" . -}}
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        {{ end }}
+    </div>
+{{ end }}
+
+{{ define "main" }}
+    {{ .Content }}
+{{ end }}
+
+{{- define "main-class" -}}
+  {{- /* HACK: This is fine for now, we just want to get rid of content padding on pages without content */ -}}
+  {{ $isMainSite := eq ($.Site.GetPage "event-2021").Permalink $.Permalink }}
+  {{ $isOrgPage := eq ($.Site.GetPage "event-2021/organisatie").Permalink $.Permalink }}
+  {{ $isSpeurtochtPage := eq ($.Site.GetPage "event-2021/speurtocht").Permalink $.Permalink }}
+  {{ $isMuziekPage := eq ($.Site.GetPage "event-2021/muziek").Permalink $.Permalink }}
+  {{- if or (or  (or $isMainSite $isOrgPage) $isSpeurtochtPage ) $isMuziekPage -}}
+    content fancy-edge
+  {{- else -}}
+    {{/* Nothing */}}
+  {{- end -}}
+{{- end -}}

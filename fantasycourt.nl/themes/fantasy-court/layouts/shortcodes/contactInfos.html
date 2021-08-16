@@ -1,0 +1,33 @@
+<div id="contactInfos">
+    <h3>Contactinformatie</h3>
+    {{ with .Page.Params.contactInfos }}
+        <table>
+            {{- range . -}}
+                <tr>
+                    <td>
+                        {{/* Contact Info Name (e.g., "Website") */}}
+                        {{ .name|title }}:
+                    </td>
+                    {{ range $i, $url := .urls }}
+                        {{ if ne $i 0 }}
+                            {{/* If multiple urls are defined for a single contact name (e.g. multiple websites) */}}
+                            <tr>
+                                <td></td>
+                                <td>{{ if $url.link }}
+                                        <a href="{{ $url.link }}" target="_blank">{{ $url.name }}</a>
+                                    {{ else }}{{ $url.name }}{{ end }}
+                                </td>
+                            </tr>
+                        {{ else }}
+                            {{/* If a single url is defined for a single contact name */}}
+                            <td>{{ if $url.link }}
+                                    <a href="{{ $url.link }}" target="_blank">{{ $url.name }}</a>
+                                {{ else }}{{ $url.name }}{{ end }}
+                            </td>
+                        {{ end }}
+                    {{ end }}
+                </tr>
+            {{ end }}
+        </table>
+    {{ end }}
+</div>

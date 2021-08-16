@@ -1,0 +1,10 @@
+<div class="stand-image-{{ .Get "align"|default "center" }}
+    {{- with .Get "class" }} {{ . }}{{ end }}">
+    {{ with .Get "src" | $.Page.Resources.GetMatch -}}
+    <img src="{{ .RelPermalink }}"
+        alt="{{ .Title }}"
+        {{- with $.Get "width" }} width="{{ . }}"{{ end -}}
+        {{- with $.Get "height" }} height="{{ . }}"{{ end -}}
+    />
+    {{- end -}}
+</div>

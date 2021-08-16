@@ -1,0 +1,118 @@
+{{ define "navbar" }}
+    <!-- Get rid of the navbar -->
+{{ end }}
+
+{{ define "header-element" }}
+    <!-- Get rid of the header image, and replace it by the stand-category urls -->
+    <div class="header-event-stand" style='
+        background-image: url({{ $.Param "header-image.url" }});
+        background-position: {{ $.Param "header-image.position-x" }} {{ $.Param "header-image.position-y" }};
+        ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
+
+        {{ with .CurrentSection }}
+          <div class="container">
+            <div class="row">
+              <div class="col-sm">
+                <!-- Back to Category Page -->
+                {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                {{ .Scratch.Set "title" (print "Terug naar " .Title) }}
+                {{ .Scratch.Set "back-btn" true }}
+                {{- partial "event/event-item-lg-fixed.html" . -}}
+              </div>
+              <div class="col-sm">
+                {{ with $.Site.GetPage "event-2021" }}
+                  <!-- Back to Event Homepage -->
+                  {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                  {{ .Scratch.Set "title" (print "Terug naar " .Title) }}
+                  {{ .Scratch.Set "back-btn" true }}
+                  {{- partial "event/event-item-lg-fixed.html" . -}}
+                {{ end }}
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm">
+                <h2 id="stand-category-title" style="text-shadow: 0px 0px 10px white;">Meer {{ .Title }}</h2>
+              </div>
+            </div>
+            <div id="event-item-list" class="row">
+              <ul class="col-sm">
+                <!-- Calculate the number of items that fit in each of the two rows -->
+                {{ $numItemsPerColumn := math.Ceil (div (len .Pages) 2.0) }}
+                {{ range $i, $e := .Pages }}
+                  <!-- if (i != 0) and (i % NumItemsPerColumn) == 0 -->
+                  {{ if and (ne $i 0) (modBool $i $numItemsPerColumn) }}
+                    </ul>
+                    <ul class="col-sm">
+                  {{ end }}
+                    {{ .Scratch.Set "isCurrentPage" (eq .Permalink $.Permalink) }}
+                    {{ .Scratch.Set "title" .Title }}
+                    {{ .Scratch.Set "back-btn" false }}
+                    {{- partial "event/event-item-li" . -}}
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+        {{ end }}
+    </div>
+{{ end }}
+
+{{ define "main" }}
+  <!-- Carousel for certain set of images -->
+  {{ with .Page.Resources.Match "carousel/*" }}
+    <div id="carouselStand" class="carousel slide" data-bs-ride="carousel" data-bs-pause="hover">
+      <div class="carousel-indicators">
+          {{ range $i, $e := . }}
+            <button type="button" data-bs-target="#carouselStand" data-bs-slide-to="{{$i}}" aria-label="Slide {{add $i 1}}" class="{{ if eq $i 0}}active{{ end }}"></button>
+          {{ end }}
+      </div>
+      <div class="carousel-inner" role="listbox">
+        {{ range $i, $e := . }}
+          <div class="carousel-item {{ if eq $i 0}}active{{ end }}">
+            <img src="{{ .Permalink }}" class="d-block" alt="{{ .Title }}">
+            {{ if .Params.text }}
+              <div class="carousel-caption d-none d-md-block"><p><em>{{ .Params.text }}</em></p></div>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselStand" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselStand" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  {{ end }}
+
+  <!-- List page-specific content -->
+  {{ .Content }}
+
+  <!-- Carousel for certain set of images -->
+  {{ with .Resources.Match "carouselProduct/*" }}
+    <div id="carouselProduct" class="carousel slide" data-bs-ride="carousel" data-bs-pause="hover">
+      <div class="carousel-indicators">
+          {{ range $i, $e := . }}
+            <button type="button" data-bs-target="#carouselProduct" data-bs-slide-to="{{$i}}" aria-label="Slide {{add $i 1}}" class="{{ if eq $i 0}}active{{ end }}"></button>
+          {{ end }}
+      </div>
+      <div class="carousel-inner" role="listbox">
+        {{ range $i, $e := . }}
+          <div class="carousel-item {{ if eq $i 0}}active{{ end }}">
+            <img src="{{ .Permalink }}" class="d-block" alt="{{ .Title }}">
+          </div>
+        {{ end }}
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselProduct" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselProduct" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  {{ end }}
+
+{{ end }}

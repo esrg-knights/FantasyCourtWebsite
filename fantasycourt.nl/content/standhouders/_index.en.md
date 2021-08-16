@@ -52,7 +52,7 @@ People who can perform acts that can carry away the audience
 Edible products or drinks such as sandwiches, sweet snacks or medieval beverages. \
 {{< small >}}
   _Of course we'll be taking already signed up stalls into account._
-{{< \small >}}
+{{< /small >}}
 
 Do you have anything that could fit our festival and got questions? Please do contact us via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl) or go to our [Facebook Page](https://www.facebook.com/FantasyCourt/). We'd love to know if you could contribute to our wonderful festival!
 

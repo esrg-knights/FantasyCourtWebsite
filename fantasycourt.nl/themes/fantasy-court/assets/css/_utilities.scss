@@ -7,3 +7,23 @@
 .no-margin {
   margin: 0;
 }
+
+.fc-block {
+  background-color: $eventBlockBackgroundColor;
+  border: 4px solid $borderColour;
+  color: $textColor;
+  text-align: center;
+  font-family: blackchancery, serif;
+
+  @media screen and (max-width: 1.75*$mobileWidth) {
+    width: 100%;
+  }
+}
+
+.btn-fc {
+  @extend .fc-block;
+
+  &:hover {
+      background-color: darken($eventBlockBackgroundColor, 15%);
+  }
+}
