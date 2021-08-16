@@ -55,6 +55,6 @@ We houden allebei erg van samen muziek spelen en optreden is ook wel echt onze d
 {{< standimage src="CelinaLaura.jpg" alt="Celina en Laura" align="center" width="100%">}}  
 
 Je kunt Laura vinden op haar Instagram, waar ze vooral knutselprojecten deelt, maar er ook zo nu en dan nog wel een draailier verschijnt.  
-Celina deelt op een Youtube kanaal video’s deelt van het leerproces, eigen werk en covers van van alles en nog wat.
+Celina heeft een  een Youtube kanaal waar die video’s deelt van het leerproces, eigen werk en covers van van alles en nog wat.
 
 
