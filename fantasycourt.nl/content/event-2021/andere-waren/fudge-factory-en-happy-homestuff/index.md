@@ -21,8 +21,8 @@ resources:
     params:
       categoryWidth: 15%
       categoryHeight: 100px
-      categoryX: 60%
-      categoryY: 300px
+      categoryX: 40%
+      categoryY: 550px
 ---
 
 # Fudge Factory en Happy Homestuff

@@ -22,11 +22,12 @@ Fantasy court is een kleinschalig, gratis Fantasy Festival in Eindhoven dat zich
 
 {{< aside >}}
     {{< factoid >}}
-        Hoi ik ben Remy! Wist je dat Sir Bearington de pluchie-mascotte van FC is?
+        Hoi ik ben Remy! Wist je dat Sir Bearington de pluchie-mascotte van Fantasy Court is?
     {{< /factoid >}}
 {{< /aside >}}
 
-Dit jaar kon ons fysieke festival helaas niet doorgaan en hebben wij besloten een event website te maken met daarop verkopers die normaal op de mark zouden staan, leuke informatie en een [speurtocht](/event-2021/speurtocht/) waarmee een leuk prijzenpakket te winnen valt.
+Dit jaar kon ons fysieke festival helaas niet doorgaan en hebben wij besloten een tijdelijke event website te maken met daarop verkopers die normaal op de mark zouden staan, leuke informatie en een [speurtocht](/event-2021/speurtocht/) waarmee een leuk prijzenpakket te winnen valt.
+De event site zal tot eind September online blijven. 
 
 We hopen jullie in 2022 allemaal weer terug te zien op een fysieke editie van Fantasy Court!
 

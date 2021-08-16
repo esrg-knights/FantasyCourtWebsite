@@ -1,6 +1,6 @@
 ---
 type: event
-title: De Organisatie
+title: Organisatie
 header-image:
   url: images/event/FCback.JPG
   position-x: 50%
@@ -23,9 +23,9 @@ contactInfos:
       - name: fantasycourtnl
         link: http://instagram.com/fantasycourtnl
 resources:
-  - src: "fantasy-court-logo.png"
+  - src: "Kotkt-logo.png"
     name: "preview"
-    title: "Fantasy Court Logo"
+    title: "Knights of the Kitchen Table Logo"
     params:
       categoryWidth: 15%
       categoryHeight: 100px

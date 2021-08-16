@@ -1,6 +1,6 @@
 ---
 type: event
-title: Muziek Laura en Celina
+title: Muziek
 header-image:
   url: images/event/FCback.JPG
   position-x: 50%
