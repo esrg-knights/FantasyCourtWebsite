@@ -9,7 +9,7 @@ _You are all formally invited to enter the Fantasy Court._
 
 # Fantasy Court 2021 online
 Fantasy Court 2021 will take place online. Look [here](en/event-2021)! 
-Only available in dutch.
+Only available in dutch. The event page will work on mobile, but better on PC.
 
 {{< aside >}}
     {{< banner rotate="-3" >}}

@@ -9,6 +9,15 @@ title: Bezoekers
 
 # Fantasy Court 2021 online
 Fantasy Court 2021 zal online plaatsvinden. Kijk [hier](/event-2021)!
+De eventpagina werkt op een telefoon, maar beter op PC.
+
+# Wat is Fantasy Court?
+
+Dit is een Fantasyfestival dat zich richt op de minder bekende, unieke cultuur rondom Fantasy en zeker ook LARP (Live Action Role Playing). Dit festival bevat dan ook veel kraampjes, verenigingen en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan LARP-verenigingen, verassende bordspellen, bijzonder eten, een LARP zwaardvechttoernooi (met een speciale kinderdivisie!), verhalenvertellers, larpboogschieten en verschijnende kraampjes die al deze toebehoren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
+
+Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Zo zijn er speciale workshops, verschillende activiteiten en een kinderdivisie van het zwaardvechttoernooi.
+
+Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Facebook Pagina](https://www.facebook.com/FantasyCourt/).
 
 {{< aside >}}
     {{< banner rotate="-3" >}}
@@ -18,15 +27,6 @@ Fantasy Court 2021 zal online plaatsvinden. Kijk [hier](/event-2021)!
         </p>
     {{< /banner >}}
 {{< /aside >}}
-
-
-# Wat is Fantasy Court?
-
-Dit is een Fantasyfestival dat zich richt op de minder bekende, unieke cultuur rondom Fantasy en zeker ook LARP (Live Action Role Playing). Dit festival bevat dan ook veel kraampjes, verenigingen en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan LARP-verenigingen, verassende bordspellen, bijzonder eten, een LARP zwaardvechttoernooi (met een speciale kinderdivisie!), verhalenvertellers, larpboogschieten en verschijnende kraampjes die al deze toebehoren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
-
-Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Zo zijn er speciale workshops, verschillende activiteiten en een kinderdivisie van het zwaardvechttoernooi.
-
-Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Facebook Pagina](https://www.facebook.com/FantasyCourt/).
 
 {{< aside >}}
     {{< banner rotate="1" >}}

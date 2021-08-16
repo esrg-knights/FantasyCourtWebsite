@@ -26,11 +26,7 @@ resources:
 ---
 
 # Fudge Factory en Happy Homestuff
-{{< aside side="left">}}
-  {{< banner rotate="-3" class="wide" >}}
-      {{< contactInfos >}}
-  {{< /banner >}}
-{{< /aside >}}
+
 
 {{< standimage src="Fudge.png" align="center">}}
 
@@ -39,7 +35,11 @@ Wij zijn Ron en Sonja van The Fudge Factory en van Happy Homestuff.
 The Fudge Factory draait sinds een jaar of 5 mee op de fantasy’s. We maken alle fudge zelf en met de hand. Dat verschil proef je!
 
 We hebben 45 smaken online en op beurzen proberen we 20 tot 24 smaken mee te hebben. Er is voor iedereen wel een smaak die ze lekker vinden! De topper is wel de Oreo Cookie.
-
+{{< aside side="left">}}
+  {{< banner rotate="-3" class="wide" >}}
+      {{< contactInfos >}}
+  {{< /banner >}}
+{{< /aside >}}
 {{< aside >}}
     {{< factoid >}}
         Wist je dat Fantasy Court begonnen is als LARP Battle, een larpzwaardvechttoernooi? Maar de kraampjes en sfeer waren veel te gezellig!

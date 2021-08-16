@@ -39,16 +39,16 @@ resources:
 ---
 
 # Letters & Lights
+
+
+Een boek lezen rook nog nooit zo goed!
+
+Hoi ik ben Emmy! Sinds 2016 bestaat Letters & Lights en maak ik de mooiste kaarsen en andere handgemaakte producten. Veelal geïnspireerd op boeken, series, films en hekserij. Als illustrator vind ik het fantastisch om mijn tekeningen tot leven te zien komen, of het nu boekenleggers zijn of grotere producten.
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
-
-Een boek lezen rook nog nooit zo goed!
-
-Hoi ik ben Emmy! Sinds 2016 bestaat Letters & Lights en maak ik de mooiste kaarsen en andere handgemaakte producten. Veelal geïnspireerd op boeken, series, films en hekserij. Als illustrator vind ik het fantastisch om mijn tekeningen tot leven te zien komen, of het nu boekenleggers zijn of grotere producten.
-
 {{< aside >}}
     {{< factoid >}}
         Wist je dat Emmy vaak samen met haar man op fairs staat? En dat hij ook hier op <a href="/event-2021/larp-en-roleplay/dungeons-en-dice">de site</a> te vinden is?
