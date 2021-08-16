@@ -2,9 +2,9 @@
 type: event
 title: Dolle Griet
 header-image:
-  url: images/event/FCmap2.png
+  url: images/event/FCback.JPG
   position-x: 50%
-  position-y: 40%
+  position-y: 60%
 contactInfos:
   - name: Website
     urls:
@@ -34,35 +34,26 @@ resources:
       categoryHeight: 100px
       categoryX: 20%
       categoryY: 300px
-  # - src: "carousel/b4l-fantasykast.jpg"
-  #   title: "Volle kast met Fantasyboeken"
-  # - src: "carousel/b4l-gevel.jpg"
-  #   title: "Gebouw Books 4 Life Eindhoven"
-  # - src: "carousel/*"
-  #   name: "carousel/carousel-item-:counter"
-  #   title: "Sliding Stand Image :counter"
-  # - src: "**"
-  #   title: "Stand Image :counter"
 ---
+
+
+# Dolle Griet
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
-
-
-# Dolle Griet
+{{< standimage src="DG.JPG" alt="Dolle Griet" align="left" width="380px">}}
 {{< aside >}}
     {{< factoid >}}
         Wist je dat het kostuum op deze foto door de maker zelf gebruikt wordt in de LARP Malakden?
     {{< /factoid >}}
 {{< /aside >}}
-{{< standimage src="DG.JPG" alt="Dolle Griet" align="left" width="380px">}}
 
 Bij Dolle Griet vind je de mooiste kostuums voor je volgende evenement.
-Van een bijzondere mantel tot een volledige outfit voor jouw unieke lichaam, bij Dolle Griet ben je aan het juiste adres. 
+Van een bijzondere mantel tot een volledige outfit voor jouw unieke lichaam, bij Dolle Griet ben je aan het juiste adres.
 Een warme mantel, een stoere tuniek, een strak gilet, noem het maar op.
 Ook voor de creatieveling die zelf aan de slag gaat om een kostuum te maken staat de shop vol fournituren, mantelsluitingen en vikingbroches.
 Die ene finishing touch ligt voor je klaar!
 
-Psst een van deze fournituren is te winnen in de 
+Psst een van deze fournituren is te winnen in de [speurtocht](/event-2021/speurtocht/)!

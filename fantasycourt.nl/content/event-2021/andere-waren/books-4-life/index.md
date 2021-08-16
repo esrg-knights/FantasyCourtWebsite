@@ -2,9 +2,9 @@
 type: event
 title: Books 4 Life
 header-image:
-  url: images/event/FCmap2.png
+  url: images/event/FCback.JPG
   position-x: 50%
-  position-y: 40%
+  position-y: 60%
 contactInfos:
   - name: Website
     urls:
@@ -40,20 +40,20 @@ resources:
   - src: "**"
     title: "Stand Image :counter"
 ---
+
+# Books 4 Life Eindhoven
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
 
+Books4Life is een liefdadigheids tweedehands boekenwinkel. Toegewijde vrijwilligers zamelen tweedehands boeken in en verkopen die voor een zacht prijsje. De opbrengst is bestemd voor goede doelen, dus hier kun je onbezwaard toegeven aan je innerlijke boekenwurm!
 
-# Books 4 Life Eindhoven
 {{< aside >}}
     {{< factoid >}}
         Wist je dat Books 4 Life in 2005 is begonnen met een winkel op de campus van de Universiteit in Tilburg, en inmiddels bestaat uit zes locaties verspreid over heel Nederland?
     {{< /factoid >}}
 {{< /aside >}}
-
-Books4Life is een liefdadigheids tweedehands boekenwinkel. Toegewijde vrijwilligers zamelen tweedehands boeken in en verkopen die voor een zacht prijsje. De opbrengst is bestemd voor goede doelen, dus hier kun je onbezwaard toegeven aan je innerlijke boekenwurm!
 
 In de loop van de jaren hebben we een indrukwekkende collectie fantasy en science fiction opgebouwd, zowel nederlands- als engelstalig; de uitpuilende kast op de foto bevat nog niet eens de helft! De rest ligt in ons magazijn. We doen ons best om het winkelaanbod te rouleren, en in de winkel kun je altijd vragen of we in onze voorraad kunnen zoeken naar een specifieke titel of auteur. Uiteraard hebben we ook andere rubrieken: romans, allerlei informatieve onderwerpen, engelstalige fictie, poezie en noem maar op!

@@ -2,9 +2,9 @@
 type: event
 title: Dungeons and Dice
 header-image:
-  url: images/event/FCmap2.png
+  url: images/event/FCback.JPG
   position-x: 50%
-  position-y: 40%
+  position-y: 60%
 contactInfos:
   - name: Website
     urls:
@@ -20,8 +20,8 @@ contactInfos:
         link:  https://www.instagram.com/dungeonsanddice/
   - name: E-mail
     urls:
-      - name: dungeonsanddicenl@gmail.com 
-        link:  dungeonsanddicenl@gmail.com 
+      - name: dungeonsanddicenl@gmail.com
+        link:  dungeonsanddicenl@gmail.com
 resources:
   - src: "ddice.jpg"
     name: "preview"
@@ -43,23 +43,23 @@ resources:
   - src: "**"
     title: "Stand Image :counter"
 ---
+
+# Dungeons and Dice
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
 
+Dungeons and Dice is dé webshop voor Dungeons and Dragons / Pathfinder. We zijn vanuit die hobby met de winkel begonnen en dit ontwikkel nog steeds lekker door. Waar we ooit begonnen met alleen dobbelstenen, hebben we ondertussen ook (onbeschilderde) miniaturen, verf en verfbenodigdheden, boeken, spell cards en nog veel meer om je hobby mee aan te vullen. En hebben we het niet, dan kun je erom vragen en gaan wij er voor je naar op zoek.
 
-# Dungeons and Dice
 {{< aside >}}
     {{< factoid >}}
-        Wist je dat Dungeons&Dice ook verzamelingen opkopen? Of samen met jou die éne mini zoeken? Leg dan contact met hen via [Dungeonsanddicenl@gmail.com](mailto:Dungeonsanddicenl@gmail.com) en dan mailen zij je terug.
+        Wist je dat Dungeons&Dice ook verzamelingen opkopen? Of samen met jou die éne mini zoeken? Leg dan contact met hen via <a href="mailto:Dungeonsanddicenl@gmail.com">Dungeonsanddicenl@gmail.com</a> en dan mailen zij je terug.
     {{< /factoid >}}
 {{< /aside >}}
 
-Dungeons and Dice is dé webshop voor Dungeons and Dragons / Pathfinder. We zijn vanuit die hobby met de winkel begonnen en dit ontwikkel nog steeds lekker door. Waar we ooit begonnen met alleen dobbelstenen, hebben we ondertussen ook (onbeschilderde) miniaturen, verf en verfbenodigdheden, boeken, spell cards en nog veel meer om je hobby mee aan te vullen. En hebben we het niet, dan kun je erom vragen en gaan wij er voor je naar op zoek.
-
 Ik, Rob, ben het brein achter Dungeons and Dice. Ik heb een lieve vrouw (Emmy van [Letters & Lights](/event-2021/accessories/letterslights)) die mij hierbij ondersteund en een paar vrijwilligers die ook meehelpen. Daarnaast heb ik een superlief dochtertje van 1,5 en hebben we ook 2 ‘helpende’ katten. Ik speel al geruime tijd D&D en omdat ik zoveel dobbelstenen had speelde ik jaren geleden met het idee om die te gaan verkopen. Met succes natuurlijk.
 
-Omdat deze winkel van hobby uitgegroeid is, help ik graag mensen verder om ook te starten in de hobby. Zo werk ik ondertussen ook met meerdere bedrijven samen om unieke items te maken, die alleen bij ons te koop zijn. 
+Omdat deze winkel van hobby uitgegroeid is, help ik graag mensen verder om ook te starten in de hobby. Zo werk ik ondertussen ook met meerdere bedrijven samen om unieke items te maken, die alleen bij ons te koop zijn.
 En we missen de evenementen enorm ;( Gelukkig zijn er alternatieven als Fantasy Court online!
