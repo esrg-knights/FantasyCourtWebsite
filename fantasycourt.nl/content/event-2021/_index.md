@@ -1,6 +1,6 @@
 ---
 type: event # Render using event/list.html
-title: Event 2021
+title: Fantasy Court 2021
 header-image:
   url: images/event/FCback.JPG
   position-x: 50%

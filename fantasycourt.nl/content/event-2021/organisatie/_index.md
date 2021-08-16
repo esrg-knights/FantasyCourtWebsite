@@ -92,9 +92,9 @@ Dit jaar hebben wij besloten gezien de globale pandemie online iets van ons te l
 
 We hopen van harte om in 2022 weer een fysiek festival te kunnen organiseren en jullie allen weer in persoon te zien! Wil je op de hoogte blijven van de ontwikkelingen rondom Fantasy Court? Volg ons op [Instagram](http://instagram.com/fantasycourtnl), [Facebook](https://www.facebook.com/FantasyCourt/), of schrijf je in voor onze [mailinglist](https://forms.gle/1T6a1Wv6jVgPEF7m9), waarin we de datum van de volgende Fantasy Court bekend maken en kort voor het evenement ook het programma zullen delen.
 
-Voor verdere informatie, of wanneer je als verkoper of act op Fantasy Court willen staan, e-mail ons op [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl)
+Voor verdere informatie, of wanneer je als verkoper of act op Fantasy Court willen staan, e-mail ons op [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl).
 
-Kijk voor een verdere impressie ook eens op het leuke artikel op [LARP platform](!
+Kijk voor een verdere impressie ook eens op ons artikel op [LARP platform](http://www.larp-platform.nl/handige-informatie/fantasy-court-liefde-voor-larp)!
 
 ## Video Fantasy Court 2019
 {{< youtube id="fhyHCuGGCp8" title="Fantasy Court 2019" >}}
