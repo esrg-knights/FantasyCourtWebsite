@@ -7,6 +7,9 @@ title: Bezoekers
   _Jullie zijn allen uitgenodigd aan het hof van Fantasy Court_
 {{< /message >}}
 
+# Fantasy Court 2021 online
+Fantasy Court 2021 zal online plaatsvinden. Kijk [hier](/event-2021)!
+
 {{< aside >}}
     {{< banner rotate="-3" >}}
         <h2>Standhouder zijn?</h2>
@@ -15,6 +18,7 @@ title: Bezoekers
         </p>
     {{< /banner >}}
 {{< /aside >}}
+
 
 # Wat is Fantasy Court?
 
@@ -32,8 +36,6 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
     {{< /banner >}}
 {{< /aside >}}
 
-# Editie 2021
-Fantasy Court 2021 zal online plaatsvinden. Bekijk de relevante pagina [hier](/event-2021).
 
 # Editie 2020
 Met pijn in ons hart hadden wij moeten besluiten om Fantasy Court 2020 af te gelasten. De toenmalige landelijke maatregelen omtrent COVID-19 stonden het niet toe om een fysiek festival te organiseren. We hadden overwogen het festival te verschuiven, maar zagen geen goede opties die voldoende zekerheid boden voor een geslaagd evenement.
