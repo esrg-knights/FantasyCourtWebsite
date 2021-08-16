@@ -7,6 +7,10 @@ _Farmers, nobels, citizens and travelers of all sort_ \
 _You are all formally invited to enter the Fantasy Court._
 {{< /message >}}
 
+# Fantasy Court 2021 online
+Fantasy Court 2021 will take place online. Look [here](en/event-2021)! 
+Only available in dutch.
+
 {{< aside >}}
     {{< banner rotate="-3" >}}
         <h2>Want to be a vendor?</h2>
