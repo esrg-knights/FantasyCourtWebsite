@@ -42,15 +42,15 @@ resources:
 
 
 # Tussen Licht en Duisternis
+
+Julia van Zorifia is de prinses van een land waar iedereen bij wet verplicht is zich aan te sluiten bij licht of duisternis, Zilvere of Duistere.
+
+Wanneer Julia haar ouders verliest, maakt ze haar eigen keuze; ze kan geen koningin zijn. Ze is te jong en te bang, zeker nu ze haast alleen over is. Op de vlucht voor haar verantwoordelijkheden besluit ze een duistere te worden en verdwijnt ze naar het Duisterbos.
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
-
-Julia van Zorifia is de prinses van een land waar iedereen bij wet verplicht is zich aan te sluiten bij licht of duisternis, Zilvere of Duistere.
-
-Wanneer Julia haar ouders verliest, maakt ze haar eigen keuze; ze kan geen koningin zijn. Ze is te jong en te bang, zeker nu ze haast alleen over is. Op de vlucht voor haar verantwoordelijkheden besluit ze een duistere te worden en verdwijnt ze naar het Duisterbos.
 
 {{< aside >}}
     {{< factoid >}}

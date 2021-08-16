@@ -41,13 +41,14 @@ resources:
 ---
 
 # Barbwire & Roses
+
+
+{{< standimage src="Opendag2.JPG" alt="Flyer" align="right" width="390px">}}
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
-
-{{< standimage src="Opendag2.JPG" alt="Flyer" align="right" width="390px">}}
 Barbwire & Roses specialiseert in leerbewerking en verkoopt daarnaast ook handgemaakte larp wapens. Alle lederen spullen worden handgemaakt in eigen workshop, met oog voor detail en kwaliteit. Het leer wordt met zorg, persoonlijk uitgezocht en door de kleine hoeveelheden en het handwerk zijn onze producten uniek en bezitten een geheel eigen karakter.
 
 Naast dat iets vooral mooi moet zijn, is juist ook praktisch gebruik heel belangrijk. De artikelen zijn niet ‘enkel’ kostuums, maar ook gebruiksvoorwerpen, die dus niet zomaar kapot horen te gaan en tegen een stootje, of een regenbui, moeten kunnen.
