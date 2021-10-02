@@ -4,6 +4,27 @@ header-image:
   url: images/event/FCback.JPG
   position-x: 50%
   position-y: 65%
+aliases: # Laat oude pagina's redirecten naar deze pagina
+    - /event-2021/andere-waren
+    - /event-2021/andere-waren/books-4-life
+    - /event-2021/andere-waren/fudge-factory-en-happy-homestuff
+    - /event-2021/andere-waren/letters-en-lights
+    - /event-2021/andere-waren/tussen-licht-en-duisternis
+    - /event-2021/kleding-en-knuffels
+    - /event-2021/kleding-en-knuffels/barbwire-and-roses
+    - /event-2021/kleding-en-knuffels/dolle-griet
+    - /event-2021/kleding-en-knuffels/kapitein-kleerhaak-en-foamsmith-fungi
+    - /event-2021/kleding-en-knuffels/mamorumori
+    - /event-2021/larp-en-roleplay
+    - /event-2021/larp-en-roleplay/blackwood-wands
+    - /event-2021/larp-en-roleplay/dungeons-en-dice
+    - /event-2021/larp-en-roleplay/jack-of-dice
+    - /event-2021/larp-en-roleplay/larp-platform
+    - /event-2021/larp-en-roleplay/larpcenter
+    - /event-2021/larp-en-roleplay/red-eyed-rabbit
+    - /event-2021/muziek
+    - /event-2021/organisatie
+    - /event-2021/speurtocht
 ---
 # Fantasy Court 2021
 Vanwege Corona vond Fantasy Court 2021 online plaats.
