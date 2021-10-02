@@ -38,17 +38,19 @@ resources:
 
 
 # Dolle Griet
+
+{{< standimage src="DG.JPG" alt="Dolle Griet" align="center" width="100%">}}
 {{< aside side="left">}}
   {{< banner rotate="-3" class="wide" >}}
       {{< contactInfos >}}
   {{< /banner >}}
 {{< /aside >}}
-{{< standimage src="DG.JPG" alt="Dolle Griet" align="left" width="380px">}}
 {{< aside >}}
     {{< factoid >}}
         Wist je dat het kostuum op deze foto door de maker zelf gebruikt wordt in de LARP Malakden?
     {{< /factoid >}}
 {{< /aside >}}
+
 
 Bij Dolle Griet vind je de mooiste kostuums voor je volgende evenement.
 Van een bijzondere mantel tot een volledige outfit voor jouw unieke lichaam, bij Dolle Griet ben je aan het juiste adres.

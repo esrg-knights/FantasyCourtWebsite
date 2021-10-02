@@ -7,14 +7,9 @@ title: Bezoekers
   _Jullie zijn allen uitgenodigd aan het hof van Fantasy Court_
 {{< /message >}}
 
-{{< aside >}}
-    {{< banner rotate="-3" >}}
-        <h2>Standhouder zijn?</h2>
-        <p>
-            Bekijk dan onze <a href="/standhouders">standhouder-pagina</a>
-        </p>
-    {{< /banner >}}
-{{< /aside >}}
+# Fantasy Court 2021 online
+Fantasy Court 2021 zal online plaatsvinden. Kijk [hier](/event-2021)!
+De eventpagina werkt op een telefoon, maar beter op PC.
 
 # Wat is Fantasy Court?
 
@@ -25,6 +20,15 @@ Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of
 Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Facebook Pagina](https://www.facebook.com/FantasyCourt/).
 
 {{< aside >}}
+    {{< banner rotate="-3" >}}
+        <h2>Standhouder zijn?</h2>
+        <p>
+            Bekijk dan onze <a href="/standhouders">standhouder-pagina</a>
+        </p>
+    {{< /banner >}}
+{{< /aside >}}
+
+{{< aside >}}
     {{< banner rotate="1" >}}
         <h2>Wij worden georganiseerd door</h2>
         {{< figure src="/images/Knights_logo.png" alt="ESRG Knights of the Kitchen Table Logo" >}}
@@ -32,8 +36,6 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
     {{< /banner >}}
 {{< /aside >}}
 
-# Editie 2021
-Fantasy Court 2021 zal online plaatsvinden. Bekijk de relevante pagina [hier](/event-2021).
 
 # Editie 2020
 Met pijn in ons hart hadden wij moeten besluiten om Fantasy Court 2020 af te gelasten. De toenmalige landelijke maatregelen omtrent COVID-19 stonden het niet toe om een fysiek festival te organiseren. We hadden overwogen het festival te verschuiven, maar zagen geen goede opties die voldoende zekerheid boden voor een geslaagd evenement.
