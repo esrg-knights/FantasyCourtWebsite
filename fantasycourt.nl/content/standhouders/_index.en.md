@@ -13,26 +13,18 @@ og:
   _The market has a space for you, be present if you could_
 {{< /message >}}
 
-# Vendors Edition 2021
-In order to make Fantasy Court the best version it could be, we'd like to have people who can enrich the experience in whatever way possible. \
-We offer an enthousiastic public looking for ambience and specific affairs, because where else can you find a festival focussed on LARP and LARP-related affairs?
-
-# Vendors Edition 2020
-With pain in our hearts, we unfortunately needed to cancel Fantasy Court 2020. The nationwide regulations concerning COVID-19 at that time were in place until (at least) the 1st of June, whilst Fantasy Court 2020 would be on the 7th of June. Futhermore, even stricter regulations later on forbid all festivals in the Netherlands from taking place.
-
-This was too short to organise a festival without acceptable human risk, financial risk, or study delays. We had considered moving the festival, but could not find any good options offering enough security for a successful event, good weather, or time until Fantasy Court 2021.
-
-Due to this reason, we had decided to fully focus on the next edition around June 2021. We hope to see you all then in good health.
+# Vendors Edition 2022
+In order to make Fantasy Court the best version it could be, we'd like to have people who can enrich the experience in whatever way possible. We offer an enthousiastic public looking for ambience and specific affairs, because where else can you find a festival focussed on LARP and LARP-related affairs?!
 
 ## Who are we looking for?
-We look for people, organisations or businesses that could offer the following:
+We look for people, organisations or businesses that could, for example, offer (one or more of) the following:
 
 Shopping stalls with items, accessories and even costumes for:
 * LARP
 * Roleplayin Games
 * Boardgames
 
-Shopping stalls with other produce that is related to the Fantasy theme such as:</p>
+Shopping stalls with other produce that is related to the Fantasy theme such as:
 * Juwellery
 * Costumes
 * Fantasy Game/Film Merchandise
@@ -47,9 +39,14 @@ Folks who can give demos in:
 * Boardgames
 * LARP-scenes or battles
 
-People who can perform acts that can carry away the audience
+People who can perform acts that can carry away the audience:
+* Music
+* Dance
 
-Edible products or drinks such as sandwiches, sweet snacks or medieval beverages. \
+A way to fill hungry stomachs:
+* Food: Snacks, sandwiches, etc.
+* Drinks, Medieval Beverages, etc.
+\
 {{< small >}}
   _Of course we'll be taking already signed up stalls into account._
 {{< /small >}}
@@ -58,14 +55,14 @@ Do you have anything that could fit our festival and got questions? Please do co
 
 <!---
 The subscription for vendors will open soon! Are you already exited to join as a standholder? Sign up via [this](https://goo.gl/forms/iPVDBuA1ef0gqhN63) Goole Form.
-
 -->
 
 ## Practical information
-Fantasy Court 2021 will take place around June 2021 on one of the grass fields on the campus of the Technical Univerisity of Eindhoven. Further information on the exact times will be announced later, though we intend to entertain through most of the afternoon till the early evening.
+Fantasy Court 2022 will take place around June 2022 on one of the grass fields on the campus of the Technical Univerisity of Eindhoven. Further information on the exact times will be announced later, though we intend to entertain through most of the afternoon till the early evening.
 
-The costs for vendors will consist of a small fee (€17,50) and the additional cost of the market stand/tent that can be booked through us (depending on your request and availlability). Own stands/tents can also be brought as long as this has been notified to the organisation beforehand (for the sake of the festival layout).
-Compensation for performances and acts can be negotiated with the organisation.
+The costs for vendors will consist of a small fee (€17,50) and the (optionally) additional costs for a market stand or tent that can be rented through us (depending on your request and availability). Market stands and tents are rented directly at cost price of our supplier. Your own stands or tents can also be brought as long as this has been notified to the organisation beforehand (for the sake of the festival layout).
+
+Compensation for performances, acts, or workshops can be negotiated with the organisation.
 
 
 {{< message margin-top="80px" margin-bottom="100px">}}

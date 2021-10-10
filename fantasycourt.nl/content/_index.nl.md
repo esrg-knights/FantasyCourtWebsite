@@ -7,18 +7,6 @@ title: Bezoekers
   _Jullie zijn allen uitgenodigd aan het hof van Fantasy Court_
 {{< /message >}}
 
-# Fantasy Court 2021 online
-Fantasy Court 2021 zal online plaatsvinden. Kijk [hier](/event-2021)!
-De eventpagina werkt op een telefoon, maar beter op PC.
-
-# Wat is Fantasy Court?
-
-Dit is een Fantasyfestival dat zich richt op de minder bekende, unieke cultuur rondom Fantasy en zeker ook LARP (Live Action Role Playing). Dit festival bevat dan ook veel kraampjes, verenigingen en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan LARP-verenigingen, verassende bordspellen, bijzonder eten, een LARP zwaardvechttoernooi (met een speciale kinderdivisie!), verhalenvertellers, larpboogschieten en verschijnende kraampjes die al deze toebehoren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
-
-Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Zo zijn er speciale workshops, verschillende activiteiten en een kinderdivisie van het zwaardvechttoernooi.
-
-Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Facebook Pagina](https://www.facebook.com/FantasyCourt/).
-
 {{< aside >}}
     {{< banner rotate="-3" >}}
         <h2>Standhouder zijn?</h2>
@@ -28,6 +16,15 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
     {{< /banner >}}
 {{< /aside >}}
 
+# Wat is Fantasy Court?
+
+Dit is een Fantasyfestival dat zich richt op de minder bekende, unieke cultuur rondom Fantasy en zeker ook LARP (Live Action Role Playing). Dit festival bevat dan ook veel kraampjes, verenigingen en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan LARP-verenigingen, verassende bordspellen, bijzonder eten, een LARP zwaardvechttoernooi (met een speciale kinderdivisie!), verhalenvertellers, larpboogschieten en verschijnende kraampjes die al deze toebehoren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
+
+Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Zo zijn er speciale workshops, verschillende activiteiten en een kinderdivisie van het zwaardvechttoernooi.
+
+Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Facebook Pagina](https://www.facebook.com/FantasyCourt/).
+
+
 {{< aside >}}
     {{< banner rotate="1" >}}
         <h2>Wij worden georganiseerd door</h2>
@@ -36,6 +33,13 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
     {{< /banner >}}
 {{< /aside >}}
 
+# Editie 2021
+Fantasy Court 2021 vond online plaats op deze website, waar standhouders die normaliter naar onze fysieke editie waren gekomen ieder een eigen subpagina kregen. Deze pagina's bestonden uit mooie foto's, leuke weetjes over de kraampjes of Fantasy Court zelf, en uiteraard over het aanbod van de standhouder. Door over het digitale festival als het ware "heen te lopen" kwam je de antwoorden voor de speurtocht te weten, waarmee je de laatste [LARP Xperience box](https://www.larp-platform.nl/merch/xperiencebox-2021/) van het LARP platform kon winnen!
+
+*De winnaar van de speurtocht wordt binnenkort bekend gemaakt.*
+
+## LARP Platform Artikel 2021
+In samenwerking met het LARP Platform hebben we [een artikel](https://www.larp-platform.nl/informatie/fantasy-court-liefde-voor-larp/) geschreven over Fantasy Court! Wat is er zoal te doen? Wie is de organisatie? Waar zijn we te vinden? Dit alles staat uitgelegd in combinatie met een aantal prachtige foto's!
 
 # Editie 2020
 Met pijn in ons hart hadden wij moeten besluiten om Fantasy Court 2020 af te gelasten. De toenmalige landelijke maatregelen omtrent COVID-19 stonden het niet toe om een fysiek festival te organiseren. We hadden overwogen het festival te verschuiven, maar zagen geen goede opties die voldoende zekerheid boden voor een geslaagd evenement.

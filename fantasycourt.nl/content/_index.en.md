@@ -7,10 +7,6 @@ _Farmers, nobels, citizens and travelers of all sort_ \
 _You are all formally invited to enter the Fantasy Court._
 {{< /message >}}
 
-# Fantasy Court 2021 online
-Fantasy Court 2021 will take place online. Look [here](en/event-2021)! 
-Only available in dutch. The event page will work on mobile, but better on PC.
-
 {{< aside >}}
     {{< banner rotate="-3" >}}
         <h2>Want to be a vendor?</h2>
@@ -36,7 +32,12 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
 {{< /aside >}}
 
 # Edition 2021
-Fantasy Court 2021 will take place online. Please view the relevant page [here](en/event-2021).
+Fantasy Court 2021 took place online on this website, where vendors that would have normally attended a physical edition each got their own subpage. These subpages consisted of great photo's, fun facts about vendors or Fantasy Court itself, and of course the things sold by each vendor. By "walking around" the digital festival you got to know the answers to the treasure hunt, which would give you a chance to win the last [LARP Xperience box](https://www.larp-platform.nl/merch/xperiencebox-2021/) of the LARP Platform!
+
+*The winner of the treasure hunt will be announced soon.*
+
+## LARP Platform Article 2021
+In collaboration with the LARP Platform, we wrote [an article](https://www.larp-platform.nl/informatie/fantasy-court-liefde-voor-larp/) about Fantasy Court! What can you do there? Who is the organisation? Where can we be found? This (and more) is explained in cobination with a set of beautiful pictures!
 
 # Edition 2020
 With pain in our hearts, we unfortunately needed to cancel Fantasy Court 2020. The at the time nationwide regulations regarding COVID-19 did not allow for a physical festival at that time. We had considered moving the festival to a later date, but did not see good options that would guarantee a successful event.

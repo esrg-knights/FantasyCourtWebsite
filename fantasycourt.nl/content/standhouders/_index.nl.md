@@ -13,19 +13,11 @@ og:
   _Uw aanwezigheid is gewenst, met uw waren en uw kunsten_
 {{< /message >}}
 
-# Standhouders Editie 2021
-Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken!
-Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en de gespecialiseerde zaken. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt?
-
-# Standhouders Editie 2020
-Het doet pijn in ons hart, maar helaas hebben wij moeten besluiten om Fantasy Court 2020 af te gelasten. De toenmalige landelijke maatregelen betreffende COVID-19 liepen minimaal tot 1 juni terwijl Fantasy Court op 7 juni zou vallen. Daarbij stonden strengere landelijke maatregelen die later ingingen het ook niet meer toe om in Nederland een festival te organiseren.
-
-De mogelijke tijd van 1 juni tot 7 juni was voor ons te kort om zonder acceptabel menselijk risico, financieel risico, of studievertraging een festival neer te zetten. We hadden overwogen het festival te verschuiven, maar zagen daar geen goede opties die voldoende zekerheid boden voor een geslaagd evenement, goed weer, of tijd tot Fantasy Court 2021.
-
-Om deze reden hebben wij besloten ons te richten op de volgende editie rond juni 2021. We hopen jullie dan allemaal in goede gezondheid te mogen ontvangen.
+# Standhouders Editie 2022
+Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken! Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en de gespecialiseerde zaken. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt?!
 
 ## Wie zoeken wij?
-Wij zijn op zoek naar mensen of bedrijven die het volgende kunnen bieden:
+Wij zijn op zoek naar mensen, organisaties, of bedrijven die, bijvoorbeeld, het volgende kunnen bieden:
 
 Winkelkramen met benodigdheden, accessoires of zelfs kostuums voor:
 * LARP
@@ -47,9 +39,14 @@ Mensen die demo's kunnen geven in:
 * Bordspellen
 * LARP-scenes of gevechten
 
-Mensen die optredens kunnen geven die het publiek veroveren.
+Mensen die optredens kunnen geven die het publiek veroveren:
+* Muziek
+* Dans
 
-Etenswarenkramen met heerlijk eten en drinken zoals broodjes, zoetige snacks of middeleeuwse dranken. \
+Manieren waarop hongerige magen gevuld kunnen worden:
+* Food: Snacks, broodjes, etc.
+* Drinken, Middeleeuwse dranken, etc.
+\
 {{< small >}}
   _Wij houden uiteraard rekening met reeds aangemelde kramen_
 {{< /small >}}
@@ -61,10 +58,11 @@ Heeft u vragen? Neem vooral contact met ons op via [standhouders@fantasycourt.nl
 -->
 
 ## Praktische Informatie
-Fantasy Court 2021 zal plaatsvinden rond juni 2021, op een van de grasvelden van het terrein van de Technische Universiteit Eindhoven. Verdere informatie over de exacte tijden volgt later, maar bedoeling is om er een gezellige middag en namiddag van te maken!
+Fantasy Court 2022 zal plaatsvinden rond juni 2022, op een van de grasvelden van het terrein van de Technische Universiteit Eindhoven. Verdere informatie over de exacte tijden volgt later, maar bedoeling is om er een gezellige middag en namiddag van te maken!
 
-De kosten voor standhouders zullen bestaan uit een kleine deelnemersbijdrage (€17,50) en de eventuele kosten van de kraam/tent die via ons gehuurd kan worden (afhankelijk van uw wensen en de beschikbaarheid). Eigen kramen/tenten mogen ook meegenomen worden zolang dit vooraf bekend is bij de organisatie (i.v.m. de veldindeling).
-Over de compensatie voor optredens en acts kan met de organisatie worden onderhandeld.
+De kosten voor standhouders zullen bestaan uit een kleine deelnemersbijdrage (€17,50), en de eventuele kosten van een kraam/tent die via ons gehuurd kan worden (afhankelijk van uw wensen en de beschikbaarheid). Kramen en tenten worden direct gehuurd bij onze leveraar op kostprijs. Eigen kramen/tenten mogen ook meegenomen worden zolang dit vooraf bekend is bij de organisatie (i.v.m. de veldindeling).
+
+Over de compensatie voor optredens, workshops, of acts kan met de organisatie worden onderhandeld.
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
