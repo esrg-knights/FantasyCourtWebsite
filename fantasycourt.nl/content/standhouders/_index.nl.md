@@ -16,53 +16,26 @@ og:
 # Standhouders Editie 2022
 Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken! Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en de gespecialiseerde zaken. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt?!
 
-## Wie zoeken wij?
-Wij zijn op zoek naar mensen, organisaties, of bedrijven die, bijvoorbeeld, het volgende kunnen bieden:
+Fantasy Court vindt plaats op Zondag 12 Juni 2022, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.30u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken!
 
-Winkelkramen met benodigdheden, accessoires of zelfs kostuums voor:
-* LARP
-* Rollenspellen
-* Bordspellen
+Hieronder volgt specifiekere informatie. Bij vragen is het altijd mogelijk om contact met ons op te nemen via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl). Zo kijken wij graag of ook jij kan bijdragen aan een geweldig festival!
 
-Winkelkramen met anderen zaken binnen het Fantasy thema zoals:
-* Sieraden
-* Kostuums
-* Fantasy Game/Films Merchandise
-* Fantsy/Science Fiction Boeken
+Ben je al enthousiast om mee te doen? Heb dan nog eventjes geduld, want het **inschrijfformulier** voor standhoduers opent binnenkort!
 
-Mensen die workshops kunnen geven in:
-* LARP
-* Verhalenvertelkunst
+# LARP-organisaties
+We werken dit jaar samen met het [LARP Platform](https://www.larp-platform.nl) om een LARP-kampement op te zetten. In dit kampement komen verschillende LARP-organisaties samen om zo een gezellige hoek te kunnen vormen, waarin er de mogelijkheid bestaat om nieuwe personen bekend te maken met LARP en de gehele wereld daaromheen. Het is een mooie plek om je eigen organisatie te kunnen promoten en zo nieuwe spelers geïnteresseerd te krijgen.
 
-Mensen die demo's kunnen geven in:
-* Rollenspellen
-* Bordspellen
-* LARP-scenes of gevechten
+Inschrijfkosten voor LARP-organisaties bedragen €5,-. Tafels en een overkapping worden door ons geregeld! Het is toegestaan, en wordt zelfs aangemoedigd, om dingen als props mee te nemen om zo je eigen hoekje verder te kunnen personalizeren!
 
-Mensen die optredens kunnen geven die het publiek veroveren:
-* Muziek
-* Dans
+# Marktkramen
+Zoals gebruikelijk is er weer een markt! Denk hierbij aan kramen die dingengen gerelateerd aan LARP, rollenspellen, of bordspellen verkopen, of iets gerelateerd aan het genre van Fantasy. Dit varieert van sieraden en kostuums tot boeken en dobbelstenen. Ook is er uiteraard plaats voor kramen die etenswaren of drinken verkopen.
 
-Manieren waarop hongerige magen gevuld kunnen worden:
-* Food: Snacks, broodjes, etc.
-* Drinken, Middeleeuwse dranken, etc.
-\
-{{< small >}}
-  _Wij houden uiteraard rekening met reeds aangemelde kramen_
-{{< /small >}}
+Inschrijfkosten voor marktkramen bedragen een kleine deelnemersbijdrage van €17,50. In [overleg met de organisatie](mailto:organisatie@fantasycourt.nl?subject=Workshop%20Fantasy%20Court%202022) is het ook mogelijk om een kleine workshop of demo te geven, waarbij inschrijfkosten verlaagd worden naar €12,50.
 
-Heeft u vragen? Neem vooral contact met ons op via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl) of onze [Facebook](https://www.facebook.com/FantasyCourt/). Wij kijken graag of u ook kunt bijdragen aan een geweldige festivaldag!
+Het is ook mogelijk om via ons een marktkraam of tent te huren (afhankelijk van wensen en de beschikbaarheid). Deze worden direct gehuurd bij onze leverancier op kostprijs. Het is uiteraard ook toegestaan om zelf materialen als tenten, kramen, of bankjes mee te nemen, onder de voorwaarde dat dit vooraf bekend is bij de organisatie (i.v.m. de veldindeling). Dit is in het inschrijfformulier aan te geven.
 
-<!---
-    Binnenkort zal de inschrijving van standhouders officieel open gaan! Bent u nu al enthousiast om mee te doen? Geef je dan nu op als standhouder via [deze](https://goo.gl/forms/iPVDBuA1ef0gqhN63) Google Form.
--->
-
-## Praktische Informatie
-Fantasy Court 2022 zal plaatsvinden rond juni 2022, op een van de grasvelden van het terrein van de Technische Universiteit Eindhoven. Verdere informatie over de exacte tijden volgt later, maar bedoeling is om er een gezellige middag en namiddag van te maken!
-
-De kosten voor standhouders zullen bestaan uit een kleine deelnemersbijdrage (€17,50), en de eventuele kosten van een kraam/tent die via ons gehuurd kan worden (afhankelijk van uw wensen en de beschikbaarheid). Kramen en tenten worden direct gehuurd bij onze leveraar op kostprijs. Eigen kramen/tenten mogen ook meegenomen worden zolang dit vooraf bekend is bij de organisatie (i.v.m. de veldindeling).
-
-Over de compensatie voor optredens, workshops, of acts kan met de organisatie worden onderhandeld.
+# Optredens, Acts & Activiteiten
+Wij zijn altijd op zoek naar optredens of acts! Denk hierbij niet alleen aan dingen als muziek of dans, maar ook aan het vertellen van verhalen of zelfs het organiseren short-LARPs. Neem contact op met de [organisatie](mailto:optredens@fantasycourt.nl?subject=Optreden%20Fantasy%20Court%202022), dan kunnen we overleggen over de kosten.
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
