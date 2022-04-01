@@ -31,10 +31,13 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
     {{< /banner >}}
 {{< /aside >}}
 
+# Editie 2022 - Open the Gates!
+It is finally time, Fantasy Court takes places physically again! On Sunday June 12th, Fantasy Court is back with a market, a LARP swordfighting tournament, archery, just like in the good old days! Because of this reason we've decided on this year's theme: *Open the Gates!*. This year we're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations group together to host a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, we have been busy with setting up extra activities, such that there is even more to do throughout the day itself. Keep an eye out on our [Facebook](https://www.facebook.com/FantasyCourt/) and [Instagram](http://instagram.com/fantasycourtnl).
+
 # Edition 2021
 Fantasy Court 2021 took place online on this website, where vendors that would have normally attended a physical edition each got their own subpage. These subpages consisted of great photo's, fun facts about vendors or Fantasy Court itself, and of course the things sold by each vendor. By "walking around" the digital festival you got to know the answers to the treasure hunt, which would give you a chance to win the last [LARP Xperience box](https://www.larp-platform.nl/merch/xperiencebox-2021/) of the LARP Platform!
 
-*The winner of the treasure hunt will be announced soon.*
+*The winner of the treasure was announced through our social media. Congrats Bert Mans!*
 
 ## LARP Platform Article 2021
 In collaboration with the LARP Platform, we wrote [an article](https://www.larp-platform.nl/informatie/fantasy-court-liefde-voor-larp/) about Fantasy Court! What can you do there? Who is the organisation? Where can we be found? This (and more) is explained in cobination with a set of beautiful pictures!
@@ -47,7 +50,7 @@ With pain in our hearts, we unfortunately needed to cancel Fantasy Court 2020. T
 The Cursor made a video and wrote an [article](https://www.cursor.tue.nl/en/news/2019/juni/week-1/its-not-the-size-of-the-sword-that-matters-my-boy/) about Fantasy Court 2019. It was pretty warm that day, but nevertheless the day was very successful!
 
 ## Edition 2019
-The most recent edition of Fantasy Court, [Fantasy Court 2019](https://www.facebook.com/events/2583251595022623/), has taken place on the 2nd of June 2019 during the afternoon. It took take place on the campus of the Technical University of Eindhoven. In order to ensure succes we ordered an extra serving of good weather. Sadly we got a bit too much sun resulting into high temparatures. This wasn't enough to spoil the fun though and with an additional layer of suntan we managed to make it a beautiful event full of amazing stories, brave combat and all around fun.
+The most recent physical edition of Fantasy Court, [Fantasy Court 2019](https://www.facebook.com/events/2583251595022623/), has taken place on the 2nd of June 2019 during the afternoon. It took take place on the campus of the Technical University of Eindhoven. In order to ensure succes we ordered an extra serving of good weather. Sadly we got a bit too much sun resulting into high temparatures. This wasn't enough to spoil the fun though and with an additional layer of suntan we managed to make it a beautiful event full of amazing stories, brave combat and all around fun.
 
 Previous editions
 The festival originally started back in 2016 as the [LarpBattle](https://www.facebook.com/events/564866377026074/), followed by two succesful editions of [Fantasy Court 2018](https://www.facebook.com/events/121539801858080/) and [Fantasy Court 2017](https://www.facebook.com/events/795289227288793/").

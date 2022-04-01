@@ -32,7 +32,7 @@ Inschrijfkosten voor LARP-organisaties bedragen €10,-. Tafels en een overkappi
 Inschrijven kan via **[dit inschrijfformulier](https://forms.gle/LhCSgPXMjjgvwe9R6)** in! De inschrijvingen sluiten op 29 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
 
 # Marktkramen
-Zoals gebruikelijk is er weer een markt! Denk hierbij aan kramen die dingengen gerelateerd aan LARP, rollenspellen, of bordspellen verkopen, of iets gerelateerd aan het genre van Fantasy. Dit varieert van sieraden en kostuums tot boeken en dobbelstenen. Ook is er uiteraard plaats voor kramen die etenswaren of drinken verkopen.
+Zoals gebruikelijk is er weer een markt! Denk hierbij aan kramen die dingen gerelateerd aan LARP, rollenspellen, of bordspellen verkopen, of iets gerelateerd aan het genre van Fantasy. Dit varieert van sieraden en kostuums tot boeken en dobbelstenen. Ook is er uiteraard plaats voor kramen die etenswaren of drinken verkopen.
 
 Inschrijfkosten voor marktkramen bedragen een kleine deelnemersbijdrage van €17,50. In [overleg met de organisatie](mailto:organisatie@fantasycourt.nl?subject=Workshop%20Fantasy%20Court%202022) is het ook mogelijk om een kleine workshop of demo te geven, waarbij inschrijfkosten verlaagd worden naar €12,50.
 
