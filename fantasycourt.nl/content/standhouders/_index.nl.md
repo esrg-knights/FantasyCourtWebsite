@@ -22,12 +22,14 @@ Fantasy Court vindt plaats op Zondag 12 Juni 2022, op het Koeveld op het terrein
 
 Hieronder volgt specifiekere informatie. Bij vragen is het altijd mogelijk om contact met ons op te nemen via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl). Zo kijken wij graag of ook jij kan bijdragen aan een geweldig festival!
 
-Ben je al enthousiast om mee te doen? Schrijf je dan via **[dit inschrijfformulier](TODO)** in! De inschrijvingen sluiten op 29 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
+Ben je al enthousiast om mee te doen? Kijk dan snel bij de informatie hieronder voor het relevante inschrijfformulier!
 
 # LARP-organisaties
 We werken dit jaar samen met het [LARP Platform](https://www.larp-platform.nl) om een LARP-kampement op te zetten. In dit kampement komen verschillende LARP-organisaties samen om zo een gezellige hoek te kunnen vormen, waarin er de mogelijkheid bestaat om nieuwe personen bekend te maken met LARP en de gehele wereld daaromheen. Het is een mooie plek om je eigen organisatie te kunnen promoten en zo nieuwe spelers geïnteresseerd te krijgen.
 
 Inschrijfkosten voor LARP-organisaties bedragen €10,-. Tafels en een overkapping worden door ons geregeld! Het is toegestaan, en wordt zelfs aangemoedigd, om dingen als props mee te nemen om zo je eigen hoekje verder te kunnen personalizeren!
+
+Inschrijven kan via **[dit inschrijfformulier](https://forms.gle/LhCSgPXMjjgvwe9R6)** in! De inschrijvingen sluiten op 29 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
 
 # Marktkramen
 Zoals gebruikelijk is er weer een markt! Denk hierbij aan kramen die dingengen gerelateerd aan LARP, rollenspellen, of bordspellen verkopen, of iets gerelateerd aan het genre van Fantasy. Dit varieert van sieraden en kostuums tot boeken en dobbelstenen. Ook is er uiteraard plaats voor kramen die etenswaren of drinken verkopen.
@@ -35,6 +37,8 @@ Zoals gebruikelijk is er weer een markt! Denk hierbij aan kramen die dingengen g
 Inschrijfkosten voor marktkramen bedragen een kleine deelnemersbijdrage van €17,50. In [overleg met de organisatie](mailto:organisatie@fantasycourt.nl?subject=Workshop%20Fantasy%20Court%202022) is het ook mogelijk om een kleine workshop of demo te geven, waarbij inschrijfkosten verlaagd worden naar €12,50.
 
 Het is ook mogelijk om via ons een marktkraam of tent te huren (afhankelijk van wensen en de beschikbaarheid). Deze worden direct gehuurd bij onze leverancier op kostprijs. Het is uiteraard ook toegestaan om zelf materialen als tenten, kramen, of bankjes mee te nemen, onder de voorwaarde dat dit vooraf bekend is bij de organisatie (i.v.m. de veldindeling). Dit is in het inschrijfformulier aan te geven.
+
+Inschrijven kan via **[dit inschrijfformulier](https://forms.gle/EKDjjnnYqjyZGLkP9)** in! De inschrijvingen sluiten op 29 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
 
 # Optredens, Acts & Activiteiten
 Wij zijn altijd op zoek naar optredens of acts! Denk hierbij niet alleen aan dingen als muziek of dans, maar ook aan het vertellen van verhalen of zelfs het organiseren van short-LARPs. Neem contact op met de [organisatie](mailto:optredens@fantasycourt.nl?subject=Optreden%20Fantasy%20Court%202022), dan kunnen we overleggen over compensatie.
