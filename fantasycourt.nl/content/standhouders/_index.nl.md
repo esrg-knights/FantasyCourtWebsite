@@ -29,7 +29,7 @@ We werken dit jaar samen met het [LARP Platform](https://www.larp-platform.nl) o
 
 Inschrijfkosten voor LARP-organisaties bedragen €10,-. Tafels en een overkapping worden door ons geregeld! Het is toegestaan, en wordt zelfs aangemoedigd, om dingen als props mee te nemen om zo je eigen hoekje verder te kunnen personalizeren!
 
-Inschrijven kan via **[dit inschrijfformulier](https://forms.gle/LhCSgPXMjjgvwe9R6)** in! De inschrijvingen sluiten op 29 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
+Inschrijven kan via **[dit inschrijfformulier](https://docs.google.com/forms/d/e/1FAIpQLScpoXkfnwvvSwe9KWb92XWJ306f0qENSIA4pYsW9gwp9DdBQw/viewform?usp=sf_link)** in! De inschrijvingen sluiten op 29 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
 
 # Marktkramen
 Zoals gebruikelijk is er weer een markt! Denk hierbij aan kramen die dingen gerelateerd aan LARP, rollenspellen, of bordspellen verkopen, of iets gerelateerd aan het genre van Fantasy. Dit varieert van sieraden en kostuums tot boeken en dobbelstenen. Ook is er uiteraard plaats voor kramen die etenswaren of drinken verkopen.
@@ -38,7 +38,7 @@ Inschrijfkosten voor marktkramen bedragen een kleine deelnemersbijdrage van €1
 
 Het is ook mogelijk om via ons een marktkraam of tent te huren (afhankelijk van wensen en de beschikbaarheid). Deze worden direct gehuurd bij onze leverancier op kostprijs. Het is uiteraard ook toegestaan om zelf materialen als tenten, kramen, of bankjes mee te nemen, onder de voorwaarde dat dit vooraf bekend is bij de organisatie (i.v.m. de veldindeling). Dit is in het inschrijfformulier aan te geven.
 
-Inschrijven kan via **[dit inschrijfformulier](https://forms.gle/EKDjjnnYqjyZGLkP9)** in! De inschrijvingen sluiten op 29 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
+Inschrijven kan via **[dit inschrijfformulier](https://docs.google.com/forms/d/e/1FAIpQLScmdOG7kM-16bhzUG6BMbdl1do7KVoo986d0bUHshxOsoAQOQ/viewform?usp=sf_link)** in! De inschrijvingen sluiten op 29 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
 
 # Optredens, Acts & Activiteiten
 Wij zijn altijd op zoek naar optredens of acts! Denk hierbij niet alleen aan dingen als muziek of dans, maar ook aan het vertellen van verhalen of zelfs het organiseren van short-LARPs. Neem contact op met de [organisatie](mailto:optredens@fantasycourt.nl?subject=Optreden%20Fantasy%20Court%202022), dan kunnen we overleggen over compensatie.

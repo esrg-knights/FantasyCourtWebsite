@@ -29,7 +29,7 @@ We're cooperating with the [LARP Platform](https://www.larp-platform.nl) to crea
 
 Registration costs for LARP-organisations are €10,-. Tables and covering (against rain or sun) are arranged by us. It is of course allowed, and even encouraged, to bring your own props to further personalise your own corner!
 
-Registration can be done through [this registration form](https://forms.gle/LhCSgPXMjjgvwe9R6). Registrations close on April 29th. Do you still want to participate, but didn't fill out the form before the deadline passed? [Contact](mailto:standhouders@fantasycourt.nl) us and we'll see what we can still arrange!
+Registration can be done through [this registration form](https://docs.google.com/forms/d/e/1FAIpQLScpoXkfnwvvSwe9KWb92XWJ306f0qENSIA4pYsW9gwp9DdBQw/viewform?usp=sf_link). Registrations close on April 29th. Do you still want to participate, but didn't fill out the form before the deadline passed? [Contact](mailto:standhouders@fantasycourt.nl) us and we'll see what we can still arrange!
 
 # Vendors
 There will be a market as per usual: a variety of stalls selling things related to LARP, TTRPG, boardgames, or the genre of Fantasy. This can vary from things like jewelry and costumes to books and dice. There is also space for vendors selling food or drinks.
@@ -38,7 +38,7 @@ Registration costs for vendors require a registration fee of €17,50. It is pos
 
 It is also possible to rent a market stall or tent through us (depending on availability). These will be rented directly from our supplier, meaning that we are not making profits on these rentals. Of course, it is also allowed to bring your own materials like tents, benches, or stalls. Please contact the organisation in advance to let us know what materials you will use, as this is relevant for the field layout. It is possible to mention if you will be bringing your own materials in the registration form.
 
-Registration can be done through [this registration form](https://forms.gle/EKDjjnnYqjyZGLkP9). Registrations close on April 29th. Do you still want to participate, but didn't fill out the form before the deadline passed? [Contact](mailto:standhouders@fantasycourt.nl) us and we'll see what we can still arrange!
+Registration can be done through [this registration form](https://docs.google.com/forms/d/e/1FAIpQLScmdOG7kM-16bhzUG6BMbdl1do7KVoo986d0bUHshxOsoAQOQ/viewform?usp=sf_link). Registrations close on April 29th. Do you still want to participate, but didn't fill out the form before the deadline passed? [Contact](mailto:standhouders@fantasycourt.nl) us and we'll see what we can still arrange!
 
 # Acts & Activiteiten
 We are always looking for people able to perform acts! Think of things like music or dance, but also storytelling or even the organisation of short-LARPs. Please contact the [organisation](mailto:optredens@fantasycourt.nl?subject=Optreden%20Fantasy%20Court%202022) if you would like to do this so we can discuss the details and compensation.
