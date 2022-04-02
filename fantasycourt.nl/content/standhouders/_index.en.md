@@ -14,9 +14,9 @@ og:
 {{< /message >}}
 
 # Vendors Edition 2022
-In order to make Fantasy Court the best version it could be, we'd like to have people who can enrich the experience in whatever way possible. We offer an enthousiastic public looking for ambience and specific affairs, because where else can you find a festival focussed on LARP and LARP-related affairs?!
+In order to make Fantasy Court the best version it could be, we'd like to have people who can enrich the experience in whatever way possible. For vendors and entertainers who provide fantasy-related content, we offer an enthusiastic audience interested in LARP and the entire fantasy genre!
 
-Fantasy Court will take place on Sunday June 12th 2022, on *het Koeveld* on the campus of the Eindhoven Universtiy of Technology (Den Dolech 12, TU/e, Eindhoven). The expected end time of the build-up is 10.30h, and the festival ends at 18.00h. We intend to create an awesome late morning and afternoon!
+Fantasy Court will take place on Sunday June 12th 2022, on *het Koeveld,* on the campus of the Eindhoven University of Technology (Den Dolech 12, TU/e, Eindhoven). The expected end time of the build-up is 10.30h, and the festival ends at 18.00h. We intend to organize an awesome late morning and afternoon full of exciting activities!
 
 {{< renderImageResource "fc-2022-map" "fc-2022-campus-map.png" "400px" >}}
 
@@ -25,23 +25,23 @@ Specific information is listed below. It is always possible to contact us at [st
 Are you interested in joining? Check the specific information below for the relevant registration form!
 
 # LARP-organisations
-We're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner. Different LARP organisations come together here to create a cozy corner, where new people can be introduced with LARP and the entire world around it. It is a nice place to promote your own organisation and get interested new players.
+We're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner. Different LARP organisations come together here to create a cosy corner, where new people can be introduced to LARP and the entire world around it. It is a nice place to promote your own organisation and get interested new players.
 
 Registration costs for LARP-organisations are €10,-. Tables and covering (against rain or sun) are arranged by us. It is of course allowed, and even encouraged, to bring your own props to further personalise your own corner!
 
-Registration can be done through **[this registration form](https://forms.gle/LhCSgPXMjjgvwe9R6)**. Registrations close on April 29th. Has this deadline passed but do you still want to participate? [Contact](mailto:standhouders@fantasycourt.nl) us and we'll see what we can still arrange!
+Registration can be done through [this registration form](https://forms.gle/LhCSgPXMjjgvwe9R6). Registrations close on April 29th. Do you still want to participate, but didn't fill out the form before the deadline passed? [Contact](mailto:standhouders@fantasycourt.nl) us and we'll see what we can still arrange!
 
 # Vendors
-There will be a market as per usual. Thing of stalls selling things related to LARP, TTRPG, or boardgames, or something related to the genre of Fantasy. This can vary from things like jewelry and costumes to books and dice. There is also space for vendors selling food or drinks.
+There will be a market as per usual: a variety of stalls selling things related to LARP, TTRPG, boardgames, or the genre of Fantasy. This can vary from things like jewelry and costumes to books and dice. There is also space for vendors selling food or drinks.
 
-Registraion costs for vendors require a registration fee of €17,50. It is possible to give a small workshop or demo, which would reduce registration costs by €5,-. Please [contact the organisation](mailto:organisatie@fantasycourt.nl?subject=Workshop%20Fantasy%20Court%202022) so we can discuss details.
+Registration costs for vendors require a registration fee of €17,50. It is possible for you to give a small workshop or demo, which reduces your registration costs by €5,-. Please [contact the organisation](mailto:organisatie@fantasycourt.nl?subject=Workshop%20Fantasy%20Court%202022) if you would like to do a workshop or demo so we can discuss details.
 
-It is also possible to rent a market stall or tent through us (depending on availability). These will be hired directly from our supplier, meaning that we are not making profits on these rentals. Of course, it is also allowed to bring your own materials like tents, benches, or stalls. Please let this know to the organisation in advance, as this is relevant for the field layout. It is possible to mention if you will be bringing your own materials in the registration form.
+It is also possible to rent a market stall or tent through us (depending on availability). These will be rented directly from our supplier, meaning that we are not making profits on these rentals. Of course, it is also allowed to bring your own materials like tents, benches, or stalls. Please contact the organisation in advance to let us know what materials you will use, as this is relevant for the field layout. It is possible to mention if you will be bringing your own materials in the registration form.
 
-Registration can be done through **[this registration form](https://forms.gle/EKDjjnnYqjyZGLkP9)**. Registrations close on April 29th. Has this deadline passed but do you still want to participate? [Contact](mailto:standhouders@fantasycourt.nl) us and we'll see what we can still arrange!
+Registration can be done through [this registration form](https://forms.gle/EKDjjnnYqjyZGLkP9). Registrations close on April 29th. Do you still want to participate, but didn't fill out the form before the deadline passed? [Contact](mailto:standhouders@fantasycourt.nl) us and we'll see what we can still arrange!
 
 # Acts & Activiteiten
-We are always looking for people able to give acts! Think of things like music or dance, but also of storytelling or even the organisation of short-LARPs. Please contact the [organisation](mailto:optredens@fantasycourt.nl?subject=Optreden%20Fantasy%20Court%202022) so we can discuss the details and compensation.
+We are always looking for people able to perform acts! Think of things like music or dance, but also storytelling or even the organisation of short-LARPs. Please contact the [organisation](mailto:optredens@fantasycourt.nl?subject=Optreden%20Fantasy%20Court%202022) if you would like to do this so we can discuss the details and compensation.
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_
