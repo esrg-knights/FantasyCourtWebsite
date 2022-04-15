@@ -27,3 +27,12 @@
       background-color: darken($eventBlockBackgroundColor, 15%);
   }
 }
+
+// Image that spans the entire width and is centered horizontally
+.centeredimg {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  max-width: 100%;
+  display: block;
+}

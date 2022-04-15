@@ -18,7 +18,7 @@ Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die
 
 Fantasy Court vindt plaats op Zondag 12 Juni 2022, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.30u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken!
 
-{{< renderImageResource "fc-2022-map" "fc-2022-campus-map.png" "400px" >}}
+{{< renderImageResource id="fc-2022-map" path="fc-2022-campus-map.png" class="centeredimg" style="width: 400px;" >}}
 
 Hieronder volgt specifiekere informatie. Bij vragen is het altijd mogelijk om contact met ons op te nemen via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl). Zo kijken wij graag of ook jij kan bijdragen aan een geweldig festival!
 

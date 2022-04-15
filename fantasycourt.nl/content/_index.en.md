@@ -32,7 +32,13 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
 {{< /aside >}}
 
 # Editie 2022 - Open the Gates!
-It is finally time for Fantasy Court to take place physically again! On Sunday, June 12th, Fantasy Court is back with a market, a LARP swordfighting tournament, archery, and more, just like in the good old days! To celebrate our return to being an in-person event, we've decided the 2022 theme will be: *Open the Gates!* This year, we're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations group together to host a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, we have been busy with setting up extra activities, such that there is even more to do throughout the day itself. Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), and [Twitter] (https://twitter.com/fantasy_nl).
+{{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
+It is finally time for Fantasy Court to take place physically again! On Sunday, June 12th, Fantasy Court is back with a market, a LARP swordfighting tournament, archery, and more, just like in the good old days! To celebrate our return to being an in-person event, we've decided the 2022 theme will be: *Open the Gates!*
+
+This year, we're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations group together to host a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, we have been busy with setting up extra activities, such that there is even more to do throughout the day itself. Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), and [Twitter] (https://twitter.com/fantasy_nl).
+
+Fantasy Court 2022 takes place on the campus of the Eindhoven University of Technology on *het Koeveld*.
+{{< renderImageResource id="fc-2022-map" path="fc-2022-campus-map.png" class="centeredimg" style="width: 400px;" >}}
 
 # Edition 2021
 Fantasy Court 2021 took place online on this website, where vendors that would have normally attended a physical event each got their own subpage. These subpages consisted of great photos, fun facts about vendors or Fantasy Court itself, and of course the things sold by each vendor. By "walking around" the digital festival, you got to know the answers to the treasure hunt, which would give you a chance to win the last [LARP Xperience box](https://www.larp-platform.nl/merch/xperiencebox-2021/) of the LARP Platform!
