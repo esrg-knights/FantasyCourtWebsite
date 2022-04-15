@@ -50,9 +50,6 @@ Fantasy Court 2021 vond online plaats op deze website, waar standhouders die nor
 ## LARP Platform Artikel 2021
 In samenwerking met het LARP Platform hebben we [een artikel](https://www.larp-platform.nl/informatie/fantasy-court-liefde-voor-larp/) geschreven over Fantasy Court! Wat is er zoal te doen? Wie is de organisatie? Waar zijn we te vinden? Dit alles staat uitgelegd in combinatie met een aantal prachtige foto's!
 
-# Editie 2020
-Met pijn in ons hart hadden wij moeten besluiten om Fantasy Court 2020 af te gelasten. De toenmalige landelijke maatregelen omtrent COVID-19 stonden het niet toe om een fysiek festival te organiseren. We hadden overwogen het festival te verschuiven, maar zagen geen goede opties die voldoende zekerheid boden voor een geslaagd evenement.
-
 ## Video en Artikel Editie 2019
 {{< youtube id="fhyHCuGGCp8" title="Fantasy Court 2019" >}}
 De Cursor heeft een video gemaakt en een [artikel](https://www.cursor.tue.nl/en/news/2019/juni/week-1/its-not-the-size-of-the-sword-that-matters-my-boy) geschreven over Fantasy Court 2019. Het was vrij warm die dag, maar desondanks was het een geslaagde dag!
@@ -80,12 +77,11 @@ Onder andere:
 * Fantasy kraampjes
 * Muziek
 * Workshops
-* Kleine activiteiten zoals bordspellen
+* Andere Kleine activiteiten
 
 {{< aside >}}
     {{< banner rotate="-2" >}}
         <h2>Wij worden ondersteund door</h2>
-        {{< figure src="/images/Sponsor_SG.bmp" alt="Studium Generale Logo" >}}
         {{< figure src="/images/Sponsor_Rabobank.png" alt="Rabobank Eindhoven-Veldhoven Logo" >}}
     {{< /banner >}}
 {{< /aside >}}
@@ -103,5 +99,4 @@ _Tot op het hof!_
 ## Sponsoren
 Wij worden mede mogelijk gemaakt door:
 * ESRG Knights of the Kitchen Table
-* Studium Generale TU/e
 * Rabobank Eindhoven-Veldhoven

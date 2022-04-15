@@ -50,5 +50,4 @@ _Tot op het hof!_
 ## Sponsoren
 Wij worden mede mogelijk gemaakt door:
 * ESRG Knights of the Kitchen Table
-* Studium Generale TU/e
 * Rabobank Eindhoven-Veldhoven

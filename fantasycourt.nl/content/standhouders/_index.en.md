@@ -50,5 +50,4 @@ _See you at the court!_
 ## Sponsors
 We are made possible by:
 * ESRG Knights of the Kitchen Table
-* Studium Generale TU/e
 * Rabobank Eindhoven-Veldhoven
