@@ -32,7 +32,13 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
 {{< /aside >}}
 
 # Editie 2022 - Open the Gates!
-It is finally time for Fantasy Court to take place physically again! On Sunday, June 12th, Fantasy Court is back with a market, a LARP swordfighting tournament, archery, and more, just like in the good old days! To celebrate our return to being an in-person event, we've decided the 2022 theme will be: *Open the Gates!* This year, we're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations group together to host a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, we have been busy with setting up extra activities, such that there is even more to do throughout the day itself. Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), and [Twitter] (https://twitter.com/fantasy_nl).
+{{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
+It is finally time for Fantasy Court to take place physically again! On Sunday, June 12th, Fantasy Court is back with a market, a LARP swordfighting tournament, archery, and more, just like in the good old days! To celebrate our return to being an in-person event, we've decided the 2022 theme will be: *Open the Gates!*
+
+This year, we're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations group together to host a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, we have been busy with setting up extra activities, such that there is even more to do throughout the day itself. Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), and [Twitter] (https://twitter.com/fantasy_nl).
+
+Fantasy Court 2022 takes place on the campus of the Eindhoven University of Technology on *het Koeveld*.
+{{< renderImageResource id="fc-2022-map" path="fc-2022-campus-map.png" class="centeredimg" style="width: 400px;" >}}
 
 # Edition 2021
 Fantasy Court 2021 took place online on this website, where vendors that would have normally attended a physical event each got their own subpage. These subpages consisted of great photos, fun facts about vendors or Fantasy Court itself, and of course the things sold by each vendor. By "walking around" the digital festival, you got to know the answers to the treasure hunt, which would give you a chance to win the last [LARP Xperience box](https://www.larp-platform.nl/merch/xperiencebox-2021/) of the LARP Platform!
@@ -41,9 +47,6 @@ Fantasy Court 2021 took place online on this website, where vendors that would h
 
 ## LARP Platform Article 2021
 In collaboration with the LARP Platform, we wrote [an article](https://www.larp-platform.nl/informatie/fantasy-court-liefde-voor-larp/) about Fantasy Court! What can you do there? Who is the organisation? Where can we be found? This (and more) is explained in combination with a set of beautiful pictures!
-
-# Edition 2020
-With pain in our hearts, we unfortunately needed to cancel Fantasy Court 2020. The at the time nationwide regulations regarding COVID-19 did not allow for a physical festival at that time. We had considered moving the festival to a later date, but did not see good options that would guarantee a successful event.
 
 ## Video and Article Edition 2019
 {{< youtube id="fhyHCuGGCp8" title="Fantasy Court 2019" >}}
@@ -68,12 +71,11 @@ Among other things:
 * Fantasy stalls
 * Music
 * Workshops
-* Small activities like boardgames
+* Other small activities
 
 {{< aside >}}
     {{< banner rotate="-2" >}}
         <h2>We are supported by</h2>
-        {{< figure src="/images/Sponsor_SG.bmp" alt="Studium Generale Logo" >}}
         {{< figure src="/images/Sponsor_Rabobank.png" alt="Rabobank Eindhoven-Veldhoven Logo" >}}
     {{< /banner >}}
 {{< /aside >}}
@@ -90,5 +92,4 @@ _See you at the court!_
 ## Sponsors
 We are made possible by:
 * ESRG Knights of the Kitchen Table
-* Studium Generale TU/e
 * Rabobank Eindhoven-Veldhoven

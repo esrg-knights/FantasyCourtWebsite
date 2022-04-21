@@ -1,3 +1,6 @@
-{{ with .Page.CurrentSection.Resources.GetMatch (.Get 1) }}
-    <img id="{{$.Get 0}}" src="{{ .RelPermalink }}" style="{{if $.Get 2}}width: {{$.Get 2}}; {{end}}margin-left: auto; margin-right: auto; margin-bottom: 30px; max-width: 100%; display: block;">
-{{ end }}
+{{- with .Page.CurrentSection.Resources.GetMatch (.Get "path") -}}
+    <img id="{{$.Get "id"}}" src="{{ .RelPermalink }}"
+        {{- if $.Get "class"}}class="{{$.Get "class"}}"{{end -}}
+        {{- if $.Get "style"}}style="{{$.Get "style" | safeCSS}}"{{end -}}
+    >
+{{- end -}}

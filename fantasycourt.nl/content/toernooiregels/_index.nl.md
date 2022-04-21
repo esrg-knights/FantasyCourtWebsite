@@ -46,11 +46,11 @@ Verder zal er tussen de trainingen in van 13:30 tot 14:15 een kleine beginnerstr
 1. Een deelnemer krijgt een punt als die de andere deelnemer op een geldige manier raakt zonder zelf geraakt te worden.
 1. Bij dubbel contact krijgt geen van de spelers een punt.
 1. De winnaar is de persoon die 5 of meer punten en een voorsprong van 2 punten op de tegenstander heeft. Ter vergelijking: deze manier is ruwweg gelijk aan de regels bij tennis.
-1. Een duel heeft een tijdslimiet van twee minuten. Als na het verstrijken van de limiet nog niemand heeft gewonnen, wint de deelnemer met de meeste punten. 
+1. Een duel heeft een tijdslimiet van twee minuten. Als na het verstrijken van de limiet nog niemand heeft gewonnen, wint de deelnemer met de meeste punten.
 1. Als het tijdslimiet verstreken is en beide spelers gelijke punten hebben gaat het duel door en wint de eerste persoon die een punt scoort.
 
 ## 5. Overtredingen
-1. Als de scheidsrechters een overtreding zien leggen ze het spel stil. 
+1. Als de scheidsrechters een overtreding zien leggen ze het spel stil.
 1. Bij de eerste overtreding krijgt de tegenstander van de persoon die de overtreding begaat een punt.
 1. Bij de tweede overtreding verliest de overtreder automatisch. Als dit de tweede keer is dat een deelnemer op deze manier verliest is de tegenstander gedisqualificeerd.
 1. Als de actie van een van de deelnemers tot een wond of blessure bij de tegenstander lijd wint de tegenstander automatisch. Als deze persoon niet in staat is om door te gaan met het toernooi wordt de overtreder gedisqualificeerd.
@@ -59,19 +59,18 @@ Verder zal er tussen de trainingen in van 13:30 tot 14:15 een kleine beginnerstr
 ## 6. Scheidsrechters
 1. Het scheidsrechtersteam bestaat uit drie personen. Eén hoofdscheidsrechter en twee hitscheidsrechters.
 1. De hoofdscheidsrechter houdt de score bij en controleerd op overtredingen. ook is hij verantwoordelijk voor de orde tijdens het toernooi.
-1. De hitscheidsrechters zijn gekoppeld aan een deelnemer en controleren of en hoe deze wordt geraakt. Zij bepalen uiteindelijk of een hit geldig is. 
+1. De hitscheidsrechters zijn gekoppeld aan een deelnemer en controleren of en hoe deze wordt geraakt. Zij bepalen uiteindelijk of een hit geldig is.
 1. In het geval van twijfel over geldig zwaardcontact heeft de desbetreffende hitscheidsrechter het laatste woord. Andere beslissingen worden met de meerderheid genomen waarbij de hoofdscheidsrechter als nodig tiebreaker is.
-				
+
 ## 7. Bij twijfel of onduidelijkheid in de regels hebben de scheidsrechters het laatste woord.</h2>
 ##
 
 
 {{< message margin-top="80px" margin-bottom="100px">}}
-_Tot op het hof!_  
+_Tot op het hof!_
 {{< /message >}}
 
 ## Sponsoren
 Wij worden mede mogelijk gemaakt door:
 * ESRG Knights of the Kitchen Table
-* Studium Generale TU/e
 * Rabobank Eindhoven-Veldhoven

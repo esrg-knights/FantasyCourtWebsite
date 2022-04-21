@@ -18,7 +18,7 @@ In order to make Fantasy Court the best version it could be, we'd like to have p
 
 Fantasy Court will take place on Sunday June 12th 2022, on *het Koeveld,* on the campus of the Eindhoven University of Technology (Den Dolech 12, TU/e, Eindhoven). The expected end time of the build-up is 10.30h, and the festival ends at 18.00h. We intend to organize an awesome late morning and afternoon full of exciting activities!
 
-{{< renderImageResource "fc-2022-map" "fc-2022-campus-map.png" "400px" >}}
+{{< renderImageResource id="fc-2022-map" path="fc-2022-campus-map.png" class="centeredimg" style="width: 400px;" >}}
 
 Specific information is listed below. It is always possible to contact us at [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl) in case of questions. This way, we can see in which way *you* can also contribute to our amazing festival!
 
@@ -40,8 +40,8 @@ It is also possible to rent a market stall or tent through us (depending on avai
 
 Registration can be done through [this registration form](https://docs.google.com/forms/d/e/1FAIpQLScmdOG7kM-16bhzUG6BMbdl1do7KVoo986d0bUHshxOsoAQOQ/viewform?usp=sf_link). Registrations close on April 29th. Do you still want to participate, but didn't fill out the form before the deadline passed? [Contact](mailto:standhouders@fantasycourt.nl) us and we'll see what we can still arrange!
 
-# Acts & Activiteiten
-We are always looking for people able to perform acts! Think of things like music or dance, but also storytelling or even the organisation of short-LARPs. Please contact the [organisation](mailto:optredens@fantasycourt.nl?subject=Optreden%20Fantasy%20Court%202022) if you would like to do this so we can discuss the details and compensation.
+# Acts & Activities
+We are always looking for people able to perform acts! Think of things like music or dance, but also storytelling or even organising short-LARPs. Please contact the [organisation](mailto:optredens@fantasycourt.nl?subject=Optreden%20Fantasy%20Court%202022) if you would like to do this so we can discuss the details and compensation.
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_
@@ -50,5 +50,4 @@ _See you at the court!_
 ## Sponsors
 We are made possible by:
 * ESRG Knights of the Kitchen Table
-* Studium Generale TU/e
 * Rabobank Eindhoven-Veldhoven

@@ -34,7 +34,13 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
 {{< /aside >}}
 
 # Editie 2022 - Open the Gates!
-Het is weer zover, Fanatasy Court vindt weer fysiek plaats! Op Zondag 12 Juni is Fantasy Court weer terug met marktkramen, een LARP-zwaardvechttoernooi, en boogschieten, net als vanouds! Om deze reden hebben we er voor gekozen voor het thema: *Open the Gates!*. Dit jaar werken we samen met het [LARP Platform](https://www.larp-platform.nl) om een LARP-kampement op te zetten, waar verschillende LARP-organisaties samen samen een gezellige hoek kunnen vormen om zo nieuwe mensen geïnteresseerd te krijgen in LARP en de hele wereld daaromheen! Daarnaast zjin we druk bezig met het opzetten van extra activiteiten, zodat er nog meer te doen is op de dag zelf! Houd onze [Facebook](https://www.facebook.com/FantasyCourt/) en [Instagram](http://instagram.com/fantasycourtnl) in de gaten!
+{{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
+Het is weer zover, Fanatasy Court vindt weer fysiek plaats! Op Zondag 12 Juni is Fantasy Court weer terug met marktkramen, een LARP-zwaardvechttoernooi, en boogschieten, net als vanouds! Om deze reden hebben we er voor gekozen voor het thema: *Open the Gates!*.
+
+Dit jaar werken we samen met het [LARP Platform](https://www.larp-platform.nl) om een LARP-kampement op te zetten, waar verschillende LARP-organisaties samen samen een gezellige hoek kunnen vormen om zo nieuwe mensen geïnteresseerd te krijgen in LARP en de hele wereld daaromheen! Daarnaast zjin we druk bezig met het opzetten van extra activiteiten, zodat er nog meer te doen is op de dag zelf! Houd onze [Facebook](https://www.facebook.com/FantasyCourt/) en [Instagram](http://instagram.com/fantasycourtnl) in de gaten!
+
+Fantasy Court 2022 vindt plaats op de campus van de Technische Universiteit Eindhoven op *het Koevveld*.
+{{< renderImageResource id="fc-2022-map" path="fc-2022-campus-map.png" class="centeredimg" style="width: 400px;" >}}
 
 # Editie 2021
 Fantasy Court 2021 vond online plaats op deze website, waar standhouders die normaliter naar onze fysieke editie waren gekomen ieder een eigen subpagina kregen. Deze pagina's bestonden uit mooie foto's, leuke weetjes over de kraampjes of Fantasy Court zelf, en uiteraard over het aanbod van de standhouder. Door over het digitale festival als het ware "heen te lopen" kwam je de antwoorden voor de speurtocht te weten, waarmee je de laatste [LARP Xperience box](https://www.larp-platform.nl/merch/xperiencebox-2021/) van het LARP platform kon winnen!
@@ -43,9 +49,6 @@ Fantasy Court 2021 vond online plaats op deze website, waar standhouders die nor
 
 ## LARP Platform Artikel 2021
 In samenwerking met het LARP Platform hebben we [een artikel](https://www.larp-platform.nl/informatie/fantasy-court-liefde-voor-larp/) geschreven over Fantasy Court! Wat is er zoal te doen? Wie is de organisatie? Waar zijn we te vinden? Dit alles staat uitgelegd in combinatie met een aantal prachtige foto's!
-
-# Editie 2020
-Met pijn in ons hart hadden wij moeten besluiten om Fantasy Court 2020 af te gelasten. De toenmalige landelijke maatregelen omtrent COVID-19 stonden het niet toe om een fysiek festival te organiseren. We hadden overwogen het festival te verschuiven, maar zagen geen goede opties die voldoende zekerheid boden voor een geslaagd evenement.
 
 ## Video en Artikel Editie 2019
 {{< youtube id="fhyHCuGGCp8" title="Fantasy Court 2019" >}}
@@ -74,12 +77,11 @@ Onder andere:
 * Fantasy kraampjes
 * Muziek
 * Workshops
-* Kleine activiteiten zoals bordspellen
+* Andere Kleine activiteiten
 
 {{< aside >}}
     {{< banner rotate="-2" >}}
         <h2>Wij worden ondersteund door</h2>
-        {{< figure src="/images/Sponsor_SG.bmp" alt="Studium Generale Logo" >}}
         {{< figure src="/images/Sponsor_Rabobank.png" alt="Rabobank Eindhoven-Veldhoven Logo" >}}
     {{< /banner >}}
 {{< /aside >}}
@@ -97,5 +99,4 @@ _Tot op het hof!_
 ## Sponsoren
 Wij worden mede mogelijk gemaakt door:
 * ESRG Knights of the Kitchen Table
-* Studium Generale TU/e
 * Rabobank Eindhoven-Veldhoven
