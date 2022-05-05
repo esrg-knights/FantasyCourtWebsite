@@ -35,7 +35,7 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
 
 # Editie 2022 - Open the Gates!
 {{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
-Het is weer zover, Fanatasy Court vindt weer fysiek plaats! Op Zondag 12 Juni is Fantasy Court weer terug met marktkramen, een LARP-zwaardvechttoernooi, en boogschieten, net als vanouds! Om deze reden hebben we er voor gekozen voor het thema: *Open the Gates!*.
+Het is weer zover, Fantasy Court vindt weer fysiek plaats! Op Zondag 12 Juni is Fantasy Court weer terug met marktkramen, een LARP-zwaardvechttoernooi, en boogschieten, net als vanouds! Om deze reden hebben we er voor gekozen voor het thema: *Open the Gates!*.
 
 Dit jaar werken we samen met het [LARP Platform](https://www.larp-platform.nl) om een LARP-kampement op te zetten, waar verschillende LARP-organisaties samen samen een gezellige hoek kunnen vormen om zo nieuwe mensen geïnteresseerd te krijgen in LARP en de hele wereld daaromheen! Daarnaast zjin we druk bezig met het opzetten van extra activiteiten, zodat er nog meer te doen is op de dag zelf! Houd onze [Facebook](https://www.facebook.com/FantasyCourt/) en [Instagram](http://instagram.com/fantasycourtnl) in de gaten!
 
