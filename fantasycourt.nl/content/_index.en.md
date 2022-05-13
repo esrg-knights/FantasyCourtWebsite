@@ -33,9 +33,9 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
 
 # Editie 2022 - Open the Gates!
 {{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
-It is finally time for Fantasy Court to take place physically again! On Sunday, June 12th, Fantasy Court is back with a market, a LARP swordfighting tournament, archery, and more, just like in the good old days! To celebrate our return to being an in-person event, we've decided the 2022 theme will be: *Open the Gates!*
+It is finally time for Fantasy Court to take place physically again! On **Sunday, June 12th 11.00-18.00h**, Fantasy Court is back with a market, a LARP swordfighting tournament, archery, and more, just like in the good old days! To celebrate our return to being an in-person event, we've decided the 2022 theme will be: *Open the Gates!*
 
-This year, we're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations group together to host a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, we have been busy with setting up extra activities, such that there is even more to do throughout the day itself. Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), and [Twitter] (https://twitter.com/fantasy_nl).
+This year, we're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations group together to host a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, we have been busy with setting up extra activities, such that there is even more to do throughout the day itself. Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), and [Twitter](https://twitter.com/fantasy_nl).
 
 Fantasy Court 2022 takes place on the campus of the Eindhoven University of Technology on *het Koeveld*.
 {{< renderImageResource id="fc-2022-map" path="fc-2022-campus-map.png" class="centeredimg" style="width: 400px;" >}}
