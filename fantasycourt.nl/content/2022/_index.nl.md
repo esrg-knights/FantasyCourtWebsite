@@ -17,8 +17,8 @@ Eindelijk gaan de deuren van dit Festival open! De organisatie van Fantasy Court
 
 ### Op het podium
 Een aantal getalenteerde artiesten treedt op op het podium:
-- **De Troubadours van St. Joost**: Twee talentvolle dames zullen een kleine set aan troubadours muziek voor de festivalgangers spelen
-- **FeePhiFolkFum**: Phi, met een getalenteerde stem en bespeler van het folk instrument de draailier zal voor ons optreden met haar eigengemaakte muziek!
+- **De Troubadours van St. Joost**: Twee talentvolle dames zullen een kleine set aan troubadours muziek voor de festivalgangers spelen.
+- **FeePhiFolkFum**: Phi, met een getalenteerde stem en bespeler van het folk instrument de draailier zal voor ons optreden met hun eigengemaakte muziek!
 - **Lezing Wat is Larp?**: Vertegenwoordigers van de organisatie LARP Platform zullen een introductie lezing geven over larp en hoe het werkt.
 - **Balfolk Workshop**: Onze Fantasy Court eigen Isa Barten zal met collega's een demonstratie en instructie geven om mensen van alle leeftijden het begin van balfolk te leren en te laten ervaren.
 - **Waaierdans Helheim**: Een spannend beeldend verhaal van goden, krijgers en het hiernamaals, uitgevoerd door Maartje van der Zalm en haar groep waaierdansers.
@@ -28,7 +28,7 @@ Een aantal getalenteerde artiesten treedt op op het podium:
 Verscheidene activiteiten vinden plaats op het toernooiveld:
 - **Kinderen Larp Zwaardvechten**: De leuke kinderactiviteit van Koningsdag is terug! Kinderen van alle leeftijden kunnen hier met schuimrubberen zwaarden veilig oefenen met vechten. Daag ons, vrienden of familie uit in onze arena.
 - **Mesverdedigen Worksho**p: Ron Bouwman, een professionele vechtinstructeur zal ons tips geven hoe te verdedigen van (mes)aanvallen wat je ook goed kan gebruiken in je volgende larp (of in het echte leven).
-- **Larp Zwaardvecht Instructie**: Geïnteresseerd in ons zwaardvecht toernooi? Volg deze instructie en leer en oefen de regels en een beetje van de basis van zwaardvechten. De instructie wordt gegeven door Fantasy Courts eigen ervaren Larp zwaardvechters
+- **Larp Zwaardvecht Instructie**: Geïnteresseerd in ons zwaardvecht toernooi? Volg deze instructie en leer en oefen de regels en een beetje van de basis van zwaardvechten. De instructie wordt gegeven door Fantasy Courts eigen ervaren Larp zwaardvechters.
 - **Larp Zwaardvecht toernooi**: Een 1-op-1 opwindend larp zwaardvechttoernooi voor alle levels van ervaring, Lukt het jou om te winnen?
 - **Historisch zwaardvechten**: Het andere deel van het toernooiveld wordt gebruikt voor indrukwekkende demonstraties met échte zwaarden en uitrusting door de experts van De Bockenreyders. En leer het zelf met de schuimrubbere zwaarden onder instructie van de ervaren mensen van 365 Sports.
 
@@ -45,28 +45,28 @@ En er is nog meer te doen en te belven verspreid over het Fanasty Court festival
 - **Pole Pirate Paaldans Workshop**: De Pole Pirate Greet Charpentier laat ook graag dit jaar jullie kennismaken met deze unieke sport
 Verschillende Buitenspellen**: We hebben nog een variatie aan andere veld spellen die de hele dag door te spelen zijn zoals ringwerpen, croquet of Kubb. Geniet ervan tussen een show of andere activiteit door!
 - **Dans- en Strekoefeningen**: Korte sessies van 15 minuten met dans, beweging en oefeningen, om je de dag door heen te helpen!
-- **Heroes of Thargo Demo**: Heb jij al ooit gehoord van het Cursed Empire tabletop roleplaying systeem, en hun kaartspel Heroes of Thargos uitgeprobeerd? Kom het hier uitproberen en ervaar een net andere hoek van spelen!
+- **Heroes of Thargos Demo**: Heb jij al ooit gehoord van het Cursed Empire tabletop roleplaying systeem, en hun kaartspel Heroes of Thargos uitgeprobeerd? Kom het hier uitproberen en ervaar een net andere hoek van spelen!
 - **Upset Ducks**: Bouw je kasteel om de eenden in te huisvesten en haal het kasteel van de ander neer!
 - **Verschillende Outdoor Activiteiten**: Simpele open-veld spellen gedurende de dag, zoals Kubb!
 
 ### Standhouders
 Onderstaand vind je de verscheidende standhouders. Benieuwd naar wie zij precies zijn? Volg onze sociale media media ([Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl)) voor meer informatie!
-- **[365 Sports](https://www.365sports.nl/)**: Historisch Zwaardvechten
-- **[Atelier Spintol](https://www.facebook.com/AtelierSpintol/)**: Handgemaakte historische accessoires
+- **[365 Sports](https://www.365sports.nl/)**: Historisch Zwaardvechten.
+- **[Atelier Spintol](https://www.facebook.com/AtelierSpintol/)**: Handgemaakte historische accessoires.
 - **[By Morag](https://www.bymorag.nl/)**: Handgemaakte producten
 - **[Custom Costumes](https://customcostumes.nl/)**: Handgemaakte (LARP-proof) kostuums en attributen
 - **[Cursed Empire](https://www.cursedempire.com/)**: Kaartspel
 - **Discovery Models and Goodies**
-- **[Dungeons and Dice](https://dungeonsanddice.nl/)**: TTRPG Materialen
+- **[Dungeons and Dice](https://dungeonsanddice.nl/)**: TTRPG Materialen.
 - **[Droid.bait](ttps://www.instagram.com/droid.bait) & [Crispelf](https://instagram.com/crispelf?igshid=YmMyMTA2M2Y=)**
 - **Eetkraam by Nick Slagter**: Frisdrank & BBQ gerechten
 - **[Fantasyshop Fairyland](https://www.fairyland.nl/)**
 - **[Goudsmederij Scholten](https://www.goudsmederijscholten.nl/)**
 - **[Kapitein Kleerhaak](https://www.facebook.com/kapiteinkleerhaak)**: Leerbewerking en kostuums voor LARP en fantasy-events, dice bags, en accessoires.
-- **[Larpcenter.nl](https://www.larpcenter.nl/)**: LARP-wapens & accessoires
+- **[Larpcenter.nl](https://www.larpcenter.nl/)**: LARP-wapens & accessoires.
 - **Lucea & Iarann Rag**: Zeemeermin for hire & zee/fantasy sieraden en accessoires. Zilver, chainmail, en leren sieraden en accessoires.
 - **[Magical Echantment](https://www.facebook.com/m.enchantment)**: Handgemaakte fantasy attributen en accessoires.
-- **[Mamorumori](https://www.mamorumori.com)**: Knuffels
+- **[Mamorumori](https://www.mamorumori.com)**: Knuffels.
 - **Morgana Fashion**
 - **[Not Just Fairytales](https://www.instagram.com/notjustfairytales_art/)**
 - **[Red Dragon Jewellery](https://www.facebook.com/Red-Dragon-Jewellery-124341941565249/)**
