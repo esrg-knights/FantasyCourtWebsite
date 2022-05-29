@@ -27,7 +27,7 @@ Een aantal getalenteerde artiesten treedt op op het podium:
 ### Op het toernooiveld
 Verscheidene activiteiten vinden plaats op het toernooiveld:
 - **Kinderen Larp Zwaardvechten**: De leuke kinderactiviteit van Koningsdag is terug! Kinderen van alle leeftijden kunnen hier met schuimrubberen zwaarden veilig oefenen met vechten. Daag ons, vrienden of familie uit in onze arena.
-- **Mesverdedigen Worksho**p: Ron Bouwman, een professionele vechtinstructeur zal ons tips geven hoe te verdedigen van (mes)aanvallen wat je ook goed kan gebruiken in je volgende larp (of in het echte leven).
+- **Mesverdedigen Workshop**: Ron Bouwman, een professionele vechtinstructeur zal ons tips geven hoe te verdedigen van (mes)aanvallen wat je ook goed kan gebruiken in het echte leven, of misschien zelfs in je volgende larp.
 - **Larp Zwaardvecht Instructie**: Geïnteresseerd in ons zwaardvecht toernooi? Volg deze instructie en leer en oefen de regels en een beetje van de basis van zwaardvechten. De instructie wordt gegeven door Fantasy Courts eigen ervaren Larp zwaardvechters.
 - **Larp Zwaardvecht toernooi**: Een 1-op-1 opwindend larp zwaardvechttoernooi voor alle levels van ervaring, Lukt het jou om te winnen?
 - **Historisch zwaardvechten**: Het andere deel van het toernooiveld wordt gebruikt voor indrukwekkende demonstraties met échte zwaarden en uitrusting door de experts van De Bockenreyders. En leer het zelf met de schuimrubbere zwaarden onder instructie van de ervaren mensen van 365 Sports.
@@ -42,12 +42,11 @@ En er is nog meer te doen en te belven verspreid over het Fanasty Court festival
 - **NERF Schietbaan**: Een nieuwe activiteit gemaakt door onze Fantasy Court crew. Concureer met je vrienden in dit spel wat je accuraatheid en snelheid test met NERF pijltjes. Weet jij je tegenstander te snel af te zijn?
 - **Drakeneieren Jacht**: Benieuwd naar waar de Draak zijn eieren heeft verstopt? Kom ze vinden in deze zoektocht over het festivalterrein
 - **Larp Knuffel Boogschieten**: Ons klassieke larp knuffelboogschieten spel, op eerdere edities en konginsdag. Pak een boog, schiet de gewenste knuffel eraf met de rubberen pijlen en neem hem mee naar huis als prijs!
-- **Pole Pirate Paaldans Workshop**: De Pole Pirate Greet Charpentier laat ook graag dit jaar jullie kennismaken met deze unieke sport
-Verschillende Buitenspellen**: We hebben nog een variatie aan andere veld spellen die de hele dag door te spelen zijn zoals ringwerpen, croquet of Kubb. Geniet ervan tussen een show of andere activiteit door!
+- **Pole Pirate Paaldans Workshop**: De Pole Pirate Greet Charpentier laat ook graag dit jaar jullie kennismaken met deze unieke sport.
 - **Dans- en Strekoefeningen**: Korte sessies van 15 minuten met dans, beweging en oefeningen, om je de dag door heen te helpen!
 - **Heroes of Thargos Demo**: Heb jij al ooit gehoord van het Cursed Empire tabletop roleplaying systeem, en hun kaartspel Heroes of Thargos uitgeprobeerd? Kom het hier uitproberen en ervaar een net andere hoek van spelen!
 - **Upset Ducks**: Bouw je kasteel om de eenden in te huisvesten en haal het kasteel van de ander neer!
-- **Verschillende Outdoor Activiteiten**: Simpele open-veld spellen gedurende de dag, zoals Kubb!
+- **Verschillende Buitenspellen**: We hebben nog een variatie aan andere veld spellen die de hele dag door te spelen zijn zoals Kubb. Geniet ervan tussen een show of andere activiteit door!
 
 ### Standhouders
 Onderstaand vind je de verscheidende standhouders. Benieuwd naar wie zij precies zijn? Volg onze sociale media media ([Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl)) voor meer informatie!

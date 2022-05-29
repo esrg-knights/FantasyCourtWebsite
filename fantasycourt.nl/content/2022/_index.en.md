@@ -26,7 +26,7 @@ A variety of talented artists will be on-stage:
 ### On the Tournament Field
 Several activities take place on the tourney field:
 - **Kids larp swordfighting**: The fun kids' activity from our Koningsdag festivity is back! Bring kids of all ages to safely try their hand at combat with padded foam swords. Let them try their best at us or you as their friends and family in our arena.
-- **Knife Defense Workshop**: Ron Bouwman, a professional knife defense instructor, will give some tips and instructions on protecting from knife attacks, perfect for larp, theatrical, or even real world application!
+- **Knife Defense Workshop**: Ron Bouwman, a professional knife defense instructor, will give some tips and instructions on protecting from knife attacks, perfect for a real world application, or possibly even in a larp!
 - **Larp Swordfighting Instruction**: Interested in our swordfighting tournament? Come by this instruction and learn and practice the basics and rules from practiced LARP swordfighters.
 - **Larp Swordfighting Tournament**: An exciting 1-on-1 tournament for all levels of experience! Can you win the grand prize?
 - **Historical Swords Workshops/Demo**: On our other tournament field, you can witness demonstrations of fighting with real swords and armour by experts from the Bockenreyders, and get personal instruction and practice with foam swords from trainers at 365 Sports!
