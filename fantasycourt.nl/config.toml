@@ -42,6 +42,11 @@ title = "Standhouders"
 url = "/standhouders/"
 weight = 3
 
+[[languages.nl.menu.main]]
+identifier = "fc-2022"
+title = "Editie 2022"
+url = "/2022/"
+weight = 0
 
 # [[languages.nl.menu.main]]
 # identifier = "tourney"
@@ -80,6 +85,12 @@ identifier = "vendors"
 title = "Vendors and Acts"
 url = "/standhouders/"
 weight = 3
+
+[[languages.en.menu.main]]
+identifier = "fc-2022"
+title = "Edition 2022"
+url = "/2022/"
+weight = 0
 
 # [[languages.en.menu.main]]
 # identifier = "tourney"
