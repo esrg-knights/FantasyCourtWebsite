@@ -19,7 +19,7 @@ Eindelijk gaan de deuren van dit Festival open! De organisatie van Fantasy Court
 Een aantal getalenteerde artiesten treedt op op het podium:
 - **De Troubadours van St. Joost**: Twee talentvolle dames zullen een kleine set aan troubadours muziek voor de festivalgangers spelen.
 - **FeePhiFolkFum**: Phi, met een getalenteerde stem en bespeler van het folk instrument de draailier zal voor ons optreden met hun eigengemaakte muziek!
-- **Lezing Wat is Larp?**: Vertegenwoordigers van de organisatie LARP Platform zullen een introductie lezing geven over larp en hoe het werkt.
+- **Lezing "Wat is Larp?"**: Vertegenwoordigers van de organisatie LARP Platform zullen een introductie lezing geven over larp en hoe het werkt.
 - **Balfolk Workshop**: Onze Fantasy Court eigen Isa Barten zal met collega's een demonstratie en instructie geven om mensen van alle leeftijden het begin van balfolk te leren en te laten ervaren.
 - **Waaierdans Helheim**: Een spannend beeldend verhaal van goden, krijgers en het hiernamaals, uitgevoerd door Maartje van der Zalm en haar groep waaierdansers.
 - **A Bundle of Djoy**: Een muzikaal optreden door een trio die bekend staan om hun atmosferische, progressieve geluid met een nadruk op muzikale verhalenvertelling
@@ -50,26 +50,27 @@ En er is nog meer te doen en te belven verspreid over het Fanasty Court festival
 
 ### Standhouders
 Onderstaand vind je de verscheidende standhouders. Benieuwd naar wie zij precies zijn? Volg onze sociale media media ([Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl)) voor meer informatie!
-- **[365 Sports](https://www.365sports.nl/)**: Historisch Zwaardvechten.
-- **[Atelier Spintol](https://www.facebook.com/AtelierSpintol/)**: Handgemaakte historische accessoires.
-- **[By Morag](https://www.bymorag.nl/)**: Handgemaakte producten
-- **[Custom Costumes](https://customcostumes.nl/)**: Handgemaakte (LARP-proof) kostuums en attributen
-- **[Cursed Empire](https://www.cursedempire.com/)**: Kaartspel
+- **[365 Sports](https://www.365sports.nl/)**: Historisch zwaardvechten.
+- **[Atelier Spintol](https://www.facebook.com/AtelierSpintol/)**: Handgemaakte historische kostuumonderdelen en accessoires.
+- **[By Morag](https://www.bymorag.nl/)**: Handgemaakte magie- en toverproducten.
+- **[Books4Life](https://www.books4life-eindhoven.nl/)**: 2e-hands boeken voor het goede doel.
+- **[Custom Costumes](https://customcostumes.nl/)**: Handgemaakte (Larp-proof) staarten, oren, en andere kostuum-attributen.
+- **[Cursed Empire](https://www.cursedempire.com/)**: Tabletop RPG systeem met bijbehorend kaartspel _Heroes of Targos_.
 - **Discovery Models and Goodies**
-- **[Dungeons and Dice](https://dungeonsanddice.nl/)**: TTRPG Materialen.
-- **[Droid.bait](ttps://www.instagram.com/droid.bait) & [Crispelf](https://instagram.com/crispelf?igshid=YmMyMTA2M2Y=)**
-- **Eetkraam by Nick Slagter**: Frisdrank & BBQ gerechten
-- **[Fantasyshop Fairyland](https://www.fairyland.nl/)**
-- **[Goudsmederij Scholten](https://www.goudsmederijscholten.nl/)**
-- **[Kapitein Kleerhaak](https://www.facebook.com/kapiteinkleerhaak)**: Leerbewerking en kostuums voor LARP en fantasy-events, dice bags, en accessoires.
-- **[Larpcenter.nl](https://www.larpcenter.nl/)**: LARP-wapens & accessoires.
-- **Lucea & Iarann Rag**: Zeemeermin for hire & zee/fantasy sieraden en accessoires. Zilver, chainmail, en leren sieraden en accessoires.
-- **[Magical Echantment](https://www.facebook.com/m.enchantment)**: Handgemaakte fantasy attributen en accessoires.
-- **[Mamorumori](https://www.mamorumori.com)**: Knuffels.
-- **Morgana Fashion**
-- **[Not Just Fairytales](https://www.instagram.com/notjustfairytales_art/)**
-- **[Red Dragon Jewellery](https://www.facebook.com/Red-Dragon-Jewellery-124341941565249/)**
+- **[Dungeons and Dice](https://dungeonsanddice.nl/)**: Tabletop RPG materialen.
+- **[Droid.bait](ttps://www.instagram.com/droid.bait) & [Crispelf](https://instagram.com/crispelf?igshid=YmMyMTA2M2Y=)**: Zelfgemaakte art prints & commissies on-demand.
+- **Eetkraam by Nick Slagter**: Fris & BBQ gerechten
+- **[Fantasyshop Fairyland](https://www.fairyland.nl/)**: Fantasy- en gothic-themed art, figurines, en accessoires.
+- **[Goudsmederij Scholten](https://www.goudsmederijscholten.nl/)**: Unieke custom en handgemaakte metalen en stenen sieraden.
+- **[Kapitein Kleerhaak](https://www.facebook.com/kapiteinkleerhaak)**: Leerbewerkte items en kostuums voor Larp en fantasy-events, dice bags, en accessoires.
+- **[Larpcenter.nl](https://www.larpcenter.nl/)**: Larp wapens en accessoires.
+- **Lucea & Iarann Rag**: Mermaid-for-hire welke ook zee- en fantasy-themed sieraden en accessoires verkoopt. Chainmail, leren, en silveren sieraden en accessoires.
+- **[Magical Enchantment](https://www.facebook.com/m.enchantment)**: Elvenvleugels, elven-oren, en andere handgemaakte kostuumonderdelen en accessoires.
+- **[Mamorumori](https://www.mamorumori.com)**: Knuffels van bosdieren en andere bosbewoners.
+- **Morgana Fashion**: Fantasy accessoires and kostuum-props.
+- **[Not Just Fairytales](https://www.instagram.com/notjustfairytales_art/)**: Handgemaakte sculpturen, geverfde keramiek, en andere fantasy-art.
+- **[Red Dragon Jewellery](https://www.facebook.com/Red-Dragon-Jewellery-124341941565249/)**: Goudsmit met metalen hangertjes en andere sieraden.
+- **[The Dreamy Cauldron](https://www.instagram.com/thedreamycauldron.shop/)**: Potion-bottle hangertjes en andere sieraden.
 - **[The Fudge Factory](https://the-fudge-factory.com/)**: Handgemaakte fudge, een Engelse delicatesse met karamel en chocolade.
-- **[The Dreamy Cauldron](https://www.instagram.com/thedreamycauldron.shop/)**
-- **[The Wolf and Rabbit](https://www.thewolfandrabbit.com)**
-- **[The Fantasy Bug](https://www.thefantasybug.nl)**
+- **[The Wolf and Rabbit](https://www.thewolfandrabbit.com)**: Gewaden en andere Larp-kostuums en props.
+- **[The Fantasy Bug](https://www.thefantasybug.nl)**: Larp kostuums en mini-quests.
