@@ -17,7 +17,7 @@ _You are all formally invited to enter the Fantasy Court._
 {{< /aside >}}
 
 # What is Fantasy Court?
-Fantasy Court is a fantasy festival that is focused on the somewhat unique and niche culture that surrounds fantasy events and LARP (Live Action Role Playing). This festival has a vast array of stalls, associations, and activities that all fall under the purview of the awesome world of fantasy. This would entail LARP associations, surprising board games, exotic foods, a LARP sword fighting tournament (with a special children’s division!), storytellers, a LARP archery range as well as a wide variety of stalls that sell anything related. We offer all that belongs in the world of fantasy, and anything that will make you feel part of that world.
+Fantasy Court is a fantasy festival that is focused on the somewhat unique and niche culture that surrounds fantasy events and LARP (Live Action Role Playing). This festival has a vast array of stalls, associations, and activities that all fall under the purview of the awesome world of fantasy. This would entail LARP associations, surprising board games, exotic foods, a LARP swordfighting tournament, LARP swordfighting for kids, storytellers, a LARP archery range as well as a wide variety of stalls that sell anything related. We offer all that belongs in the world of fantasy, and anything that will make you feel part of that world.
 
 Most importantly, everyone is welcome! If you’re a student or not, a parent with children or alone; it does not matter who you are. You will be welcome and you will find something to do. There will be workshops organized, various activities, and the all impressive sword fighting tournament for children and adults!
 
@@ -33,7 +33,7 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
 
 # Editie 2022 - Open the Gates!
 {{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
-It is finally time for Fantasy Court to take place physically again! On **Sunday, June 12th 11.00-18.00h**, Fantasy Court is back with a market, a LARP swordfighting tournament, archery, and more, just like in the good old days! To celebrate our return to being an in-person event, we've decided the 2022 theme will be: *Open the Gates!*
+It is finally time for Fantasy Court to take place physically again! On **Sunday, June 12th 11.00-18.00h**, Fantasy Court is back with a market, a LARP swordfighting tournament, archery, and more, just like in the good old days! To celebrate our return to being an in-person event, we've decided the 2022 theme will be: *Open the Gates!* View the full program and a list of vendors on the [event-page](/en/2022).
 
 This year, we're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations group together to host a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, we have been busy with setting up extra activities, such that there is even more to do throughout the day itself. Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), and [Twitter](https://twitter.com/fantasy_nl).
 

@@ -5,7 +5,17 @@ og:
 ---
 
 # Edition 2022
-Welcome to Fantasy Court 2022 on the 12th of June in Eindhoven (TU/e campus) from 11.00-18.00h! Below we will show you an overview of our program, vendors and organizations who will be with us and more practical information to come!
+Welcome to Fantasy Court 2022 on the 12th of June in Eindhoven (TU/e campus) from 11.00-18.00h! Below we will show you an overview of our program, and vendors and organizations who will be with us! Some more practical information is included below to be able to find us.
+
+## Facilities
+Food, snacks, and drinks can be bought on the markt. Free tap water is available (but bring your own mug or bottle). There are wheelchair accessible toilets in a nearby building.
+
+## Location and Parking
+The event takes place on a field without an address on the campus of the Eindhoven University of Technology (TU/e). The nearby parking lot and navigation address are: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is located south of that, at coordinates: 51.447228696063085, 5.484236714828935
+
+From the **Eindhoven Central Station** (by train or bus), it is a walk of a few minutes towards the north-east. You will be able to find small signs leading to Fantasy Court on and around the TU/e campus.
+
+**Parking on the TU/e campus** is free for the first 30 minutes, after which parking costs €0.50 per 15 minutes, to a maximum of €7.50 a day. **Parking outside the campus** is free in _Rachelsmolen_ (a street) or in the street parallel to the _Onze Lieve Vrouwestraat_.
 
 {{< figure src="/fc-2022-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
