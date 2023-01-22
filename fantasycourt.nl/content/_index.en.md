@@ -31,19 +31,25 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
     {{< /banner >}}
 {{< /aside >}}
 
-# Editie 2022 - Open the Gates!
 {{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
-It is finally time for Fantasy Court to take place physically again! On **Sunday, June 12th 11.00-18.00h**, Fantasy Court is back with a market, a LARP swordfighting tournament, archery, and more, just like in the good old days! To celebrate our return to being an in-person event, we've decided the 2022 theme will be: *Open the Gates!* View the full program and a list of vendors on the [event-page](/en/2022).
+# Edition 2023
+Fantasy Court 2023 is coming! On **Sunday June 11th**, Fantasy Cour will be back at **11.00-18.00h**. This edition will again feature vendors selling their items on a market, epic battles for both veterans and beginners during the LARP-swordfighting tournament, beautiful music made by various artists, and the possibility to win pluchies during archery!
 
-This year, we're cooperating with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations group together to host a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, we have been busy with setting up extra activities, such that there is even more to do throughout the day itself. Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), and [Twitter](https://twitter.com/fantasy_nl).
+<!-- View the full program and a list of vendors on the [event-page](/en/2023). -->
+Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), and [Twitter](https://twitter.com/fantasy_nl) for more information.
 
-Fantasy Court 2022 takes place on the campus of the Eindhoven University of Technology on *het Koeveld*.
-{{< renderImageResource id="fc-2022-map" path="fc-2022-campus-map.png" class="centeredimg" style="width: 400px;" >}}
+Fantasy Court 2023 takes place on the campus of the Eindhoven University of Technology on *het Koeveld*.
+{{< renderImageResource id="fc-2023-map" path="fc-koeveld-campus-map.png" class="centeredimg" style="width: 400px;" >}}
+
+# Editie 2022 - Open the Gates!
+The 2022-edition of Fantasy Court was a grand success, especially after all the lockdowns. The vibe was present as always, with with a market, a LARP swordfighting tournament, and archery, just like in the good old days! For this reason, this edition also had a special theme: *Open the Gates!*.
+
+In 2022, we cooperated with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations group together hosted a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, extra activities like a NERF shooting range were set up, meaning that there were a lot more fun things to do throughout the day itself.
 
 # Edition 2021
 Fantasy Court 2021 took place online on this website, where vendors that would have normally attended a physical event each got their own subpage. These subpages consisted of great photos, fun facts about vendors or Fantasy Court itself, and of course the things sold by each vendor. By "walking around" the digital festival, you got to know the answers to the treasure hunt, which would give you a chance to win the last [LARP Xperience box](https://www.larp-platform.nl/merch/xperiencebox-2021/) of the LARP Platform!
 
-*The winner of the treasure was announced through our social media. Congrats Bert Mans!*
+*The winner of the treasure was announced through our social media. Congrats!*
 
 ## LARP Platform Article 2021
 In collaboration with the LARP Platform, we wrote [an article](https://www.larp-platform.nl/informatie/fantasy-court-liefde-voor-larp/) about Fantasy Court! What can you do there? Who is the organisation? Where can we be found? This (and more) is explained in combination with a set of beautiful pictures!

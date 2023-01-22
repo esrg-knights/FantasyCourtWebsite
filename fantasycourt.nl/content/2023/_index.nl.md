@@ -1,12 +1,11 @@
 ---
-expirydate: "2023-01-01"
 title: Editie 2022
 og:
   description: "Fantasy Court 2022 is hier! Op Zondag 12 Juni van 11.00-18.00u op de TU/e-campus staan we er weer met onze collectie aan LARP en fantasy-gerelateerde markt en activiteiten voor alle leeftijden!"
 ---
 
-# Editie 2022
-Welkom bij Fantasy Court 2022 op 12 juni te Eindhoven (TU/e campus) van 11.00-18.00u! Verderop staat een overzicht van ons programma, en de standhouders en organisaties die komen! Om je weg naar ons te vinden, hebben we hier nog wat praktische informatie:
+# Editie 2023
+Welkom op Fantasy Court 2023! Deze editie vindt plaats op 12 juni te Eindhoven (TU/e campus) van 11.00-18.00u! Een overzicht van ons programma, en de standhouders en organisaties wordt later bekend gemaakt! Om je weg naar ons te vinden, hebben we hier nog wat praktische informatie:
 
 ## Faciliteiten
 Er is op de markt een etenskraam, een snackkraam en meerdere met drinken, daarnaast is er gratis kraanwater (aftappunt, neem je eigen mok/beker/flesje mee) en er zijn rolstoeltoegankelijke toiletten in een nabijgelegen gebouw.
@@ -21,12 +20,12 @@ Vanaf trein en busstation **Eindhoven Centraal** is het enkele minuten lopen naa
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
 ## Programma
-Eindelijk gaan de deuren van dit Festival open! De organisatie van Fantasy Court heet iedereen welkom terug op het festival terrein!
+Het programma wordt later bekend gemaakt. Houd onze [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), en [Twitter](https://twitter.com/fantasy_nl) in de gaten!
 
-{{< figure src="/images/2022/fc-2022-program-nl.jpg" alt="Programma FC 2022" width="100%" >}}
+<!-- {{< figure src="/images/2022/fc-2022-program-nl.jpg" alt="Programma FC 2022" width="100%" >}} -->
 
 
-### Op het podium
+<!-- ### Op het podium
 Een aantal getalenteerde artiesten treedt op op het podium:
 - **De Troubadours van St. Joost**: Twee talentvolle dames zullen een kleine set aan troubadours muziek voor de festivalgangers spelen.
 - **FeePhiFolkFum**: Phi, met een getalenteerde stem en bespeler van het folk instrument de draailier zal voor ons optreden met hun eigengemaakte muziek!
@@ -84,4 +83,4 @@ Onderstaand vind je de verscheidende standhouders. Benieuwd naar wie zij precies
 - **[The Dreamy Cauldron](https://www.instagram.com/thedreamycauldron.shop/)**: Potion-bottle hangertjes en andere sieraden.
 - **[The Fudge Factory](https://the-fudge-factory.com/)**: Handgemaakte fudge, een Engelse delicatesse met karamel en chocolade.
 - **[The Wolf and Rabbit](https://www.thewolfandrabbit.com)**: Gewaden en andere Larp-kostuums en props.
-- **[The Fantasy Bug](https://www.thefantasybug.nl)**: Larp kostuums en mini-quests.
+- **[The Fantasy Bug](https://www.thefantasybug.nl)**: Larp kostuums en mini-quests. -->

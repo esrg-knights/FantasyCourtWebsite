@@ -43,9 +43,9 @@ url = "/standhouders/"
 weight = 3
 
 [[languages.nl.menu.main]]
-identifier = "fc-2022"
-title = "Editie 2022"
-url = "/2022/"
+identifier = "fc-2023"
+title = "Editie 2023"
+url = "/2023/"
 weight = 0
 
 # [[languages.nl.menu.main]]
@@ -87,9 +87,9 @@ url = "/standhouders/"
 weight = 3
 
 [[languages.en.menu.main]]
-identifier = "fc-2022"
-title = "Edition 2022"
-url = "/2022/"
+identifier = "fc-2023"
+title = "Edition 2023"
+url = "/2023/"
 weight = 0
 
 # [[languages.en.menu.main]]

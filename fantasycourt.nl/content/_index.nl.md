@@ -17,8 +17,7 @@ title: Bezoekers
 {{< /aside >}}
 
 # Wat is Fantasy Court?
-
-Dit is een Fantasyfestival dat zich richt op de minder bekende, unieke cultuur rondom Fantasy en zeker ook LARP (Live Action Role Playing). Dit festival bevat dan ook veel kraampjes, verenigingen en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan LARP-verenigingen, verassende bordspellen, bijzonder eten, een LARP zwaardvechttoernooi, LARP zwaardvechten voor kinderen, verhalenvertellers, larpboogschieten en verschijnende kraampjes die al deze toebehoren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
+Fantasy Court is een festival dat zich richt op de minder bekende, unieke cultuur rondom Fantasy en zeker ook LARP (Live Action Role Playing). Dit festival bevat dan ook veel kraampjes, verenigingen en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan LARP-verenigingen, verassende bordspellen, bijzonder eten, een LARP zwaardvechttoernooi, LARP zwaardvechten voor kinderen, verhalenvertellers, larpboogschieten en verschijnende kraampjes die al deze toebehoren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
 
 Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Zo zijn er speciale workshops, verschillende activiteiten en een kinderdivisie van het zwaardvechttoernooi.
 
@@ -33,19 +32,25 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
     {{< /banner >}}
 {{< /aside >}}
 
-# Editie 2022 - Open the Gates!
 {{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
-Het is weer zover, Fantasy Court vindt weer fysiek plaats! Op **Zondag 12 Juni** is Fantasy Court weer van **11.00-18.00u** terug met marktkramen, een LARP-zwaardvechttoernooi, en boogschieten, net als vanouds! Om deze reden hebben we er voor gekozen voor het thema: *Open the Gates!*. Bekijk het volledige programma en alle kooplieden op de [event-pagina](/2022).
+# Editie 2023
+Het is weer zover, Fantasy Court 2023 komt eraan! Op **Zondag 11 Juni** is Fantasy Court weer van **11.00-18.00u** terug. Ook deze editie verkopen kooplieden hun waar op de markt, strijden ervaren en amateurs tijdens het LARP-zwaardvechttoernooi, wordt er prachtige muziek gemaakt door artiesten, en is er de mogelijkheid om knuffels te winnen bij het boogschieten!
 
-Dit jaar werken we samen met het [LARP Platform](https://www.larp-platform.nl) om een LARP-kampement op te zetten, waar verschillende LARP-organisaties samen samen een gezellige hoek kunnen vormen om zo nieuwe mensen geïnteresseerd te krijgen in LARP en de hele wereld daaromheen! Daarnaast zjin we druk bezig met het opzetten van extra activiteiten, zodat er nog meer te doen is op de dag zelf! Houd onze [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), en [Twitter](https://twitter.com/fantasy_nl) in de gaten!
+<!-- Bekijk het volledige programma en alle kooplieden op de [event-pagina](/2023). -->
+Houd onze [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), en [Twitter](https://twitter.com/fantasy_nl) in de gaten voor meer informatie!
 
-Fantasy Court 2022 vindt plaats op de campus van de Technische Universiteit Eindhoven op *het Koevveld*.
-{{< renderImageResource id="fc-2022-map" path="fc-2022-campus-map.png" class="centeredimg" style="width: 400px;" >}}
+Fantasy Court 2023 vindt plaats op de campus van de Technische Universiteit Eindhoven op *het Koevveld*.
+{{< renderImageResource id="fc-2023-map" path="fc-koeveld-campus-map.png" class="centeredimg" style="width: 400px;" >}}
+
+# Editie 2022 - Open the Gates!
+De 2022-editie van Fantasy Court was weer een groots succes, en een verademing na de lockdowns. De sfeer zat er ook deze editie weer goed in, met marktkramen, een LARP-zwaardvechttoernooi, en boogschieten, net als vanouds! Om deze reden had het festival dat jaar ook het thema: *Open the Gates!*.
+
+In 2022 werkten we samen met het [LARP Platform](https://www.larp-platform.nl) om een LARP-kampement op te zetten, waar verschillende LARP-organisaties samen samen een gezellige hoek hebben gevormd om zo nieuwe mensen geïnteresseerd te krijgen in LARP en de hele wereld daaromheen! Daarnaast waren er extra activiteiten opgezet, zoals een NERF-schietbaan, zodat er nog meer te doen was op de dag zelf!
 
 # Editie 2021
 Fantasy Court 2021 vond online plaats op deze website, waar standhouders die normaliter naar onze fysieke editie waren gekomen ieder een eigen subpagina kregen. Deze pagina's bestonden uit mooie foto's, leuke weetjes over de kraampjes of Fantasy Court zelf, en uiteraard over het aanbod van de standhouder. Door over het digitale festival als het ware "heen te lopen" kwam je de antwoorden voor de speurtocht te weten, waarmee je de laatste [LARP Xperience box](https://www.larp-platform.nl/merch/xperiencebox-2021/) van het LARP platform kon winnen!
 
-*De winnaar van de speurtocht is reeds bekend gemaakt via onze social media. Gefeliciteerd Bert Mans!*
+*De winnaar van de speurtocht is reeds bekend gemaakt via onze social media. Gefeliciteerd!*
 
 ## LARP Platform Artikel 2021
 In samenwerking met het LARP Platform hebben we [een artikel](https://www.larp-platform.nl/informatie/fantasy-court-liefde-voor-larp/) geschreven over Fantasy Court! Wat is er zoal te doen? Wie is de organisatie? Waar zijn we te vinden? Dit alles staat uitgelegd in combinatie met een aantal prachtige foto's!
