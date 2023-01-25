@@ -1,11 +1,12 @@
 ---
-title: Editie 2022
+title: Editie 2023
+
 og:
-  description: "Fantasy Court 2022 is hier! Op Zondag 12 Juni van 11.00-18.00u op de TU/e-campus staan we er weer met onze collectie aan LARP en fantasy-gerelateerde markt en activiteiten voor alle leeftijden!"
+  description: "Fantasy Court 2023 is hier! Op Zondag 11 Juni van 11.00-18.00u op de TU/e-campus staan we er weer met onze collectie aan LARP en fantasy-gerelateerde markt en activiteiten voor alle leeftijden!"
 ---
 
 # Editie 2023
-Welkom op Fantasy Court 2023! Deze editie vindt plaats op 12 juni te Eindhoven (TU/e campus) van 11.00-18.00u! Een overzicht van ons programma, en de standhouders en organisaties wordt later bekend gemaakt! Om je weg naar ons te vinden, hebben we hier nog wat praktische informatie:
+Welkom op Fantasy Court 2023! Deze editie vindt plaats op 11 juni te Eindhoven (TU/e campus) van 11.00-18.00u! Een overzicht van ons programma, en de standhouders en organisaties wordt later bekend gemaakt! Om je weg naar ons te vinden, hebben we hier nog wat praktische informatie:
 
 ## Faciliteiten
 Er is op de markt een etenskraam, een snackkraam en meerdere met drinken, daarnaast is er gratis kraanwater (aftappunt, neem je eigen mok/beker/flesje mee) en er zijn rolstoeltoegankelijke toiletten in een nabijgelegen gebouw.
@@ -20,7 +21,7 @@ Vanaf trein en busstation **Eindhoven Centraal** is het enkele minuten lopen naa
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
 ## Programma
-Het programma wordt later bekend gemaakt. Houd onze [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), en [Twitter](https://twitter.com/fantasy_nl) in de gaten!
+Het programma wordt later bekend gemaakt. Houd onze [Facebook](https://www.facebook.com/FantasyCourt/) of [Instagram](http://instagram.com/fantasycourtnl) in de gaten!
 
 <!-- {{< figure src="/images/2022/fc-2022-program-nl.jpg" alt="Programma FC 2022" width="100%" >}} -->
 

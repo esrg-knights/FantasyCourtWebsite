@@ -21,7 +21,7 @@ Fantasy Court is een festival dat zich richt op de minder bekende, unieke cultuu
 
 Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Zo zijn er speciale workshops, verschillende activiteiten en een kinderdivisie van het zwaardvechttoernooi.
 
-Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Facebook Pagina](https://www.facebook.com/FantasyCourt/).
+Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Facebook Pagina](https://www.facebook.com/FantasyCourt/) of [Instagram](http://instagram.com/fantasycourtnl).
 
 
 {{< aside >}}
@@ -37,7 +37,7 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
 Het is weer zover, Fantasy Court 2023 komt eraan! Op **Zondag 11 Juni** is Fantasy Court weer van **11.00-18.00u** terug. Ook deze editie verkopen kooplieden hun waar op de markt, strijden ervaren en amateurs tijdens het LARP-zwaardvechttoernooi, wordt er prachtige muziek gemaakt door artiesten, en is er de mogelijkheid om knuffels te winnen bij het boogschieten!
 
 <!-- Bekijk het volledige programma en alle kooplieden op de [event-pagina](/2023). -->
-Houd onze [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), en [Twitter](https://twitter.com/fantasy_nl) in de gaten voor meer informatie!
+Houd onze [Facebook](https://www.facebook.com/FantasyCourt/) of [Instagram](http://instagram.com/fantasycourtnl)in de gaten voor meer informatie!
 
 Fantasy Court 2023 vindt plaats op de campus van de Technische Universiteit Eindhoven op *het Koevveld*.
 {{< renderImageResource id="fc-2023-map" path="fc-koeveld-campus-map.png" class="centeredimg" style="width: 400px;" >}}

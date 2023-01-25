@@ -21,7 +21,7 @@ Fantasy Court is a fantasy festival that is focused on the somewhat unique and n
 
 Most importantly, everyone is welcome! If you’re a student or not, a parent with children or alone; it does not matter who you are. You will be welcome and you will find something to do. There will be workshops organized, various activities, and the all impressive sword fighting tournament for children and adults!
 
-Do you want to be informed on all developments? Check out our [Facebook Page](https://www.facebook.com/FantasyCourt/).
+Do you want to be informed on all developments? Check out our [Facebook Page](https://www.facebook.com/FantasyCourt/) or [Instagram](http://instagram.com/fantasycourtnl).
 
 {{< aside >}}
     {{< banner rotate="1" >}}
@@ -36,7 +36,7 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
 Fantasy Court 2023 is coming! On **Sunday June 11th**, Fantasy Cour will be back at **11.00-18.00h**. This edition will again feature vendors selling their items on a market, epic battles for both veterans and beginners during the LARP-swordfighting tournament, beautiful music made by various artists, and the possibility to win pluchies during archery!
 
 <!-- View the full program and a list of vendors on the [event-page](/en/2023). -->
-Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/), [Instagram](http://instagram.com/fantasycourtnl), and [Twitter](https://twitter.com/fantasy_nl) for more information.
+Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/) or [Instagram](http://instagram.com/fantasycourtnl) for more information.
 
 Fantasy Court 2023 takes place on the campus of the Eindhoven University of Technology on *het Koeveld*.
 {{< renderImageResource id="fc-2023-map" path="fc-koeveld-campus-map.png" class="centeredimg" style="width: 400px;" >}}
