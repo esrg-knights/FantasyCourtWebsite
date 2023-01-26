@@ -1,4 +1,5 @@
 ---
+expirydate: "2023-01-01"
 title: Editie 2022
 og:
   description: "Fantasy Court 2022 is hier! Op Zondag 12 Juni van 11.00-18.00u op de TU/e-campus staan we er weer met onze collectie aan LARP en fantasy-gerelateerde markt en activiteiten voor alle leeftijden!"
@@ -8,7 +9,7 @@ og:
 Welkom bij Fantasy Court 2022 op 12 juni te Eindhoven (TU/e campus) van 11.00-18.00u! Verderop staat een overzicht van ons programma, en de standhouders en organisaties die komen! Om je weg naar ons te vinden, hebben we hier nog wat praktische informatie:
 
 ## Faciliteiten
-Er is op de markt een etenskraam, een snackkraam en meerdere met drinken, daarnaast is er gratis kraanwater (aftappunt, neem je eigen mok/beker/flesje mee) en er zijn rolstoeltoegankelijke toiletten in een nabijgelegen gebouw. 
+Er is op de markt een etenskraam, een snackkraam en meerdere met drinken, daarnaast is er gratis kraanwater (aftappunt, neem je eigen mok/beker/flesje mee) en er zijn rolstoeltoegankelijke toiletten in een nabijgelegen gebouw.
 
 ## Locatie en Parkeren
 Het evenement is op een veld zonder adres op de campus van de Technische Universiteit Eindhoven (TU/e). De nabijgelegen parkeerplaats en het navigatieadres is: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is ten zuiden daarvan, op coördinaten: 51.447228696063085, 5.484236714828935
@@ -17,7 +18,7 @@ Vanaf trein en busstation **Eindhoven Centraal** is het enkele minuten lopen naa
 
 **Parkeren op de TU/e campus** is de eerste 30 minuten gratis, daarna is er betaald parkeren voor €0.50 per kwartier, tot een maximum van €7.50 voor de hele dag. **Parkeren buiten de campus** is gratis aan de _Rachelsmolen_ of op de parallelweg langs de _Onze Lieve Vrouwestraat_.
 
-{{< figure src="/fc-2022-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
+{{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
 ## Programma
 Eindelijk gaan de deuren van dit Festival open! De organisatie van Fantasy Court heet iedereen welkom terug op het festival terrein!

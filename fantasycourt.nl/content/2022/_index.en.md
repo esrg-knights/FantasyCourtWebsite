@@ -1,4 +1,5 @@
 ---
+expirydate: "2023-01-01"
 title: Edition 2022
 og:
   description: "Fantasy Court 2022 is here soon! On Sunday June 12th from 11.00-18.00h on the TU/e campus, join Fantasy Court and their collection of LARP and fantasy-related market and multiple activities for people of all ages."
@@ -17,7 +18,7 @@ From the **Eindhoven Central Station** (by train or bus), it is a walk of a few 
 
 **Parking on the TU/e campus** is free for the first 30 minutes, after which parking costs €0.50 per 15 minutes, to a maximum of €7.50 a day. **Parking outside the campus** is free in _Rachelsmolen_ (a street) or in the street parallel to the _Onze Lieve Vrouwestraat_.
 
-{{< figure src="/fc-2022-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
+{{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
 ## Program
 Finally we're opening up the gates! The organizers of Fantasy Court welcome everyone back to the festival grounds.
