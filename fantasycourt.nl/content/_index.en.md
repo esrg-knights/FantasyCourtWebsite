@@ -1,5 +1,27 @@
 ---
 title: Visitors
+resources:
+    # Carousel resources are displayed in alphabetical order in the carousel.
+  - src: "fc-2022-crew.jpg"
+    name: "carousel/image-04"
+    title: "Fantasy Court Organisatie en Vrijwilligers 2022"
+  - src: "fc-2022-workshop.jpg"
+    name: "carousel/image-00"
+    title: "Fantasy Court Balfolk workshop en markt 2022"
+  - src: "fc-2018-festival-rr.jpg"
+    name: "carousel/image-01"
+    title: "Fantasy Court markt 2018"
+    params:
+        text: Ronald Rietman ©2018
+  - src: "fc-2018-boogschieten.png"
+    name: "carousel/image-02"
+    title: "Fantasy Court boogschieten 2018"
+  - src: "fc-2018-zwaardvechten.jpg"
+    name: "carousel/image-03"
+    title: "Fantasy Court zwaardvechten 2018"
+  - src: "**"
+    name: "image-:counter"
+    title: "Fantasy Court Image :counter"
 ---
 
 {{< message >}}
@@ -30,6 +52,8 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
         <p>ESRG Knights of the Kitchen Table</p>
     {{< /banner >}}
 {{< /aside >}}
+
+{{< carousel "carousel/**" >}}
 
 {{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
 # Edition 2023
