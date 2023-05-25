@@ -83,3 +83,46 @@ Onderstaand vind je de verscheidende standhouders. Benieuwd naar wie zij precies
 - **[The Dreamy Cauldron](https://www.instagram.com/thedreamycauldron.shop/)**: Potion-bottle hangertjes en andere sieraden.
 - **[Vonkenstaal](https://www.etsy.com/nl/shop/Vonkenstaal)**: Handgemaakte messen, bijlen, en gereedschap.
 - **[Willowmaidens Garden](https://www.etsy.com/shop/WillowmaidensGarden)**: Handgemaakte magische accessoires en homedecor.
+
+    {{< json-script >}}
+    {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "Fantasy Court 2023",
+      "startDate": "2023-07-11T11:00-02:00",
+      "endDate": "2023-07-11T18:00-02:00",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "url": "https://fantasycourt.nl/",
+      "location": {
+        "@type": "Place",
+        "name": "Veld voor Auditorum",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Auditorium",
+          "addressLocality": "Eindhoven",
+          "postalCode": "5612AZ",
+          "addressRegion": "Noord Brabant",
+          "addressCountry": "NL"
+        }
+      },
+      "image": [
+        "https://fantasycourt.nl/fc-2022-balfolk.jpg",
+        "https://fantasycourt.nl/fc-2022-boogschieten.jpg",
+        "https://fantasycourt.nl/fc-2022-crew.jpg",
+        "https://fantasycourt.nl/fc-2022-kleerhaak-workshop.jpg",
+        "https://fantasycourt.nl/fc-2022-muziek.jpg",
+        "https://fantasycourt.nl/fc-2022-staal.jpg",
+        "https://fantasycourt.nl/fc-2022-veld.jpg",
+        "https://fantasycourt.nl/fc-2022-waaiers.jpg",
+        "https://fantasycourt.nl/fc-2022-workshop.jpg"
+      ],
+      "description": "Fantasy Court is een festival dat zich richt op de minder bekende, unieke cultuur rondom Fantasy en zeker ook LARP (Live Action Role Playing). Dit festival bevat dan ook veel kraampjes, verenigingen en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan LARP-verenigingen, verassende bordspellen, bijzonder eten, een LARP zwaardvechttoernooi, LARP zwaardvechten voor kinderen, verhalenvertellers, larpboogschieten en verschijnende kraampjes die al deze toebehoren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Knights of the Kitchen Table",
+        "url": "https://kotkt.nl/"
+      }
+    }
+  {{< /json-script >}}
+
