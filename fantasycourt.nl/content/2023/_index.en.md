@@ -21,28 +21,35 @@ From the **Eindhoven Central Station** (by train or bus), it is a walk of a few 
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
 ## Program
-The program will be published at a later date. Keep an eye on our [Facebook](https://www.facebook.com/FantasyCourt/) or [Instagram](http://instagram.com/fantasycourtnl) for more information.
-
 <!-- {{< figure src="/images/2022/fc-2022-program-en.jpg" alt="Program FC 2022" width="100%" >}}-->
+Apart from the fact that Fantasy Court has more vendors than ever, this year the court's podium is also fuller than ever! Enjoy the sun while while listening to the music or watching dance, take part in workshops, or show everyone your favourite outfit!
 
-### On-Stage
-A variety of talented artists will be on-stage:
-- **Artists and acts are TBA.**
-<!--
-- **The Bards of St. Joost**: Two wonderful ladies will perform some lovely troubadour music for the festival-goers.
-- **FeePhiFolkFum**: Phi, a talented singer and player of the hurdy-gurdy folk instrument, will perform for us with their selfmade music!
-- **"What Is LARP?"**: Representatives from the larpers' collective, LARP Platform, will give a talk explaining things you might have wondered about what Larp is and how it works!
-- **Balfolk Workshop**: Our very own Isa Barten will give an instruction and a chance to practice Balfolk (a style of dancing), helping people of all ages to learn the basics of balfolk!
-- **Fan Dance Helheim**: An expressive fan dance about gods, warriors and the afterlife by Maartje van der Zalm and her fandancers.
-- **A Bundle of Djoy**: A musical performance by a trio renowned for their atmospheric, progressive sound with an emphasis on musical storytelling.
--->
+### Balfolk Workshop
+Do you want to dance during Fantasy Court? Really throw a party? Then this workshop by [Sophie van Grinsven](https://www.facebook.com/sophie.vangrinsven.5) is something for you! Thhis workshop is open to everyone, with or without experience!
+Balfolk is a type of dance that consists of a collection of West-European dances. In balfolk both duo as well as group-dances are performed. Originally, these dances were performed on weddings and town parties in different places in Europe. Today, balfolk can be described as an active tradition with all kinds of influences from several other types of music and dance.
+
+### Andawenn
+[Andawenn](https://www.facebook.com/Andawenn) plays atmospheric instrumental music originating from Ireland, Scotland and Bretagne. Maaike de Waal plays the Irish flute, transverse flute and whistles. Hans Elzinga plays the Guitar. Nice melodies to listen silently to, and jigs and reels to move with!
+
+### Het Doldwaze Draai Duo
+What's better than a hurdy-gurdy? Two hurdy-gurdies of course! The duo will get everyone dancing, or at least moving, with their rhytms.
+
+### Dance Act: The Warrior Within
+The dancers from [Fan-tastique](https://www.facebook.com/DancersFantastique), Ilse "Meave", Bonny Boudicca and Desirée join forces with those of [Triskelion](https://www.facebook.com/triskeliondanceandcreativecourses), Sophie van Grinsven, to bring a small ode to those that are fighting their own battle or have done so in the past. Ultimately, there is a warrior with their own battle contained within all of us. The show named "The Warrior Within" will show dance combined with hand fans and other attributes, ending with a fan veil. Afterwards, you can try to it yourself!
+
+### Costume Contest
+Are needle and thread just your thing? Do you always have a self-made outfit ready to put on? Then the costume contest is for you! Registration is possible on the day itself at the info-stand. Nice prizes can be won!
+
+### Wanted!: The Pirate Bard
+Last year the infamous pirate roamed our court! We've heard rumours that he will return this year to show his musical talent! Who is this pirate, and why is he here?!
+
 
 ### On the Tournament Field
 Several activities take place on the tourney field:
+- **Historic Swordfighting**: Impressive demonstrations with real swords and equipment by the expoerts from Zwaardkring.
+- **LARP Swordfighting Instruction**: Interested in our swordfighting tournament? Come by this instruction and learn and practice the basics and rules from practiced LARP-swordfighters.
+- **LARP Swordfighting Tournament**: An exciting 1-on-1 tournament for all levels of experience! Can you win the grand prize?
 - **Kids' Larp swordfighting**: The fun kids' activity from our Koningsdag festivity is back! Bring kids of all ages to safely try their hand at combat with padded foam swords. Let them try their best at us or you as their friends and family in our arena.
-- **Larp Swordfighting Instruction**: Interested in our swordfighting tournament? Come by this instruction and learn and practice the basics and rules from practiced Larp swordfighters.
-- **Larp Swordfighting Tournament**: An exciting 1-on-1 tournament for all levels of experience! Can you win the grand prize?
-<!-- - **Historical Swords Workshops/Demo**: On our other tournament field, you can witness demonstrations of fighting with real swords and armour by experts from the Bockenreyders, and get personal instruction and practice with foam swords from trainers at 365 Sports! -->
 
 ### Other Activities
 And there is even more, some activities and demos can be found spread out over the festival to provide you with some nice enjoyment on Fantasy Court.
@@ -53,11 +60,13 @@ And there is even more, some activities and demos can be found spread out over t
 - **Upset Ducks**: A fun game open to all - build castles to house your ducks, then tear those of the opponent down!
 
 # Vendors
-The different vendors can be found beneath. Interested in what these are? Take a look at our[Facebook](https://www.facebook.com/FantasyCourt/) or [Instagram](http://instagram.com/fantasycourtnl) to get more details on them!
+The different vendors can be found beneath. Interested in what these are? Take a look at our [Facebook](https://www.facebook.com/FantasyCourt/) or [Instagram](http://instagram.com/fantasycourtnl) to get more details on them!
 - **Arctis Ira & Nocturnal Lizzart**: Illustration & Animation students with a soft sport for everything related to fantasy. Nice art-prints, buttons, pins, keychains, and more self-made goodies.
 - **[Atelier Spintol](https://www.facebook.com/AtelierSpintol/)**: Handcrafted historic costume pieces and accessories.
+- **[Artbybotje](http://instagram.com/artbybotje)**: Manga-inspired merchandise, like stickers, postcards and more.
 - **[CCGwinkel.nl](https://www.ccgwinkel.nl/)**: Wargame (Kings of War, Godtear, de Free League producten en Mork Borg) and roleplay accesories.
 - **[Custom Costumes](https://customcostumes.nl/)**: Handmade (LARP-proof) tails, ears, and other costume articles.
+- **Cryiingconfetti**
 - **[Divini Couture & Dolle Griet](https://www.dolle-griet.nl/)**: Costumes and accessories for LARP: from their own collection to supplies, and cloak clasps to viking-brooches.
 - **[Dungeons and Dice](https://dungeonsanddice.nl/)**: Tabletop RPG materials.
 - **[Dreamchaserart](https://dreamchasergallery.com/)**: A variety of merchandise with their own creative artwork, insipired by anime and manga: keychains, stickers, washi tape, and more!
@@ -67,20 +76,27 @@ The different vendors can be found beneath. Interested in what these are? Take a
 - **Fantastic**: Everything for Fantasy en fiction.
 - **[Faefire Miniatures](https://www.instagram.com/faefireminiatures/)**: A variety of handmade unique minis inspired by various fantasy TTRPGs. Open for your ideas!
 - **[Fairyland](https://www.fantasyshop-fairyland.nl)**: LARP- and medieval clothing, games with fantasy and historic themes.
+- **Fey's craft shop**: Unique and striking jewelry, from mushroom-hangers to fantasy products like fairy jars and DnD dice bags.
 - **[Goudsmederij Scholten](https://www.goudsmederijscholten.nl/)**: Unique custom and handmade metal and stone jewelry. Commissions possible.
 - **Het Schrijverscollectief**: Fantasy books, original D&D adventures, and magical creations! The authors are behind the stand themselves to sign your latest reading-treasure.
 - **[Imkerij De Walhut](https://www.imkerijdewalhut.nl/)**: Tasteful honey and related products.
+- **Imp Prints Art**: Artwork inspired by magic, nature and fantasy. Original art made with acrylic paint, watercolour, ink, fabric and more. Themed around populair TTRPG games, high fantasy literature, film, video games and folklore.
 - **[iScoop Ice Cream](https://iscoop.nl/)**: Delicious ice cream from a magical ice cream van.
 - **[Kapitein Kleerhaak](https://www.facebook.com/kapiteinkleerhaak)**: Leatherworked items and costumes for Larp and fantasy events, dice bags, and accessories.
+- **[Kawaii Milky Bear](https://kawaiimilkybear.sumupstore.com/)**: Jewelry in different styles: Japanese kawaii, lolita, pastel goth, or fantasy. Digital drawings for buttons, posters, and more.
 - **[Larpcenter.nl](https://www.larpcenter.nl/)**: Larp weapons and accessories.
 - **[Mamorumori + Noekcleardice](https://www.mamorumori.com)**: Plush forest creatures.
+- **[Missy Marigold](https://www.etsy.com/nl/shop/MissyMarigold)**: A variety of handmade products to make your outfit unique!
 - **Morgana Fashion**: Fantasy accessories and costume props.
 - **[Narquelics](https://www.narquelics.com/)**: A variety of handmade jewelry of high quality.
 - **[Natasja van Gestel](https://www.etsy.com/shop/natasjavangestel/)**: A local fantasy artist that sells prints of her work as well as keychains and D&D adventures.
 - **[OOAK dolls by Mariska](https://www.instagram.com/mariskatempelaar/)**: Completely handmade fantasy-dolls made from fimo/cosclay.
 - **[Red Dragon Jewellery](https://www.facebook.com/Red-Dragon-Jewellery-124341941565249/)**: Goldsmith who makes metal pendants and other jewellery.
+- **The Beastly Brush**: Painted miniatures of good quality for an affordable price. Commissions are possible.
 - **[The Blue Pangolin](https://thebluepangolin.com/)**: Nice artprints, cards, hand-painted items, and LARP/fantasy commissions.
 - **[The Fantasy Bug](https://www.thefantasybug.nl)**: A creative mix of nature, fairytales, and recycling: magical wands from wood, dream catchers, POURP-pouches, and crocheted items like mushrooms or acorns.
+- **[The Fantasy Smith](https://fantasysmith.nl/)**: Strong and customizable costume pieces and awesome moving parts.
 - **[The Dreamy Cauldron](https://www.instagram.com/thedreamycauldron.shop/)**: Potion-bottle pendants and other jewelry.
+- **The Wolf and Rabbit**: Special objects for your own weird collection! Items for all your journeys and trinkets from the far realms of dwarves and elves.
 - **[Vonkenstaal](https://www.etsy.com/nl/shop/Vonkenstaal)**: Handmade knives, axes, and tools.
 - **[Willowmaidens Garden](https://www.etsy.com/shop/WillowmaidensGarden)**: Handmade magical accessories and homedecor.
