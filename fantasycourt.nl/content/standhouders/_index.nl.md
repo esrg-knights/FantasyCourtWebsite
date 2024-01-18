@@ -13,7 +13,7 @@ og:
   _Uw aanwezigheid is gewenst, met uw waren en uw kunsten_
 {{< /message >}}
 
-# Standhouders Editie 2023
+# Standhouders Editie 2024
 Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken! Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en de gespecialiseerde zaken. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt?!
 
 Fantasy Court vindt plaats op Zondag 11 Juni 2023, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.30u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken!

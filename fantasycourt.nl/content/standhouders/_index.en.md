@@ -13,7 +13,7 @@ og:
   _The market has a space for you, be present if you could_
 {{< /message >}}
 
-# Vendors Edition 2023
+# Vendors Edition 2024
 In order to make Fantasy Court the best version it could be, we'd like to have people who can enrich the experience in whatever way possible. For vendors and entertainers who provide fantasy-related content, we offer an enthusiastic audience interested in LARP and the entire fantasy genre!
 
 Fantasy Court will take place on Sunday June 11th 2023, on *het Koeveld,* on the campus of the Eindhoven University of Technology (Den Dolech 12, TU/e, Eindhoven). The expected end time of the build-up is 10.30h, and the festival ends at 18.00h. We intend to organize an awesome late morning and afternoon full of exciting activities!

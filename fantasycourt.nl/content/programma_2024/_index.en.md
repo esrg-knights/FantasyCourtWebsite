@@ -1,11 +1,12 @@
 ---
-title: Edition 2023
+# expirydate: "2025-01-01"
+title: Programme
 
 og:
   description: "Fantasy Court 2023 is here soon! On Sunday June 11th from 11.00-18.00h on the TU/e campus, join Fantasy Court and their collection of LARP and fantasy-related market and multiple activities for people of all ages."
 ---
 
-# Edition 2023
+# Programme edition 2024
 Welcome to Fantasy Court 2023! This edition will take place on the 11th of June in Eindhoven (TU/e campus) from 11.00-18.00h! An overview of our program, vendors, and organisations will be published at a later date. Practical information is included below.
 
 ## Facilities
