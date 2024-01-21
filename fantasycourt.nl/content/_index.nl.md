@@ -32,9 +32,6 @@ resources:
   - src: "fc-2022-crew.jpg"
     name: "carousel/image-09"
     title: "Fantasy Court Organisatie en Vrijwilligers 2022"
-  - src: "**"
-    name: "image-:counter"
-    title: "Fantasy Court Image :counter"
 ---
 
 {{< message >}}
