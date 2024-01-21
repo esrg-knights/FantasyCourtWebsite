@@ -102,6 +102,19 @@ weight = 0
 [frontmatter]
 # Look for the file's date in the filename first, only then in the frontmatter (date, publishdate, lastmod)
 date = [":filename", ":default"]
+
+# TODO
+[[cascade]]
+  [cascade._build]
+    list = 'local'
+    publishResources = false
+    render = 'never'
+  [cascade._target]
+    kind = 'page'
+    path = '/news/**'
+
+
+# Privacy settings
 [privacy]
   [privacy.disqus]
     disable = false

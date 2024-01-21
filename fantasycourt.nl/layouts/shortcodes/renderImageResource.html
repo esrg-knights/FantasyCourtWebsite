@@ -1,4 +1,4 @@
-{{- with .Page.CurrentSection.Resources.GetMatch (.Get "path") -}}
+{{- with .Page.Resources.Get (.Get "path") -}}
     <img id="{{$.Get "id"}}" src="{{ .RelPermalink }}"
         {{- if $.Get "class"}}class="{{$.Get "class"}}"{{end -}}
         {{- if $.Get "style"}}style="{{$.Get "style" | safeCSS}}"{{end -}}
