@@ -69,7 +69,7 @@ Onderstaand vind je de verscheidende standhouders. Benieuwd naar wie zij precies
 - **[Cursed Empire](https://www.cursedempire.com/)**: Tabletop RPG systeem met bijbehorend kaartspel _Heroes of Targos_.
 - **Discovery Models and Goodies**
 - **[Dungeons and Dice](https://dungeonsanddice.nl/)**: Tabletop RPG materialen.
-- **[Droid.bait](ttps://www.instagram.com/droid.bait) & [Crispelf](https://instagram.com/crispelf?igshid=YmMyMTA2M2Y=)**: Zelfgemaakte art prints & commissies on-demand.
+- **[Droid.bait](https://www.instagram.com/droid.bait) & [Crispelf](https://instagram.com/crispelf?igshid=YmMyMTA2M2Y=)**: Zelfgemaakte art prints & commissies on-demand.
 - **Eetkraam by Nick Slagter**: Fris & BBQ gerechten
 - **[Fantasyshop Fairyland](https://www.fairyland.nl/)**: Fantasy- en gothic-themed art, figurines, en accessoires.
 - **[Goudsmederij Scholten](https://www.goudsmederijscholten.nl/)**: Unieke custom en handgemaakte metalen en stenen sieraden.

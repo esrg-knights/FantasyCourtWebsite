@@ -43,7 +43,7 @@ _You are all formally invited to enter the Fantasy Court._
     {{< banner rotate="-3" >}}
         <h2>Want to be a vendor?</h2>
         <p>
-            Check out our <a href="/standhouders">vendors-page</a>
+            Check out our <a href='{{< ref "/standhouders" >}}'>vendors-page</a>
         </p>
     {{< /banner >}}
 {{< /aside >}}
@@ -64,6 +64,11 @@ Do you want to be informed on all developments? Check out our [Facebook Page](ht
 {{< /aside >}}
 
 {{< carousel "carousel/**" >}}
+
+# Latest News!
+{{< latestNews >}}
+
+View all news items in the [news archive]({{< ref "/news" >}} "to the archives!").
 
 {{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
 # Edition 2023
@@ -121,7 +126,7 @@ Among other things:
 {{< /aside >}}
 
 # To all tradesmen, vendors and travelling performers
-Do you want to join with a stall, act, or service at Fantasy Court? Then please go to our [vendors information page](/standhouders).
+Do you want to join with a stall, act, or service at Fantasy Court? Then please go to our [vendors information page]({{< ref "/standhouders" >}}).
 
 If you wish to sponsor us so that we can bring this wonderful subculture to the people at large through this wonderful festival this summer? Then please contact us at [info@fantasycourt.nl](mailto:info@fantasycourt.nl). With your sponsorship we can ensure that the festival is open to everyone and make it even more fantastical with extra entertainment to make it a most marvellous day.
 

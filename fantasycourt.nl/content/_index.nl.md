@@ -43,7 +43,7 @@ resources:
     {{< banner rotate="-3" >}}
         <h2>Standhouder zijn?</h2>
         <p>
-            Bekijk dan onze <a href="/standhouders">standhouder-pagina</a>
+            Bekijk dan onze <a href='{{< ref "/standhouders" >}}'>standhouder-pagina</a>
         </p>
     {{< /banner >}}
 {{< /aside >}}
@@ -65,6 +65,11 @@ Wilt u op de hoogte blijven van alle ontwikkelingen? Kijk dan vooral op onze [Fa
 {{< /aside >}}
 
 {{< carousel "carousel/**" >}}
+
+# Laatste Nieuws!
+{{< latestNews >}}
+
+Bekijk al het nieuws in het [nieuwsarchief]({{< ref "/news" >}} "naar de archieven!").
 
 {{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
 # Editie 2023
@@ -126,7 +131,7 @@ Onder andere:
 {{< /aside >}}
 
 # Aan alle kooplieden, standhouders en reizende acts
-Wilt u zelf met een kraam, act of dienst deelnemen aan het Festival? Kijk dan bij de [standhouder-pagina](/standhouders)
+Wilt u zelf met een kraam, act of dienst deelnemen aan het Festival? Kijk dan bij de [standhouder-pagina]({{< ref "/standhouders" >}})
 
 Wilt u ons sponsoren zodat wij deze unieke Fantasycultuur aan een breder publiek kunnen brengen door middel van dit festival komende zomer? Neem dan vooral contact met ons op via [info@fantasycourt.nl](mailto:info@fantsycourt.nl) om de zaken met ons door te spreken!
 Met uw sponsorbijdragen kunnen wij zorgen dat het festival vrij toegankelijk is en kunnen wij de locatie verfraaien met extra entertainment om het tot een nog leukere dag te brengen.
