@@ -98,6 +98,10 @@ weight = 0
 # url = "/toernooiregels/"
 # weight = 4
 
+# Determine frontmatter order
+[frontmatter]
+# Look for the file's date in the filename first, only then in the frontmatter (date, publishdate, lastmod)
+date = [":filename", ":default"]
 [privacy]
   [privacy.disqus]
     disable = false

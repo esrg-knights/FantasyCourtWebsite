@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <!-- Main content -->
+  {{ .Content }}
+
+  <!-- Older news items -->
+  {{ with .CurrentSection }}
+  <ul class="nav nav-tabs" id="newsTab" role="tablist">
+    <!-- Group pages by year -->
+    {{ range $index, $value := .Pages.GroupByDate "2006" }}
+      <li class="nav-item" role="presentation">
+        <button class="nav-link {{ if not $index }}active{{ end }}" id="news-{{.Key | anchorize }}-tab" data-bs-toggle="tab" data-bs-target="#news-{{.Key | anchorize }}" type="button" role="tab" aria-controls="news-{{.Key | anchorize }}" aria-selected="true">{{.Key }}</button>
+      </li>
+    {{ end }}
+  </ul>
+  <div class="tab-content" id="newsTabContent">
+    <!-- Same grouping as before -->
+    {{ range $index, $value := .Pages.GroupByDate "2006" }}
+      <div class="tab-pane fade {{ if not $index }}show active{{ end }}" id="news-{{.Key | anchorize }}" role="tabpanel" aria-labelledby="news-{{.Key | anchorize }}-tab">
+        {{ range .Pages }}
+          <h2 id="#{{ .Slug }}">{{ .Date | time.Format ":date_long" }} - {{ .Title }}</h2>
+          {{ .Content }}
+          <hr>
+        {{end}}
+      </div>
+    {{ end }}
+  </div>
+  {{ end }}
+{{ end }}
