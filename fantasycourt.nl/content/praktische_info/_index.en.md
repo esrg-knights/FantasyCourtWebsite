@@ -38,12 +38,38 @@ resources:
 ---
 
 {{< message >}}
-_Farmers, nobels, citizens and travelers of all sort_ \
-_You are all formally invited to enter the Fantasy Court._
+__The trip to the court is long and though_
+_therefore this page has information enough_
 {{< /message >}}
 
 # Practical information
 
+## Edition 2024. 
+Fantasy Court 2024 is coming! On Sunday June 9th, Fantasy Court will be back at 11.00-18.00h on the TU/e campus in Eindhoven. Once it is ready an overview of the program, the vendors, associations and activities will be available on the [program-page](/program). To help you find your way here is some additional practical info.
+
+
+
+## Facilities
+Food, snacks, and drinks can be bought on the markt. Free tap water is available (but bring your own mug or bottle). There are wheelchair accessible toilets in a nearby building.
+
+{{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
+
+
+## Locatie en Parkeren
+The event takes place on a field without an address on the campus of the Eindhoven University of Technology (TU/e). The nearby parking lot and navigation address are: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is located south of that, at coordinates: 51.447228696063085, 5.484236714828935
+
+From the **Eindhoven Central Station** (by train or bus), it is a walk of a few minutes towards the north-east. You will be able to find small signs leading to Fantasy Court on and around the TU/e campus.
+
+**Parking on the TU/e campus** is free for the first 30 minutes, after which parking costs €0.50 per 15 minutes, to a maximum of €7.50 a day. **Parking outside the campus** is free in _Rachelsmolen_ (a street) or in the street parallel to the _Onze Lieve Vrouwestraat_.
+
+
+# Sponsors
+Fantasy Court is organised through the [Eindhovense Studenten RollenspelGenootschap Knights of the Kitchen Table](kotkt.nl) which facilitates the event by arranging a field for the festival from the TU/e and providing volunteers.
+
+{{< figure src="/images/Knights_logo.png" alt="ESRG Knights of the Kitchen Table Logo" width="20%" >}}
+
+
+Are you interested in sponsoring part of the festival yourself? Send an email to [info@fantasycourt.nl](mailto:info@fantasycourt.nl) and discuss the options.
 
 ## Sponsors
 We are made possible by:
