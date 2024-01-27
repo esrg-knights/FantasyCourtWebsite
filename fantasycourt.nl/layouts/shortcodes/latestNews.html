@@ -1,0 +1,8 @@
+{{- with $.Site.GetPage "news" -}}
+  {{ range .Pages | first 1 }}
+    <h3>{{ .Title }}</h3>
+    <h6>{{ .Date | time.Format ":date_long" }}</h6>
+    {{ .Content }}
+    <hr>
+  {{ end }}
+{{- end -}}

@@ -68,7 +68,7 @@ The different vendors can be found beneath. Interested in what these are? Follow
 - **[Cursed Empire](https://www.cursedempire.com/)**: Tabletop RPG system with associated card game _Heroes of Thargos_.
 - **Discovery Models and Goodies**
 - **[Dungeons and Dice](https://dungeonsanddice.nl/)**: Tabletop RPG materials.
-- **[Droid.bait](ttps://www.instagram.com/droid.bait) & [Crispelf](https://instagram.com/crispelf?igshid=YmMyMTA2M2Y=)**: Self-made art prints & commissions on-demand.
+- **[Droid.bait](https://www.instagram.com/droid.bait) & [Crispelf](https://instagram.com/crispelf?igshid=YmMyMTA2M2Y=)**: Self-made art prints & commissions on-demand.
 - **Eetkraam by Nick Slagter**: Soda & BBQ food
 - **[Fantasyshop Fairyland](https://www.fairyland.nl/)**: Fantasy- and gothic-themed art, figurines, and accessories.
 - **[Goudsmederij Scholten](https://www.goudsmederijscholten.nl/)**: Unique custom and handmade metal & stone jewelry

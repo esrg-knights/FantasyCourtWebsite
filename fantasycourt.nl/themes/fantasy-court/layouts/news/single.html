@@ -1,0 +1,5 @@
+{{ define "main" }}
+  <!-- List page-specific content -->
+  <h2 id="#{{ .Slug }}">{{ .Date | time.Format ":date_long" }} - {{ .Title }}</h2>
+  {{ .Content }}
+{{ end }}

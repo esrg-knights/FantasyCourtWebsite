@@ -32,9 +32,6 @@ resources:
   - src: "fc-2022-crew.jpg"
     name: "carousel/image-09"
     title: "Fantasy Court Organisatie en Vrijwilligers 2022"
-  - src: "**"
-    name: "image-:counter"
-    title: "Fantasy Court Image :counter"
 ---
 
 {{< message >}}
@@ -47,10 +44,7 @@ Fantasy Court is een festival dat zich richt op de minder bekende, unieke cultuu
 
 Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Zo zijn er speciale workshops, verschillende activiteiten en een kinderdivisie van het zwaardvechttoernooi. Wil je meer weten over onze activiteiten? Kijk dan op de [programma-pagina]({{< ref "/programma_2024" >}}).
 
-
 {{< carousel "carousel/**" >}}
-
-{{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
 
 # Hoe kan ik meedoen?
 Fantasy Court is vrij te bezoeken. Het terrein is open en er is geen toegangsbewijs of reservering nodig. Wel moet men zich (gratis) inschrijven om deel te nemen aan het toernooi. Dit kan ter plekke voor aanvang van elk toernooi.
@@ -60,6 +54,12 @@ Wilt u zelf met een kraam, act of dienst deelnemen aan het Festival? Kijk dan bi
 Wilt u ons sponsoren zodat wij deze unieke Fantasycultuur aan een breder publiek kunnen brengen door middel van dit festival komende zomer? Neem dan vooral contact met ons op via [info@fantasycourt.nl](mailto:info@fantasycourt.nl) om de zaken met ons door te spreken!
 Met uw sponsorbijdragen kunnen wij zorgen dat het festival vrij toegankelijk is en kunnen wij de locatie verfraaien met extra entertainment om het tot een nog leukere dag te brengen.
 
+# Laatste Nieuws!
+{{< latestNews >}}
+
+Bekijk al het nieuws in het [nieuwsarchief]({{< ref "/news" >}} "naar de archieven!").
+
+{{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
