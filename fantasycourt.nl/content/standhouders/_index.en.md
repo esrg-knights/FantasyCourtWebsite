@@ -12,9 +12,10 @@ og:
   _To all the farmers, bakers, salesmen, living of their goods_ \
   _The market has a space for you, be present if you could_
 {{< /message >}}
+# Vendors Edition 2024
+We are busy updating the page for the coming year. in the meantime, interested vendors, charities, larps and others can already apply using [this link](https://forms.gle/Qfs6Y61rx4PJm4Mj8). It is always possible to contact us at [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl) in case of questions.
 
 # Vendors Edition 2024
-
 In order to make Fantasy Court the best version it could be, we'd like to have people who can enrich the experience in whatever way possible. For vendors and entertainers who provide fantasy-related content, we offer an enthusiastic audience interested in LARP and the entire fantasy genre. If you share our enthusiasm you can apply for a place using [this link](https://forms.gle/Qfs6Y61rx4PJm4Mj8).  Do you have any questions? Feel free to [contact us](mailto:standhouders@fantasycourt.nl).
 
 
