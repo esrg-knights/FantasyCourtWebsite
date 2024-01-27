@@ -1,4 +1,5 @@
 ---
+expirydate: "2024-01-01"
 title: Edition 2023
 
 og:

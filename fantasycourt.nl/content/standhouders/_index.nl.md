@@ -16,40 +16,35 @@ og:
 
 We zijn druk bezig om de website te updaten voor 2024. Ondertussen kunnen standhouders al inschijven via [deze link](https://forms.gle/Qfs6Y61rx4PJm4Mj8). Heb je vragen? neem dan even [contact](mailto:standhouders@fantasycourt.nl).
 
-# Standhouders Editie 2023
-Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken! Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en de gespecialiseerde zaken. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt?!
+# Standhouders Editie 2024
+Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken. Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en de gespecialiseerde zaken. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt? Als jij ons enthousiasme deelt kan je je inschrijven via [deze link](https://forms.gle/Qfs6Y61rx4PJm4Mj8). Heb je vragen? Neem dan [contact](mailto:standhouders@fantasycourt.nl) met ons op.
 
-<!--Fantasy Court had plaats gevonden plaats op Zondag 11 Juni 2023, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.30u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken!-->
+Fantasy Court vindt plaats plaats op Zondag 9 Juni 2024, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.30u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken.
 
-{{< renderImageResource id="fc-2023-map" path="fc-koeveld-campus-map.png" class="centeredimg" style="width: 400px;" >}}
 
-Hieronder volgt specifiekere informatie. Bij vragen is het altijd mogelijk om contact met ons op te nemen via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl). Zo kijken wij graag of ook jij kan bijdragen aan een geweldig festival!
+Hieronder volgt informatie voor specifieke groepen. Bij vragen is het altijd mogelijk om contact met ons op te nemen via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl). Zo kijken wij graag of ook jij kan bijdragen aan een geweldig festival.
 
-Ben je al enthousiast om mee te doen? Kijk dan snel bij de informatie hieronder voor het relevante inschrijfformulier!
+{{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
-<!-- # LARP-organisaties
-Net zoals afgelopen jaar zetten we dit jaar een LARP-kampement op. In dit kampement komen verschillende LARP-organisaties samen om zo een gezellige hoek te kunnen vormen, waarin er de mogelijkheid bestaat om nieuwe personen bekend te maken met LARP en de gehele wereld daaromheen. Het is een mooie plek om je eigen organisatie te kunnen promoten en zo nieuwe spelers geïnteresseerd te krijgen.
+# LARP-organisaties en goede doelen
+Net zoals afgelopen jaar zijn LARP-organisaties welkom om zich op Fantasy Court te presenteren. Hier bestaat de mogelijkheid om nieuwe personen bekend te maken met LARP en de gehele wereld daaromheen. Het is een mooie plek om je eigen organisatie te kunnen promoten en zo nieuwe spelers geïnteresseerd te krijgen. Verder zijn goede doelen en non-profits ook welkom om deel te nemen met het festival wanneer ze overlap hebben met het thema Fantasy. Neem vooral  [contact](mailto:standhouders@fantasycourt.nl) met ons op om de mogelijkheden te bespreken.
 
-Inschrijfkosten voor LARP-organisaties bedragen €10,-. Tafels en een overkapping worden door ons geregeld! Het is toegestaan, en wordt zelfs aangemoedigd, om dingen als props mee te nemen om zo je eigen hoekje verder te kunnen personalizeren!
+Inschrijfkosten voor LARP-organisaties is €10,- mits er een (kleine) activiteit wordt georganiseerd door de vereniging. Dit kan een spelletje uit de LARP zijn, quests of bijvoorbeeld vertaalsleutels maken! Voor goede doelen betreffen er geen inschrijfkosten. Larps en goede doelen  kunnen zelf een tent meenemen of een kraam huren tegen de normale kosten. Alternatief kunnen wij per organisatie maximaal één tafel gratis regelen. Het is toegestaan, en wordt zelfs aangemoedigd, om dingen als props en decoratie mee te nemen om zo je eigen hoekje verder te kunnen personaliseren.
 
-Inschrijven kan via **[dit inschrijfformulier](https://docs.google.com/forms/d/e/1FAIpQLScpoXkfnwvvSwe9KWb92XWJ306f0qENSIA4pYsW9gwp9DdBQw/viewform?usp=sf_link)** in! De inschrijvingen sluiten op zaterdag 13 mei. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is. -->
+De inschrijvingen sluiten op zondag 14 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
 
 # Marktkramen
 Zoals gebruikelijk is er weer een markt! Denk hierbij aan kramen die dingen gerelateerd aan LARP, rollenspellen, of bordspellen verkopen, of iets gerelateerd aan het genre van Fantasy. Dit varieert van sieraden en kostuums tot boeken en dobbelstenen. Ook is er uiteraard plaats voor kramen die etenswaren of drinken verkopen.
 
-Inschrijfkosten voor marktkramen bedragen een kleine deelnemersbijdrage van €20,-. In [overleg met de organisatie](mailto:organisatie@fantasycourt.nl?subject=Workshop%20Fantasy%20Court%202023) is het ook mogelijk om een kleine workshop of demo te geven, waarbij inschrijfkosten in overleg verlaagd kunnen worden.
+Inschrijfkosten voor marktkramen bedragen een deelnemersbijdrage van €20,-. In [overleg met de organisatie](mailto:organisatie@fantasycourt.nl?subject=Workshop%20Fantasy%20Court%202024) is het ook mogelijk om een workshop of demo te geven, waarbij inschrijfkosten in overleg verlaagd kunnen worden.
 
 Het is ook mogelijk om via ons een marktkraam of tent te huren (afhankelijk van wensen en de beschikbaarheid). Deze worden direct gehuurd bij onze leverancier. Het is uiteraard ook toegestaan om zelf materialen als tenten, kramen, of bankjes mee te nemen, onder de voorwaarde dat dit vooraf bekend is bij de organisatie (i.v.m. de veldindeling). Dit is in het inschrijfformulier aan te geven.
 
 
 # Optredens, Acts & Activiteiten
-Wij zijn altijd op zoek naar optredens of acts! Denk hierbij niet alleen aan dingen als muziek of dans, maar ook aan het vertellen van verhalen of zelfs het organiseren van short-LARPs. Neem contact op met de [organisatie](mailto:optredens@fantasycourt.nl?subject=Optreden%20Fantasy%20Court%202023), dan kunnen we overleggen over compensatie.
+Wij zijn altijd op zoek naar optredens of acts! Denk hierbij niet alleen aan dingen als muziek of dans, maar ook aan het vertellen van verhalen of zelfs het organiseren van short-LARPs. Neem contact op met de [organisatie](mailto:optredens@fantasycourt.nl?subject=Optreden%20Fantasy%20Court%202024), dan kunnen we overleggen over compensatie.
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
 {{< /message >}}
 
-## Sponsoren
-Wij worden mede mogelijk gemaakt door:
-* ESRG Knights of the Kitchen Table
-* Rabobank Eindhoven-Veldhoven
