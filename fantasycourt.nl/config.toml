@@ -54,23 +54,17 @@ title = "Standhouders"
 url = "/standhouders/"
 weight = 5
 
-# [[languages.nl.menu.main]]
-# identifier = "news"
-# title = "Nieuws"
-# url = "/nieuws/"
-# weight = 6
-
 [[languages.nl.menu.main]]
 identifier = "previous"
 title = "Vorige Edities"
 url = "/vorige_edities/"
-weight = 0
+weight = 6
 
-# [[languages.nl.menu.main]]
-# identifier = "tourney"
-# title = "Toernooiregels"
-# url = "/toernooiregels/"
-# weight = 4
+[[languages.nl.menu.main]]
+identifier = "news"
+title = "Nieuwsarchief"
+url = "/nieuws/"
+weight = 7
 
 [languages.en]
 name = "English"
@@ -116,23 +110,17 @@ title = "Vendors and Acts"
 url = "/standhouders/"
 weight = 5
 
-# [[languages.en.menu.main]]
-# identifier = "news"
-# title = "News"
-# url = "/nieuws/"
-# weight = 6
-
 [[languages.en.menu.main]]
 identifier = "previous"
 title = "Previous Editions"
 url = "/vorige_edities/"
-weight = 0
+weight = 6
 
-# [[languages.en.menu.main]]
-# identifier = "tourney"
-# title = "Tourney Rules"
-# url = "/toernooiregels/"
-# weight = 4
+[[languages.en.menu.main]]
+identifier = "news"
+title = "News Archive"
+url = "/news/"
+weight = 7
 
 # Determine frontmatter order
 [frontmatter]
