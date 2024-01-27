@@ -1,5 +1,5 @@
 ---
-title: Vorige edities
+title: Vorige Edities
 resources:
     # Carousel resources are displayed in alphabetical order in the carousel.
   - src: "fc-2022-muziek.jpg"
@@ -42,11 +42,11 @@ resources:
   _Des te beter dat we er dit jaar weer zijn_
 {{< /message >}}
 
-# Voorgaande edities
+# Voorgaande Edities
 
 ## Editie 2023
 
-Op **Zondag 11 Juni** was het weer zover, Fantasy Court 2023 isvan **11.00-18.00u** terug. Ook deze editie verkopen kooplieden hun waar op de markt, strijden ervaren en amateurs tijdens het LARP-zwaardvechttoernooi, wordt er prachtige muziek gemaakt door artiesten, en is er de mogelijkheid om knuffels te winnen bij het boogschieten! Het was mooi om de groei te zien. Sterker nog, er was zoveel groei dat we ruimtegebrek kregen.
+Op **Zondag 11 Juni** was het weer zover, Fantasy Court 2023 was van **11.00-18.00u** terug. Ook deze editie verkopen kooplieden hun waar op de markt, strijden ervaren en amateurs tijdens het LARP-zwaardvechttoernooi, wordt er prachtige muziek gemaakt door artiesten, en is er de mogelijkheid om knuffels te winnen bij het boogschieten! Het was mooi om de groei te zien. Sterker nog, er was zoveel groei dat we ruimtegebrek kregen.
 
 
 

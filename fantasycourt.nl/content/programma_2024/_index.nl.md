@@ -9,7 +9,7 @@ title: Programma
 _Maar het mooiste is nog steeds ons publiek_
 {{< /message >}}
 
-# Programma editie 2024
+# Programma Editie 2024
 Zodra het dagprogramma bekend is zal het hier te vinden zijn. Tot dan kan je hieronder de al bevestigde acts, kramen en activiteiten zien.
 
 # Bevestigde activiteiten
@@ -19,12 +19,12 @@ Op het toernooiveld zullen verschillende activiteiten en demonstraties plaatsvin
 - **LARP Zwaardvecht Toernooi**: Een 1-op-1 opwindend LARP-zwaardvechttoernooi voor alle niveaus, Lukt het jou om te winnen? Toegang is vrij voor alle deelnemers.
 
 ### Activiteitenhoek
-En er niet alleen veel te zien op het Fanasty Court festival. Er is ook een heleboel te doen. Geniet ervan!
+En er niet alleen veel te zien op het Fantasy Court festival. Er is ook een heleboel te doen. Geniet ervan!
 - **NERF Schietbaan**: Concurreer met je vrienden in dit spel wat je accuraatheid en snelheid test met NERF pijltjes. Weet jij je tegenstander te snel af te zijn?
-- **Larp Knuffel Boogschieten**: Ons klassieke larp knuffelboogschieten spel, op eerdere edities en koningsdag. Pak een boog, schiet de gewenste knuffel eraf met de rubberen pijlen en neem hem mee naar huis als prijs!
+- **Larp Knuffel Boogschieten**: Ons klassieke larp knuffelboogschieten spel, op eerdere edities en Koningsdag. Pak een boog, schiet de gewenste knuffel eraf met de rubberen pijlen en neem hem mee naar huis als prijs!
 - **Verschillende Buitenspellen**: We hebben nog een variatie aan andere veldspellen die de hele dag door te spelen zijn, zoals Kubb.
 # Bevestigde kramen
-Op het moment zijn de inschrijvingen voor standhouders open. Zie de [standhouder pagina](/standhouders).
+Op het moment zijn de inschrijvingen voor standhouders open. Zie de [standhouder pagina]({{< ref "/standhouders" >}}).
 
 Zodra er kramen bevestigd zijn zullen die hier te vinden zijn.
 

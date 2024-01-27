@@ -1,6 +1,6 @@
 ---
 # expirydate: "2025-01-01"
-title: Programm
+title: Programme
 
 ---
 
@@ -9,8 +9,8 @@ title: Programm
 _All to amuse our amazing audience_
 {{< /message >}}
 
-# Program edition 224
-Once the program of the day is made it will be shown here. Untill then feel free to check out our confiemed stalls, activities and acts.
+# Program Edition 2024
+Once the program of the day is made it will be shown here. Until then feel free to check out our confirmed stalls, activities and acts.
 
 
 # Confirmed Activities Activities
@@ -29,7 +29,7 @@ In the world of fantasy there is not just a lot to see. Thee ae also many activi
 
 
 # Confirmed vendors
-Currently the vendor aplications are open. You can find more information on the [vendor page](/standhouders).
+Currently the vendor applications are open. You can find more information on the [vendor page]({{< ref "/standhouders" >}}).
 
 Once we have confirmed vendors you can find them here.
 

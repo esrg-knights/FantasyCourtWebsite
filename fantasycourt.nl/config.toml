@@ -38,7 +38,7 @@ weight = 2
 
 [[languages.nl.menu.main]]
 identifier = "practical"
-title = "Praktische info"
+title = "Praktische Info"
 url = "/praktische_info/"
 weight = 3
 
@@ -62,7 +62,7 @@ weight = 5
 
 [[languages.nl.menu.main]]
 identifier = "previous"
-title = "Vorige edities"
+title = "Vorige Edities"
 url = "/vorige_edities/"
 weight = 0
 
@@ -100,7 +100,7 @@ weight = 2
 
 [[languages.en.menu.main]]
 identifier = "practical"
-title = "Practical info"
+title = "Practical Info"
 url = "/praktische_info/"
 weight = 3
 
@@ -124,7 +124,7 @@ weight = 5
 
 [[languages.en.menu.main]]
 identifier = "previous"
-title = "Previous editions"
+title = "Previous Editions"
 url = "/vorige_edities/"
 weight = 0
 

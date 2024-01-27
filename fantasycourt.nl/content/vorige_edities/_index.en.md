@@ -1,5 +1,5 @@
 ---
-title: Previous editions
+title: Previous Editions
 resources:
     # Carousel resources are displayed in alphabetical order in the carousel.
   - src: "fc-2022-muziek.jpg"
@@ -44,7 +44,7 @@ _Therefore here we show our past._
 
 # Edition 2023
 
-On **Sunday June 11th**, Fantasy Court returned from 11.00h to 18.00h. This edition again featured vendors selling their items on a market, epic battles for both veterans and beginners during the LARP-swordfighting tournament, beautiful music made by various artists, and the possibility to win pluchies during archery! It was great to see the festival grow, in fact we started hitting the limits of our field. 
+On **Sunday June 11th**, Fantasy Court returned from 11.00h to 18.00h. This edition again featured vendors selling their items on a market, epic battles for both veterans and beginners during the LARP-swordfighting tournament, beautiful music made by various artists, and the possibility to win pluchies during archery! It was great to see the festival grow, in fact we started hitting the limits of our field.
 
 
 # Editie 2022 - Open the Gates!
@@ -69,7 +69,7 @@ The most recent physical edition of Fantasy Court, [Fantasy Court 2019](https://
 
 # first editions
 The festival originally started back in 2016 as the [LarpBattle](https://www.facebook.com/events/564866377026074/), followed by two successful editions of Fantasy Court: [Fantasy Court 2018](https://www.facebook.com/events/121539801858080/) and [Fantasy Court 2017](https://www.facebook.com/events/795289227288793/").
-Since then the festival has kept being even better than the previous ones. 
+Since then the festival has kept being even better than the previous ones.
 
 
 {{< message margin-top="80px" margin-bottom="100px">}}

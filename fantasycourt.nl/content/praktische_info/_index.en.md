@@ -1,5 +1,5 @@
 ---
-title: Practical info
+title: Practical Info
 resources:
     # Carousel resources are displayed in alphabetical order in the carousel.
   - src: "fc-2022-muziek.jpg"
@@ -42,20 +42,20 @@ __The trip to the court is long and though_
 _therefore this page has information enough_
 {{< /message >}}
 
-# Practical information
+# Practical Information
 
-## Edition 2024. 
-Fantasy Court 2024 is coming! On Sunday June 9th, Fantasy Court will be back at 11.00-18.00h on the TU/e campus in Eindhoven. Once it is ready an overview of the program, the vendors, associations and activities will be available on the [program-page](/program). To help you find your way here is some additional practical info.
+## Edition 2024.
+Fantasy Court 2024 is coming! On Sunday June 9th, Fantasy Court will be back at 11.00-18.00h on the TU/e campus in Eindhoven. Once it is ready an overview of the program, the vendors, associations and activities will be available on the [program-page]({{< ref "/programma_2024" >}}). To help you find your way here is some additional practical info.
 
 
 
 ## Facilities
-Food, snacks, and drinks can be bought on the markt. Free tap water is available (but bring your own mug or bottle). There are wheelchair accessible toilets in a nearby building.
+Food, snacks, and drinks can be bought on the market. Free tap water is available (but bring your own mug or bottle). There are wheelchair accessible toilets in a nearby building.
 
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
 
-## Locatie en Parkeren
+## LOcation and Parking
 The event takes place on a field without an address on the campus of the Eindhoven University of Technology (TU/e). The nearby parking lot and navigation address are: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is located south of that, at coordinates: 51.447228696063085, 5.484236714828935
 
 From the **Eindhoven Central Station** (by train or bus), it is a walk of a few minutes towards the north-east. You will be able to find small signs leading to Fantasy Court on and around the TU/e campus.
@@ -64,7 +64,7 @@ From the **Eindhoven Central Station** (by train or bus), it is a walk of a few 
 
 
 # Sponsors
-Fantasy Court is organised through the [Eindhovense Studenten RollenspelGenootschap Knights of the Kitchen Table](kotkt.nl) which facilitates the event by arranging a field for the festival from the TU/e and providing volunteers.
+Fantasy Court is organised through the [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) which facilitates the event by arranging a field for the festival from the TU/e and providing volunteers.
 
 {{< figure src="/images/Knights_logo.png" alt="ESRG Knights of the Kitchen Table Logo" width="20%" >}}
 
