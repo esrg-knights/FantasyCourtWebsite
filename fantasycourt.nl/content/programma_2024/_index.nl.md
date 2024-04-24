@@ -23,10 +23,13 @@ En er niet alleen veel te zien op het Fantasy Court festival. Er is ook een hele
 - **NERF Schietbaan**: Concurreer met je vrienden in dit spel wat je accuraatheid en snelheid test met NERF pijltjes. Weet jij je tegenstander te snel af te zijn?
 - **Larp Knuffel Boogschieten**: Ons klassieke larp knuffelboogschieten spel, op eerdere edities en Koningsdag. Pak een boog, schiet de gewenste knuffel eraf met de rubberen pijlen en neem hem mee naar huis als prijs!
 - **Verschillende Buitenspellen**: We hebben nog een variatie aan andere veldspellen die de hele dag door te spelen zijn, zoals Kubb.
-# Bevestigde kramen
-Op het moment zijn de inschrijvingen voor standhouders open. Zie de [standhouder pagina]({{< ref "/standhouders" >}}).
 
-Zodra er kramen bevestigd zijn zullen die hier te vinden zijn.
+# Bevestigde kramen
+<!-- Op het moment zijn de inschrijvingen voor standhouders open. Zie de [standhouder pagina]({{< ref "/standhouders" >}}).
+
+Zodra er kramen bevestigd zijn zullen die hier te vinden zijn. -->
+De lijst van bevestigde standhouders is in aantocht. Ze zullen ook aangekondigd worden op onze social media in de komende weken tot aan het evenement!
+<!-- [TO DO: vendor list] -->
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_

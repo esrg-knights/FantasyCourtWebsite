@@ -14,8 +14,8 @@ og:
 {{< /message >}}
 
 # Vendors Edition 2024
-In order to make Fantasy Court the best version it could be, we'd like to have people who can enrich the experience in whatever way possible. For vendors and entertainers who provide fantasy-related content, we offer an enthusiastic audience interested in LARP and the entire fantasy genre. If you share our enthusiasm you can apply for a place using [this link](https://forms.gle/Qfs6Y61rx4PJm4Mj8).  Do you have any questions? Feel free to [contact us](mailto:standhouders@fantasycourt.nl).
-
+<!-- In order to make Fantasy Court the best version it could be, we'd like to have people who can enrich the experience in whatever way possible. For vendors and entertainers who provide fantasy-related content, we offer an enthusiastic audience interested in LARP and the entire fantasy genre. If you share our enthusiasm you can apply for a place using [this link](https://forms.gle/Qfs6Y61rx4PJm4Mj8).  Do you have any questions? Feel free to [contact us](mailto:standhouders@fantasycourt.nl). -->
+Sign ups for vendors are closed for this year's edition. Fantasy Court is open to visitors for free without sign-ups, so you can still come take a look and sign up next year if you like it! Do you have any questions? Feel free to [contact us](mailto:standhouders@fantasycourt.nl).
 
 Fantasy Court will take place on Sunday June 9th 2024, on *het Koeveld,* on the campus of the Eindhoven University of Technology (Den Dolech 12, TU/e, Eindhoven). The expected end time of the build-up is 10.30h, and the festival ends at 18.00h. We intend to organise an awesome late morning and afternoon full of exciting activities.
 

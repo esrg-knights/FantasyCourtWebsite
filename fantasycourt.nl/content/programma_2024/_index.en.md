@@ -29,9 +29,11 @@ In the world of fantasy there is not just a lot to see. Thee ae also many activi
 
 
 # Confirmed vendors
-Currently the vendor applications are open. You can find more information on the [vendor page]({{< ref "/standhouders" >}}).
+<!-- Currently the vendor applications are open. You can find more information on the [vendor page]({{< ref "/standhouders" >}}).
 
-Once we have confirmed vendors you can find them here.
+Once we have confirmed vendors you can find them here. -->
+Stay tuned for the list of confirmed vendors. They will also be announced on our social media in the coming weeks leading up to the event!
+<!-- [TO DO: vendor list] -->
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_
