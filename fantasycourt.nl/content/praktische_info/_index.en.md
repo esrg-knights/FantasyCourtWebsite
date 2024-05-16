@@ -55,7 +55,7 @@ Food, snacks, and drinks can be bought on the market. Free tap water is availabl
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
 
-## LOcation and Parking
+## Location and Parking
 The event takes place on a field without an address on the campus of the Eindhoven University of Technology (TU/e). The nearby parking lot and navigation address are: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is located south of that, at coordinates: 51.447228696063085, 5.484236714828935
 
 From the **Eindhoven Central Station** (by train or bus), it is a walk of a few minutes towards the north-east. You will be able to find small signs leading to Fantasy Court on and around the TU/e campus.
@@ -63,11 +63,13 @@ From the **Eindhoven Central Station** (by train or bus), it is a walk of a few 
 **Parking on the TU/e campus** is free for the first 30 minutes, after which parking costs €0.50 per 15 minutes, to a maximum of €7.50 a day. **Parking outside the campus** is free in _Rachelsmolen_ (a street) or in the street parallel to the _Onze Lieve Vrouwestraat_.
 
 
+
 # Sponsors
 Fantasy Court is organised through the [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) which facilitates the event by arranging a field for the festival from the TU/e and providing volunteers.
+Fantasy court recieves financial support from [StEHven](https://stehven.nl) to help organise the festival.
 
 {{< figure src="/images/Knights_logo.png" alt="ESRG Knights of the Kitchen Table Logo" width="20%" >}}
-
+{{< figure src="/images/neplogo stehven.png" alt="StEVven" width="20%" >}}
 
 Are you interested in sponsoring part of the festival yourself? Send an email to [info@fantasycourt.nl](mailto:info@fantasycourt.nl) and discuss the options.
 
