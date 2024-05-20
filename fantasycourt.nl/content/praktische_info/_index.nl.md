@@ -60,9 +60,10 @@ Vanaf trein en busstation **Eindhoven Centraal** is het enkele minuten lopen naa
 
 **Parkeren op de TU/e campus** is de eerste 30 minuten gratis, daarna is er betaald parkeren voor €0.50 per kwartier, tot een maximum van €7.50 voor de hele dag. **Parkeren buiten de campus** is gratis aan de _Rachelsmolen_ of op de parallelweg langs de _Onze Lieve Vrouwestraat_.
 ## Sponsoren
-Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) die ons faciliteren met een veld voor het festival en het leveren van vrijwilligers.
+Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) die ons faciliteren met een veld voor het festival en het leveren van vrijwilligers. Verder ontvangen wij een financiele bijdrage vanuit [StEHven](https://stehven.nl).
 
 {{< figure src="/images/Knights_logo.png" alt="ESRG Knights of the Kitchen Table Logo" width="20%" >}}
+{{< figure src="/images/neplogo stehven.png" alt="StEVven" width="20%" >}}
 
 Bent u zelf geïnteresseerd in een deel van dit festival sponsoren? Mail naar info@fantasycourt.nl om de mogelijkheden te bespreken.
 
