@@ -63,7 +63,7 @@ Vanaf trein en busstation **Eindhoven Centraal** is het enkele minuten lopen naa
 Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) die ons faciliteren met een veld voor het festival en het leveren van vrijwilligers. Verder ontvangen wij een financiele bijdrage vanuit [StEHven](https://stehven.nl).
 
 {{< figure src="/images/Knights_logo.png" alt="ESRG Knights of the Kitchen Table Logo" width="20%" >}}
-{{< figure src="/images/neplogo stehven.png" alt="StEVven" width="20%" >}}
+{{< figure src="/images/logo stehven.png" alt="StEVven" width="20%" >}}
 
 Bent u zelf geïnteresseerd in een deel van dit festival sponsoren? Mail naar info@fantasycourt.nl om de mogelijkheden te bespreken.
 

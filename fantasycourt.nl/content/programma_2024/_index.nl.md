@@ -18,6 +18,8 @@ Op het moment zijn de volgende activiteiten bevestigd.
 Op het toernooiveld zullen verschillende activiteiten en demonstraties plaatsvinden:
 - **LARP Zwaardvecht Toernooi**: Een 1-op-1 opwindend LARP-zwaardvechttoernooi voor alle niveaus, Lukt het jou om te winnen? Toegang is vrij voor alle deelnemers.
 
+### Op het podium
+ -	**️‍Kostuumwedstrijd**: Kom in je mooiste tuniek, jurk of andere creatie naar de kostuum wedstrijd, en wie weet staan juryleden versteld en ga jij met een van de prijzen naar huis. Belangrijk om te weten, de kostuumwedstrijd draait wel om eigen gemaakte creaties, en niet wie het mooiste kostuum heeft besteld.
 ### Activiteitenhoek
 En er niet alleen veel te zien op het Fantasy Court festival. Er is ook een heleboel te doen. Geniet ervan!
 - **NERF Schietbaan**: Concurreer met je vrienden in dit spel wat je accuraatheid en snelheid test met NERF pijltjes. Weet jij je tegenstander te snel af te zijn?
