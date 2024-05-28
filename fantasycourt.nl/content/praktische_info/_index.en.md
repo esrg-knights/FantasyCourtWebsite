@@ -69,7 +69,7 @@ Fantasy Court is organised through the [Eindhovense Studenten Rollenspel Genoots
 Fantasy court recieves financial support from [StEHven](https://stehven.nl) to help organise the festival.
 
 {{< figure src="/images/Knights_logo.png" alt="ESRG Knights of the Kitchen Table Logo" width="20%" >}}
-{{< figure src="/images/logo stehven.png" alt="StEVven" width="20%" >}}
+{{< figure src="/images/logo stehven.png" alt="StEVven" width="80%" >}}
 
 Are you interested in sponsoring part of the festival yourself? Send an email to [info@fantasycourt.nl](mailto:info@fantasycourt.nl) and discuss the options.
 
