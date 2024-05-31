@@ -14,11 +14,11 @@ _Maar het mooiste is nog steeds ons publiek_
 
 # Bevestigde artiesten
 Dit jaar mag Fantasy Court met veel genoegen de volgende artiesten uitnodigen.
-- **FeePhiFolkFum** 
-- **Womanhood** 
-- **Andawenn** 
+- **[FeePhiFolkFum](https://www.youtube.com/@FeePhiFolkFum/playlists):** Draailiermuziek met een mix van zelfgeschreven nummers en liedjes uit verscheidende folktradities.
+- **[Womanhood](https://www.facebook.com/WOMANHOODpe):** Een spectaculaire daansshow met 10 wezens uit andere werelden.
+- **[Andawenn](https://www.facebook.com/Andawenn):**  Sfeervolle Keltische muziek (Iers, Schots en Bretons) op gitaar, fluiten en whistles.
 - **Edward Fiddler (and these Drunken Sods I found somewhere)** 
-- **Balfolk Workshop van Sophie** 
+- **Balfolk Workshop:** Wil jij dansen tijdens Fantasy Court? Echt een feestje bouwen? Dan is deze workshop Balfolk onder leiding van Sophie van Grinsven écht iets voor jou!
 
 # Bevestigde activiteiten
 Op het moment zijn de volgende activiteiten bevestigd.
@@ -34,65 +34,73 @@ En er niet alleen veel te zien op het Fantasy Court festival. Er is ook een hele
 - **Larp Knuffel Boogschieten**: Ons klassieke larp knuffelboogschieten spel, op eerdere edities en Koningsdag. Pak een boog, schiet de gewenste knuffel eraf met de rubberen pijlen en neem hem mee naar huis als prijs!
 - **Verschillende Buitenspellen**: We hebben nog een variatie aan andere veldspellen die de hele dag door te spelen zijn, zoals Kubb.
 
+
+
 # Bevestigde kramen
-<!-- Op het moment zijn de inschrijvingen voor standhouders open. Zie de [standhouder pagina]({{< ref "/standhouders" >}}).
-
-Zodra er kramen bevestigd zijn zullen die hier te vinden zijn. -->
-<!-- [TO DO: vendor list] -->
 De volgende standhouders zullen op Fantasy court te vinden zijn: 
-- **Arctis Ira**
-- **ArrowGlass**
-- **Atelier Knowhere**
-- **Atelier Spintol**
-- **Books4Life Eindhoven**
-- **CCGwinkel.nl**
-- **Céline's Art Studio**
-- **Cross Elf**
-- **De Huiself**
-- **Divini Couture - Dolle Griet**
-- **Dreamchaserart**
-- **Custom Costumes**
-- **Elfdehands boeken**
-- **Empire of Minis**
-- **\+Wiggley's Wonder Workshop**
-- **EverAfterprint**
-- **Faeryfindings**
-- **Fairyland**
-- **Feys craftshop**
-- **GridStuff**
-- **I Do Hobbys**
-- **Imkerij de Walhut**
-- **iScoop Ice Cream (eten)**
-- **Kapitein Kleerhaak**
-- **La Salsa Latina (eten)**
-- **Labyrinth Eindhoven**
-- **Larpcenter**
-- **LRP Ravenskeep Adventures (larp)**
-- **Mamorumori**
-- **Mose (zei nee hoeft niet in form)**
-- **Narquelics Chainmail Jewelry**
-- **Nether & Fable**
-- **Nooni-en-Neik  (Nooni Design)**
-- **OOAKdolls by Mariska**
-- **Pagan Ways**
-- **Red Dragon Jewellery**
-- **Somnivera Events**
-- **Studio FADE**
-- **t Speldenhuis**
-- **The Fantasy Bug**
-- **The Lugon Project**
-- **The rogue's hoard**
-- **The Secret Moon Shop**
-- **The Wandering Merchant (voormalig eldirsar crafts)**
-- **The Wolf and Rabbit**
-- **TheDreamyCauldron en**
-- **\+Yayday's yay-days**
-- **Toys in the Attic**
-- **Vintage Fantasy Flair**
-- **VonkenStaal**
-- **Kurtos**
-- **Wancelot**
 
+
+## Larps en goede doelen
+&nbsp; 
+- **[Toys in the Attic](toysintheattic.nl):** Organiseert drie verschillende larps in dezelfde wereld. Van fantasy tot steampunk tot post-apocalyptisch. 
+- **[LRP Ravenskeep Adventures](https://ravenskeep.nl):** Organiseert twee keer per jaar een grote fantasylarp in Noord Brabant.
+- **[Books4Life Eindhoven](https://www.books4life-eindhoven.nl):** Een tweedehands boekenwinkel die gedoneerde boeken verkoopt voor goede doelen. 
+
+## Eten en drinken
+&nbsp;
+- **[La Salsa Latina](lasalsalatina.nl):** Een breed scala aan typische hapjes zoals arepas, empanadas, salchipapas, quesadilla's, taco's, inclusief vegetarische en veganistische opties.
+- **[Kürtőskalács](https://www.schoorsteenbrood.nl/):** Traditioneel Transsylvanisch schoorsteenbrood. Bedekt met kaneel, vanille or andere zoetigheden. 
+- **[iScoop Ice Cream](iScoop.nl):**  IJs is altijd een goed idee.
+
+
+## Winkels en kustenaars
+&nbsp;
+- **[The Lugon Project](https://www.instagram.com/thelugonproject/):** Nederlandse RPG-ontwerper met zelfgeschreven rollenspel-supplemetnen.
+- **[The Secret Moon Shop](https://www.instagram.com/the_secret_moon_shop/):**  Dé plek voor prachtige handgemaakte potions en andere magische voorwerpen. 
+- **[The Fantasy Bug](https://www.thefantasybug.nl/):**  Een creatieve mix van natuur, sprookjes en recycling.
+- **[Labyrinth Eindhoven](https://labyrinth040.nl/):** Dé bordspellenwinkel van Eindhoven.
+- **[Narquelics Chainmail Jewelry](https://www.narquelics.com/):** Handgemaakte sieraden en accessoires van maliënkolderringen.
+- **[Somnivera Events](www.somnivera-events.nl):** Organiseert een magisch bal in Slot Assemburg.
+- **[Elfdehands boeken]():** Gespecialiseerd in tweedehands Fantasy-, Magie-, Sprookjes- en Science-Fictionboeken.
+- **[Feys craftshop](https://www.feyscraftshop.nl/):** Dé betoverende bestemming voor al je paddenstoelornamenten, paddenstoelsieraden en fantasy producten.
+- **[Atelier Spintol](https://www.facebook.com/AtelierSpintol/):** Historische kleding en accessoires, van middeleeuwse kaproen tot edwardiaanse walking skirt.
+- **[Divini Couture - Dolle Griet](https://divinicouture.com/):** Kleding en kostuums op maat voor Live Roleplay.
+- **[I Do Hobbys](https://idohobbys.com/):** Op maat gemaakte producten voor ttrpg.
+- **[Dreamchaserart](https://dreamchasergallery.com/):** allerlei merchandise met hun eigen fantasierijke artwork
+- **[OOAKdolls by Mariska](https://ooakdolls.nl/):** Met de hand vervaardigde fantasy poppen.
+- **[Wiggley’s Wonder Workshop](https://wiggleyswonderworkshop.com/):** Vind je familiar of adopteer een companion uit een breed aanbod van eigenaardige wezens en draken, schattige magneten en magische sleutelhangers.
+- **[Nether & Fable](https://netherandfable.com/):** Handgemaakte dobbelstenen en dicebags.
+- **[De Huiself](https://dehuiself.nl/):** De leukste Spellen, Lego, Funko en Collectibles van jouw favoriete franchises.
+- **[Empire of Minis](https://empireofminis.com/nl):** Hoge kwaliteit miniaturen en bustes voor de tabletop role-playing en schilder enthusiasten.
+- **[Studio FADE](https://www.studiofade.nl/):** Leer en keramiek in fantasy stijl.
+- **[Céline`s Art Studio](https://www.etsy.com/shop/CelinesArtStudioShop):**  Meerdere aesthetics zoals wat voor de liefhebbers voor dark fantasy en cozy art.
+- **[CCGwinkel.nl](CCGwinkel.nl):**  DE spellenwinkel voor alles wat je niet vindt bij de collega's.
+- **[Atelier Knowhere](https://www.instagram.com/atelier_knowhere/):** Vanuit eigen werkplaats worden handgemaakte fantasy sieraden en kleine kunstartikelen gemaakt.
+- **[t Speldenhuis](https://t-speldenhuis.nl/):** Met alle spullen van 't Speldenhuis kan een kind zich kleden zoals ze willen.
+- **[Faeryfindings](https://www.instagram.com/faeryfindings/):** wonderlijke decoraties en accessoires.
+- **[The rogue’s hoard](https://www.the-rogues-hoard.com/products):** Ontdek een betoverende verzameling TTRPG-accessoires.
+- **[Imkerij de Walhut](https://www.imkerijdewalhut.nl/):** Voor heerlijke honing. 
+- **[ArrowGlass](https://www.arrowglass-atelier.com/):** Glas in lood, traditionele glaskunsten in een ander jasje!
+- **[Mamorumori](https://mamorumori.com/):** Handgemaakte boswezens.
+- **[EverAfterprint](https://everafterprint.com):** Een schrijver en illustrator die samen LGBTQ+ boeken creeëren en publiceren.
+- **[The Wandering Merchant](https://www.etsy.com/shop/EldirsarCrafts):** Handgemaakte lederwaren in het thema van RPG, larp en cosplay.
+- **[The Wolf and Rabbit](http://www.thewolfandrabbit.com/):** Allerlei accessoires voor uw kostuums, sieraden, kunstwerken en andere rariteiten.
+- **[Kapitein Kleerhaak](https://kapitein-kleerhaak.sumupstore.com/):** Ahoy Mateys, prachtige schatten voor het oprapen. Van tassen tot tunieken.
+- **[Fairyland](https://www.fairyland.nl/):** Middeleeuwen kleding, lederwaren, kaart en bordspellen en Keltische Sieraden
+- **[Red Dragon Jewellery](https://www.facebook.com/people/Red-Dragon-Jewellery/100064107270660/)** Voor handgemaakte alternatieve/nerd- sieraden, of gewoon je naam in je ring, kun je terecht bij Red Dragon Jewellery.
+- **[Larpcenter](https://www.larpcenter.nl/):** De winkel voor al uw larpwapens.
+- **[GridStuff](https://www.gridstuff.nl/):** talrijk terrein ten toevoeging tot ttrp's.
+- **[VonkenStaal](https://www.etsy.com/nl/shop/Vonkenstaal):** Onze plaatselijke smit en metaalbewerker.
+- **[Arctis Ira](https://www.instagram.com/arctis_ira/):** -
+- **[Yayday’s yay-days](https://www.instagram.com/life_is_art_apparently?igsh=YXE1ejhvb2drYzJl):** Een kunstenaar maakt allerlei artikelen. 
+- **[TheDreamyCauldron](https://www.etsy.com/shop/TheDreamyCauldron):** Dromen worden waarheid in de vorm van juwelen met magische drankjes.
+- **[Vintage Fantasy Flair](https://www.facebook.com/vintagefantasyflair):** Betaalbare Fantasy kleding en accessoires in een 2e hands jasje.
+- **Cross Elf**
+- **[Custom Costumes](customcostumes.nl)** Handgemaakte oren, staarten en andere kostuumonderdelen.
+- **[Nooni-en-Neik](noonidesign.nl):** Kabouters, kabouters, kabouters en kabouters.
+- **[Wancelot](wancelot.nl):** Een dobbelsteen voor elke gelegenheid.
+- **[bluefernarts](https://www.bluefernarts.com/):**  Een Belgische kunstenares en illustratrice die handgemaakte aquarelkunstwerken in fantasy en sprookjes-thema maakt. 
+- **[Heathen mead](https://www.heathenmead.nl/):** Op dit festival aanwezig me een nieuwe reeks alcoholvrije mede.
 
 
 {{< message margin-top="80px" margin-bottom="100px">}}
