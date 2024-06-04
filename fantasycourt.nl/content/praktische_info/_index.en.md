@@ -62,6 +62,30 @@ From the **Eindhoven Central Station** (by train or bus), it is a walk of a few 
 
 **Parking on the TU/e campus** is free for the first 30 minutes, after which parking costs €0.50 per 15 minutes, to a maximum of €7.50 a day. **Parking outside the campus** is free in _Rachelsmolen_ (a street) or in the street parallel to the _Onze Lieve Vrouwestraat_.
 
+## Am I allowd to bring a (larp) sword to fantasy court.
+You are allowed to carry a foam larp sword to fantasy court. Fighting with foam weapons is allowed on *the designated spots* in the tournament field and at the edge of the festival. People are responsible for the safety of their own larp swords. The organisation is at all times allowed to check larp-swords and request people to remove unsafe swords from the area. Always keep in mind the fighting safely rules.
+
+Carrying and fighting with hard wood, metal or plastic weapons is not allowed. As is carrying "real looking" larp weapons. Fantasy court takes place on public terrain so we have to follow the weapon laws. This also concerns knives and other weapons bought a the festival which have to be kept sealed in their packaging.  
+
+The golden rule is ”don't do anything that forces us to be more strict”. Use your common sense and do not push the boundaries so we don't have to do that ourselves.
+
+### Fighting safely rules
+1. Stabbing with the weapons is prohibited.
+2. It is not allowed to hit the head or the neck.
+3. physical contact is not allowed.
+4. Participants have to pull their blows. Swing with reservation and make sure your sword will swing
+at the opponent and not through them.
+5. Running is not allowed. The tourney field is small enough that it's unnecessary and it can cause
+accidents.
+6. Shield-bashing is not allowed.
+7. Although they do count as valid hit locations we ask you to avoid hitting the groin, breasts wrists of
+the opponent since these body parts can hurt quite a bit.
+8. We do allow for upward and downward attacks. Be careful to not hit the head of the groin with
+these though.
+
+## Am I allowed to bring a pet to Fantasy Court?
+Pets are allowed on the campus terrain as long as they are leashed. Please clean up after your pets. If the ppet is causing a disturbance the oragnisation can ask you to leave the festival.
+
 
 
 # Sponsors

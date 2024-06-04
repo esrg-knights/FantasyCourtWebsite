@@ -18,27 +18,34 @@ Dit jaar mag Fantasy Court met veel genoegen de volgende artiesten uitnodigen.
 - **[Womanhood](https://www.facebook.com/WOMANHOODpe):** Een spectaculaire daansshow met 10 wezens uit andere werelden.
 - **[Andawenn](https://www.facebook.com/Andawenn):**  Sfeervolle Keltische muziek (Iers, Schots en Bretons) op gitaar, fluiten en whistles.
 - **Edward Fiddler (and these Drunken Sods I found somewhere)** 
-- **Balfolk Workshop:** Wil jij dansen tijdens Fantasy Court? Echt een feestje bouwen? Dan is deze workshop Balfolk onder leiding van Sophie van Grinsven écht iets voor jou!
+- **Balfolk Workshop:** Wil jij dansen tijdens Fantasy Court? Echt een feestje bouwen? Dan is deze gratis workshop Balfolk onder leiding van Sophie van Grinsven écht iets voor jou!
 
 # Bevestigde activiteiten
 Op het moment zijn de volgende activiteiten bevestigd.
 ### Op het toernooiveld
 Op het toernooiveld zullen verschillende activiteiten en demonstraties plaatsvinden:
 - **LARP Zwaardvecht Toernooi**: Een 1-op-1 opwindend LARP-zwaardvechttoernooi voor alle niveaus, Lukt het jou om te winnen? Toegang is vrij voor alle deelnemers.
+- **Hisoriche zwaardvechtdemonstratie:** Door de dag heen zal de zwaardkring demonstraties geven in hisorisch zwaardvechten. 
 
 ### Op het podium
- -	**️‍Kostuumwedstrijd**: Kom in je mooiste tuniek, jurk of andere creatie naar de kostuum wedstrijd, en wie weet staan juryleden versteld en ga jij met een van de prijzen naar huis. Belangrijk om te weten, de kostuumwedstrijd draait wel om eigen gemaakte creaties, en niet wie het mooiste kostuum heeft besteld.
+&nbsp; 
+ -	**️‍Kostuumwedstrijd**: In de ochtend kan je je inschrijven voor de kostuumcompetitie bij de infostand. Kom in je mooiste tuniek, jurk of andere creatie naar de kostuum wedstrijd, en wie weet staan juryleden versteld en ga jij met een van de prijzen naar huis. Belangrijk om te weten, de kostuumwedstrijd draait wel om eigen gemaakte creaties, en niet wie het mooiste kostuum heeft besteld. Belangrijk om op tte merken is dat dit geen cosplaycompetitie is alhoewel cosplays niet uitgesloen zijn voor deelname.
+
 ### Activiteitenhoek
 En er niet alleen veel te zien op het Fantasy Court festival. Er is ook een heleboel te doen. Geniet ervan!
+- **Spullenruilkraam:** Heb je oude accessoires die je niet meer gebruikt? Op zoek naar iets nieuws? Neem je oude spullen mee naar het de kikker kleinighedenkraam.
 - **NERF Schietbaan**: Concurreer met je vrienden in dit spel wat je accuraatheid en snelheid test met NERF pijltjes. Weet jij je tegenstander te snel af te zijn?
 - **Larp Knuffel Boogschieten**: Ons klassieke larp knuffelboogschieten spel, op eerdere edities en Koningsdag. Pak een boog, schiet de gewenste knuffel eraf met de rubberen pijlen en neem hem mee naar huis als prijs!
 - **Verschillende Buitenspellen**: We hebben nog een variatie aan andere veldspellen die de hele dag door te spelen zijn, zoals Kubb.
 
-
+### Bij de kramen
+De kramen zijn niet alleen verkopers. Ze organiseren ook zelf activiteiten.
+- **Button Workshop:** Wegens populariteit erug. Arctis Ira geeft Gratis button workshops gedurende de dag. Ontwerp en maak je eigen button. 
+- **DnD Workshops** Labyrinth geef workshops en demos in dungeons and dragons bij hun stand. 
+- **Secret Mafia** Somnivera events gaat "secret maffia" en andere leuke spellen spelen. Ga naar hun kraam en vraag of je mee kan doen.
 
 # Bevestigde kramen
 De volgende standhouders zullen op Fantasy court te vinden zijn: 
-
 
 ## Larps en goede doelen
 &nbsp; 
@@ -53,7 +60,7 @@ De volgende standhouders zullen op Fantasy court te vinden zijn:
 - **[iScoop Ice Cream](iScoop.nl):**  IJs is altijd een goed idee.
 
 
-## Winkels en kustenaars
+## Winkels en kunstenaars
 &nbsp;
 - **[The Lugon Project](https://www.instagram.com/thelugonproject/):** Nederlandse RPG-ontwerper met zelfgeschreven rollenspel-supplemetnen.
 - **[The Secret Moon Shop](https://www.instagram.com/the_secret_moon_shop/):**  Dé plek voor prachtige handgemaakte potions en andere magische voorwerpen. 
