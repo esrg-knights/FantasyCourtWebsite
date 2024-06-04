@@ -59,6 +59,33 @@ Het evenement is op een veld zonder adres op de campus van de Technische Univers
 Vanaf trein en busstation **Eindhoven Centraal** is het enkele minuten lopen naar het noord-oosten. Op en rond de campus kun je ook kleine wegwijsbordjes vinden.
 
 **Parkeren op de TU/e campus** is de eerste 30 minuten gratis, daarna is er betaald parkeren voor €0.50 per kwartier, tot een maximum van €7.50 voor de hele dag. **Parkeren buiten de campus** is gratis aan de _Rachelsmolen_ of op de parallelweg langs de _Onze Lieve Vrouwestraat_.
+
+## Mag ik een (larp)-zwaard meenemen naar Fantasy Court?
+Mag ik een larp-zwaard meenemen naar fantasy court?
+Het dragen van foam larp zwaarden is toegestaan. Er mag met foam wapens gevochten worden op de *daarvoor aangewezen plekken* in het toernooiveld en aan de rand van het terrein. Men is zelf verantwoordelijk voor de veiligheid van de larpwapens. De organisatie mag ten alle tijden wapens controleren en vragen om onveilige wapens van het terrein te verwijderen. Houd bij het vechten ook rekening met de veilig vechten regels. 
+
+Het dragen  van en vechten met harde houten, metalen of plastic wapens is niet toegestaan. Alsmede het dragen van “echt lijkende” larpwapens. Fantasy court vindt plaats op openbaar terrein dus wij moeten ons aan de wapenwet houden. Ook ter plekke gekochte messen of andere wapens dienen verpakt te blijven. 
+
+De gouden regel is ”doe niks wat ons dwingt om ons wapenbeleid aan te scherpen”. Gebruik vooral je gezond verstand en zoek geen grenzen op zodat wij dat ook niet hoeven te doen.
+
+
+### Veilig vechten regels
+1. Men mag niet met het wapen steken.
+2. Het is niet toegestaan om het hoofd of de nek te raken.
+3. Fysiek contact is ten alle tijden verboden.
+4. Men dient slagen in te houden.
+5. Het is niet toegestaan om tijdens een duel te rennen.
+6. Het is niet toegestaan om met schilden te slaan.
+7. Alhoewel het een geldige hitlocatie is verzoeken wij de deelnemers voorzichtig te zijn met het
+raken van geslachtsdelen, borsten en polsen.
+8. Het is toegestaan om onder- en bovenhands te slaan. kijk hierbij wel uit voor hoofd en
+geslachtsdelen.
+
+## Mag ik een huisdier meenemen naar Fantasy Court?
+Het meenemen van huisdieren op het campusterrein is toegestaan mist deze aangelijnd zijn. Ruim alsjeblieft de poep van je huisdier op. Als het huisdier verstoring veroorzaakt kan de organisatie gedwongen zijn om te vragen het festival te verlaten.
+
+
+
 ## Sponsoren
 Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) die ons faciliteren met een veld voor het festival en het leveren van vrijwilligers. Verder ontvangen wij een financiele bijdrage vanuit [StEHven](https://stehven.nl).
 
