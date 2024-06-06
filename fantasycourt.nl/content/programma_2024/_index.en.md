@@ -65,15 +65,15 @@ No only do our vendors have great products for sale. Some of them also have awes
 ## Vendors and artists
 &nbsp;
 - **[The Lugon Project](https://www.instagram.com/thelugonproject/):** Dutch RPG creator with self-written role-playing supplements.
-- **[The Secret Moon Shop](https://www.instagram.com/the_secret_moon_shop/):** The place for beautiful handmade potions and other magical items. 
+- **[The Secret Moon Shop](https://www.etsy.com/shop/TheSecretMoonShop):** The place for beautiful handmade potions and other magical items. 
 - **[The Fantasy Bug](https://www.thefantasybug.nl/):** A creative blend of nature, fairy tales and recycling.
 - **[Labyrinth Eindhoven](https://labyrinth040.nl/):** Thé board game store of Eindhoven.
 - **[Narquelics Chainmail Jewelry](https://www.narquelics.com/):** Handmade jewellery and accessories from chain mail rings.
 - **[Somnivera Events](www.somnivera-events.nl):** Organizes a magic ball at Slot Assemburg.
-- **[Elfdehands boeken]():** Specializing in second-hand Fantasy, Magic, Fairy Tale and Science-Fiction books.
+- **Elfdehands boeken:** Specializing in second-hand Fantasy, Magic, Fairy Tale and Science-Fiction books.
 - **[Feys craftshop](https://www.feyscraftshop.nl/):** The enchanting destination for all your mushroom ornaments, mushroom jewellery and fantasy products.
 - **[Atelier Spintol](https://www.facebook.com/AtelierSpintol/):** Historical clothing and accessories, from medieval hood to Edwardian walking skirt.
-- **[Divini Couture - Dolle Griet](https://divinicouture.com/):** Custom clothing and costumes for Live Roleplay.
+- **[Divini Couture](https://divinicouture.com/) - [Dolle Griet](https://www.dolle-griet.nl/):** Custom clothing and costumes for Live Roleplay.
 - **[I Do Hobbys](https://idohobbys.com/):** Custom-made products for ttrpg.
 - **[Dreamchaserart](https://dreamchasergallery.com/):** All kinds of merchandise with their own imaginative artwork.
 - **[OOAKdolls by Mariska](https://ooakdolls.nl/):** Handcrafted fantasy dolls.
@@ -82,17 +82,17 @@ No only do our vendors have great products for sale. Some of them also have awes
 - **[De Huiself](https://dehuiself.nl/):** The cutest Games, Lego, Funko and Collectibles from your favourite franchises.
 - **[Empire of Minis](https://empireofminis.com/nl):** High quality miniatures and busts for tabletop role-playing and painting enthusiasts.
 - **[Studio FADE](https://www.studiofade.nl/):** Leather and ceramics in fantasy style.
-- **[Céline`s Art Studio](https://www.etsy.com/shop/CelinesArtStudioShop):** Multiple aesthetics like some for dark fantasy and cozy art enthusiasts.
+- **[Céline`s Art Studio](https://celinevu.nl/):** Multiple aesthetics like some for dark fantasy and cozy art enthusiasts.
 - **[CCGwinkel.nl](CCGwinkel.nl):** THE game store for everything you can't find at the peers.
 - **[Atelier Knowhere](https://www.instagram.com/atelier_knowhere/):** Handmade fantasy jewellery and small art supplies are made from their own workshop.
 - **[t Speldenhuis](https://t-speldenhuis.nl/):** With all the stuff from 't Pin House, a child can dress however they want.
-- **[Faeryfindings](https://www.instagram.com/faeryfindings/):** wondrous decorations and accessories.
+- **[Faeryfindings](https://www.faeryfindings.com/):** wondrous decorations and accessories.
 - **[The rogue’s hoard](https://www.the-rogues-hoard.com/products):** Discover an enchanting collection of TTRPG accessories.
 - **[Imkerij de Walhut](https://www.imkerijdewalhut.nl/):** For delicious honey. 
 - **[ArrowGlass](https://www.arrowglass-atelier.com/):** Stained glass, traditional glass arts in a different light!
 - **[Mamorumori](https://mamorumori.com/):** Handmade forest creatures.
 - **[EverAfterprint](https://everafterprint.com):** A writer and illustrator who create and publish LGBTQ+ books together.
-- **[The Wandering Merchant](https://www.etsy.com/shop/EldirsarCrafts):** Handmade leather goods in the theme of RPG, larp and cosplay.
+- **[The Wandering Merchant](https://thewanderingmerchant.nl/):** Handmade leather goods in the theme of RPG, larp and cosplay.
 - **[The Wolf and Rabbit](http://www.thewolfandrabbit.com/):** All kinds of accessories for your costumes, jewellery, artwork and other oddities.
 - **[Kapitein Kleerhaak](https://kapitein-kleerhaak.sumupstore.com/):** Ahoy Mateys, beautiful treasures for the taking. From bags to tunics.
 - **[Fairyland](https://www.fairyland.nl/):** Medieval clothing, leather goods, card and board games and Celtic jewellery.
@@ -106,9 +106,9 @@ No only do our vendors have great products for sale. Some of them also have awes
 - **[Vintage Fantasy Flair](https://www.facebook.com/vintagefantasyflair):** Affordable Fantasy clothing and accessories in a 2nd hand look.
 - **Cross Elf** 
 - **[Custom Costumes](customcostumes.nl)** Handmade ears, tails and other costume parts.
-- **[Nooni-en-Neik](noonidesign.nl):** Gnomes, gnomes, gnomes and gnomes.
+- **[Nooni-en-Neik](https://www.nooni-en-neik.nl/):** Gnomes, gnomes, gnomes and gnomes.
 - **[Wancelot](wancelot.nl):** A die for every occasion.
-- **[bluefernarts](https://www.bluefernarts.com/):** A Belgian artist and illustrator who creates handmade watercolour artwork in fantasy and fairy tale themes. 
+- **[Blue Fern Arts](https://www.bluefernarts.com/) / [Edge of Dusk](https://edgeofdusk.com/):** A Belgian artist and illustrator who creates handmade watercolour artwork in fantasy and fairy tale themes. Additionally she owns an indie game  studio together with her brother.
 - **[Heathen mead](https://www.heathenmead.nl/):** Present at this festival with a new series of non-alcoholic meads.
 
 
