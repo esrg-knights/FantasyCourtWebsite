@@ -107,7 +107,6 @@ De volgende standhouders zullen op Fantasy court te vinden zijn:
 - **[Nooni-en-Neik](https://www.nooni-en-neik.nl/):** Kabouters, kabouters, kabouters en kabouters.
 - **[Wancelot](wancelot.nl):** Een dobbelsteen voor elke gelegenheid.
 - **[Blue Fern Arts](https://www.bluefernarts.com/) / [Edge of Dusk](https://edgeofdusk.com/):**  Een Belgische kunstenares en illustratrice die handgemaakte aquarelkunstwerken in fantasy en sprookjes-thema maakt. Tevens is ze eigenaar van een indie game studio samen met haar broer.
-- **[Heathen mead](https://www.heathenmead.nl/):** Op dit festival aanwezig me een nieuwe reeks alcoholvrije mede.
 
 
 {{< message margin-top="80px" margin-bottom="100px">}}

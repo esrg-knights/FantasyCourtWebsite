@@ -109,7 +109,6 @@ No only do our vendors have great products for sale. Some of them also have awes
 - **[Nooni-en-Neik](https://www.nooni-en-neik.nl/):** Gnomes, gnomes, gnomes and gnomes.
 - **[Wancelot](wancelot.nl):** A die for every occasion.
 - **[Blue Fern Arts](https://www.bluefernarts.com/) / [Edge of Dusk](https://edgeofdusk.com/):** A Belgian artist and illustrator who creates handmade watercolour artwork in fantasy and fairy tale themes. Additionally she owns an indie game  studio together with her brother.
-- **[Heathen mead](https://www.heathenmead.nl/):** Present at this festival with a new series of non-alcoholic meads.
 
 
 {{< message margin-top="80px" margin-bottom="100px">}}
