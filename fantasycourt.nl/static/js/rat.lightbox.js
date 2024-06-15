@@ -33,7 +33,10 @@
                     pause: 'hover',
                     ride: false,
                     touch: true,
-                    wrap: true
+                    wrap: true,
+                    // FC change start
+                    classes: "carousel-fade",
+                    // end
                 },
                 lightbox: {
                     loader: false,
@@ -174,7 +177,7 @@
             <div id="${this.config.modal.id || 'lightboxModal'}" class="modal-dialog${this.config.modal.size !== null ? (' modal-' + this.config.modal.size) : ' '} modal-dialog-centered">
                 <div class="modal-content">
                     <div class="modal-body p-0">
-                        <div id="${this.config.carousel.id || 'lightboxCarousel'}" class="carousel carousel-fade slide">
+                        <div id="${this.config.carousel.id || 'lightboxCarousel'}" class="carousel ${this.config.carousel.classes } slide">
                             ${indicators}
 
                             <div class="carousel-inner">
@@ -494,4 +497,6 @@
     return Lightbox;
 
 }));
-//# sourceMappingURL=rat.lightbox.js.map
+// FC start
+//# XXX-sourceMappingURL=rat.lightbox.js.map
+// FC end

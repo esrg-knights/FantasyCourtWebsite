@@ -27,6 +27,7 @@ body {
   background-image: url('../images/woodback_dark.png');
   background-position: center;
   background-attachment: fixed;
+  box-sizing: content-box;
 }
 
 h1, h2, h3, a, .dropdown {

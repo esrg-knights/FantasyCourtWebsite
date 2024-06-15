@@ -1,0 +1,47 @@
+
+
+.modal-lightbox {
+    max-height: 100vh;
+    overflow-y: hidden;
+
+
+    .modal-dialog {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0 var(--bs-modal-margin);
+
+    }
+    .modal-content {
+        background-color: transparent;
+    }
+
+    .modal-body {
+        border-width: 0px;
+    }
+}
+
+.fc-carousel-even {
+
+    // .carousel-item {
+    //     transition-duration: 10000.5s;
+    // }
+
+    .carousel-item {
+        height: 100vh;
+    }
+
+    // Ensure that all Carousel images have the same dimensions
+    .carousel-item > img {
+        max-height: 100vh;
+        object-fit: contain;
+
+        width: auto;
+        height: auto;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+}
