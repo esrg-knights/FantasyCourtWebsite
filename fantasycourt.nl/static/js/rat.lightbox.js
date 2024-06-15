@@ -198,7 +198,7 @@
                                             `}
 
                                             ${item.caption || item.title || item.copyright ? `
-                                                <div class="carousel-caption d-none d-md-block">
+                                                <div class="carousel-caption d-block">
                                                     ${item.title ? `<div class="h5">${item.title}</div>` : ''}
                                                     ${item.caption ? `<p>${item.caption}</p>` : ''}
                                                     ${item.copyright ? `<p><small>© ${item.copyright}</small></p>` : ''}

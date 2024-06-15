@@ -1,5 +1,4 @@
 
-
 .modal-lightbox {
     max-height: 100vh;
     overflow-y: hidden;
@@ -28,6 +27,7 @@
     // }
 
     .carousel-item {
+        // This makes it almost impossible to close on mobile portrait mode (room above/below image doesn't close the modal)
         height: 100vh;
     }
 
@@ -47,16 +47,14 @@
     }
 
     .carousel-caption {
-        background-color: rgba(0, 0, 0, 0.175*2);
+        background-color: rgba(0, 0, 0, 0.175*3);
         text-align: right;
-        bottom: 0;
         left: initial;
         right: 4%;
-        padding-top: 1%;
         padding-bottom: 1%;
         padding-left: 1%;
         padding-right: 1%;
-        min-width: 15%;
+        min-width: 20%;
 
         > p {
             margin-bottom: 0;
