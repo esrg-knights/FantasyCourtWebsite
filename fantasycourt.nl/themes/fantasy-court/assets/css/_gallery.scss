@@ -42,7 +42,7 @@
             // Ensure that all Carousel images have the same dimensions
             > img {
                 max-height: 100vh;
-                object-fit: contain;
+                object-fit: scale-down;
             }
 
             .carousel-caption {
@@ -56,10 +56,6 @@
 
                 > * {
                     margin-bottom: 0;
-                }
-
-                @include media-breakpoint-up(md) {
-
                 }
 
                 @include media-breakpoint-up(lg) {

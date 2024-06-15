@@ -319,6 +319,9 @@
                 throw new Error(`The passed element is not nor contains a supported image source. Element HTML: ${source.outerHTML}.`);
             }
             let image = original.cloneNode(true);
+            // FC start
+            image.style = ""
+            // FC end
             image.className = 'w-100';
             if (source instanceof HTMLAnchorElement && source.href.length > 0) {
                 if (image instanceof HTMLImageElement) {
