@@ -66,6 +66,12 @@ title = "Nieuwsarchief"
 url = "/nieuws/"
 weight = 7
 
+# [[languages.nl.menu.main]]
+# identifier = "galerij"
+# title = "Galerij"
+# url = "/galerij/"
+# weight = 8
+
 [languages.en]
 name = "English"
 title = "Fantasy Court"
@@ -121,6 +127,12 @@ identifier = "news"
 title = "News Archive"
 url = "/news/"
 weight = 7
+
+# [[languages.en.menu.main]]
+# identifier = "gallery"
+# title = "Gallery"
+# url = "/galerij/"
+# weight = 8
 
 # Determine frontmatter order
 [frontmatter]

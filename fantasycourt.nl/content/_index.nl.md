@@ -34,8 +34,6 @@ resources:
     title: "Fantasy Court Organisatie en Vrijwilligers 2022"
 ---
 
-{{< gallery "my_placeholder_category" "test" >}}
-
 {{< message >}}
   _Burgers, boeren, edelen, zegt ten allen voort_ \
   _Jullie zijn allen uitgenodigd aan het hof van Fantasy Court_

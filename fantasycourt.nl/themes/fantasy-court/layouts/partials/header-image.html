@@ -1,3 +1,4 @@
+{{ if ($.Param "header-image") }}
 <div class="header-image" style='
     background-image: url({{ $.Param "header-image.url" }});
     background-position: {{ $.Param "header-image.position-x" }} {{ $.Param "header-image.position-y" }};
@@ -5,3 +6,4 @@
     background-origin: content-box;
 ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
 </div>
+{{ end }}

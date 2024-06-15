@@ -34,8 +34,6 @@ resources:
     title: "Fantasy Court Organisatie en Vrijwilligers 2022"
 ---
 
-{{< gallery "my_placeholder_category" "test" >}}
-
 {{< message >}}
 _Farmers, nobels, citizens and travelers of all sort_ \
 _You are all formally invited to enter the Fantasy Court._
