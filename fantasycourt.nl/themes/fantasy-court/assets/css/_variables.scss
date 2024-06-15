@@ -23,3 +23,13 @@ $factoidBorderColor: #c69838;
 $factoidWidth: 300px;
 
 $eventBlockBackgroundColor: #ffffff99;
+
+// Bootstrap: https://getbootstrap.com/docs/5.0/layout/breakpoints/#available-breakpoints
+$grid-breakpoints: (
+    xs: 0,
+    sm: 576px,
+    md: 768px,
+    lg: 992px,
+    xl: 1200px,
+    xxl: 1400px
+);

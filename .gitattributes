@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Do not count vendored files in GitHub stats
+# Bootstrap
+fantasycourt.nl/themes/fantasy-court/assets/css/_bootstrap_* linguist-vendored
+
+# Rat Lightbox
+fantasycourt.nl/static/js/rat.lightbox.js linguist-vendored

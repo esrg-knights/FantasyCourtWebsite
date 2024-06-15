@@ -8,8 +8,11 @@
         margin-top: 0;
         margin-bottom: 0;
         padding: 0 var(--bs-modal-margin);
+        height: 100%;
 
+        max-width: 80%;
     }
+
     .modal-content {
         background-color: transparent;
         border-color: transparent;
@@ -22,42 +25,65 @@
 
 .fc-carousel-even {
 
-    // .carousel-item {
-    //     transition-duration: 10000.5s;
-    // }
-
     .carousel-item {
-        // This makes it almost impossible to close on mobile portrait mode (room above/below image doesn't close the modal)
-        height: 100vh;
+        // transition-duration: 10000.5s;
     }
 
-    // Ensure that all Carousel images have the same dimensions
-    .carousel-item > img {
+    .carousel-inner {
         max-height: 100vh;
-        object-fit: contain;
+        display: flex;
+        align-items: center;
 
-        width: auto;
-        height: auto;
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        margin: auto;
-    }
+        // overflow-y: visible;
 
-    .carousel-caption {
-        background-color: rgba(0, 0, 0, 0.175*3);
-        text-align: right;
-        left: initial;
-        right: 4%;
-        padding-bottom: 1%;
-        padding-left: 1%;
-        padding-right: 1%;
-        min-width: 20%;
+        .carousel-item {
+            // This makes it almost impossible to close on mobile portrait mode (room above/below image doesn't close the modal)
+            // height: 100vh;
 
-        > p {
-            margin-bottom: 0;
+            max-height: 100vh;
+            // width: auto;
+            // height: auto;
+            // position: absolute;
+            // top: 0;
+            // bottom: 0;
+            // left: 0;
+            // right: 0;
+            // margin: auto;
+
+
+            // Ensure that all Carousel images have the same dimensions
+            > img {
+                max-height: 100vh;
+                object-fit: contain;
+
+                // width: auto;
+                // height: auto;
+                // position: absolute;
+                // top: 0;
+                // bottom: 0;
+                // left: 0;
+                // right: 0;
+                // margin: auto;
+            }
+
+            .carousel-caption {
+                background-color: rgba(0, 0, 0, 0.175*3);
+                text-align: right;
+                left: initial;
+                right: 4%;
+                padding-bottom: 1%;
+                padding-left: 1%;
+                padding-right: 1%;
+                min-width: 20%;
+
+                > p {
+                    margin-bottom: 0;
+                }
+
+                @include media-breakpoint-down(sm) {
+                    bottom: -20%;
+                }
+            }
         }
     }
 }
