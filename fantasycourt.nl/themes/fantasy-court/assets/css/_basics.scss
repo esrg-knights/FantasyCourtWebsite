@@ -10,7 +10,7 @@
   src: url(/fonts/OLDLONDON.TTF);
 }
 
-body, html {
+body {
   font-family: 'Book Antiqua', 'sans-serif';
   background-color: $backgroundColour;
   color: $textColor;
@@ -24,10 +24,11 @@ body, html {
 }
 
 body {
-  background-image: url('../images/woodback_dark.png');
-  background-position: center;
-  background-attachment: fixed;
-  box-sizing: content-box;
+  background-image: linear-gradient(rgba(0,0,0,0.175), rgba(0,0,0,0.175)),
+    url('../images/woodback_dark.png');
+  // If the background image isn't seamless top/bottom, then enable the following
+  // background-position: center;
+  // background-attachment: fixed;
 }
 
 h1, h2, h3, a, .dropdown {
