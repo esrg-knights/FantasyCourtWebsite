@@ -197,10 +197,11 @@
                                                 ${item.image.outerHTML}
                                             `}
 
-                                            ${item.caption || item.title ? `
+                                            ${item.caption || item.title || item.copyright ? `
                                                 <div class="carousel-caption d-none d-md-block">
                                                     ${item.title ? `<div class="h5">${item.title}</div>` : ''}
                                                     ${item.caption ? `<p>${item.caption}</p>` : ''}
+                                                    ${item.copyright ? `<p><small>© ${item.copyright}</small></p>` : ''}
                                                 </div>
                                             ` : ''}
                                         </div>
@@ -300,6 +301,15 @@
                 return caption;
             }
         }
+        // FC start
+        _getCopyright(source, image) {
+            let copyright = source.dataset.bsCopyright || source.dataset.copyright || source.copyright || null;
+            if (!copyright && source !== image) {
+                copyright = image.dataset.bsCopyright || image.dataset.copyright || null;
+            }
+            return copyright;
+        }
+        // FC end
         append(source) {
             if (this.items.has(source)) {
                 return this;
@@ -323,7 +333,10 @@
                 source,
                 image,
                 title: this._getTitle(source, image),
-                caption: this._getCaption(source, image)
+                caption: this._getCaption(source, image),
+                // FC start
+                copyright: this._getCopyright(source, image),
+                // FC end
             });
             source.setAttribute(this.legacy ? 'data-slide-to' : 'data-bs-slide-to', (this.items.size - 1).toString());
             source.addEventListener('click', (ev) => {
