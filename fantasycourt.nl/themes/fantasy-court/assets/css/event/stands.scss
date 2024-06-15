@@ -6,7 +6,7 @@
     margin-bottom: 20px;
 
     // Fill empty space with another colour
-    .carousel-item {
+    .carousel-item, .modal-content {
         background-color: $textColor;
     }
 

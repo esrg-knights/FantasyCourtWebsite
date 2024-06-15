@@ -1,0 +1,30 @@
+gallery_images:
+  my_placeholder_category:
+    # Format (only src is required):
+    # - src: <filename>
+    #   title: <default title>
+    #   title-nl: <translated title: Dutch>
+    #   title-en: <translated title: English>
+    #   title-<foo>: <translated title: <foo> languagecode>
+    #   caption: <default caption>
+    #   caption-nl: ...
+    #   copyright: ...
+    #   copyright-nl: ...
+    #   year: <photo origin year>
+    - src: /images/news/N1A1.png
+      title: Kurtelesacs
+      title-nl: Kurtelesacs
+    - src: /images/news/N1A2.png
+      title: iScoop Ice cream
+      year: 2023
+    - src: /images/news/N2A3.png
+      title: Gnome Volunteer
+      title-nl: Kabouter-vrijwilliger
+      year: 2023
+    - src: /images/news/N2A2.png
+      title: Archery
+      title-nl: Boogschieten
+      caption: Performed by a volunteer
+      caption-nl: Door een vrijwilliger
+      copyright: John Doe
+      year: 2023

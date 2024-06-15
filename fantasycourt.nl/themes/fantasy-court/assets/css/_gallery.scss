@@ -1,0 +1,69 @@
+
+.modal-lightbox {
+    max-height: 100vh;
+    // overflow-y: hidden;
+
+
+    .modal-dialog {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0;
+        margin-bottom: 0;
+        height: 100%;
+        overflow-y: hidden;
+        max-width: 98%;
+
+        @include media-breakpoint-up(md) {
+            max-width: 80%;
+            padding: 0 var(--bs-modal-margin);
+        }
+    }
+
+    .modal-content {
+        background-color: transparent;
+        border-color: transparent;
+    }
+}
+
+.fc-carousel-even {
+
+    // .carousel-item {
+    //     transition-duration: 10000.5s;
+    // }
+
+    .carousel-inner {
+        display: flex;
+        align-items: center;
+
+        // Not possible; since overflow-x: hidden, the browser will set overflow-y: auto even when we explicitly tell it overflow-y: visible
+        // overflow-y: visible;
+
+        .carousel-item {
+            // Ensure that all Carousel images have the same dimensions
+            > img {
+                max-height: 100vh;
+                object-fit: scale-down;
+            }
+
+            .carousel-caption {
+                background-color: rgba(0, 0, 0, 0.175*3);
+                text-align: right;
+                left: initial;
+                right: 0;
+                bottom: 0;
+                padding: 1%;
+                min-width: 20%;
+
+                > * {
+                    margin-bottom: 0;
+                }
+
+                @include media-breakpoint-up(lg) {
+                    right: 4%;
+                    padding-top: 1.25rem;
+                    bottom: 1.25rem;
+                }
+            }
+        }
+    }
+}
