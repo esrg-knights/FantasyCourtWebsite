@@ -1,4 +1,4 @@
-<div class="d-flex flex-wrap align-items-end">
+<div class="d-flex flex-wrap align-items-md-end">
 {{ $file := "fantasy-court/gallery.yaml" }}
 {{ $category := .Get 0 }}
 {{ with resources.Get $file }}
@@ -15,7 +15,7 @@
             {{ $img_title2 := cond (not $img.year) $img_title (printf "%s (%d)" $img_title $img.year) }}
             {{ $img_caption := or (index $img (printf "caption-%s" $.Site.Language.Lang) ) $img.caption }}
             {{ $img_copyright := or (index $img (printf "copyright-%s" $.Site.Language.Lang) ) $img.copyright }}
-            <div class="col-sm-12 col-md-4 p-2">
+            <div class="col-sm-12 col-md-4 p-2 mx-auto mx-md-0">
                 <a href="{{ $img.src }}" data-bs-toggle="lightbox" data-bs-gallery="{{ $.Get 1 }}" class="d-block text-center"
                         data-bs-title='{{ $img_title2 }}' data-bs-caption="{{ $img_caption }}" data-bs-copyright="{{ $img_copyright }}">
                     <img src="{{ $img.src }}" class="img-fluid object-fit-contain" style="max-height: 200px;" />
