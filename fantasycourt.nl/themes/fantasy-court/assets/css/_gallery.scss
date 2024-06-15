@@ -1,87 +1,71 @@
 
 .modal-lightbox {
     max-height: 100vh;
-    overflow-y: hidden;
+    // overflow-y: hidden;
 
 
     .modal-dialog {
+        margin-left: auto;
+        margin-right: auto;
         margin-top: 0;
         margin-bottom: 0;
-        padding: 0 var(--bs-modal-margin);
         height: 100%;
+        overflow-y: hidden;
+        max-width: 98%;
 
-        max-width: 80%;
+        @include media-breakpoint-up(md) {
+            max-width: 80%;
+            padding: 0 var(--bs-modal-margin);
+        }
     }
 
     .modal-content {
         background-color: transparent;
         border-color: transparent;
     }
-
-    .modal-body {
-        border-width: 0px;
-    }
 }
 
 .fc-carousel-even {
 
-    .carousel-item {
-        // transition-duration: 10000.5s;
-    }
+    // .carousel-item {
+    //     transition-duration: 10000.5s;
+    // }
 
     .carousel-inner {
-        max-height: 100vh;
         display: flex;
         align-items: center;
 
+        // Not possible; since overflow-x: hidden, the browser will set overflow-y: auto even when we explicitly tell it overflow-y: visible
         // overflow-y: visible;
 
         .carousel-item {
-            // This makes it almost impossible to close on mobile portrait mode (room above/below image doesn't close the modal)
-            // height: 100vh;
-
-            max-height: 100vh;
-            // width: auto;
-            // height: auto;
-            // position: absolute;
-            // top: 0;
-            // bottom: 0;
-            // left: 0;
-            // right: 0;
-            // margin: auto;
-
-
             // Ensure that all Carousel images have the same dimensions
             > img {
                 max-height: 100vh;
                 object-fit: contain;
-
-                // width: auto;
-                // height: auto;
-                // position: absolute;
-                // top: 0;
-                // bottom: 0;
-                // left: 0;
-                // right: 0;
-                // margin: auto;
             }
 
             .carousel-caption {
                 background-color: rgba(0, 0, 0, 0.175*3);
                 text-align: right;
                 left: initial;
-                right: 4%;
-                padding-bottom: 1%;
-                padding-left: 1%;
-                padding-right: 1%;
+                right: 0;
+                bottom: 0;
+                padding: 1%;
                 min-width: 20%;
 
-                > p {
+                > * {
                     margin-bottom: 0;
                 }
 
-                @include media-breakpoint-down(sm) {
-                    bottom: -20%;
+                @include media-breakpoint-up(md) {
+
+                }
+
+                @include media-breakpoint-up(lg) {
+                    right: 4%;
+                    padding-top: 1.25rem;
+                    bottom: 1.25rem;
                 }
             }
         }
