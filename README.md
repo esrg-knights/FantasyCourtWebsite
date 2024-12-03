@@ -1,5 +1,7 @@
 # Fantasy Court
 This repository contains the source code for the website of Fantasy Court.
+For running:
+- `cd fantasycourt.nl`
 
 # Legacy Code
 The old code (pure HTML and CSS) is available under the `legacy/` folder.

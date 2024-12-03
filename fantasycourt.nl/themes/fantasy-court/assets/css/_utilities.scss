@@ -42,3 +42,25 @@
   margin-right: auto;
   width: 400px;
 }
+
+
+// Bootstrap 5 tabs
+.nav-tabs {
+  border-color: $backgroundColourInverted;
+  font-family: 'BlackChancery', 'sans-serif';
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  .nav-link:hover {
+    border-color: $borderColour;
+    border-bottom-color: $backgroundColourInverted;
+  }
+
+  .nav-link.active {
+    border-color: $backgroundColourInverted;
+    border-bottom-color: $backgroundColour;
+    background-color: $backgroundColour;
+    color: $textColor;
+    font-weight: bold;
+  }
+}
