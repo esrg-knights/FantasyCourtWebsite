@@ -1,5 +1,5 @@
 ---
-# expirydate: "2025-01-01"
+# expirydate: "2024-10-01"
 title: Programme
 
 ---

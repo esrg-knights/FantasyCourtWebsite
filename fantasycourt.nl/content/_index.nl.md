@@ -42,7 +42,7 @@ resources:
 # Wat is Fantasy Court?
 Fantasy Court is een festival dat zich richt op de minder bekende, unieke cultuur rondom Fantasy met een focus op Larp (Live Action Role Playing). Dit festival bevat veel kraampjes, verenigingen en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan Larp-verenigingen, verrassende bordspellen, bijzonder eten, een Larp-zwaardvechttoernooi, Larp-zwaardvechten voor kinderen, verhalenvertellers, larp-boogschieten en verschillende kraampjes die al deze toebehoren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
 
-Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Zo zijn er speciale workshops, verschillende activiteiten en een kinderdivisie van het zwaardvechttoernooi. Wil je meer weten over onze activiteiten? Kijk dan op de [programma-pagina]({{< ref "/programma_2024" >}}).
+Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Zo zijn er speciale workshops, verschillende activiteiten en een kinderdivisie van het zwaardvechttoernooi. Wil je meer weten over onze activiteiten? Kijk dan op de [programma-pagina]({{< ref "/programma_2025" >}}).
 
 {{< carousel "carousel/**" >}}
 

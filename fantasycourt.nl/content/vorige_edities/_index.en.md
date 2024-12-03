@@ -42,6 +42,12 @@ _Memories are made to last_ \
 _Therefore here we show our past._
 {{< /message >}}
 
+
+## Editien 2024
+
+The 2024 Edition took place on the 9th of June. The festival grew a little with the addition of another piece of field. but kept it's charm.
+
+
 # Edition 2023
 
 On **Sunday June 11th**, Fantasy Court returned from 11.00h to 18.00h. This edition again featured vendors selling their items on a market, epic battles for both veterans and beginners during the LARP-swordfighting tournament, beautiful music made by various artists, and the possibility to win pluchies during archery! It was great to see the festival grow, in fact we started hitting the limits of our field.
@@ -65,7 +71,7 @@ In collaboration with the LARP Platform, we wrote [an article](https://www.larp-
 The Cursor made a video and wrote an [article](https://www.cursor.tue.nl/en/news/2019/juni/week-1/its-not-the-size-of-the-sword-that-matters-my-boy/) about Fantasy Court 2019. It was pretty warm that day, but nevertheless the day was very successful!
 
 ## Edition 2019
-The most recent physical edition of Fantasy Court, [Fantasy Court 2019](https://www.facebook.com/events/2583251595022623/), took place on the afternoon of the 2nd of June 2019, on the campus of the Technical University of Eindhoven. In order to ensure success, we ordered an extra serving of good weather. Sadly, we got a bit too much sun, resulting in high temperatures. This wasn't enough to spoil the fun, though, and with an additional layer of suntan, we managed to make it a beautiful event full of amazing stories, brave combat, and all-around fun.
+[Fantasy Court 2019](https://www.facebook.com/events/2583251595022623/), took place on the afternoon of the 2nd of June 2019, on the campus of the Technical University of Eindhoven. In order to ensure success, we ordered an extra serving of good weather. Sadly, we got a bit too much sun, resulting in high temperatures. This wasn't enough to spoil the fun, though, and with an additional layer of suntan, we managed to make it a beautiful event full of amazing stories, brave combat, and all-around fun.
 
 # first editions
 The festival originally started back in 2016 as the [LarpBattle](https://www.facebook.com/events/564866377026074/), followed by two successful editions of Fantasy Court: [Fantasy Court 2018](https://www.facebook.com/events/121539801858080/) and [Fantasy Court 2017](https://www.facebook.com/events/795289227288793/").
