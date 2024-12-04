@@ -10,7 +10,7 @@ jobs:
         hugo: ["0.88.1"]
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Download Hugo
         run: |
           wget https://github.com/gohugoio/hugo/releases/download/v${{ matrix.hugo }}/hugo_extended_${{ matrix.hugo }}_Linux-64bit.tar.gz
@@ -20,7 +20,7 @@ jobs:
           cd fantasycourt.nl
           ../hugo
       - name: Upload site as artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: site
           path: fantasycourt.nl/public/

@@ -44,6 +44,12 @@ resources:
 
 # Voorgaande Edities
 
+
+## Editie 2024
+
+Editie 2024 heeft plaatsgevonden op 9 juni. Het festival was weer een klein beetje gegroeid en weer een klein beetje gezelliger. 
+
+
 ## Editie 2023
 
 Op **Zondag 11 Juni** was het weer zover, Fantasy Court 2023 was van **11.00-18.00u** terug. Ook deze editie verkopen kooplieden hun waar op de markt, strijden ervaren en amateurs tijdens het LARP-zwaardvechttoernooi, wordt er prachtige muziek gemaakt door artiesten, en is er de mogelijkheid om knuffels te winnen bij het boogschieten! Het was mooi om de groei te zien. Sterker nog, er was zoveel groei dat we ruimtegebrek kregen.
