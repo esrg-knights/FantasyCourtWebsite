@@ -13,7 +13,6 @@ _All to amuse our amazing audience_
 Fantasy court 2025 takes place on Sunday the 8th of June from 11.00 to 18.00. We are currently busy assembling the program which will be published here as soon as we are ready.
 
 # Confirmed Artists
-[//]: # This year Fantasy Court is pleased to announce the following artists:
 
 We are currently looking for artists to perform on Fantasy Court. If you are interested in performing feel free to [mail us](mailto:fc@kotkt.nl).
 
@@ -34,9 +33,6 @@ In the world of fantasy there is not just a lot to see. There are also many acti
 - **LARP Plushie Archery:** Our classic 'stuffed animal archery' game. Shoot soft foam arrows at cuddly toys and keep whichever you manage to hit!
 - **Various Outdoor Games:** We'll have plenty of simple field games open all day, such as kubb.
 - **Larps:** Our lovely LARPS 'Toys in the Attic' and Ravenskeep have returned and will be hosting some fun activities for you! Toys in the Attic will hand out quests for you to complete and ravenskeep will play a sport from their larp.
-
-[//]: # ### At the vendors
-[//]: # Not only do our vendors have great products for sale. Some of them also have awesome activities.
 
 ## Larps and charities
 We will announce which larps and charities will be present starting in February. If you as a larp or charity want to represent yourself to our fantasy-loving public feel free to check out the [vendor information page]({{< ref "/standhouders" >}}).
