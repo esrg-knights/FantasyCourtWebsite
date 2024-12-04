@@ -13,7 +13,6 @@ _Maar het mooiste is nog steeds ons publiek_
 Fantasy court 2025 vindt plaats op zondag 8 juni van elf tot zes. We zijn druk bezig met het programma. Zodra we hiermee klaar zijn kan je het hier vinden.
 
 # Bevestigde artiesten
-[//]: #  Dit jaar mag Fantasy Court met veel genoegen de volgende artiesten uitnodigen.
 
 We zijn druk op zoek naar artiesten. Als je interesse hebt om je act op Fantasy Court uit te voeren, stuur ons dan vooral [een mail](mailto:fc@kotkt.nl).
 
@@ -32,8 +31,6 @@ En er is niet alleen veel te zien op het Fantasy Court festival. Er is ook een h
 - **Larp Knuffel Boogschieten**: Ons klassieke larp knuffelboogschiet spel, op eerdere edities en Koningsdag. Pak een boog, schiet de gewenste knuffel eraf met de rubberen pijlen en neem hem mee naar huis als prijs!
 - **Verschillende Buitenspellen**: We hebben nog een variatie aan andere veldspellen die de hele dag door te spelen zijn, zoals Kubb.
 
-[//]: # ### Bij de kramen
-[//]: # De kramen zijn niet alleen verkopers. Ze organiseren ook zelf activiteiten.
 
 # Bevestigde kramen
 De volgende standhouders zullen op Fantasy court te vinden zijn:
