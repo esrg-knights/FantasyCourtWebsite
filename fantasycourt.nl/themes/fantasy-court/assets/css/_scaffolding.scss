@@ -12,11 +12,7 @@
   background-origin: content-box;
   background-repeat: no-repeat;
 
-  height: 150px;
-
-  @media screen and (min-width: $containerWidth) {
-    height: 350px;
-  }
+  height: 35.5vh;
 }
 
 .content {
