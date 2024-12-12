@@ -1,10 +1,10 @@
 --- 
 type: news 
 title: "Vendor applications are open." 
-publishDate: 2024-12-03T17:00:00+02:00 
+publishDate: 2024-12-12T17:00:00+02:00 
 --- 
 
-Vendor and other organisation applications are now open. You can find more information on the [vendor page]({{< ref "/standhouders" >}}) or apply directly using [this link](https://docs.google.com/forms/d/e/1FAIpQLSdgNXPGttfaqPzkXfZpr1McJyhMBjCHTCpDKVrfEfgqgnLUFQ/viewform?usp=sf_link). Fantasy Court will happen this year on the 8th of June at the KOE-veld of the TU/e Eindhoven. 
+Vendor and other organisation applications are now open. You can find more information on the [vendor page]({{< ref "/standhouders" >}}) or apply directly using [this link](https://docs.google.com/forms/d/e/1FAIpQLSdgNXPGttfaqPzkXfZpr1McJyhMBjCHTCpDKVrfEfgqgnLUFQ/viewform?usp=sf_link). Fantasy Court will happen this year on the 8th of June at the koeveld of the TU/e Eindhoven. 
 
 On request of the vendors we have brought the application period forward. The first round of selections closes on the 12th of January. If you apply before this date you will receive confirmation whether you have been selected in week 3 or 4 of 2025. For people who apply later there is a second round of selections in March.
 
