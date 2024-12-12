@@ -14,7 +14,9 @@ og:
 {{< /message >}}
 
 # Standhouders Editie 2025
- Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken. Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en de gespecialiseerde zaken. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt? We zullen zeer bennekort de inschrijvingen openen. Heb je vragen? Neem dan [contact](mailto:standhouders@fantasycourt.nl) met ons op. 
+ Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken. Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en de gespecialiseerde zaken. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt? Als je onze visie deelt kan je je inschrijven op [het inschrijfformulier](https://docs.google.com/forms/d/e/1FAIpQLSdgNXPGttfaqPzkXfZpr1McJyhMBjCHTCpDKVrfEfgqgnLUFQ/viewform?usp=sf_link). Heb je vragen? Neem dan [contact](mailto:standhouders@fantasycourt.nl) met ons op. 
+ 
+Om vast te stellen wat we bieden en verwachten hebben we een inschrijfreglement opststeld. Dit kan je [hier vinden.](https://docs.google.com/document/d/1lWsQuVgl0SjMx5kb9iwUHwva5-iMHPq9/edit?usp=sharing&ouid=118033485815882455862&rtpof=true&sd=true)
 <!--Inschrijvingen voor standhouders zijn gesloten voor de editie van dit jaar. Fantasy court is gratis toegankelijk voor bezoekers zonder inschrijving, dus je kan wel langskomen en je volgend jaar inschrijven als het je bevalt! Heb je vragen? Neem dan [contact](mailto:standhouders@fantasycourt.nl) met ons op.-->
 
 Fantasy Court vindt plaats plaats op Zondag 8 Juni 2024, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.30u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken.
