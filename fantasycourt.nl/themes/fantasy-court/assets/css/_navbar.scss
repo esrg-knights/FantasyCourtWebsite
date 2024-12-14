@@ -25,7 +25,7 @@ nav {
       min-height: $navbarHeight;
     }
     padding: 0 10px;
-    display: block;
+    display: flex;
     
     &:hover {
       background-color: lighten($backgroundColourInverted, 5);
