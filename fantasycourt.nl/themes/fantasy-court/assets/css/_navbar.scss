@@ -20,8 +20,13 @@ nav {
 
   a {
     min-height: $mobileNavbarHeight;
+    @media screen and (min-width: $containerWidth) {
+      // Non-mobile display
+      min-height: $navbarHeight;
+    }
     padding: 0 10px;
-
+    display: block;
+    
     &:hover {
       background-color: lighten($backgroundColourInverted, 5);
     }
@@ -59,7 +64,6 @@ nav {
   }
 
   * {
-    display: flex;
     flex-direction: column;
     justify-content: center;
     font-size: larger;
@@ -72,6 +76,7 @@ nav {
   }
 
   #languagebox {
+    display: flex;
     flex-direction: row;
   }
 
@@ -79,6 +84,59 @@ nav {
     background-color: lighten($backgroundColourInverted, 10);
     border-bottom: 3px solid $borderColour;
   }
+}
+
+.nav-item:hover .submenu{
+  display: flex;
+}
+
+/* Style for submenu */
+.submenu {
+  display: none; /* Hide submenus by default */
+  position: relative; /* Make submenu position absolute */
+  top: 0; /* Position the submenu directly below the parent link */
+  left: 0; /* Align submenu with the left edge of the parent <a> */
+  background-color: $backgroundColourInverted; /* Same as the main navigation background */
+  z-index: 1000;
+
+  min-height: $mobileNavbarHeight;
+  @media screen and (min-width: $containerWidth) {
+    // Non-mobile display
+    min-height: $navbarHeight;
+  }
+}
+
+/* Style for submenu links */
+.submenu a {
+  width: 100%;
+  color: $textColorInverted;
+  background-color: $backgroundColourInverted;
+}
+
+.submenu a:hover {
+  background-color: lighten($backgroundColourInverted, 5%);
+}
+
+/* Show submenu on hover (desktop) */
+nav a:hover + .submenu {
+  display: block; /* Show submenu when parent <a> is hovered */
+}
+
+/* Mobile handling - hide submenu by default */
+@media screen and (max-width: $containerWidth) {
+  .submenu {
+    display: none; /* Hide submenus by default on mobile */
+  }
+
+  /* Show submenu when parent link is clicked */
+  a.active + .submenu {
+    display: block;
+  }
+}
+
+/* Optional: Mobile toggle menu styles */
+nav.responsive .submenu {
+  display: block; /* Ensure submenus are visible in responsive mode */
 }
 
 /*
