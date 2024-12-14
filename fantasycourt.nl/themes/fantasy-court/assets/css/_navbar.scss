@@ -28,6 +28,7 @@ nav {
     display: flex;
     
     &:hover {
+      color: $textColorInverted;
       background-color: lighten($backgroundColourInverted, 5);
     }
   }
