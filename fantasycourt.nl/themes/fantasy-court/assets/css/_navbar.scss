@@ -20,9 +20,15 @@ nav {
 
   a {
     min-height: $mobileNavbarHeight;
+    @media screen and (min-width: $containerWidth) {
+      // Non-mobile display
+      min-height: $navbarHeight;
+    }
     padding: 0 10px;
-
+    display: flex;
+    
     &:hover {
+      color: $textColorInverted;
       background-color: lighten($backgroundColourInverted, 5);
     }
   }
@@ -59,7 +65,6 @@ nav {
   }
 
   * {
-    display: flex;
     flex-direction: column;
     justify-content: center;
     font-size: larger;
@@ -72,6 +77,7 @@ nav {
   }
 
   #languagebox {
+    display: flex;
     flex-direction: row;
   }
 
@@ -81,10 +87,58 @@ nav {
   }
 }
 
+.nav-item:hover .submenu{
+  display: flex;
+}
+
+/* Style for submenu */
+.submenu {
+  display: none; /* Hide submenus by default */
+  position: relative; /* Make submenu position absolute */
+
+  min-height: $mobileNavbarHeight;
+  @media screen and (min-width: $containerWidth) {
+    // Non-mobile display
+    min-height: $navbarHeight;
+  }
+
+  .is-active {
+    background-color: lighten($backgroundColourInverted, 10);
+    border-bottom: 3px solid $borderColour;
+  }
+
+  a {
+    width: 100%;
+    color: $textColorInverted;
+    background-color: $backgroundColourInverted;
+  }
+}
+
+.verticalLine {
+  width: 2px;
+  background-color: $textColorInverted;
+  margin: 0.25 * $navbarHeight;
+  height: 50%;
+  display: block;
+  @media screen and (max-width: $containerWidth) {
+    display: none;
+  }
+}
+
 /*
   The "responsive" class is added to the topnav with JavaScript when the user clicks on the hamburger icon.
   This class makes the navigation visible on mobile devices (where it would otherwise be hidden)
 */
-nav.responsive a {
-  display: flex;
+nav.responsive{
+  a {
+    display: flex;
+  }
+
+  .submenu {
+    display: flex;
+    a {
+      font-size:medium;
+      padding-left: 5%;
+    }
+  }
 }
