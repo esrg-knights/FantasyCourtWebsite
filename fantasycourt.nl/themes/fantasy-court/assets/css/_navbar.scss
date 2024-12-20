@@ -20,9 +20,15 @@ nav {
 
   a {
     min-height: $mobileNavbarHeight;
+    @media screen and (min-width: $containerWidth) {
+      // Non-mobile display
+      min-height: $navbarHeight;
+    }
     padding: 0 10px;
-
+    display: flex;
+    
     &:hover {
+      color: $textColorInverted;
       background-color: lighten($backgroundColourInverted, 5);
     }
   }
@@ -59,7 +65,6 @@ nav {
   }
 
   * {
-    display: flex;
     flex-direction: column;
     justify-content: center;
     font-size: larger;
@@ -67,11 +72,12 @@ nav {
     text-decoration: none;
 
     @media screen and (min-width: $containerWidth) {
-      align-items: center;
+      align-items: left;
     }
   }
 
   #languagebox {
+    display: flex;
     flex-direction: row;
   }
 
@@ -81,10 +87,77 @@ nav {
   }
 }
 
+.nav-item:hover .dropdown{
+  display: block;
+}
+
+.dropdown {
+  display: none;
+  overflow-x: visible;
+  width: 1px;
+  
+  /* Style for submenu */
+  .submenu {
+    display: block;
+    position: relative;
+    width: fit-content;
+
+    min-height: $mobileNavbarHeight;
+    @media screen and (min-width: $containerWidth) {
+      // Non-mobile display
+      min-height: $navbarHeight;
+    }
+
+    a {
+      color: $textColorInverted;
+      background-color: $backgroundColourInverted;
+      font-size: large;
+      white-space: nowrap;
+      &:hover {
+        background-color: lighten($backgroundColourInverted, 5);
+      }
+    }
+
+    .is-active {
+      background-color: lighten($backgroundColourInverted, 10);
+      border-bottom: 3px solid $borderColour;
+    }
+  }
+}
+
+.verticalLine {
+  width: 2px;
+  background-color: $textColorInverted;
+  margin: 0.25 * $navbarHeight;
+  height: 50%;
+  display: block;
+  @media screen and (max-width: $containerWidth) {
+    display: none;
+  }
+}
+
 /*
   The "responsive" class is added to the topnav with JavaScript when the user clicks on the hamburger icon.
   This class makes the navigation visible on mobile devices (where it would otherwise be hidden)
 */
-nav.responsive a {
-  display: flex;
+nav.responsive{
+
+  overflow-y: scroll;
+  height: 100%;
+
+  a {
+    display: flex;
+  }
+
+  .dropdown {
+    display: flex;
+    width: inherit;
+    .submenu {
+      width: inherit;
+      a {
+        font-size:medium;
+        padding-left: 5%;
+      }
+    }
+  }
 }
