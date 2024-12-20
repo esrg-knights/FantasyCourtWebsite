@@ -98,8 +98,8 @@ nav {
   
   /* Style for submenu */
   .submenu {
-    display: block; /* Hide submenus by default */
-    position: relative; /* Make submenu position absolute */
+    display: block;
+    position: relative;
     width: fit-content;
 
     min-height: $mobileNavbarHeight;
@@ -150,8 +150,9 @@ nav.responsive{
   }
 
   .dropdown {
+    display: flex;
+    width: inherit;
     .submenu {
-      display: flex;
       width: inherit;
       a {
         font-size:medium;
