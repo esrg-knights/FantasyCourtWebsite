@@ -15,11 +15,13 @@
         <a href="{{ .URL | relLangURL }}"
         class='{{ if (eq $currentPage.RelPermalink (.URL | relLangURL)) }}is-active{{end}}'>{{.Title}}</a>
         {{ with .Children }}
+                <div class="dropdown">
                 <div class="submenu">
                     {{ range . }}
                     <a href="{{ .URL | relLangURL }}"
                     class='{{ if (eq $currentPage.RelPermalink (.URL | relLangURL)) }}is-active{{end}}'>{{ .Title }}</a>
                     {{ end }}
+                </div>
                 </div>
             {{ end }}
         </div>

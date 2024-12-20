@@ -72,7 +72,7 @@ nav {
     text-decoration: none;
 
     @media screen and (min-width: $containerWidth) {
-      align-items: center;
+      align-items: left;
     }
   }
 
@@ -87,30 +87,41 @@ nav {
   }
 }
 
-.nav-item:hover .submenu{
-  display: flex;
+.nav-item:hover .dropdown{
+  display: block;
 }
 
-/* Style for submenu */
-.submenu {
-  display: none; /* Hide submenus by default */
-  position: relative; /* Make submenu position absolute */
+.dropdown {
+  display: none;
+  overflow-x: visible;
+  width: 1px;
+  
+  /* Style for submenu */
+  .submenu {
+    display: block; /* Hide submenus by default */
+    position: relative; /* Make submenu position absolute */
+    width: fit-content;
 
-  min-height: $mobileNavbarHeight;
-  @media screen and (min-width: $containerWidth) {
-    // Non-mobile display
-    min-height: $navbarHeight;
-  }
+    min-height: $mobileNavbarHeight;
+    @media screen and (min-width: $containerWidth) {
+      // Non-mobile display
+      min-height: $navbarHeight;
+    }
 
-  .is-active {
-    background-color: lighten($backgroundColourInverted, 10);
-    border-bottom: 3px solid $borderColour;
-  }
+    a {
+      color: $textColorInverted;
+      background-color: $backgroundColourInverted;
+      font-size: large;
+      white-space: nowrap;
+      &:hover {
+        background-color: lighten($backgroundColourInverted, 5);
+      }
+    }
 
-  a {
-    width: 100%;
-    color: $textColorInverted;
-    background-color: $backgroundColourInverted;
+    .is-active {
+      background-color: lighten($backgroundColourInverted, 10);
+      border-bottom: 3px solid $borderColour;
+    }
   }
 }
 
@@ -130,15 +141,22 @@ nav {
   This class makes the navigation visible on mobile devices (where it would otherwise be hidden)
 */
 nav.responsive{
+
+  overflow-y: scroll;
+  height: 100%;
+
   a {
     display: flex;
   }
 
-  .submenu {
-    display: flex;
-    a {
-      font-size:medium;
-      padding-left: 5%;
+  .dropdown {
+    .submenu {
+      display: flex;
+      width: inherit;
+      a {
+        font-size:medium;
+        padding-left: 5%;
+      }
     }
   }
 }
