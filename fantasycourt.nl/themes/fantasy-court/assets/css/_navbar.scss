@@ -143,7 +143,7 @@ nav {
 nav.responsive{
 
   overflow-y: scroll;
-  height: 100%;
+  height: fit-content;
 
   a {
     display: flex;
