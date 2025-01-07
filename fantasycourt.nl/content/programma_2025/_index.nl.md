@@ -43,7 +43,7 @@ Vanaf februari kunnen wij de aanwezige eet- en drinkkramen aankondigen. Als u et
 
 
 ## Winkels en kunstenaars
-Vanaf februari kunnen wij de aanwezige verkopers aankondigen. Als u een ge?nteresseerde verkoper bent kan u meer informatie vinden op onze [standhouderpagina]({{< ref "/standhouders" >}}).
+Vanaf februari kunnen wij de aanwezige verkopers aankondigen. Als u een geïnteresseerde verkoper bent kan u meer informatie vinden op onze [standhouderpagina]({{< ref "/standhouders" >}}).
 
 
 {{< message margin-top="80px" margin-bottom="100px">}}
