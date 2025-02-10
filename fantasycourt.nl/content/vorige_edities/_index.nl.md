@@ -35,6 +35,8 @@ resources:
   - src: "**"
     name: "image-:counter"
     title: "Fantasy Court Image :counter"
+og:
+  description: "Bekijk het laatste (of oudste) nieuws omtrent Fantasy Court!"
 ---
 
 {{< message >}}
@@ -47,12 +49,17 @@ resources:
 
 ## Editie 2024
 
-Editie 2024 heeft plaatsgevonden op 9 juni. Het festival was weer een klein beetje gegroeid en weer een klein beetje gezelliger. 
+Editie 2024 heeft plaatsgevonden op 9 juni. Het festival was weer een klein beetje gegroeid en weer een klein beetje gezelliger. Door te beginnen met investeren in audio-apparatuur waren we minder afhankelijk van het moeten lenen van alle techniek. Ook hebben we een stuk gras naast het veld bij het festival kunnen trekken waardoor we meer ruimte hebben voor uitbreiding.
 
 
 ## Editie 2023
 
 Op **Zondag 11 Juni** was het weer zover, Fantasy Court 2023 was van **11.00-18.00u** terug. Ook deze editie verkopen kooplieden hun waar op de markt, strijden ervaren en amateurs tijdens het LARP-zwaardvechttoernooi, wordt er prachtige muziek gemaakt door artiesten, en is er de mogelijkheid om knuffels te winnen bij het boogschieten! Het was mooi om de groei te zien. Sterker nog, er was zoveel groei dat we ruimtegebrek kregen.
+
+
+
+Fantasy Court 2023 vindt plaats op de campus van de Technische Universiteit Eindhoven op *het Koevveld*.
+{{< renderImageResource id="fc-2023-map" path="fc-koeveld-campus-map.png" class="centeredimg" style="width: 400px;" >}}
 
 ## Editie 2022 - Open the Gates!
 De 2022-editie van Fantasy Court was weer een groots succes, en een verademing na de lockdowns. De sfeer zat er ook deze editie weer goed in, met marktkramen, een LARP-zwaardvechttoernooi, en boogschieten, net als vanouds! Om deze reden had het festival dat jaar ook het thema: *Open the Gates!*.
