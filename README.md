@@ -18,3 +18,6 @@ To build:
 - `hugo`
 
 In Windows, the relevant Execution Policy needs to be set to be able to run Hugo. In Powershell, this can be done using `Set-ExecutionPolicy RemoteSigned -scope Process`. The former Execution Policy is restored once this Powershell instance is closed.
+
+
+This is a test sentency by Joost
