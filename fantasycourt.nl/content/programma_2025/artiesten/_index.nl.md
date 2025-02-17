@@ -2,7 +2,7 @@
 title: Programma
 og:
   description: "Fantasy Court - Bevestigde artiesten"
-—
+---
 # Artiesten
 Wij zijn op het moment nog bezig met het regelen van artiesten. Zodra dit gedaan is kunt u ze hier vinden.
 
