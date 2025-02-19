@@ -46,7 +46,7 @@ weight = 3
 identifier = "general"
 parent = "practical"
 title = "Bezoekersinformatie"
-url = "/praktische_info/algemeen/"
+url = "/praktische_info/"
 weight = 1
 
 [[languages.nl.menu.main]]
