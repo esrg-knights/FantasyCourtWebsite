@@ -51,6 +51,8 @@ og:
 
 Editie 2024 heeft plaatsgevonden op 9 juni. Het festival was weer een klein beetje gegroeid en weer een klein beetje gezelliger. Door te beginnen met investeren in audio-apparatuur waren we minder afhankelijk van het moeten lenen van alle techniek. Ook hebben we een stuk gras naast het veld bij het festival kunnen trekken waardoor we meer ruimte hebben voor uitbreiding.
 
+Dankzij een sponsorbijdrage van StEHven waren we in staat om meer in de facciliteiten te investeren.
+
 
 ## Editie 2023
 

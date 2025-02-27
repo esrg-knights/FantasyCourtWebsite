@@ -11,15 +11,12 @@ og:
 {{< /message >}}
 # Bezoekersinformatie
 
-
-
 ## Datum 2025
-Fantasy court 2025 vindt plaats op 8 juni te Eindhoven op de(TU/e campus) van 11.00u tot 18.00u. 
+Fantasy court 2025 vindt plaats op 8 juni te Eindhoven op de TU/e campus van 11.00u tot 18.00u. 
 
-Op Fantasy Court kun je veel kramen vinden, met de leukste ttrpg-benodigheden, larp accessoires, boeken en fantasie gerelateerde snuisterijen. Naast ons aanbod aan kramen, kun je ook een aantal leuke workshops en activiteiten bijwonen. Ieder jaar hebben wij weer onze kostuumwedstrijd en ons zwaardvechttoernooi. Ook kun je dappere Robin Hoods met pijl en boog knuffeldieren schieten. 
+Op Fantasy Court kun je veel kramen vinden, met de leukste ttrpg-benodigheden, larp accessoires, boeken en fantasie gerelateerde snuisterijen. Naast ons aanbod aan kramen, kun je ook een aantal leuke workshops en activiteiten bijwonen. Ieder jaar hebben wij weer onze kostuumwedstrijd en ons zwaardvechttoernooi. Ook kunnen dappere Robin Hoods met pijl en boog knuffeldieren schieten. 
 
-Wil je meer weten? Kijk dan op de  [programma-pagina]({{< ref "/programma_2025" >}}). Om je weg naar ons te vinden, hebben we hier nog wat praktische informatie:
-
+Wil je meer weten? Kijk dan op de [programma-pagina]({{< ref "/programma_2025" >}}). Om je weg naar ons te vinden, hebben we hier nog wat praktische informatie:
 
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
@@ -31,7 +28,7 @@ Vanaf trein en busstation **Eindhoven Centraal** is het enkele minuten lopen naa
 **Parkeren op de TU/e campus** is de eerste 30 minuten gratis, daarna is er betaald parkeren voor €0.50 per kwartier, tot een maximum van €7.50 voor de hele dag. **Parkeren buiten de campus** is gratis aan de _Rachelsmolen_ of op de parallelweg langs de _Onze Lieve Vrouwestraat_.
 
 ## Faciliteiten
-Er is op de markt een eetkraam, een snackkraam en meerdere kramen met drinken, daarnaast is er gratis kraanwater (aftappunt, neem je eigen mok/beker/flesje mee) Er is toiletvoorziening op locatie in de vorm van chemische toiletten inclusief een invaliedentoilet.
+er zijn meerdere etenskramen op de markt, daarnaast is er gratis kraanwater (aftappunt, neem je eigen mok/beker/flesje mee) Er is toiletvoorziening op locatie in de vorm van chemische toiletten inclusief een invaliedentoilet.
 
 ## Larp zwaarden en andere rekwisieten.
 Het dragen van foam larp zwaarden is toegestaan. Er mag met foam rekwisieten gevochten worden op de _daarvoor aangewezen plekken_. Men is zelf verantwoordelijk voor de veiligheid van de larpwapens. De organisatie mag ten alle tijden rekwisieten controleren en vragen om onveilige objecten van het terrein te verwijderen. Houd bij het vechten ook rekening met de *veilig vechten regels*. 
@@ -55,9 +52,9 @@ Geslachtsdelen.
 De organisatie behoudt het recht om ten alle tijden mensen het recht tot participatie op het vechtveld te ontzeggen, alsmede de toegang tot het festival in reactie tot onveilig of uitlokkend gedrag.
 
 # Sponsoren
-Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) die ons faciliteren met een veld voor het festival en het leveren van vrijwilligers. 
+Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) die ons facilitet met een veld voor het festival de vrijwilligers leveren. Verder ontvangen wij een financiële bijdrage vanuit StEHven die ons helpt om de faciliteiten op het veld te betalen. Ten slotte ontvangen we geld vanuit de Rabo Clubsupport.  
 
-{{< figure src="/images/Knights_logo.png" alt="ESRG Knights of the Kitchen Table Logo" width="20%" >}}
+{{<figure src="/images/Knights_logo.png" alt="ESRG Knights of the Kitchen Table Logo" height="180" >}} {{<figure src="/images/Sponsor_Rabobank.png" alt="Rabobank" height="180" >}}{{<figure src="/images/logo stehven.png" alt="StEHven" height="180" >}} 
 
 Bent u zelf geïnteresseerd in een deel van dit festival sponsoren? Mail naar info@fantasycourt.nl om de mogelijkheden te bespreken.
 

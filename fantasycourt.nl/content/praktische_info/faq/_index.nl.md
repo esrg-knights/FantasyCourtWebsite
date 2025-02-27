@@ -1,11 +1,9 @@
 ---
 title: Vragen en Antwoorden
 og:
-  description: "Fantasy Court - Een gratis fantasy festival in Eindhoven"
+    description: "Fantasy Court - Een gratis fantasy festival in Eindhoven"
 
 ---
-
-
 
 {{< message >}}
 _Hier is een antwoord voor vele vragen_
@@ -16,23 +14,30 @@ _Dezen kunnen uw bezoek behagen_
 Dit zijn veel gestelde vragen en de antwoorden daarop. Heb je een vraag die hier niet tussen staan? Voel je vrij om [een mail](mailto:organisatie@fantasycourt.nl?subject=Vraag)  te sturen. 
 
 ## Algemeen
-### Kan ik geld bijpinnen op Fantasy Court?
+### Wat is Fantasy Court?
+Fantasy Court is een fantasyfestival met een grote verscheidenheid aan kraampjes, activiteiten en verenigingen die onder de noemer van fantasy vallen. Dit zijn onder andere Larp verenigingen, thematische bordspellen, exotisch eten, een Larp-zwaardvechttoernooi, Larp-boogschietenen een grote variatie aan marktkraampjes.
+
+\### Kan ik geld bijpinnen op Fantasy Court?
 Fantasy court heeft geen geldopnamepunt op locatie. Veel verkopers accepteren zowel contant als pinbetalingen. Maar sommigen kunnen enkel één van beiden accepteren. Zorg alstublieft dat je hierop voorbereid bent. Het dichtstbijzijnde pinautomaat is in de kruisstraat op ruwweg een kilometer lopen. 
 
-## Wat voor soort kramen zullen er zijn?
-We hebben een grote verscheidenheid aan standhouders. Je kan een lijst vinden op de [programmapagina]({{< ref "/programma_2024" >}}) zodra ze bevestigd zijn.
+###Hoe houden we Fantasy Court gratis voor bezoekers?
+We hebben een groep loyale vrijwilligers vanuit het Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table wiens bloed, zweet en tranen Fantasy Court mogelijk maken. Ook hebben we in 2025 en 2025 een financiële bijdrage gekregen vanuit StEHven waardoor we de faciliteiten kunnen betalen. 
 
+Sinds vorig jaar kunnen onze bezoekers ons ook helpen door op het festival merch te kopen.
+
+## Wat voor soort kramen zullen er zijn?
+We hebben een grote verscheidenheid aan standhouders. Zo zijn er onder andere mensen die zelf fantasy-kleding maken. Spellenverkopers en kunstenaars. Je kan ze allemaal vinden op de [lijst van kramen]({{< ref "/programma_2025/kramen/" >}}).
 
 ## Muziek
 ### Hebben jullie muziek?
-Fantasy court heeft live muziek. Je kan zien wie er spelen op de [programmapagina]({{< ref "/programma_2024" >}}) .
+Fantasy court heeft live muziek. Zodra we de artiesten geboekt hebben kan je ze vinden op de [Lijst van artiesten]({{< ref "/programma_2025/artiesten/" >}}) .
 
 ### Kan ik op Fantasy Court Optreden?
 Stuur ons vooral [een mailtje](mailto:fc@kotkt.nl) om dit te bespreken.
 
 ## Voedsel, Drinken en Faciliteiten
 ### Is er eten en drinken beschikbaar?
-Er is op de markt een eetkraam, een snackkraam en meerdere kramen met drinken, daarnaast is er gratis kraanwater aftappunt, neem hiervoor wel je eigen beker mee.
+Eten, drinken en snacks kunnen bij verschillende kramen op de markt gekocht worden. Gratis kraanwater is aanwezig (je moet je eigen beker of fles meenemen)
 
 ### Mag ik mijn eigen eten en drinken meenemen?
 Het is toegestaan om zelf eten en drinken mee te nemen voor eigen consumptie.
@@ -41,15 +46,15 @@ Het is toegestaan om zelf eten en drinken mee te nemen voor eigen consumptie.
 Fantasy Court vindt plaats op een grasveld, zolang dit geen probleem is is alles toegankelijk voor rolstoelgebruikers. Er zal een (chemisch) invalidentoilet zijn.
 
 ### Waar is de EHBO-doos?
-De Ehbo-doos staat bij de Fantasy Court stand. Hier zullen ten alle tijden vrijwilligers zijn om te helpen. Verder lopen er ook bhv'ers op het veld.
+De EHBO-doos staat bij de Fantasy Court stand. Hier zullen ten alle tijden vrijwilligers zijn om te helpen. Verder lopen er ook BHV'ers op het veld.
 
 
-## Kostuumwedsstrijd en Zwaardvechttoernooi
+## Kostuumwedsstrijd en zwaardvechttoernooi
 ### Hoe kan ik deelnemen aan het larp-zwaardvechttoernooi?
 Afgelopen jaar kon men zich ter plekke inschrijven bij de Fantasy Court stand. Er is maar een beperkt aantal plaatsen, wie eerst komt, wie eerst maalt.
 
 ### Wat zijn de regels van het larp-zwaardvechttoernooi?
-De exacte regels van het toernooi kunnen {hier} gevonden worden. Het toernooi bestaat uit een afvalcompetitie van duels met een tijdslimiet van twee minuten.
+De exacte regels van het toernooi kunnen op locatie gevonden worden. Het toernooi bestaat uit een afvalcompetitie van duels met een tijdslimiet van twee minuten.
 
 ### Hoe kan ik deelnemen aan de kostuumwedstrijd?
 Vanwege de grote interesse afgelopen jaar, moeten deelnemers zich van tevoren inschrijven. De details volgen nog.
@@ -71,6 +76,8 @@ We bieden vanuit de organisatie geen kleedhokjes op het terrein aan.
 ### Ik ben iets kwijt. Waar kan ik het vinden?
 Gevonden voorwerpen worden verzameld bij de Fantasy Court stand.
 
+## Mag ik een huisdier meenemen naar Fantasy Court?
+Het meenemen van huisdieren op het campusterrein is toegestaan mits deze aangelijnd zijn. Ruim alsjeblieft de poep van je huisdier op. Als het huisdier verstoring veroorzaakt kan de organisatie gedwongen zijn om je te vragen het festival te verlaten.
 
 ### Mag ik verkleed naar Fantasy Court komen?
 Iedereen is welkom en aangemoedigd om in kostuum, cosplay of historische kleding naar Fantasy Court te gaan. Zorg wel dat je kostuum acceptabel is om in een openbare ruimte te dragen. Voorkom vooral dat je de reden bent dat wij deze regel aan moeten scherpen.
@@ -80,7 +87,7 @@ Je bent vrij om te dragen wat je wilt. Dit kan een kostuum of cosplay zijn of ge
 
 ### Mag ik een (larp)-zwaard meenemen naar Fantasy Court?
 Mag ik een larp-zwaard meenemen naar fantasy court?
-Het dragen van foam larp zwaarden is toegestaan. Er mag met foam wapens gevochten worden op de *daarvoor aangewezen plekken*. Men is zelf verantwoordelijk voor de veiligheid van de larpwapens. De organisatie mag ten alle tijden wapens controleren en vragen om onveilige wapens van het terrein te verwijderen. Houd bij het vechten ook rekening met de veilig vechten regels.
+Het dragen van foam larp zwaarden is toegestaan. Er mag met foam rekwisieten gevochten worden op de *daarvoor aangewezen plekken*. Men is zelf verantwoordelijk voor de veiligheid van de larp-rekwisieten. De organisatie mag ten alle tijden rekwisieten controleren en vragen om onveilige rekwisieten van het terrein te verwijderen. Houd bij het vechten ook rekening met de veilig vechten regels.
 
 Het dragen  van en vechten met harde houten, metalen of plastic wapens is niet toegestaan. Alsmede het dragen van “echt lijkende” larpwapens. Fantasy court vindt plaats op openbaar terrein dus wij moeten ons aan de wapenwet houden. Ook ter plekke gekochte messen of andere wapens dienen verpakt te blijven.
 
@@ -97,8 +104,6 @@ De gouden regel is ”doe niks wat ons dwingt om ons wapenbeleid aan te scherpen
 7. Alhoewel het een geldige hitlocatie is verzoeken wij de deelnemers voorzichtig te zijn met het raken van geslachtsdelen, borsten en polsen.
 8. Het is toegestaan om onder- en bovenhands te slaan. Kijk hierbij wel uit voor hoofd en geslachtsdelen.
 
-## Mag ik een huisdier meenemen naar Fantasy Court?
-Het meenemen van huisdieren op het campusterrein is toegestaan mits deze aangelijnd zijn. Ruim alsjeblieft de poep van je huisdier op. Als het huisdier verstoring veroorzaakt kan de organisatie gedwongen zijn om je te vragen het festival te verlaten.
 
 
 

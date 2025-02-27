@@ -10,7 +10,7 @@ og:
 
 Een 1-op-1 opwindend LARP-zwaardvechttoernooi voor alle niveaus, Lukt het jou om te winnen? Toegang is vrij voor alle deelnemers. Vanwege de grote interesse moet er van tevoren worden ingeschreven. Dit kan op de dag zelf bij de FC-stand. Ook dit jaar is er weer weer een mooie prijs voor de winnaars.
 
-### toernooiregels in het kort
+### Toernooiregels in het kort
  * Het toernooi bestaat uit een afvalcompetitie met één tegen één duels 
  * het toernooi wordt gespeeld met larp zwaarden die beschikbaar worden gemaakt door ESRG Knights of the Kitchen Table zodat iedereen met hetzelfde type zwaard vecht
  * Het doel is om de tegenstander te raken zonder zelf geraakt te worden. 
@@ -18,13 +18,13 @@ Een 1-op-1 opwindend LARP-zwaardvechttoernooi voor alle niveaus, Lukt het jou om
  * Als er binnen twee minuten geen winnaar is, wint de persoon met de meeste treffers.
  * Er zijn geen regels voor pantser
  * Valsspelen is niet toegestaan
- *  Een volledige regeluitleg kan op locatie gevonden worden.
+ * Een volledige regeluitleg kan op locatie gevonden worden.
 
 
 [insert foto]
 
 ## Kostuumwedstrijd
- Kom in je mooiste tuniek, jurk of andere creatie naar de kostuumwedstrijd, en wie weet staan juryleden versteld en ga jij met een van de prijzen naar huis. Belangrijk om te weten, de kostuumwedstrijd draait wel om eigen gemaakte creaties, en niet wie het mooiste kostuum heeft besteld. Belangrijk om op te merken is dat dit geen cosplaycompetitie is, alhoewel cosplays niet uitgesloten zijn voor deelname.
+Kom in je mooiste tuniek, jurk of andere creatie naar de kostuumwedstrijd en wie weet staan juryleden versteld en ga jij met een van de prijzen naar huis. Belangrijk om te weten, de kostuumwedstrijd draait wel om eigen gemaakte creaties, en niet wie het mooiste kostuum heeft besteld. Belangrijk om op te merken is dat dit geen cosplaycompetitie is, alhoewel cosplays niet uitgesloten zijn voor deelname.
 
 [insert foto]
 
