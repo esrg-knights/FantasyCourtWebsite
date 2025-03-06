@@ -40,7 +40,7 @@ In the world of fantasy there is not just a lot to see. Thee ae also many activi
 
 - **NERF Shooting Range:** A brand-new game created by Fantasy Court volunteers. Compete with your friends in this game of NERF dart shooting which tests your accuracy and speed. Can you pass them through the gates before they close?
 - **LARP Pluchie Archery:** Our classic 'stuffed animal archery' game previously seen at Koningsdag. Shoot soft foam arrows at cuddly toys and keep whichever you manage to hit!
-- **Various Outdoor Games:** We'll have plenty of simple field games open all day, such as kubb.
+- **Various Outdoor Games:** We'll have plenty of simple field games open all day, such as cube.
 - **Larps** Our lovely LARPS 'Toys in the Attic' and Ravenskeep have returned and will be hosting some fun activities for you! Toys in the Attic will hand out quests for you to complete and ravenskeep will play a sport from their larp. 
 
 ### At the vendors
