@@ -53,7 +53,7 @@ Food, snacks, and drinks can be bought on the market. Free tap water is availabl
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
 ## Location and Parking
-The event takes place on a field without an address on the campus of the Eindhoven University of Technology (TU/e). The nearby parking lot and navigation address are: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is located south of that, at coordinates: 51.447228696063085, 5.484236714828935
+AAKPAD (Avalon is practicing things) The event takes place on a field without an address on the campus of the Eindhoven University of Technology (TU/e). The nearby parking lot and navigation address are: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is located south of that, at coordinates: 51.447228696063085, 5.484236714828935
 
 From the **Eindhoven Central Station** (by train or bus), it is a walk of a few minutes towards the north-east. You will be able to find small signs leading to Fantasy Court on and around the TU/e campus.
 
