@@ -18,7 +18,8 @@ Een 1-op-1 opwindend LARP-zwaardvechttoernooi voor alle niveaus, Lukt het jou om
  * Als er binnen twee minuten geen winnaar is, wint de persoon met de meeste treffers.
  * Er zijn geen regels voor pantser
  * Valsspelen is niet toegestaan
- * Een volledige regeluitleg kan op locatie gevonden worden.
+
+Een volledige regeluitleg kan [hier]({{< ref "/programma_2025/activiteiten/toernooiregels" >}}) en op locatie gevonden worden.
 
 
 [insert foto]
