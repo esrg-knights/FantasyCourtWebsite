@@ -1,8 +1,10 @@
 footer {
-  width: 100%;
   background-repeat: repeat-x;
   overflow: hidden;
   background-size: contain;
+  @media screen and (max-width: $mobileWidth) {
+    background-size: cover;
+  }
   color: $textColorInverted;
   padding: 40px;
 
