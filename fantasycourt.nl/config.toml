@@ -14,6 +14,9 @@ alt = "Fantasy Court Swordfighting Tournament"
 position-x = "50%"
 position-y = "45%"
 
+[params.footer-image]
+url = "/images/FC-Footer.png" 
+
 # Open Graph
 [params.og]
 locale = 'nl_NL' # Hugo's languageCode is in a different format and is not supported by OG

@@ -1,6 +1,8 @@
 footer {
   width: 100%;
-  background-color: $backgroundColourInverted;
+  background-repeat: repeat-x;
+  overflow: hidden;
+  background-size: contain;
   color: $textColorInverted;
   padding: 40px;
 
