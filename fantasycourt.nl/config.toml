@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "term"]
 url = "/images/FC_tournament.jpg"
 logo = "/images/icons/Fantasy Court - Logo.png"
 alt = "Fantasy Court Swordfighting Tournament"
-position-x = "50%"
+position-x = "50%" 
 position-y = "45%"
 
 # Open Graph
