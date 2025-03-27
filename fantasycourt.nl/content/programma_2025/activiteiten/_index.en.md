@@ -14,7 +14,7 @@ An exciting 1-on-1  LARP-swordfighting tournament for all experience levels! Wil
  * The tournament is based on 1-v-1 duels within an elimination bracket structure.
  * The tournament will use LARP swords provided by the student association ESRG Knights of the Kitchen Table so that everyone fights using the same type of sword.
  * The goal is to score strikes on your opponent without being struck yourself.
- * Each duel is won by the first person to score more than 5 points from strikes while in the lead by 2 points or more.
+ * Each duel is won by the first person to score 5 points or more from strikes while in the lead by 2 points or more.
  * If no one has won a duel in the first two minutes, the person with the most points wins the duel.
  * There are no rules related to armor.
  * Cheating is not permitted.

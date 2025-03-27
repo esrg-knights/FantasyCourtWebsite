@@ -50,7 +50,7 @@ Alhoewel de organisatie voorzichtig te werk gaat is deelname op eigen risico.
 &nbsp;
 * Als de scheidsrechters een overtreding zien, leggen ze het spel stil.
 * Bij de eerste overtreding krijgt de tegenstander van de persoon die de overtreding begaat een punt.
-* Bij de tweede overtreding verliest de overtreder automatisch. Als dit de tweede keer is dat een deelnemer op deze manier verliest, is de tegenstander gediskwalificeerd.
+* Bij de tweede overtreding verliest de overtreder automatisch. Als dit de tweede keer is dat een deelnemer op deze manier verliest, is de overtreder gediskwalificeerd.
 * Als de overtreding tot een blessure lijd wint de tegenstander van de overtreder automatisch. Als deze persoon niet in staat is om door te gaan met het toernooi wordt de overtreder gediskwalificeerd.
 * Als beide spelers tegelijkertijd een overtreding begaan krijgen geen van beide spelers een punt. De andere regels betreffende overtredingen gelden wel.
 ## 6. Scheidsrechters
