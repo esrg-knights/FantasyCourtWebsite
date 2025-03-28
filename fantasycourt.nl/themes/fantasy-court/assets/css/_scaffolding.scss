@@ -14,15 +14,14 @@
     background-size: cover;
     background-origin: content-box;
     background-repeat: no-repeat;
-    filter: brightness(70%);
 
     height: 50vh;
     width: 100vw;
-    position: fixed;
+    position: relative;
   }
   
   .logo {
-    position: relative;
+    position: absolute;
     display: block;
     padding-top: 1%;
     text-align: center;
