@@ -44,9 +44,19 @@ resources:
 # Betreed het hof
 Welkom op Fantasy Court, een gratis festival dat zich richt op de unieke cultuur rondom Fantasy, met een focus op Larp (Live Action Role Playing). Het festival vindt jaarlijks plaats op de campus van de Technische Universiteit Eindhoven. Op de dag zelf zijn er veel kraampjes, verenigingen, workshops en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan Larp-verenigingen, verrassende bordspellen, bijzonder eten, een Larp-zwaardvechttoernooi, larp-boogschieten en verschillende kraampjes die fantasy-waren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
 
-Fantasy Court is gratis te bezoeken. Het terrein is open en er is geen toegangsbewijs of reservering nodig. Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Wil je meer weten over onze activiteiten? Kijk dan op de [programma-pagina]({{< ref "/programma_2025" >}}).
+# Datum en Locatie
+
+Fantasy court vind plaats op 8 juni op het Koe-cald op de Campus van de Technische Universiteit Eindhoven. Het Festival is gratis te bezoeken. Het terrein is open en er is geen toegangsbewijs of reservering nodig. Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Wil je meer weten over onze activiteiten? Kijk dan op de [programma-pagina]({{< ref "/programma_2025" >}}).
 
 {{< carousel "carousel/**" >}}
+
+
+# Laatste Nieuws!
+
+{{< latestNews >}}
+
+Bekijk al het nieuws in het [nieuwsarchief]({{< ref "/news" >}} "naar de archieven!").
+ 
 
 # Sponsoren
 
@@ -56,12 +66,6 @@ Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel G
 
 Bent u zelf geïnteresseerd in een deel van dit festival sponsoren? Mail naar info@fantasycourt.nl om de mogelijkheden te bespreken.
 
-# Laatste Nieuws!
-
-{{< latestNews >}}
-
-Bekijk al het nieuws in het [nieuwsarchief]({{< ref "/news" >}} "naar de archieven!").
- 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
 {{< /message >}}

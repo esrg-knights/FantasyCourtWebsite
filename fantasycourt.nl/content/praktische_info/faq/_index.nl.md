@@ -13,11 +13,12 @@ _Dezen kunnen uw bezoek behagen_
 #  Vragen en Antwoorden
 Dit zijn veel gestelde vragen en de antwoorden daarop. Heb je een vraag die hier niet tussen staan? Voel je vrij om [een mail](mailto:organisatie@fantasycourt.nl?subject=Vraag)  te sturen. 
 
-## Algemeen
+---
+## **Algemeen**
 ### Wat is Fantasy Court?
 Fantasy Court is een fantasyfestival met een grote verscheidenheid aan kraampjes, activiteiten en verenigingen die onder de noemer van fantasy vallen. Dit zijn onder andere Larp verenigingen, thematische bordspellen, exotisch eten, een Larp-zwaardvechttoernooi, Larp-boogschietenen een grote variatie aan marktkraampjes.
 
-\### Kan ik geld bijpinnen op Fantasy Court?
+### Kan ik geld bijpinnen op Fantasy Court?
 Fantasy court heeft geen geldopnamepunt op locatie. Veel verkopers accepteren zowel contant als pinbetalingen. Maar sommigen kunnen enkel één van beiden accepteren. Zorg alstublieft dat je hierop voorbereid bent. Het dichtstbijzijnde pinautomaat is in de kruisstraat op ruwweg een kilometer lopen. 
 
 ###Hoe houden we Fantasy Court gratis voor bezoekers?
@@ -25,17 +26,19 @@ We hebben een groep loyale vrijwilligers vanuit het Eindhovense Studenten Rollen
 
 Sinds vorig jaar kunnen onze bezoekers ons ook helpen door op het festival merch te kopen.
 
-## Wat voor soort kramen zullen er zijn?
+### Wat voor soort kramen zullen er zijn?
 We hebben een grote verscheidenheid aan standhouders. Zo zijn er onder andere mensen die zelf fantasy-kleding maken. Spellenverkopers en kunstenaars. Je kan ze allemaal vinden op de [lijst van kramen]({{< ref "/programma_2025/kramen/" >}}).
 
-## Muziek
+---
+## **Muziek**
 ### Hebben jullie muziek?
 Fantasy court heeft live muziek. Zodra we de artiesten geboekt hebben kan je ze vinden op de [Lijst van artiesten]({{< ref "/programma_2025/artiesten/" >}}) .
 
 ### Kan ik op Fantasy Court Optreden?
 Stuur ons vooral [een mailtje](mailto:fc@kotkt.nl) om dit te bespreken.
 
-## Voedsel, Drinken en Faciliteiten
+---
+## **Voedsel, Drinken en Faciliteiten**
 ### Is er eten en drinken beschikbaar?
 Eten, drinken en snacks kunnen bij verschillende kramen op de markt gekocht worden. Gratis kraanwater is aanwezig (je moet je eigen beker of fles meenemen)
 
@@ -48,8 +51,8 @@ Fantasy Court vindt plaats op een grasveld, zolang dit geen probleem is is alles
 ### Waar is de EHBO-doos?
 De EHBO-doos staat bij de Fantasy Court stand. Hier zullen ten alle tijden vrijwilligers zijn om te helpen. Verder lopen er ook BHV'ers op het veld.
 
-
-## Kostuumwedsstrijd en zwaardvechttoernooi
+---
+## **Kostuumwedsstrijd en zwaardvechttoernooi**
 ### Hoe kan ik deelnemen aan het larp-zwaardvechttoernooi?
 Afgelopen jaar kon men zich ter plekke inschrijven bij de Fantasy Court stand. Er is maar een beperkt aantal plaatsen, wie eerst komt, wie eerst maalt.
 
@@ -63,7 +66,9 @@ Vanwege de grote interesse afgelopen jaar, moeten deelnemers zich van tevoren in
 De kostuumwestrijd is open voor alle leeftijden. Je kan deelnemen in een zelfbedachte outfit of een cosplay. Onze zeer gewaardeerde jury zal de kostuums beoordelen. Hierin zullen ze een hoger oordeel geven aan zelfgemaakte creaties en gezamenlijk een winnaar selecteren.
 We verwachten van deelnemers dat de kostuums acceptabel zijn om in het openbaar te dragen.  Voorkom vooral dat je de reden bent dat wij deze regel aan moeten scherpen.
 
-## Overig
+---
+## **Overig**
+
 ### Mag ik foto's maken op Fantasy Court?
 Zeker, we vinden het heel leuk als mensen foto's maken. We vinden het nog leuker als je deze naar ons toe stuurt op [pictures@fantasycourt.nl](mailto:pictures@fantasycourt.nl). Misschien kunnen we die zelfs delen op onze eigen socials. Fantasy court vindt plaats op openbaar terrein dus houd er rekening mee dat je gefotografeerd kan worden.
 
@@ -76,7 +81,7 @@ We bieden vanuit de organisatie geen kleedhokjes op het terrein aan.
 ### Ik ben iets kwijt. Waar kan ik het vinden?
 Gevonden voorwerpen worden verzameld bij de Fantasy Court stand.
 
-## Mag ik een huisdier meenemen naar Fantasy Court?
+### Mag ik een huisdier meenemen naar Fantasy Court?
 Het meenemen van huisdieren op het campusterrein is toegestaan mits deze aangelijnd zijn. Ruim alsjeblieft de poep van je huisdier op. Als het huisdier verstoring veroorzaakt kan de organisatie gedwongen zijn om je te vragen het festival te verlaten.
 
 ### Mag ik verkleed naar Fantasy Court komen?

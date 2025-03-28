@@ -14,6 +14,7 @@ og:
 {{< /message >}}
 
 # Standhouders Editie 2025
+
  Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken. Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en de gespecialiseerde zaken. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt? Als je onze visie deelt kan je je inschrijven op [het inschrijfformulier](https://docs.google.com/forms/d/e/1FAIpQLSdgNXPGttfaqPzkXfZpr1McJyhMBjCHTCpDKVrfEfgqgnLUFQ/viewform?usp=sf_link). Heb je vragen? Neem dan [contact](mailto:standhouders@fantasycourt.nl) met ons op. 
  
 Om vast te stellen wat we bieden en verwachten hebben we een inschrijfreglement opststeld. Dit kan je [hier vinden.](https://docs.google.com/document/d/1lWsQuVgl0SjMx5kb9iwUHwva5-iMHPq9/edit?usp=sharing&ouid=118033485815882455862&rtpof=true&sd=true)
@@ -32,14 +33,14 @@ Voor meer informatie kan je ons [Regelement inschrijven](https://docs.google.com
 # LARP-organisaties en goede doelen
 Net zoals afgelopen jaar zijn LARP-organisaties welkom om zich op Fantasy Court te presenteren. Hier bestaat de mogelijkheid om nieuwe personen bekend te maken met LARP en de gehele wereld daaromheen. Het is een mooie plek om je eigen organisatie te kunnen promoten en zo nieuwe spelers geïnteresseerd te krijgen. Verder zijn goede doelen en non-profits ook welkom om deel te nemen met het festival wanneer ze overlap hebben met het thema Fantasy. Neem vooral  [contact](mailto:standhouders@fantasycourt.nl) met ons op om de mogelijkheden te bespreken.
 
-Inschrijfkosten voor LARP-organisaties is €10,- mits er een (kleine) activiteit wordt georganiseerd door de vereniging. Dit kan een spelletje uit de LARP zijn, quests of bijvoorbeeld vertaalsleutels maken! Voor goede doelen betreffen er geen inschrijfkosten. Larps en goede doelen  kunnen zelf een tent meenemen of een kraam huren tegen de normale kosten. Alternatief kunnen wij per organisatie maximaal één tafel gratis regelen. Het is toegestaan, en wordt zelfs aangemoedigd, om dingen als props en decoratie mee te nemen om zo je eigen hoekje verder te kunnen personaliseren.
+<!--Inschrijfkosten voor LARP-organisaties is €10,- mits er een (kleine) activiteit wordt georganiseerd door de vereniging. Dit kan een spelletje uit de LARP zijn, quests of bijvoorbeeld vertaalsleutels maken! Voor goede doelen betreffen er geen inschrijfkosten. Larps en goede doelen  kunnen zelf een tent meenemen of een kraam huren tegen de normale kosten. Alternatief kunnen wij per organisatie maximaal één tafel gratis regelen. Het is toegestaan, en wordt zelfs aangemoedigd, om dingen als props en decoratie mee te nemen om zo je eigen hoekje verder te kunnen personaliseren.-->
 
 De inschrijvingen sluiten op zondag 14 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
 
 # Marktkramen
 Zoals gebruikelijk is er weer een markt! Denk hierbij aan kramen die dingen gerelateerd aan LARP, rollenspellen, of bordspellen verkopen, of iets gerelateerd aan het genre van Fantasy. Dit varieert van sieraden en kostuums tot boeken en dobbelstenen. Ook is er uiteraard plaats voor kramen die etenswaren of drinken verkopen.
 
-Inschrijfkosten voor marktkramen bedragen een deelnemersbijdrage van €20,-. In [overleg met de organisatie](mailto:organisatie@fantasycourt.nl?subject=Workshop%20Fantasy%20Court%202024) is het ook mogelijk om een workshop of demo te geven, waarbij inschrijfkosten in overleg verlaagd kunnen worden.
+<!-- Inschrijfkosten voor marktkramen bedragen een deelnemersbijdrage van €20,-. In [overleg met de organisatie](mailto:organisatie@fantasycourt.nl?subject=Workshop%20Fantasy%20Court%202024) is het ook mogelijk om een workshop of demo te geven, waarbij inschrijfkosten in overleg verlaagd kunnen worden.-->
 
 Het is ook mogelijk om via ons een marktkraam of tent te huren (afhankelijk van wensen en de beschikbaarheid). Deze worden direct gehuurd bij onze leverancier. Het is uiteraard ook toegestaan om zelf materialen als tenten, kramen, of bankjes mee te nemen, onder de voorwaarde dat dit vooraf bekend is bij de organisatie (i.v.m. de veldindeling). Dit is in het inschrijfformulier aan te geven.
 
