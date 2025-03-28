@@ -13,22 +13,34 @@ De volgende standhouders zullen op Fantasy court te vinden zijn:
 ### [Toys in the Attic](https://toysintheattic.nl/)
 Organiseert verschillende larps in dezelfde wereld. Van fantasy tot steampunk tot post-apocalyptisch. De larps hebben een sterke focus op drama en intrige waar spelers moeilijke keuzes kunnen maken en hun vrienden goed moeten kiezen.
 
+{{< figure src="/programma_2025/kramen/images/447744630_772929214823542_1872700178885417646_n - Toys in The Attic.jpg" alt="Toys in the attic" class="vendorpicture" width="60%" >}}
+
 ### [LARP-vereniging Ravenskeep Adventures](www.ravenskeep.nl)
+
+{{< figure src="/programma_2025/kramen/images/_Ravenskeep logo 2 - Ravenskeep Secretaris.png" alt="Toys in the attic" class="vendorpicture" width="40%" >}}
 
 ### [Books4Life Eindhoven](https://www.books4life-eindhoven.nl/)
 Books4Life is een liefdadigheids tweedehands boekenwinkel met een enorme fantasy en sci-fi collectie, en toegewijde vrijwilligers die je graag adviseren. Kom genieten van hun brede aanbod en verbluffend gunstige prijzen! De opbrengst van Books4Life gaat naar verschillende goede doelen, waaronder het Armoedefonds, Amnesty International en Oxfam Novib. Ook ondersteunt Books4Life lokale goede doelen zoals bijvoorbeeld Soep&Co, Caritas en Buurtgezinnen.
+
+{{< figure src="/programma_2025/kramen/images/IMG_20210713_141613 - Bestuur Books 4 Life Eindhoven.jpg" alt="Toys in the attic" class="vendorpicture" width="60%" >}}
 
 ## Eten en drinken
 
 ### [Kürtőskalács Nederland](schoorsteenbrood.nl)
 De Koekenbakkers van kürtőskalács Nederland komen voor jullie weer het heerlijke, ambachtelijke schoorsteenbrood bakken op Fantasy Court! Alles wordt vers bereid in de stand en het is ook nog eens leuk om te zien hoe het gemaakt wordt. Schoorsteenbrood eet je het liefste samen met je vrienden, want zo is de kürtőskalács traditioneel bedoeld om te delen. Je wikkelt gemakkelijk een stukje af, breek het en smullen maar! Er is keuze uit verschillende lekkere smaken.
 
+{{< figure src="/programma_2025/kramen/images/Basis stand 5x5 - Kurtoskalacs Benelux Nederland - Team Kurtos.jpeg" alt="Toys in the attic" class="vendorpicture" width="60%" >}}
+
 
 ### [iScoop Ice Cream](iscoop.nl)
 iScoop Ice Cream: Verkoelend, magisch en onweerstaanbaar. Mis het niet op Fantasy Court!
 
+{{< figure src="/programma_2025/kramen/images/DSC02309-1024x683 - Guus Janssen.webp" alt="Toys in the attic" class="vendorpicture" width="60%" >}}
+
 ### [La Salsa Latina](https://www.instagram.com/la_salsa_latina?utm_source=qr&igsh=YjVtb3Z3MWp0ZWV0)
 geniet van de traditionele arepas en empenadas, samen met overheerlijke salchipapas and quesadillas. Laat jezelf betoveren door het beste wat de latijnse keuken te bieden heeft.
+
+{{< figure src="/programma_2025/kramen/images/20241012_132019 - Karina Sanchez.jpg" alt="Toys in the attic" class="vendorpicture" width="60%" >}}
 
 
 ## Winkels en kunstenaars
@@ -36,8 +48,12 @@ geniet van de traditionele arepas en empenadas, samen met overheerlijke salchipa
 ### [Arctis ira](https://www.instagram.com/arctis_ira/)
 Artiest met een aanbod van verschillende stickers, prints, charms en andere leuke goodies.
 
+{{< figure src="/programma_2025/kramen/images/WhatsApp Image 2024-08-21 at 08.36.28 - Ann.jpeg" alt="Toys in the attic" class="vendorpicture" width="60%" >}}
+
 ### [EverAfterPrint](https://www.instagram.com/everafterprint/)
 EverAfterprint zijn een schrijver en illustrator die samen LGBTQ+ boeken creeČren en publiceren! Onze boeken variČren van fantasy tot paranormale romance. Alles heeft dus een vleugje magie! En als je nou zelf verhalen wil maken met je vrienden, dan hebben we ook queer TTRPG adventuren en een compendium vol met queer NPCs.
+
+{{< figure src="/programma_2025/kramen/images/P1015037- - Renée Zonneveld.JPG" alt="Toys in the attic" class="vendorpicture" width="60%" >}}
 
 ### [The Secret Moon Shop](https://linktr.ee/the_secret_moon_shop?utm_source=linktree_profile_share&ltsid=fb8c1639-c3ca-4b14-87df-c2012c499f4a)
 The Secret Moon Shop, handgemaakte potions en andere magische producten. Kom je de magie met ons delen?
