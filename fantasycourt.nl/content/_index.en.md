@@ -35,21 +35,21 @@ resources:
 ---
 
 {{< message >}}
-_Farmers, nobels, citizens and travelers of all sort_ \
+_Farmers, nobles, citizens and travelers of all sort..._ \
 _You are all formally invited to enter the Fantasy Court._
 {{< /message >}}
 
 
-# Wat is Fantasy Court?
-Fantasy Court is a fantasy festival that is focused on the unique and somewhat niche culture surrounding fantasy and LARP (Live Action Role Playing). This festival has a vast array of stalls, associations, and activities that all fall under the purview of the awesome world of fantasy. This would entail LARP associations, surprising board games, exotic foods, a LARP sword fighting tournament, LARP sword fighting for kids, storytellers, a LARP archery range as well as a wide variety of stalls that sell anything related. We offer all that belongs in the world of fantasy, and anything that will make you feel part of that world.
-Most importantly, everyone is welcome! If you’re a student or not, a parent with children or alone; it doesn't matter who you are. You will be welcome and you will find something to do. There will be workshops organised, various activities, and the all impressive sword fighting tournament for children and adults! Do you want to know more? Check out [what’s happening ]({{< ref "/programma_2025" >}}).
+# What is Fantasy Court?
+Fantasy Court is a fantasy festival that is focused on the unique and somewhat niche culture surrounding fantasy and LARP (Live Action Role Playing). This festival has a vast array of stalls, associations, and activities that all fall under the purview of the awesome world of fantasy. This entails LARP associations, surprising board games, exotic foods, a LARP sword fighting tournament, LARP sword fighting for kids, storytellers, and a LARP archery range, as well as a wide variety of stalls that sell fantasy related wares. We offer all that belongs in the world of fantasy, and anything that will make you feel part of that world.
+Most importantly, everyone is welcome! Whether you’re a student or not, a parent with children or alone; it doesn't matter who you are. You will be welcome and you will find something to do. There will be workshops organised, various activities, and the impressive sword fighting tournament for children and adults! Do you want to know more? Check out [what’s happening ]({{< ref "/programma_2025" >}}).
 
 {{< carousel "carousel/**" >}}
 
 # How can I participate?
-The festival area is open to everyone and neither a ticket nor a reservation is required to enter. To join the tournament people will have to register (for free). This can be done at the tournament area before the start of the tournament.
-Do you want to join with a stall, act, or service at Fantasy Court? Then please go to our vendors information page .
-If you wish to sponsor us so that we can bring this wonderful subculture to the people at large through this wonderful festival this summer? Then please contact us at [info@fantasycourt.nl](mailto:info@fantasycourt.nl). With your sponsorship we can ensure that the festival is open to everyone and make it even more fantastical with extra entertainment to make it a most marvellous day.
+The festival area is open to everyone and neither a ticket nor a reservation is required to enter. To join the tournament, participants will have to register (for free). This can be done at the tournament area before the start of the tournament.
+Do you want to join with a stall, act, or service at Fantasy Court? Then please go to our vendor information page.
+Do you wish to sponsor us so that we can bring this wonderful subculture to the people at large through the upcoming edition of this lovely festival? Then please contact us at [info@fantasycourt.nl](mailto:info@fantasycourt.nl). With your sponsorship, we can ensure that the festival is open to everyone and make it even more fantastical with extra entertainment to make it a most marvellous day.
 
 # Latest News!
 {{< latestNews >}}
