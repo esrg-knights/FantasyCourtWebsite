@@ -1,18 +1,41 @@
 .header-element {
-  border-bottom: 3px solid $borderColour;
   width: 100%;
 }
 
 .header-image {
   @extend .header-element;
+  height: 50vh;
+  
+  .background {
+    
+    border-bottom: 3px solid $borderColour;
+    overflow: hidden;
 
-  overflow: hidden;
+    background-size: cover;
+    background-origin: content-box;
+    background-repeat: no-repeat;
 
-  background-size: cover;
-  background-origin: content-box;
-  background-repeat: no-repeat;
-
-  height: 35.5vh;
+    height: 50vh;
+    width: 100vw;
+    position: relative;
+  }
+  
+  .logo {
+    position: absolute;
+    display: block;
+    padding-top: 1%;
+    text-align: center;
+    img {
+      position: relative;
+      width: 30%;
+      height: auto;
+      filter: drop-shadow(0px 0px 10px #ffffff);
+    }
+    h1 {
+      color: white;
+      text-shadow: 2px 2px 2px black;
+    }
+  }
 }
 
 .content {
