@@ -42,7 +42,7 @@ resources:
 {{< /message >}}
 
 # Betreed het hof
-Welkom op Fantasy Court, een gratis festival dat zich richt op de unieke cultuur rondom Fantasy, met een focus op Larp (Live Action Role Playing). Het festival vindt jaarlijks plaats op de campus van de Technische Universiteit Eindhoven. Op de dag zelf zijn er veel kraampjes, verenigingen, workshops en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan Larp-verenigingen, verrassende bordspellen, bijzonder eten, een Larp-zwaardvechttoernooi, larp-boogschieten en verschillende kraampjes die fantasy-waren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
+##### Welkom op Fantasy Court, een gratis festival dat zich richt op de unieke cultuur rondom Fantasy, met een focus op Larp (Live Action Role Playing). Het festival vindt jaarlijks plaats op de campus van de Technische Universiteit Eindhoven. Op de dag zelf zijn er veel kraampjes, verenigingen, workshops en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan Larp-verenigingen, verrassende bordspellen, bijzonder eten, een Larp-zwaardvechttoernooi, larp-boogschieten en verschillende kraampjes die fantasy-waren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
 
 # Datum en Locatie
 
