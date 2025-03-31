@@ -1,12 +1,10 @@
 ---
 title: Standhouders
-header-image:
-  url: images/FC_crew.jpg
-  position-x: 50%
-  position-y: 46%
 og:
   description: "Om Fantasy Court de beste versie ooit te kunnen geven zijn we op zoek naar mensen die de ervaring op hun eigen manier kunnen verrijken. Standhouders, acts, workshops, demo's, LARP-verenigingen, of iets anders dat past!"
 ---
+
+!!!!!DEZE WORDT NIET MEER GEBRUIKT ZO VER IK KAN ZIEN!!!!!!!!
 
 {{< message >}}
   _Handelaren, edellieden en heren van de gunsten,_ \

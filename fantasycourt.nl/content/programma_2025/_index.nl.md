@@ -4,7 +4,7 @@ og:
   description: "Fantasy Court - Festivalprogramma"
 ---
 {{< message >}}
- _Ridders, marktkramen en goede muziek_
+ _Ridders, marktkramen en goede muziek_  \
 _Maar het mooiste is nog steeds ons publiek_
 {{< /message >}}
 

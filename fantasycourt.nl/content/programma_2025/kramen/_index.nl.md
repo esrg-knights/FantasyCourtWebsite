@@ -58,6 +58,8 @@ EverAfterprint zijn een schrijver en illustrator die samen LGBTQ+ boeken creeČr
 ### [The Secret Moon Shop](https://linktr.ee/the_secret_moon_shop?utm_source=linktree_profile_share&ltsid=fb8c1639-c3ca-4b14-87df-c2012c499f4a)
 The Secret Moon Shop, handgemaakte potions en andere magische producten. Kom je de magie met ons delen?
 
+{{< figure src="/programma_2025/kramen/images/IMG_8957 - Bombus Pascuorum.jpeg" alt="Toys in the attic" class="vendorpicture" width="60%" >}}
+
 ### [Lotte beads and more](https://www.instagram.com/lotte.beads.and.more?igsh=MTc1dG1wZzl6NTBqdw==)
 Ik ben Charlotte, van Lotte beads & more. Ooit alleen voor mezelf als hobby, nu ook voor jou!
 Ik maak mijn "lotte items" met de hand dus alles is uniek en speciaal voor jou gemaakt.
@@ -67,6 +69,8 @@ Hair-cuffs, hair-spirals, versieringen voor in je dreads en dread-Spiral / Spira
 Dreads op clip-ins en aan elastieken met of zonder kralen/dread versieringen. (ook custom made dreads) Linnen buideltasjes, linnen tas, linnen "etui" met eigen mini art erop getekend. Hangers aan leren veters (kettingen),  oorhangers en ear-cuffs.
 En my Little Art, kleine kunstwerkjes op bijv canvas, ingelijst, op kaarten en op/in vintage theekopjes.
 Dus een kraam vol met "lotte items" met liefde gemaakt...
+
+{{< figure src="/programma_2025/kramen/images/IMG_20240806_130553_432 - Charlotte van de Wiel.jpg" alt="Toys in the attic" class="vendorpicture" width="60%" >}}
 
 ### [Elfdehands boeken](https://www.facebook.com/profile.php?id=100094237038702)
 Bij Elfdehands boeken vind je dat ene boek. Fantasy, Sci-Fi, Avontuur, Horror, Geschiedenis, Magie, Fabeldiere en meer. Soms zijn de boeken door elf paar handen gegaan en hāāl soms ook door een paar elfenhanden. In welk avontuur kom je terecht?

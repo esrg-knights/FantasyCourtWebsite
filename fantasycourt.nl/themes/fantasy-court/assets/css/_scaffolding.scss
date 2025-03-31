@@ -4,7 +4,6 @@
 
 .header-image {
   @extend .header-element;
-  height: 50vh;
   
   .background {
     
@@ -15,9 +14,8 @@
     background-origin: content-box;
     background-repeat: no-repeat;
 
-    height: 50vh;
     width: 100vw;
-    position: relative;
+    position: absolute;
   }
   
   .logo {
@@ -27,13 +25,14 @@
     text-align: center;
     img {
       position: relative;
-      width: 30%;
+      width: 50%;
       height: auto;
-      filter: drop-shadow(0px 0px 10px #ffffff);
+      filter: drop-shadow(3px 3px 1px #000000);
     }
     h1 {
+      font-size: 100pt;
       color: white;
-      text-shadow: 2px 2px 2px black;
+      text-shadow: 3px 3px 1px black;
     }
   }
 }
