@@ -154,7 +154,7 @@ title = "Visitor Information"
 url = "/praktische_info/algemeen/"
 weight = 1
 
-[[languages.nl.menu.main]]
+[[languages.en.menu.main]]
 identifier = "sfeerimpressie"
 parent = "practical"
 title = "Impression"

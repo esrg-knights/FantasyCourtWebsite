@@ -4,7 +4,7 @@ og:
   description: "Fantasy Court - Activiteiten"
 ---
 
-# activiteiten
+# Activiteiten
 
 ## LARP Zwaardvecht Toernooi
 

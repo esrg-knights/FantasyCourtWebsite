@@ -21,7 +21,7 @@ Fantasy Court is een fantasyfestival met een grote verscheidenheid aan kraampjes
 ### Kan ik geld bijpinnen op Fantasy Court?
 Fantasy court heeft geen geldopnamepunt op locatie. Veel verkopers accepteren zowel contant als pinbetalingen. Maar sommigen kunnen enkel één van beiden accepteren. Zorg alstublieft dat je hierop voorbereid bent. Het dichtstbijzijnde pinautomaat is in de kruisstraat op ruwweg een kilometer lopen. 
 
-###Hoe houden we Fantasy Court gratis voor bezoekers?
+### Hoe houden we Fantasy Court gratis voor bezoekers?
 We hebben een groep loyale vrijwilligers vanuit het Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table wiens bloed, zweet en tranen Fantasy Court mogelijk maken. Ook hebben we in 2025 en 2025 een financiële bijdrage gekregen vanuit StEHven waardoor we de faciliteiten kunnen betalen. 
 
 Sinds vorig jaar kunnen onze bezoekers ons ook helpen door op het festival merch te kopen.
@@ -57,7 +57,7 @@ De EHBO-doos staat bij de Fantasy Court stand. Hier zullen ten alle tijden vrijw
 Afgelopen jaar kon men zich ter plekke inschrijven bij de Fantasy Court stand. Er is maar een beperkt aantal plaatsen, wie eerst komt, wie eerst maalt.
 
 ### Wat zijn de regels van het larp-zwaardvechttoernooi?
-De exacte regels van het toernooi kunnen op locatie gevonden worden. Het toernooi bestaat uit een afvalcompetitie van duels met een tijdslimiet van twee minuten.
+Het toernooi bestaat uit een afvalcompetitie van duels met een tijdslimiet van twee minuten. Een overzicht van de regels kan worden gevonden op de [Activiteitenpagina]({{< ref "programma_2025/activiteiten/">}}). Deze zullen oop op lokatie geprint worden.
 
 ### Hoe kan ik deelnemen aan de kostuumwedstrijd?
 Vanwege de grote interesse afgelopen jaar, moeten deelnemers zich van tevoren inschrijven. De details volgen nog.
