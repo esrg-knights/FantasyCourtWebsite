@@ -21,21 +21,21 @@ Een 1-op-1 opwindend LARP-zwaardvechttoernooi voor alle niveaus, Lukt het jou om
 
 Een volledige regeluitleg kan [hier]({{< ref "/programma_2025/activiteiten/toernooiregels" >}}) en op locatie gevonden worden.
 
-
-[insert foto]
+<!--{{<figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}-->
 
 ## Kostuumwedstrijd
 Kom in je mooiste tuniek, jurk of andere creatie naar de kostuumwedstrijd en wie weet staan juryleden versteld en ga jij met een van de prijzen naar huis. Belangrijk om te weten, de kostuumwedstrijd draait wel om eigen gemaakte creaties, en niet wie het mooiste kostuum heeft besteld. Belangrijk om op te merken is dat dit geen cosplaycompetitie is, alhoewel cosplays niet uitgesloten zijn voor deelname.
 
-[insert foto]
-
+{{<figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}
+    
 ## Activiteitenhoek
 En er is niet alleen veel te zien op het Fantasy Court festival. Er is ook een heleboel te doen. Geniet ervan!
 - **NERF Schietbaan**: Concurreer met je vrienden in dit spel wat je accuraatheid en snelheid test met NERF pijltjes. Weet jij je tegenstander te snel af te zijn?
 - **Larp Knuffel Boogschieten**: Ons klassieke larp knuffelboogschietspel, op eerdere edities en Koningsdag. Pak een boog, schiet de gewenste knuffel eraf met de rubberen pijlen en neem hem mee naar huis als prijs!
 - **Verschillende Buitenspellen**: We hebben nog een variatie aan andere veldspellen die de hele dag door te spelen zijn.
 
-[insert foto]
-{{< message margin-top="80px" margin-bottom="100px">}}
+{{<figure src="/images/2025/2023_archery.JPG" alt="Activiteitenhoek" height="400" >}}
+
+    {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
 {{< /message >}}
