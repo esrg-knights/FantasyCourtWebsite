@@ -1,5 +1,8 @@
 ---
 title: Visitors
+header-image:
+  height: 90vh
+  visibility: shown
 resources:
     # Carousel resources are displayed in alphabetical order in the carousel.
   - src: "fc-2022-muziek.jpg"
