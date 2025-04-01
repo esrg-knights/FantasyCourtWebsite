@@ -18,7 +18,10 @@ footer {
     align-items: flex-start;
 
     div {
-      width: $containerWidth/2;
+      width: $containerWidth/3;
+      @media screen and (max-width: $containerWidth) {
+        width: $containerWidth;
+      }
       max-width: 100%;
       flex-direction: column;
       align-items: flex-start;
