@@ -18,7 +18,7 @@ nav {
   flex-direction: column;
   justify-content: flex-start;
 
-  a {
+  a:not(.bannerlink) {
     min-height: $mobileNavbarHeight;
     @media screen and (min-width: $containerWidth) {
       // Non-mobile display
@@ -33,7 +33,7 @@ nav {
     }
   }
 
-  a:not(.hamburger) {
+  a:not(.hamburger):not(.bannerlink) {
     display: none;
   }
 
@@ -43,7 +43,7 @@ nav {
     justify-content: center;
     height: $navbarHeight;
 
-    a:not(.hamburger) {
+    a:not(.hamburger):not(.bannerlink) {
       display: flex;
     }
 
@@ -108,7 +108,7 @@ nav {
       min-height: $navbarHeight;
     }
 
-    a {
+    a:not(.bannerlink) {
       color: $textColorInverted;
       background-color: $backgroundColourInverted;
       font-size: large;
@@ -145,7 +145,7 @@ nav.responsive{
   overflow-y: scroll;
   height: fit-content;
 
-  a {
+  a:not(.bannerlink) {
     display: flex;
   }
 
@@ -154,7 +154,7 @@ nav.responsive{
     width: inherit;
     .submenu {
       width: inherit;
-      a {
+      a:not(.bannerlink) {
         font-size:medium;
         padding-left: 5%;
       }
