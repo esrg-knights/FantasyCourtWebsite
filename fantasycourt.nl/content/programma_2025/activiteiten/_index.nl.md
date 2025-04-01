@@ -6,7 +6,7 @@ og:
 
 # Activiteiten
 
-## LARP Zwaardvecht Toernooi
+## Larp Zwaardvecht Toernooi
 
 Een 1-op-1 opwindend LARP-zwaardvechttoernooi voor alle niveaus, Lukt het jou om te winnen? Toegang is vrij voor alle deelnemers. Vanwege de grote interesse moet er van tevoren worden ingeschreven. Dit kan op de dag zelf bij de FC-stand. Ook dit jaar is er weer weer een mooie prijs voor de winnaars.
 

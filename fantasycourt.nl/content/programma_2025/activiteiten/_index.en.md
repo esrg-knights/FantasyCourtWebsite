@@ -6,7 +6,7 @@ og:
 
 # Activities
 
-## LARP Swordfighting Tournament
+## Larp Swordfighting Tournament
 
 An exciting 1-on-1  LARP-swordfighting tournament for all experience levels! Will you take home a first place win? Participation is free for all visitors. Due to high interest, participants must register in advance. You can register on-site on the day of the festival at the Fantasy Court info stand. This year we will once again have a beautiful prize for the winners.
 
