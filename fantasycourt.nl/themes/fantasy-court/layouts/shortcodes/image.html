@@ -1,6 +1,8 @@
 {{ $src := .Get "src" }}
 {{ with .Parent }}
-  <img src="{{ $src }}" class="{{ .Get "class" }}-image"  height={{ .Get "height" | default "200" }}>
+  <img src="{{ $src }}" class="{{ .Get "class" }}-image"  height={{ .Get "height" | default "200" }} style="margin-bottom: 5px; border: 3px solid #4e0558; 
+  margin-left: auto;
+  margin-right: auto;">
 {{ else }}
   <img src="{{ $src }}">
 {{ end }}
