@@ -1,7 +1,7 @@
 ---
 title: Visitors
 header-image:
-  height: 90vh
+  height: 91vh
   visibility: shown
 resources:
     # Carousel resources are displayed in alphabetical order in the carousel.

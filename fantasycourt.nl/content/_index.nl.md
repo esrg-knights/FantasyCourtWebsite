@@ -1,7 +1,7 @@
 ﻿---
 title: Welkom
 header-image:
-  height: 90vh
+  height: 91vh
   visibility: shown
 og:
   description: "Fantasy Court - Een gratis fantasy festival in Eindhoven"
