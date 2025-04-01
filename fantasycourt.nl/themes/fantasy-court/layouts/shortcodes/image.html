@@ -1,0 +1,6 @@
+{{ $src := .Get "src" }}
+{{ with .Parent }}
+  <img src="{{ $src }}" class="{{ .Get "class" }}-image"  height={{ .Get "height" | default "200" }}>
+{{ else }}
+  <img src="{{ $src }}">
+{{ end }}
