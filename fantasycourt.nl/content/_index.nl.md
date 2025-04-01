@@ -65,10 +65,10 @@ Bekijk al het nieuws in het [nieuwsarchief]({{< ref "/news" >}} "naar de archiev
 
 Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) die ons facilitet met een veld voor het festival de vrijwilligers leveren. Verder ontvangen wij een financiële bijdrage vanuit [StEHven](https://stehven.nl/en/en-home/) die ons helpt om de faciliteiten op het veld te betalen. Ten slotte ontvangen we geld vanuit de [Rabo Clubsupport](https://www.rabobank.nl/leden/clubsupport).  
 
-{{<figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" height="180" >}}{{<figure src="/images/logo stehven.png" alt="StEHven" height="180" >}} 
+{{<figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{<figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}} 
 
 Bent u zelf geïnteresseerd in een deel van dit festival sponsoren? Mail naar info@fantasycourt.nl om de mogelijkheden te bespreken.
 
-{{< message margin-top="80px" margin-bottom="100px">}}
+{{< message margin-top="80px" margin-bottom="100px" font-size="2.5em">}}
 _Tot op het hof!_
 {{< /message >}}

@@ -71,11 +71,11 @@ Fantasy Court takes place on the 8th of June on the Koe-veld on the campus of th
 See all the news in the [news archive]({{< ref "/news" >}} "naar de archieven!").
  
 
-# Sponmsors
+# Sponsors
 
 Fantasy court is organised by a comitte from the [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) who faccilitate the festival by arranging a field and providing volunteers. We also recieve financial support from [StEHven](https://stehven.nl/en/en-home/) which enables us to arrange the facillities on the field. LAstly we recieve a contribution from the  [Rabo Clubsupport](https://www.rabobank.nl/leden/clubsupport).  
 
-{{<figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" height="180">}}{{<figure src="/images/logo stehven.png" alt="StEHven" height="180">}}
+{{<figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%">}}{{<figure src="/images/logo stehven.png" alt="StEHven" width="100%">}}
 
 
 Are you interested in sponsoring part of the festival? Feel free to send a mail to [info@antasycourt.nl](mailto: info@fantasycourt.nl) to discuss the possibilities.
@@ -94,7 +94,7 @@ Do you wish to sponsor us so that we can bring this wonderful subculture to the 
 
 View all news items in the [news archive]({{< ref "/news" >}} "to the archives!").-->
 
-{{< message margin-top="80px" margin-bottom="100px">}}
+{{< message margin-top="80px" margin-bottom="100px" font-size="2.5em">}}
 _See you at the court!_
 {{< /message >}}
 

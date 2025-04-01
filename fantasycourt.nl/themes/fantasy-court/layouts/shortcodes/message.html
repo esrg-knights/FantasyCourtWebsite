@@ -3,6 +3,7 @@
 text-align: center;
 margin-top: {{ .Get "margin-top" | default "0px" }};
 margin-bottom: {{ .Get "margin-bottom" | default "20px" }};
+font-size: {{ .Get "font-size" | default "2em" }};
 ">
     <em>{{ .Inner | markdownify }}</em>
 </p>
