@@ -153,7 +153,7 @@ weight = 3
 identifier = "general"
 parent = "practical"
 title = "Visitor Information"
-url = "/praktische_info/algemeen/"
+url = "/praktische_info/"
 weight = 1
 
 [[languages.en.menu.main]]
