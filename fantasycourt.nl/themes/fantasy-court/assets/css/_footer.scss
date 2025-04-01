@@ -2,7 +2,7 @@ footer {
   background-repeat: repeat-x;
   overflow: hidden;
   background-size: contain;
-  @media screen and (max-width: $mobileWidth) {
+  @media screen and (max-width: $containerWidth) {
     background-size: cover;
   }
   color: $textColorInverted;
@@ -24,6 +24,7 @@ footer {
       align-items: flex-start;
       margin-bottom: 1em;
       text-align: center;
+      margin-top: 15px;
 
       * {
         margin: 0px
