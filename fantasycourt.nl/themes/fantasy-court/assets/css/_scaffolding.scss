@@ -33,7 +33,8 @@
       margin-right: auto;
       height: 70vh;
       @media screen and (max-width: $containerWidth) {
-        height: 35vh;
+        height: auto;
+        width: 100%;
       }
       filter: drop-shadow(3px 3px 1px #000000);
     }
