@@ -34,8 +34,8 @@ En er is niet alleen veel te zien op het Fantasy Court festival. Er is ook een h
 - **Larp Knuffel Boogschieten**: Ons klassieke larp knuffelboogschietspel, op eerdere edities en Koningsdag. Pak een boog, schiet de gewenste knuffel eraf met de rubberen pijlen en neem hem mee naar huis als prijs!
 - **Verschillende Buitenspellen**: We hebben nog een variatie aan andere veldspellen die de hele dag door te spelen zijn.
 
-{{<figure src="/images/2025/2023_archery.JPG" alt="Activiteitenhoek" height="400" >}}
+{{<figure src="/images/2025/2023_archery.jpg" alt="Activiteitenhoek" height="400" >}}
 
-    {{< message margin-top="80px" margin-bottom="100px">}}
+{{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
 {{< /message >}}

@@ -42,20 +42,11 @@ _Farmers, nobles, citizens and travelers of all sort..._ \
 _You are all formally invited to enter the Fantasy Court._
 {{< /message >}}
 
+# We are busy translating the website into english. Most of the content is still in progress. Feel free to look at the Dutch site for up to date info.
 
 # What is Fantasy Court?
 ##### Fantasy Court is a fantasy festival that is focused on the unique and somewhat niche culture surrounding fantasy and LARP (Live Action Role Playing). This festival has a vast array of stalls, associations, and activities that all fall under the purview of the awesome world of fantasy. This entails LARP associations, surprising board games, exotic foods, a LARP sword fighting tournament, LARP sword fighting for kids, storytellers, and a LARP archery range, as well as a wide variety of stalls that sell fantasy related wares. We offer all that belongs in the world of fantasy, and anything that will make you feel part of that world.
 Most importantly, everyone is welcome! Whether you’re a student or not, a parent with children or alone; it doesn't matter who you are. You will be welcome and you will find something to do. There will be workshops organised, various activities, and the impressive sword fighting tournament for children and adults! Do you want to know more? Check out [what’s happening ]({{< ref "/programma_2025" >}}).
-
-# This 
-# Part
-# Has
-# Not
-# Been
-# Reviewed
-# By
-# Avalon
-
 
 # Date and Location
 

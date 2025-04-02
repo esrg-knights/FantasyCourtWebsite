@@ -2,7 +2,7 @@
 ---
 type: news
 title: "Grote update: Sluitig standhouderinschrijvingen + Vernieuwde website + Koningsdag."
-publishDate: 2024-03-12T12:00:00+02:00
+publishDate: 2024-04-2T12:00:00+02:00
 ---
 
 Het is al een tijd sinds het laatste bericht op de website, maar de commissie heeft niet stil gezeten. Integendeel, we zijn zo druk bezig geweest dat we geen tijd hadden om nieuws te posten. Dus het is tijd voor een grote update met alles wat vorige maanden gebeurt is.
