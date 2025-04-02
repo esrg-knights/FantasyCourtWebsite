@@ -38,7 +38,7 @@ resources:
 ---
 
 {{< message >}}
-__The trip to the court is long and though_
+_The trip to the court is long and though_\
 _therefore this page has information enough_
 {{< /message >}}
 
