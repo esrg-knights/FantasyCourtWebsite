@@ -1,6 +1,10 @@
 footer {
-  width: 100%;
-  background-color: $backgroundColourInverted;
+  background-repeat: repeat-x;
+  overflow: hidden;
+  background-size: contain;
+  @media screen and (max-width: $containerWidth) {
+    background-size: cover;
+  }
   color: $textColorInverted;
   padding: 40px;
 
@@ -14,11 +18,16 @@ footer {
     align-items: flex-start;
 
     div {
-      width: $containerWidth/2;
+      width: $containerWidth/3;
+      @media screen and (max-width: $containerWidth) {
+        width: $containerWidth;
+      }
       max-width: 100%;
       flex-direction: column;
       align-items: flex-start;
       margin-bottom: 1em;
+      text-align: center;
+      margin-top: 15px;
 
       * {
         margin: 0px

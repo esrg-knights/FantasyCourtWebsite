@@ -9,10 +9,16 @@ disableKinds = ["taxonomy", "term"]
 
 # Default image that shows up at the top of pages
 [params.header-image]
-url = "/images/FC_tournament.jpg"
+url = "/images/FC_tournament_darkened.jpg"
+logo = "/images/icons/Fantasy Court - Logo.png"
 alt = "Fantasy Court Swordfighting Tournament"
-position-x = "50%"
-position-y = "45%"
+position-x = "50%" 
+position-y = "44%" 
+height = "20vh"
+visibility = "hidden"
+
+[params.footer-image]
+url = "/images/FC-Footer.png" 
 
 # Open Graph
 [params.og]
@@ -43,15 +49,65 @@ url = "/praktische_info/"
 weight = 3
 
 [[languages.nl.menu.main]]
+identifier = "general"
+parent = "practical"
+title = "Bezoekersinformatie"
+url = "/praktische_info/"
+weight = 1
+
+[[languages.nl.menu.main]]
+identifier = "sfeerimpressie"
+parent = "practical"
+title = "Sfeerimpressie"
+url = "/praktische_info/sfeerimpressie/"
+weight = 2
+
+
+[[languages.nl.menu.main]]
+identifier = "registration"
+parent = "practical"
+title = "Aanmelding Standhouders"
+url = "/praktische_info/aanmelden/"
+weight = 3
+
+[[languages.nl.menu.main]]
+identifier = "FAQ"
+parent = "practical"
+title = "FAQ"
+url = "/praktische_info/faq/"
+weight = 4
+
+[[languages.nl.menu.main]]
 identifier = "programma"
 title = "Programma"
 url = "/programma_2025/"
 weight = 4
 
 [[languages.nl.menu.main]]
-identifier = "vendors"
-title = "Standhouders"
-url = "/standhouders/"
+identifier = "Performers"
+parent = "programma"
+title = "Artiesten"
+url = "/programma_2025/artiesten/"
+weight = 1
+
+[[languages.nl.menu.main]]
+identifier = "Activities"
+parent = "programma"
+title = "Activiteiten"
+url = "/programma_2025/activiteiten/"
+weight = 2
+
+[[languages.nl.menu.main]]
+identifier = "Vendors"
+parent = "programma"
+title = "Kramen- Standhouders"
+url = "/programma_2025/kramen/"
+weight = 3
+
+[[languages.nl.menu.main]]
+identifier = "news"
+title = "Nieuwsarchief"
+url = "/nieuws/"
 weight = 5
 
 [[languages.nl.menu.main]]
@@ -59,12 +115,6 @@ identifier = "previous"
 title = "Vorige Edities"
 url = "/vorige_edities/"
 weight = 6
-
-[[languages.nl.menu.main]]
-identifier = "news"
-title = "Nieuwsarchief"
-url = "/nieuws/"
-weight = 7
 
 [languages.en]
 name = "English"
@@ -94,9 +144,38 @@ weight = 2
 
 [[languages.en.menu.main]]
 identifier = "practical"
-title = "Practical Info"
+title = "Practical Information"
 url = "/praktische_info/"
 weight = 3
+
+
+[[languages.en.menu.main]]
+identifier = "general"
+parent = "practical"
+title = "Visitor Information"
+url = "/praktische_info/"
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = "sfeerimpressie"
+parent = "practical"
+title = "Mood impression"
+url = "/praktische_info/sfeerimpressie/"
+weight = 2
+
+[[languages.en.menu.main]]
+identifier = "registration"
+parent = "practical"
+title = "Registration Vendors"
+url = "/praktische_info/aanmelden/"
+weight = 3
+
+[[languages.en.menu.main]]
+identifier = "FAQ"
+parent = "practical"
+title = "FAQ"
+url = "/praktische_info/faq/"
+weight = 4
 
 [[languages.en.menu.main]]
 identifier = "programma"
@@ -105,9 +184,30 @@ url = "/programma_2025/"
 weight = 4
 
 [[languages.en.menu.main]]
-identifier = "vendors"
-title = "Vendors and Acts"
-url = "/standhouders/"
+identifier = "Performers"
+parent = "programma"
+title = "Performers"
+url = "/programma_2025/artiesten/"
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = "Activities"
+parent = "programma"
+title = "Activities"
+url = "/programma_2025/activiteiten/"
+weight = 2
+
+[[languages.en.menu.main]]
+identifier = "Vendors"
+parent = "programma"
+title = "Vendors"
+url = "/programma_2025/kramen/"
+weight = 3
+
+[[languages.en.menu.main]]
+identifier = "news"
+title = "News Archive"
+url = "/news/"
 weight = 5
 
 [[languages.en.menu.main]]
@@ -115,12 +215,6 @@ identifier = "previous"
 title = "Previous Editions"
 url = "/vorige_edities/"
 weight = 6
-
-[[languages.en.menu.main]]
-identifier = "news"
-title = "News Archive"
-url = "/news/"
-weight = 7
 
 # Determine frontmatter order
 [frontmatter]

@@ -1,25 +1,28 @@
-<footer class="footer" id="contact">
-    <div class="footer-content">
+<footer class="footer" id="contact" style='
+    background-image: url({{ $.Param "footer-image.url" }})
+    '>
+    <div class="footer-content" style="font-size: 1.5em;">
         <div>
-            <h6>{{ i18n "footer_contact_information" }}</h6>
-            <p>Mail: info@fantasycourt.nl</p>
-            <p>FB: FB.com/FantasyCourt</p>
+            <h4>{{ i18n "footer_contact_information" }}</h4>
+            <p>Mail: <a href="mailto: info@fantasycourt.nl" style="color:#ffffff;">info@fantasycourt.nl</a></p>
+            <p>Facebook: <a href="https://www.facebook.com/FantasyCourt/" style="color:#ffffff;">facebook.com/FantasyCourt</a> </p>
+            <p>Instagram: <a href="https://www.instagram.com/fantasycourtnl/" style="color:#ffffff;">instagram.com/FantasyCourtnl</a> </p>
         </div>
 
-        <div>
-            <h6>{{ i18n "footer_business_information" }}</h6>
+        <!--<div>
+            <h4>{{ i18n "footer_business_information" }}</h4>
             <p>IBAN: NL49 RABO 0325 427 771</p>
-        </div>
+        </div>-->
 
         <div>
-            <h6>{{ i18n "footer_visiting_address" }}</h6>
+            <h4>{{ i18n "footer_visiting_address" }}</h4>
             <p>Campus La Luna (TU/e)</p>
             <p>De Lampendriessen 31</p>
             <p>5612 AH Eindhoven</p>
         </div>
 
         <div>
-            <h6>{{ i18n "footer_postal_address" }}</h6>
+            <h4>{{ i18n "footer_postal_address" }}</h4>
             <p>ESRG Knights of the Kitchen Table</p>
             <p>TU/e Luna de Plint postvak 11</p>
             <p>Postbus 513</p>

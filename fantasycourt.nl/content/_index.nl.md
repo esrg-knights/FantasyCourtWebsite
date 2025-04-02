@@ -1,5 +1,10 @@
----
+﻿---
 title: Welkom
+header-image:
+  height: 91vh
+  visibility: shown
+og:
+  description: "Fantasy Court - Een gratis fantasy festival in Eindhoven"
 resources:
     # Carousel resources are displayed in alphabetical order in the carousel.
   - src: "fc-2022-muziek.jpg"
@@ -39,28 +44,31 @@ resources:
   _Jullie zijn allen uitgenodigd aan het hof van Fantasy Court_
 {{< /message >}}
 
-# Wat is Fantasy Court?
-Fantasy Court is een festival dat zich richt op de minder bekende, unieke cultuur rondom Fantasy met een focus op Larp (Live Action Role Playing). Dit festival bevat veel kraampjes, verenigingen en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan Larp-verenigingen, verrassende bordspellen, bijzonder eten, een Larp-zwaardvechttoernooi, Larp-zwaardvechten voor kinderen, verhalenvertellers, larp-boogschieten en verschillende kraampjes die al deze toebehoren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
+# Betreed het hof
+##### Welkom op Fantasy Court, een gratis festival dat zich richt op de unieke cultuur rondom Fantasy, met een focus op Larp (Live Action Role Playing). Het festival vindt jaarlijks plaats op de campus van de Technische Universiteit Eindhoven. Op de dag zelf zijn er veel kraampjes, verenigingen, workshops en activiteiten die onder het wonderlijke rijk van Fantasy vallen. Denk aan Larp-verenigingen, verrassende bordspellen, bijzonder eten, een Larp-zwaardvechttoernooi, larp-boogschieten en verschillende kraampjes die fantasy-waren aanbieden. Wij bieden van alles aan dat in de Fantasywereld thuis hoort of ervoor zorgt dat u zich er onderdeel van zal voelen.
 
-Iedereen is welkom! Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Zo zijn er speciale workshops, verschillende activiteiten en een kinderdivisie van het zwaardvechttoernooi. Wil je meer weten over onze activiteiten? Kijk dan op de [programma-pagina]({{< ref "/programma_2025" >}}).
+# Datum en Locatie
+
+Fantasy court vind plaats op 8 juni op het Koe-veld op de Campus van de Technische Universiteit Eindhoven. Het Festival is gratis te bezoeken. Het terrein is open en er is geen toegangsbewijs of reservering nodig. Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Wil je meer weten over onze activiteiten? Kijk dan op de [programma-pagina]({{< ref "/programma_2025" >}}).
 
 {{< carousel "carousel/**" >}}
 
-# Hoe kan ik meedoen?
-Fantasy Court is vrij te bezoeken. Het terrein is open en er is geen toegangsbewijs of reservering nodig. Wel moet men zich (gratis) inschrijven om deel te nemen aan het toernooi. Dit kan ter plekke voor aanvang van elk toernooi.
-
-Wilt u zelf met een kraam, act of dienst deelnemen aan het Festival? Kijk dan bij de [standhouder-pagina]({{< ref "/standhouders" >}})
-
-Wilt u ons sponsoren zodat wij deze unieke Fantasycultuur aan een breder publiek kunnen brengen door middel van dit festival komende zomer? Neem dan vooral contact met ons op via [info@fantasycourt.nl](mailto:info@fantasycourt.nl) om de zaken met ons door te spreken!
-Met uw sponsorbijdragen kunnen wij zorgen dat het festival vrij toegankelijk is en kunnen wij de locatie verfraaien met extra entertainment om het tot een nog leukere dag te brengen.
 
 # Laatste Nieuws!
+
 {{< latestNews >}}
 
 Bekijk al het nieuws in het [nieuwsarchief]({{< ref "/news" >}} "naar de archieven!").
+ 
 
-{{< renderImageResource id="fc-2019-archer" path="Boogschieten.png" class="" style="float: right; width: 200px; margin-top: 20px;" >}}
+# Sponsoren
 
-{{< message margin-top="80px" margin-bottom="100px">}}
+Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) die ons facilitet met een veld voor het festival de vrijwilligers leveren. Verder ontvangen wij een financiële bijdrage vanuit [StEHven](https://stehven.nl/en/en-home/) die ons helpt om de faciliteiten op het veld te betalen. Ten slotte ontvangen we geld vanuit de [Rabo Clubsupport](https://www.rabobank.nl/leden/clubsupport).  
+
+{{<figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{<figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}} 
+
+Bent u zelf geïnteresseerd in een deel van dit festival sponsoren? Mail naar info@fantasycourt.nl om de mogelijkheden te bespreken.
+
+{{< message margin-top="80px" margin-bottom="100px" font-size="2.5em">}}
 _Tot op het hof!_
 {{< /message >}}
