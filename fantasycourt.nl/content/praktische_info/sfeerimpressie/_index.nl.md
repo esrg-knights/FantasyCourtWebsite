@@ -36,7 +36,7 @@ Fantasy Court heeft al veel leuke jaren achter de rug. Hier vind je wat fotos va
   {{<image src="/images/2025/_DSC5729.JPG" >}}
   {{<image src="/images/2025/_DSC5810.JPG" >}}
   {{<image src="/images/2025/_DSC5859.JPG" >}}
-  {{<image src="/images/2025/_DSC5866.JPG" >}}
+  {{<image src="/images/2025/_DSC5866.jpg" >}}
   {{<image src="/images/2025/Fantasy Court Eindhoven 2024-069.jpg" >}}
   {{<image src="/images/2025/Fantasy Court Eindhoven 2024-167.jpg" >}}
 {{</gallery >}}
