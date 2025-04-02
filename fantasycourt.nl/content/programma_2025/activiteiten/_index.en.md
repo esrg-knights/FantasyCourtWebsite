@@ -22,12 +22,12 @@ An exciting 1-on-1  LARP-swordfighting tournament for all experience levels! Wil
 A complete list of rules can be found [here]({{< ref "/programma_2025/activiteiten/toernooiregels" >}}) as well as posted on-site at the festival.
 
 
-[insert photo]
+<!--{{<figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}-->
 
 ## Costume Competition
 Bring your finest fantasy garment creations and dazzle the jury with your skills! As an important note, this competition revolves around handmade costume pieces, and not who has bought the most beautiful outfit. This is not necessarily a cosplay competition, but we do not exclude cosplays.
 
-[insert photo]
+{{<figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}
 
 ## Activity Corner
 In the world of fantasy, there is not only a lot to see, but also many activities to enjoy as a participant!
@@ -35,7 +35,8 @@ In the world of fantasy, there is not only a lot to see, but also many activitie
 - **Larp Plushie Archery**: Our classic ‘stuffed animal archery’ game, previously featured during our King's Day event. Shoot soft foam arrows at cuddly toys and keep whichever you manage to hit!
 - **Various Outdoor Games**: We’ll have plenty of field games open all day, such as Kubb.
 
-[insert photo]
+{{<figure src="/images/2025/2023_archery.jpg" alt="Activiteitenhoek" height="400" >}}
+
 {{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_
 {{< /message >}}
