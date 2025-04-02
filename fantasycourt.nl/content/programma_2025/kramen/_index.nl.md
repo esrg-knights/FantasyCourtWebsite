@@ -9,6 +9,7 @@ og:
 De volgende standhouders zullen op Fantasy court te vinden zijn:
 
 
+---
 ### [Toys in the Attic](https://toysintheattic.nl/)
 Organiseert verschillende larps in dezelfde wereld. Van fantasy tot steampunk tot post-apocalyptisch. De larps hebben een sterke focus op drama en intrige waar spelers moeilijke keuzes kunnen maken en hun vrienden goed moeten kiezen.
 
@@ -51,6 +52,7 @@ Dit alles vindt plaats vanuit onze eigen verenigingsruimte, in het Luna gebouw o
 
 ## Eten en drinken
 
+---
 ### [Kürtőskalács Nederland](schoorsteenbrood.nl)
 De Koekenbakkers van kürtőskalács Nederland komen voor jullie weer het heerlijke, ambachtelijke schoorsteenbrood bakken op Fantasy Court! Alles wordt vers bereid in de stand en het is ook nog eens leuk om te zien hoe het gemaakt wordt. Schoorsteenbrood eet je het liefste samen met je vrienden, want zo is de kürtőskalács traditioneel bedoeld om te delen. Je wikkelt gemakkelijk een stukje af, breek het en smullen maar! Er is keuze uit verschillende lekkere smaken.
 
@@ -59,6 +61,7 @@ De Koekenbakkers van kürtőskalács Nederland komen voor jullie weer het heerli
 ---
 
 
+---
 ### [iScoop Ice Cream](iscoop.nl)
 iScoop Ice Cream: Verkoelend, magisch en onweerstaanbaar. Mis het niet op Fantasy Court!
 
@@ -73,9 +76,9 @@ geniet van de traditionele arepas en empenadas, samen met overheerlijke salchipa
 
 ---
 
-
 ## Winkels en kunstenaars
 
+---
 ### [Arctis ira](https://www.instagram.com/arctis_ira/)
 Artiest met een aanbod van verschillende stickers, prints, charms en andere leuke goodies.
 
@@ -244,7 +247,6 @@ Betreed een wereld van magie en vakmanschap! Als goudsmid creČer ik unieke, han
 
 {{< figure src="images/2025/kramen/IMG_9943 - Goudsmederij Scholten.png" alt="Goudsmederij Scholten" class="vendorpicture" width="60%" >}}
 
----
 
 ### [Atelier Spintol](https://www.facebook.com/share/yoaB5omkZYoCtbEs/)
 Atelier Spintol, op het kruispunt tussen fantasy en historie! Dit atelier specialiseert in accessoires zoals hoeden en tasjes, maar draait zeker de hand niet om voor volledige outfits, mogenlijk zelf op maat gemaakt. Als een klein bedrijfje, halen wij veel trots uit het vakmanschap wat ik onze kleding gestopt word, en proberen we op de kleinste details te letten
@@ -344,13 +346,6 @@ Welkom bij Capimara, waar handgemaakte TTRPG-accessoires en magische curiosa sam
 
 ---
 
-### [M.E.]
-Bij M.E. denken we op de eerste plaats aan de Dungeon Masters. We leveren daarom ook alle gemakken voor die doelgroep.  Van goedkope miniaturen naar gametafels, online tools, workshops en terein tot aan hele gamekamers.  Wij brengen jaren ervaring om elke ruimte om te toveren tot perfecte plek om rollenspellen in te spelen en het vertrouwen in jezelf als DM te hosten.
-
-{{< figure src="images/2025/kramen/IMG-20240523-WA0028 - Mass Odijk.jpeg" alt="M.E." class="vendorpicture" width="60%" >}}
-
----
-
 ### [Fairyland](fairyland.nl)
 Als je op zoek bent naar Larp/Middeleeuwen kleding dan kun je bij de stand van Fairyland terecht. Ook voor spellen en keltische sieraden.
 
@@ -371,8 +366,8 @@ A little magic! Tweedehands, handgemaakte en upcycled items die een beetje magie
 {{< figure src="images/2025/kramen/Ontwerp zonder titel_20231115_184237_0000 - Sanne Verbaant.png" alt="Sanne Verbaant" class="vendorpicture" width="60%" >}}
 
 ---
+### [Céline’s Art Studio](https://www.etsy.com/shop/CelinesArtStudioShop)
 
-### [Céline's Art Studio](https://www.etsy.com/shop/CelinesArtStudioShop)
 Céline's Art Studio creates all kinds of stationary, sculptures and bookish items in magical and enchanting themes
 
 {{< figure src="images/2025/kramen/moi - Céline Vu.png" alt="Céline's Art Studio" class="vendorpicture" width="40%" >}}
