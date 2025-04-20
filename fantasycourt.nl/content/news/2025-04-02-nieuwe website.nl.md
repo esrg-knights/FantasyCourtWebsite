@@ -11,7 +11,7 @@ Het is al een tijd sinds het laatste bericht op de website, maar de commissie he
 Zie ik daar een nieuwe website? Inderdaad, onze codeerkabouters zijn druk bezig geweest om de website een nieuw likje verf te geven. We hopen dat de nieuwe website er niet alleen beter uitziet maar ook makkelijker te navigeren is.
 
 ## Sluiting standhouderinschrijvingen
-De tweede inschrijfronde is een week geleden gesloten. We willen graag iedereen bedanken die interesse heeft getoond en we hebben heel veel mooie inschrijvingen gekregen. We hebben alle ingeschreven deelnemers bevestiging gestuurd. Wil je weten wie dit allemaal zijn? Kijk dan vooral op de [standhouderpagina.](({{< ref "/programma_2025/kramen/" >}}).) 
+De tweede inschrijfronde is een week geleden gesloten. We willen graag iedereen bedanken die interesse heeft getoond en we hebben heel veel mooie inschrijvingen gekregen. We hebben alle ingeschreven deelnemers bevestiging gestuurd. Wil je weten wie dit allemaal zijn? Kijk dan vooral op de [standhouderpagina.]({{< ref "/programma_2025/kramen/" >}}).
 
 ## Koningsdag
 
