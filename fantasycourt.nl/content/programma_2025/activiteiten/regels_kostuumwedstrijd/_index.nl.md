@@ -17,7 +17,7 @@ Wij verwachten dat je voldoet aan de hieronder beschreven regels. Daarnaast verw
 ## Jurering en Prijsuitreiking
 Jurering duurt 2,5 minuut. Bedenk goed van tevoren wat je wil zeggen en waar je het trotst op bent met wat je gemaakt hebt. Laat deze dingen vooral ook zien!
 
-Belangrijk om in de gaten te houden: De losse onderdelen van je kostuum zijn net zo belangrijk als het geheel. We oordelen op hoe het visueel bij elkaar past. Wij vinden het leuk als je uitlegt waarom je voor specifieke kledingstukken bent gegaan of als je een leuk verhaal hebt over je kostuum. Beeld je bijvoorbeeld  een zelfbedacht karakter uit, vertel waarom zij deze kleren dragen. 
+Belangrijk om in de gaten te houden: De losse onderdelen van je kostuum zijn net zo belangrijk als het geheel. We oordelen op hoe het visueel bij elkaar past. Wij vinden het leuk als je uitlegt waarom je voor specifieke kledingstukken bent gegaan of als je een leuk verhaal hebt over je kostuum. Beeld je bijvoorbeeld een zelfbedacht karakter uit, vertel waarom zij deze kleren dragen. 
 
 Vermeld duidelijk als je iets zelf hebt gemaakt én als je dat niet hebt gedaan. Verdenking van het foutief verschaffen van deze informatie leidt tot een diskwalificatie. 
 
