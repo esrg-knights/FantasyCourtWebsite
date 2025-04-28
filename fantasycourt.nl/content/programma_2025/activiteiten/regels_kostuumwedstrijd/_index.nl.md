@@ -25,7 +25,7 @@ Nadat de jury alle kostuums heeft beoordeeld, zullen zij de scores gaan optellen
 
 ## Uitsluiting van Deelname
 
-Kostuums mogen niet obsceen of beledigend zijn, aanzetten tot haat of provoceren. Tevens is er een swimsuit policy: alles wat een badpak bedekt, moet ook bedekt zijn op het podium. De kostuums in de kostuumwedstrijd mogen niet gekocht zijn. De kostuumwedstrijd staat niet open voor personages uit gepubliceerde werken, waaronder films, tv-shows, stripboeken, tekenfilms, videogames en kaartspellen, d.w.z. Het is geen cosplay contest. Echter, originele interpretaties van bestaande figuren zijn wel toegestaan, bijvoorbeeld Steampunk Batman, Indiana Jones als hij in 1350 heeft geleefd, Brave’s Merida reimagined als fee, , e.d. zijn voorbeelden van kostuums die wel zouden worden toegestaan. 
+Kostuums mogen niet obsceen of beledigend zijn, aanzetten tot haat of provoceren. Tevens is er een swimsuit policy: alles wat een badpak bedekt, moet ook bedekt zijn op het podium. De kostuums in de kostuumwedstrijd mogen niet gekocht zijn. De kostuumwedstrijd staat niet open voor personages uit gepubliceerde werken, waaronder films, tv-shows, stripboeken, tekenfilms, videogames en kaartspellen, d.w.z. Het is geen cosplay contest. Echter, originele interpretaties van bestaande figuren zijn wel toegestaan, bijvoorbeeld Steampunk Batman, Indiana Jones als hij in 1350 heeft geleefd, Brave’s Merida reimagined als fee, etc. zijn voorbeelden van kostuums die wel zouden worden toegestaan. 
 
 De uiteindelijke keuze ligt bij de vrijwilliger bij de infostand en diens keuze is doorslaggevend. Vrijwilligers en organisatie van Fantasy Court zijn uitgesloten van deelname aan de kostuumwedstrijd om prijzen te winnen. 
 
