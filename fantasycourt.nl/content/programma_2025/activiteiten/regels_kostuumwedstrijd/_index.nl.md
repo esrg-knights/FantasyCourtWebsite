@@ -24,6 +24,7 @@ Vermeld duidelijk als je iets zelf hebt gemaakt én als je dat niet hebt gedaan.
 Nadat de jury alle kostuums heeft beoordeeld, zullen zij de scores gaan optellen en vergaderen over de uiteindelijke winnaars. Let op! Er zijn meer prijzen dan alleen maar de top-3. Sommige van deze categorieën zijn geheim zodat mensen er niet expres op in kunnen spelen. Kom dus vooral zoals je bent.
 
 ## Uitsluiting van Deelname
+
 Kostuums mogen niet obsceen of beledigend zijn, aanzetten tot haat of provoceren. Tevens is er een swimsuit policy: alles wat een badpak bedekt, moet ook bedekt zijn op het podium. De kostuums in de kostuumwedstrijd mogen niet gekocht zijn. De kostuumwedstrijd staat niet open voor personages uit gepubliceerde werken, waaronder films, tv-shows, stripboeken, tekenfilms, videogames en kaartspellen, d.w.z. Het is geen cosplay contest. Echter, originele interpretaties van bestaande figuren zijn wel toegestaan, bijvoorbeeld Steampunk Batman, Indiana Jones als hij in 1350 heeft geleefd, Brave’s Merida reimagined als fee, , e.d. zijn voorbeelden van kostuums die wel zouden worden toegestaan. 
 
 De uiteindelijke keuze ligt bij de vrijwilliger bij de infostand en diens keuze is doorslaggevend. Vrijwilligers en organisatie van Fantasy Court zijn uitgesloten van deelname aan de kostuumwedstrijd om prijzen te winnen. 
@@ -36,7 +37,7 @@ Alle prijzen van de kostuumwedstrijd worden gesponsord door verschillende standh
  * Niet zelfgemaakte kostuums mogen alleen als de maker er bij is: Je mag iemand anders mee laten doen met jouw zelfgemaakte kostuum. Echter moet jij er dan bij zijn om uit te leggen hoe je het gemaakt hebt en dergelijke. Ook mag de ander dan dus geen geld betaald hebben voor het kostuum (dus geen commissie kostuum e.d.);
  * Groepskostuums zijn niet mogelijk, deze kunnen enkel meedoen als losse deelnemers en worden Los beoordeeld;
  * Er is geen minimale leeftijdsgrens, wel vragen we bij jonge deelnemers dat de ouders er even bij blijven om het wat minder spannend te maken; 
- * Bij het inschrijfpunt staat een vrijwilliger van de organisatie. Deze beoordeeld of je kostuum aan de eisen voldoet van de wedstrijd, deze heeft het doorslaggevende woord of je doorgaat naar de jurering. Wij vragen dan ook dat je onze vrijwilligers respectvol benaderd; 
+ * Bij het inschrijfpunt staat een vrijwilliger van de organisatie. Deze beoordeeld of je kostuum aan de eisen voldoet van de wedstrijd, deze heeft het doorslaggevende woord of je doorgaat naar de jurering. Wij vragen dan ook dat je onze vrijwilligers respectvol benadert. Het beledigen, niet respectvol behandelen of op eender welke andere manier niet correct omgaan met vrijwilligers is een automatische uitschrijving en kwalificatie voor deze en alle toekomstige wedstrijden op Fantasy Court
  * Niet aanwezig zijn tijdens je call-time is een automatische uitschrijving en diskwalificatie.
  * De organisatie behoudt ten alle tijde het recht je uit te schrijven voor welke reden dan ook;
 
