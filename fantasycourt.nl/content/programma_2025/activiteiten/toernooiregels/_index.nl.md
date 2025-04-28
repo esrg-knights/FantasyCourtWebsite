@@ -64,7 +64,6 @@ Alhoewel de organisatie voorzichtig te werk gaat is deelname op eigen risico.
 Wij hopen dat deze regels voldoende duidelijk zijn en wensen iedereen een prettig toernooi toe.
 
 
-[insert foto]
 {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
 {{< /message >}}

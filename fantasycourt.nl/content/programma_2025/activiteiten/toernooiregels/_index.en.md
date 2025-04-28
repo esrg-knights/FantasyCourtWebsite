@@ -64,7 +64,6 @@ Our organisation runs the tournament as safely as possible, but participation is
 We hope that these rules are sufficiently clear, and wish everyone an enjoyable tournament experience.
 
 
-[insert foto]
 {{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_
 {{< /message >}}

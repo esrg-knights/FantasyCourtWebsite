@@ -24,7 +24,7 @@ Een volledige regeluitleg kan [hier]({{< ref "/programma_2025/activiteiten/toern
 <!--{{<figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}-->
 
 ## Kostuumwedstrijd
-Kom in je mooiste tuniek, jurk of andere creatie naar de kostuumwedstrijd en wie weet staan juryleden versteld en ga jij met een van de prijzen naar huis. Belangrijk om te weten, de kostuumwedstrijd draait wel om eigen gemaakte creaties, en niet wie het mooiste kostuum heeft besteld. Belangrijk om op te merken is dat dit geen cosplaycompetitie is, alhoewel cosplays niet uitgesloten zijn voor deelname.
+Ook dit jaar heeft Fantasy Court weer een kostuumwedstrijd met leuke prijzen gesponsord door onze lieve standhouders. Je kunt je op de dag van zelf bij de Fantasy Court Infostand inschrijven om deel te nemen aan de Kostuumwedstrijd. Er zijn slechts beperkte plekken, dus wie het eerst komt, wie het eerst maalt. Belangrijk om te weten is dat het om zelfgemaakte kostuums gaat. Lees vooraf [de volledige regels door]({{< ref "/programma_2025/activiteiten/regels_kostuumwedstrijd" >}}). De kostuum wedstrijd begint om 14.00. Als je deel wilt nemen, zorg dat je op tijd bent.
 
 {{<figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}
     
