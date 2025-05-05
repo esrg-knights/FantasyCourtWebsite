@@ -277,7 +277,7 @@ Nature Deco, een winkel uit Veghel met zelf opgezette vlinders en insecten. Neem
 ---
 
 ### [Nether & Fable](https://netherandfable.com/)
-Nether en Fable is een kleine tabletop shop die groots droomt en waar elke accessoire een knipoog is naar de liefde die we hebben voor tafelspellen. Van dobbelstenen en dobbelsteenzakken in verschillende maten, tot accessoires voor kaartspellen zoals MTG, ze zijn allemaal handgemaakt en klaar om je spellen aan tafel nĘg beter te maken.
+Nether en Fable is een kleine tabletop shop die groots droomt en waar elke accessoire een knipoog is naar de liefde die we hebben voor tafelspellen. Van dobbelstenen en dobbelsteenzakken in verschillende maten, tot accessoires voor kaartspellen zoals MTG, ze zijn allemaal handgemaakt en klaar om je spellen aan tafel nog beter te maken.
 
 {{< figure src="images/2025/kramen/DSC6264 - Caitlin Kwaijtaal.png" alt="Nether & Fable" class="vendorpicture" width="60%" >}}
 

@@ -24,7 +24,7 @@ Fantasy court heeft geen geldopnamepunt op locatie. Veel verkopers accepteren zo
 ### Hoe houden we Fantasy Court gratis voor bezoekers?
 We hebben een groep loyale vrijwilligers vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) wiens bloed, zweet en tranen Fantasy Court mogelijk maken. Ook hebben we in 2024 en 2025 een financiële bijdrage gekregen vanuit [StEHven](https://stehven.nl/en/en-home/) waardoor we de faciliteiten kunnen betalen. Ten slotte ontvangen we geld vanuit de [Rabo Clubsupport](https://www.rabobank.nl/leden/clubsupport).
 
-{{<figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{<figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}} 
+{{<figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{<figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}}
 
 
 Sinds vorig jaar kunnen onze bezoekers ons ook helpen door op het festival merch te kopen.
@@ -35,7 +35,7 @@ We hebben een grote verscheidenheid aan standhouders. Zo zijn er onder andere me
 ---
 ## **Muziek**
 ### Hebben jullie muziek?
-Fantasy court heeft live muziek. Zodra we de artiesten geboekt hebben kan je ze vinden op de [Lijst van artiesten]({{< ref "/programma_2025/artiesten/" >}}) .
+Fantasy court heeft live muziek. Zodra we de artiesten geboekt hebben kan je ze vinden op de [Lijst van artiesten]({{< ref "/programma_2025/artiesten/" >}}).
 
 ### Kan ik op Fantasy Court Optreden?
 Super leuk dat je bij ons wil komen optreden, we zijn altijd super enthusiast over meer muzikanten. Stuur ons [een mailtje](mailto:fc@kotkt.nl) om hier verder over te praten.
@@ -66,8 +66,8 @@ Het toernooi bestaat uit een afvalcompetitie van duels met een tijdslimiet van t
 Vanwege de grote interesse afgelopen jaar, moeten deelnemers zich van tevoren inschrijven. De details volgen nog.
 
 ### Wat zijn de regels van de kostuumwedstrijd?
-De kostuumwestrijd is open voor alle leeftijden. Je kan deelnemen in een zelfbedachte outfit of een cosplay. Onze zeer gewaardeerde jury zal de kostuums beoordelen. Hierin zullen ze een hoger oordeel geven aan zelfgemaakte creaties en gezamenlijk een winnaar selecteren.
-We verwachten van deelnemers dat de kostuums acceptabel zijn om in het openbaar te dragen.
+De kostuumwestrijd is open voor alle leeftijden. Je kan deelnemen in een zelfbedachte outfit. Onze zeer gewaardeerde jury zal de kostuums beoordelen. Hierin zullen ze een hoger oordeel geven aan zelfgemaakte creaties en gezamenlijk een winnaar selecteren.
+Een overzicht van de regels kan worden gevonden op de [Activiteitenpagina]({{< ref "programma_2025/activiteiten/">}}).
 
 ---
 ## **Overig**

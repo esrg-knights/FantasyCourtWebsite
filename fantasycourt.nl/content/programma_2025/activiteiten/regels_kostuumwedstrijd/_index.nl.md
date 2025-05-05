@@ -3,16 +3,16 @@ title: regels kostuumwedstrijd
 og:
   description: "Fantasy Court - Toernooiregels"
 ---
-
+    
 
 # Uitgebreide Uitleg Kostuum wedstrijd
-Belangrijk om te weten, is dat dit een kostuumwedstrijd is, en geen cosplaywedstrijd. Cosplays komen dan ook niet in aanmerking voor prijzen. Hieronder staat het verloop van de wedstrijd beschreven, evenals de regels voor deelname
+Hieronder staat het verloop van de wedstrijd beschreven, evenals de regels voor deelname. 
 
 ## Inschrijven
-Je kunt je op de dag van Fantasy Court bij de Fantasy Court Infostand inschrijven om deel te nemen aan de Kostuumwedstrijd. Er zijn slechts beperkte plekken. Wij vragen hier om je leeftijd en je naam. Onze vrijwilligers stellen dan een aantal vragen om vast te stellen of je voldoet aan de regels om deel te mogen nemen. Hierna kun je een tijdslot kiezen, wederom wie het eerst komt, wie als eerste de keuze heeft. Tijdens dit tijdslot kun je je kostuum aan de jury laten zien. Wees 10 minuten voor aanvang aanwezig. De inschrijving sluit om 13.30 óf wanneer er geen plekken meer beschikbaar zijn, welke van de twee eerder is. Er zijn géén inschrijfkosten voor het deelnemen aan de kostuumwedstrijd.
+Je kunt je op de dag van Fantasy Court bij de Fantasy Court infostand inschrijven om deel te nemen aan de Kostuumwedstrijd. Er zijn slechts beperkte plekken. Wij vragen hier om je leeftijd en je naam. Onze vrijwilligers stellen dan een aantal vragen om vast te stellen of je voldoet aan de regels om deel te mogen nemen. Hierna kun je een tijdslot kiezen, wederom wie het eerst komt, wie als eerste de keuze heeft. Tijdens dit tijdslot kun je je kostuum aan de jury laten zien. Wees 10 minuten voor aanvang aanwezig. De inschrijving sluit om 13.30 óf wanneer er geen plekken meer beschikbaar zijn, welke van de twee eerder is. Er zijn géén inschrijfkosten voor het deelnemen aan de kostuumwedstrijd.
 
 ## Deelname
-Wij verwachten dat je voldoet aan de hieronder beschreven regels. Daarnaast verwachten we dat je op tijd aanwezig bent. Wij gaan niet zoeken of omroepen, dus als je er niet bent, wordt je uitgeschreven en kan je niet meer deelnemen. Onze vrijwilligers begeleiden je van en naar de jury. Na de jurering is er een fotomoment met een fotograaf. Deze foto’s zullen later online komen, evenals de groepsfoto van alle deelnemers. De kostuumwedstrijd zal om 14.00 beginnnen.
+Wij verwachten dat je voldoet aan de hieronder beschreven regels. Daarnaast verwachten we dat je op tijd aanwezig bent. Wij gaan niet zoeken of omroepen, dus als je er niet bent, wordt je uitgeschreven en kan je niet meer deelnemen. Onze vrijwilligers begeleiden je van en naar de jury. Na de jurering is er een fotomoment met een fotograaf. Deze foto’s zullen later online komen, evenals de groepsfoto van alle deelnemers. De kostuumwedstrijd zal om 14.00 beginnen.
 
 ## Jurering en Prijsuitreiking
 Jurering duurt 2,5 minuut. Bedenk goed van tevoren wat je wil zeggen en waar je het trotst op bent met wat je gemaakt hebt. Laat deze dingen vooral ook zien!
@@ -33,7 +33,8 @@ De uiteindelijke keuze ligt bij de vrijwilliger bij de infostand en diens keuze 
 Alle prijzen van de kostuumwedstrijd worden gesponsord door verschillende standhouders van Fantasy Court. Deze prijzen zijn een verrassing en worden tijdens de uitreiking bekendgemaakt. Er is geen geldprijs beschikbaar en prijzen mogen niet ingeruild worden voor geld.
 
 # Algemene Regels
- * Kostuums dienen zelf gemaakt te zijn of significant aangepaste bestaande items: Vermeld erbij als je iets zelf hebt gemaakt, maar ook als je dat niet hebt gedaan. Het merendeel van je kostuum dient zelf gemaakt te zijn.  Hoe meer je zelf hebt gemaakt, hoe hoger we dit beoordelen. We verwachten dat je minimaal 70% zelf hebt gemaakt, aangezien het niet onverwacht is dat een aantal items gekocht zijn. Gekochte kostuums mogen niet meedoen. Het gekocht hebben van of het niet zelf gemaakt hebben van het kostuum, én dit niet melden is een automatische uitschrijving en diskwalificatie van de wedstrijd en toekomstige wedstrijden. Het creatief hergebruiken van materiaal en kringlopen van een kostuum wordt erg gewaardeerd, echter is het wel de bedoeling dat je er zelf nog structureel dingen aan hebt veranderd of toegevoegd. Anders behandelen we het als een gekocht kostuum;
+&nbsp;
+* Kostuums dienen zelf gemaakt te zijn of significant aangepaste bestaande items: Vermeld erbij als je iets zelf hebt gemaakt, maar ook als je dat niet hebt gedaan. Het merendeel van je kostuum dient zelf gemaakt te zijn.  Hoe meer je zelf hebt gemaakt, hoe hoger we dit beoordelen. We verwachten dat je minimaal 70% zelf hebt gemaakt, aangezien het niet onverwacht is dat een aantal items gekocht zijn. Gekochte kostuums mogen niet meedoen. Het gekocht hebben van of het niet zelf gemaakt hebben van het kostuum, én dit niet melden is een automatische uitschrijving en diskwalificatie van de wedstrijd en toekomstige wedstrijden. Het creatief hergebruiken van materiaal en kringlopen van een kostuum wordt erg gewaardeerd, echter is het wel de bedoeling dat je er zelf nog structureel dingen aan hebt veranderd of toegevoegd. Anders behandelen we het als een gekocht kostuum;
  * Niet zelfgemaakte kostuums mogen alleen als de maker er bij is: Je mag iemand anders mee laten doen met jouw zelfgemaakte kostuum. Echter moet jij er dan bij zijn om uit te leggen hoe je het gemaakt hebt en dergelijke. Ook mag de ander dan dus geen geld betaald hebben voor het kostuum (dus geen commissie kostuum e.d.);
  * Groepskostuums zijn niet mogelijk, deze kunnen enkel meedoen als losse deelnemers en worden Los beoordeeld;
  * Er is geen minimale leeftijdsgrens, wel vragen we bij jonge deelnemers dat de ouders er even bij blijven om het wat minder spannend te maken; 
