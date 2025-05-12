@@ -4,7 +4,14 @@ og:
   description: "Fantasy Court - Bevestigde artiesten"
 ---
 # Artiesten
-Wij zijn op het moment nog bezig met het regelen van artiesten. Zodra dit gedaan is kunt u ze hier vinden.
+
+
+## [FeePhiFolkFum](https://www.youtube.com/@FeePhiFolkFum/playlists)
+Draailiermuziek met een mix van zelfgeschreven nummers en liedjes uit verscheidende folktradities.
+## Wouter
+## Celia Onna 
+## Niels de Jonge
+harpmuziek met extra harp
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
