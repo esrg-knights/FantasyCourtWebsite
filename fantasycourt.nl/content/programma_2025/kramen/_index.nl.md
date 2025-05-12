@@ -318,13 +318,6 @@ Lars Reen, een larper die zelf kostuums maakt verkoopt 10 jaar aan kledingstukke
 
 ---
 
-### [Readmore Publishing House](https://readmore.be/)
-Readmore is een jonge uitgeverij die ernaar streeft lezers betaalbare boeken te bieden die hen tot op het bot raken. Goede boeken hoeven niet duur te zijn. Bij Readmore leggen we de nadruk niet enkel op winst. Wij geloven dat een goed product zijn eigen publiek zal vinden.
-
-{{< figure src="images/2025/kramen/Omnibus4 - Davinia Porreye.jpg" alt="Readmore Publishing House" class="vendorpicture" width="60%" >}}
-
----
-
 ### [Studio Wisely](https://www.instagram.com/studiowisely/profilecard/?igsh=Z3BkdjA4dHE0cDVw)
 Bij Studio Wisely vind je handgemaakte producten van bijvoorbeeld vilt (denk aan broches, ornamenten en gezellige beestjes) en prachtige oorbellen met kralen van glas en natuursteen. Zonder zich vast te bijten in één stijl of medium word alles met liefde en plezier handgemaakt. 
 
@@ -357,13 +350,6 @@ Als je op zoek bent naar Larp/Middeleeuwen kleding dan kun je bij de stand van F
 Dreamchaserart verkoopt allerlei merchandise met haar eigen fantasierijke artwork welke is geïnspireerd door anime en manga. Bezoek hun stand om leuke spulletjes te vinden zoals sleutelhangers, stickers, mokken, washi tape, pins en nog veel meer!
 
 {{< figure src="images/2025/kramen/20240420_094210 - marlon teunissen.jpg" alt="Dreamchaserart" class="vendorpicture" width="60%" >}}
-
----
-
-### Sanne Verbaant
-A little magic! Tweedehands, handgemaakte en upcycled items die een beetje magie in jouw dagelijkse leven brengen. Duurzaam en met liefde!
-
-{{< figure src="images/2025/kramen/Ontwerp zonder titel_20231115_184237_0000 - Sanne Verbaant.png" alt="Sanne Verbaant" class="vendorpicture" width="60%" >}}
 
 ---
 ### [Céline’s Art Studio](https://www.etsy.com/shop/CelinesArtStudioShop)
