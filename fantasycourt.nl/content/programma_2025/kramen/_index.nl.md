@@ -50,6 +50,32 @@ Dit alles vindt plaats vanuit onze eigen verenigingsruimte, in het Luna gebouw o
 
 ---
 
+### [De Zwaardkring](https://www.zwaardkring.nl/)
+De Zwaardkring is een stichting die les geeft in H.E.M.A. door heel Brabant. H.E.M.A. staat voor 'Historical European Martial Arts' en is dus een vechtsport met een historische basis. Dat klinkt vaag, maar kortom is het leren zwaardvechten zoals ze dat in de middeleeuwen deden!
+
+Als beoefenaars van de historische vechtkunst willen wij zo dicht mogelijk tot de context van het zwaardvechten van vroeger komen. Dit doen wij door manuscripten te bestuderen,  deze technieken te interpreteren, en  uiteindelijk ook toe te passen met full contact sparring. Daarbij gebruiken we botte zwaarden en de nodige beschermende  uitrusting om te garanderen dat de veiligheid gewaarborgd word.
+Wil jij nou meer te weten komen over hoe je met een zwaard moet vechten, of wil je het zelf een keer ervaren? Kom dan bij ons kijken! En hopelijk zien we je terug in een van onze lessen.  Onze workshops op Fantasy Court zijn alleen voor volwassenen boven de 18 jaar oud
+{{< figure src="images/2025/kramen/FB_IMG_1737924558002.jpg" alt="De Zwaardkring" class="vendorpicture" width="60%" >}}
+
+---
+
+
+
+### [De Zwaardkring](https://www.zwaardkring.nl/)
+De Zwaardkring is een stichting die les geeft in H.E.M.A. door heel Brabant. H.E.M.A. staat voor 'Historical European Martial Arts' en is dus een vechtsport met een historische basis. Dat klinkt vaag, maar kortom is het leren zwaardvechten zoals ze dat in de middeleeuwen deden!
+
+Als beoefenaars van de historische vechtkunst willen wij zo dicht mogelijk tot de context van het zwaardvechten van vroeger komen. Dit doen wij door manuscripten te bestuderen,  deze technieken te interpreteren, en  uiteindelijk ook toe te passen met full contact sparring. Daarbij gebruiken we botte zwaarden en de nodige beschermende  uitrusting om te garanderen dat de veiligheid gewaarborgd word.
+Wil jij nou meer te weten komen over hoe je met een zwaard moet vechten, of wil je het zelf een keer ervaren? Kom dan bij ons kijken! En hopelijk zien we je terug in een van onze lessen.  Onze workshops op Fantasy Court zijn alleen voor volwassenen boven de 18 jaar oud
+{{< figure src="images/2025/kramen/FB_IMG_1737924558002.jpg" alt="De Zwaardkring" class="vendorpicture" width="60%" >}}
+
+---
+
+### [Custom Script](customscript.nl)
+Stichting Custom Script Events organiseert Blood on the Clocktower speeldagen op beurzen en houdt eens per jaar hun eigen beurs. Hou jij wel van Weerwolven en andere sociale deductie spellen? Probeer het dan zeker eens bij ons uit!
+{{< figure src="images/2025/kramen/Clockathon-logo.png" alt="Custom Script" class="vendorpicture" width="60%" >}}
+
+---
+
 ## Eten en drinken
 
 ---
@@ -71,6 +97,12 @@ iScoop Ice Cream: Verkoelend, magisch en onweerstaanbaar. Mis het niet op Fantas
 geniet van de traditionele arepas en empenadas, samen met overheerlijke salchipapas and quesadillas. Laat jezelf betoveren door het beste wat de latijnse keuken te bieden heeft.
 
 {{< figure src="images/2025/kramen/20241012_132019 - Karina Sanchez.jpg" alt="La Salsa Latina" class="vendorpicture" width="60%" >}}
+
+---
+
+### [Zjee Café](https://zjeecafe.nl/)
+Zjee Café, voor de eerlijke en duurzame koffiebelevingen. Koffie gezet met passie en plezier.
+{{< figure src="images/2025/kramen/zjecafe.jpg" alt="Zjee Café" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -173,13 +205,6 @@ We zijn er weer voor al uw LARP-artikelen! Dit jaar staan we opnieuw klaar met o
 Als creatief duizendpoot kun je bij mij terecht voor handgemaakte en samengestelde goederen als prints, stickers, gehaakte sleutelhangers, posters, mystery CD'S en meer! Laat je verassen door illustraties, haakwerk, nieuwe muziek en vooral een vleugje memecultuur. Ik ben te vinden onder artiestennaam @estonamy!
 
 {{< figure src="images/2025/kramen/IMG-20240913-WA0069 - Esmee Kuilman.jpg" alt="Estonamy" class="vendorpicture" width="60%" >}}
-
----
-
-### [New Dam](brittvandenelzen.com)
-Britt van den Elzen schrijft Engelstalige science fiction & fantasy boeken met een vleug romantiek en geeft deze boeken zelfstandig uit met haar uitgeverij New Dam.
-
-{{< figure src="images/2025/kramen/IMG_1377 - Britt van den Elzen.jpeg" alt="New Dam" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -316,13 +341,6 @@ Lars Reen, een larper die zelf kostuums maakt verkoopt 10 jaar aan kledingstukke
 
 ---
 
-### [Readmore Publishing House](https://readmore.be/)
-Readmore is een jonge uitgeverij die ernaar streeft lezers betaalbare boeken te bieden die hen tot op het bot raken. Goede boeken hoeven niet duur te zijn. Bij Readmore leggen we de nadruk niet enkel op winst. Wij geloven dat een goed product zijn eigen publiek zal vinden.
-
-{{< figure src="images/2025/kramen/Omnibus4 - Davinia Porreye.jpg" alt="Readmore Publishing House" class="vendorpicture" width="60%" >}}
-
----
-
 ### [Studio Wisely](https://www.instagram.com/studiowisely/profilecard/?igsh=Z3BkdjA4dHE0cDVw)
 Bij Studio Wisely vind je handgemaakte producten van bijvoorbeeld vilt (denk aan broches, ornamenten en gezellige beestjes) en prachtige oorbellen met kralen van glas en natuursteen. Zonder zich vast te bijten in één stijl of medium word alles met liefde en plezier handgemaakt. 
 
@@ -357,13 +375,6 @@ Dreamchaserart verkoopt allerlei merchandise met haar eigen fantasierijke artwor
 {{< figure src="images/2025/kramen/20240420_094210 - marlon teunissen.jpg" alt="Dreamchaserart" class="vendorpicture" width="60%" >}}
 
 ---
-
-### Sanne Verbaant
-A little magic! Tweedehands, handgemaakte en upcycled items die een beetje magie in jouw dagelijkse leven brengen. Duurzaam en met liefde!
-
-{{< figure src="images/2025/kramen/Ontwerp zonder titel_20231115_184237_0000 - Sanne Verbaant.png" alt="Sanne Verbaant" class="vendorpicture" width="60%" >}}
-
----
 ### [Céline’s Art Studio](https://www.etsy.com/shop/CelinesArtStudioShop)
 
 Céline's Art Studio creates all kinds of stationary, sculptures and bookish items in magical and enchanting themes
@@ -376,6 +387,58 @@ Céline's Art Studio creates all kinds of stationary, sculptures and bookish ite
 Drie vrienden, verenigd door hun passie voor TTRPG’s, delen hun creativiteit via Legends Unbound. In onze webshop vind je unieke, handgemaakte accessoires zoals dice sets, trays, vaults en fashion, volledig te personaliseren naar wens. Daarnaast bieden we live workshops en een ultieme D&D-experience, waar je onze passie zelf kunt beleven. Bij Legends Unbound draait alles om vakmanschap, originaliteit en het verbinden van mensen die dezelfde liefde voor TTRPG’s delen!
 
 {{< figure src="images/2025/kramen/Collage LU - Danielle Ruiter.jpg" alt="Legends Unbound" class="vendorpicture" width="60%" >}}
+
+---
+
+
+### [Chaotic Spirit Studio](https://www.instagram.com/chaotic.spirit.studio/)
+Chaotic Spirit Studio is a game and art studio specializing in world-building, concept art, and game design, dedicated to creating captivating experiences for players of all ages.
+
+{{< figure src="images/2025/kramen/Logo wit met oranje vlam - Luc van der Burgh.png" alt="Legends Unbound" class="vendorpicture" width="40%" >}}
+
+---
+
+### [Horned Toad Games](https://www.hornedtoadgames.com/)
+Horned Toad Games is indie boardgame uitgever die zich focust op het uitgeven van easy-to-learn yet tactically fun spellen. Daarnaast publiceert het ook DND/TTRPG avonturen in magazine formaat. 
+{{< figure src="images/2025/kramen/Button - Robbin Hulsker.PNG" alt="Legends Unbound" class="vendorpicture" width="40%" >}}
+
+---
+
+### [Studio Vorm & Vlam](https://www.instagram.com/vormvlam.studio/)
+Studio Vorm & Vlam, Handgemaakte keramiek die een verhaal vertelt.
+Droom weg bij elegante mokken met bijpassende schotels in de vorm van een open boek, betoverende roerstaafjes én stroopwafel onderzetters die bijna te lekker zijn om niet op te eten 
+
+Alles is met de hand gegoten en met liefde ontworpen. Speels, verrassend en helemaal in de stijl van elke fantasy lover die houdt van magische details!
+{{< figure src="images/2025/kramen/DSC05883_ETSY.jpg" alt="Studio Vorm & Vlam" class="vendorpicture" width="40%" >}}
+
+---
+
+### [Vonkenstaal](https://www.instagram.com/vonken_staal/)
+{{< figure src="images/2025/kramen/IMG-20221120-WA0008__01.jpg" alt="Vonkenstaal" class="vendorpicture" width="40%" >}}
+
+---
+
+### [Fjälla Allround Make-up Artist](https://www.facebook.com/fjallamakeupartist/)
+Fjalla allround make-up artist is een artiest die voor film en tv silicone protheses maakt. Vanaf nu kan je ook silicone prothese kopen of bestellen om je look voor een festival helemaal compleet te maken. Zelfs op maat gemaakte gebitjes of vampier tanden kunnen gemaakt worden op aanvraag.
+{{< figure src="images/2025/kramen/Fjalla ehv (83).JPG" alt="Fjälla Allround Make-up Artist" class="vendorpicture" width="60%" >}}
+
+---
+
+### [Frescoboutique](frescoboutique.com)
+Frescoboutique, wij geloven dat iedereen de kans moet hebben om kunst en creativiteit bij zich te dragen. Wij bieden kleding, tote-bags, stickers en nog veel meer aan met zelf ontworpen designs. 
+{{< figure src="images/2025/kramen/IMG_1677.jpg" alt="Frescoboutique" class="vendorpicture" width="40%" >}}
+
+---
+
+### [Drakenlicht Illustraties](https://drakenlichtillustraties.nl/)
+Drakenlicht Illustraties maakt fantasy en mystery kunst, gemaakt met inkt, waterverf en potlood. Met magische onderwerpen uit de natuur zoals dieren en sterren, wordt je nieuwsgierigheid gewekt... Volg de draak met de lantaarn en ontdek fantastische werelden in deze kunst, in de vorm van ansichtkaarten, posters en gebruiksvoorwerpen!
+{{< figure src="images/2025/kramen/Visitekaartje Drakenlicht voorkant.jpg" alt="Drakenlicht Illustraties" class="vendorpicture" width="60%" >}}
+
+---
+
+### [Edge of Dusk](https://www.bluefernarts.com/)
+Annemieke van Barlingen is een Belgische kunstenares die onder de naam Blue Fern Arts handgeschilderde illustraties maakt geïnspireerd door sprookjes, fantasy en folklore.
+{{< figure src="images/2025/kramen/FB_IMG_1736773754646.jpg" alt="Edge of Dusk" class="vendorpicture" width="40%" >}}
 
 ---
 
