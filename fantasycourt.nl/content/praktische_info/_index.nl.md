@@ -39,7 +39,7 @@ resources:
 
 {{< message >}}
  _De tocht naar het hof is een lange reis_\
-_Daarom maakt deze pagina je wegwijs_
+ _Daarom maakt deze pagina je wegwijs_
 {{< /message >}}
 
 # Praktische Informatie

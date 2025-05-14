@@ -11,7 +11,7 @@ _Dezen kunnen uw bezoek behagen_
 {{< /message >}}
 
 #  Vragen en Antwoorden
-Dit zijn veel gestelde vragen en de antwoorden daarop. Heb je een vraag die hier niet tussen staan? Voel je vrij om [een mail](mailto:organisatie@fantasycourt.nl?subject=Vraag)  te sturen. 
+Dit zijn veel gestelde vragen en de antwoorden daarop. Heb je een vraag die hier niet tussen staan? Voel je vrij om [een mail](mailto:organisatie@fantasycourt.nl?subject=Vraag) te sturen. 
 
 ---
 ## **Algemeen**
