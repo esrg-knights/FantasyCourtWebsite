@@ -70,11 +70,11 @@ The golden rule is ”don't do anything that forces us to make our weapon policy
 
 #### Safety Rules for LARP Battles
 1. No stabbing with LARP props.
-2. It is not permitted to strike at the head or neck.
+2. It is not permitted to strike at the head, neck or crotch.
 3. Physical contact between people is forbidden at all times during a battle.
 4. Hold back your blows, i.e., do not strike with full force.
 5. It is not permitted to run during a duel.
 6. It is not permitted to strike others with a shield.
-7. Please be extra careful when striking the crotch, chest, or wrists, as these areas are permitted to strike but may also be more painful.
+7. Please be extra careful when striking the chest, or wrists, as these areas are permitted to strike but may also be more painful.
 8. You may use overhand or understand strikes, but remember again to avoid the head and be careful with strikes to the crotch.
 

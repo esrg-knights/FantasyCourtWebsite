@@ -24,7 +24,7 @@ Fantasy Court does not have an ATM/cash machine on-site. Many vendors accept bot
 ### How do we keep Fantasy Court free for visitors?
 We have a group of loyal volunteers from the [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) (Eindhoven's roleplaying and board game association), whose blood, sweat, and tears make Fantasy Court possible. We have also been fortunate enough to receive a financial contribution in 2024 and 2025 from [StEHven](https://stehven.nl/en/en-home/), which allows us to pay for the facilities. Furthermore, we receive funds from the [Rabo Clubsupport](https://www.rabobank.nl/leden/clubsupport).
 
-{{<figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{<figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}}
+{{< figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{< figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}}
 
 Starting last year, we have also begun offering our own merch at the festival info stand, which allows our visitors to support us directly!
 
@@ -97,14 +97,14 @@ Carrying or fighting with hard wooden, metal, or plasic weapons is not permitted
 The golden rule is ”don't do anything that forces us to make our weapon rules stricter”. Use common sense and do not push boundaries so that we can all continue to enjoy the current freedoms.
 
 #### Safety Rules for LARP Fighting
-1. It is forbidden to stab with a LARP sword.
-2. It is not permitted to strike the head or neck, and these are not considered valid hit locations.
-3. Physical contact is forbidden under any circumstances. You may only strike your opponent with a LARP prop.
-4. Take care not to strike with full or excessive force.
-5. It is not permitted to run or charge towards your opponent in a duel.
-6. Shield-bashing is not allowed.
-7. Although these are valid hit locations, please be exceptionally cautious about strikes to the crotch, chest, or wrists.
-8. Over-hand and under-hand strikes are both permitted, but again, please be sure to avoid strikes to the head and be careful about striking the crotch.
+1. No stabbing with LARP props.
+2. It is not permitted to strike at the head, neck or crotch.
+3. Physical contact between people is forbidden at all times during a battle.
+4. Hold back your blows, i.e., do not strike with full force.
+5. It is not permitted to run during a duel.
+6. It is not permitted to strike others with a shield.
+7. Please be extra careful when striking the chest, or wrists, as these areas are permitted to strike but may also be more painful.
+8. You may use overhand or understand strikes, but remember again to avoid the head and be careful with strikes to the crotch.
 
 
 
