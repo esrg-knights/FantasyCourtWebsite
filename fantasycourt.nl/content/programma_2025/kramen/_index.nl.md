@@ -59,17 +59,6 @@ Wil jij nou meer te weten komen over hoe je met een zwaard moet vechten, of wil 
 
 ---
 
-
-
-### [De Zwaardkring](https://www.zwaardkring.nl/)
-De Zwaardkring is een stichting die les geeft in H.E.M.A. door heel Brabant. H.E.M.A. staat voor 'Historical European Martial Arts' en is dus een vechtsport met een historische basis. Dat klinkt vaag, maar kortom is het leren zwaardvechten zoals ze dat in de middeleeuwen deden!
-
-Als beoefenaars van de historische vechtkunst willen wij zo dicht mogelijk tot de context van het zwaardvechten van vroeger komen. Dit doen wij door manuscripten te bestuderen,  deze technieken te interpreteren, en  uiteindelijk ook toe te passen met full contact sparring. Daarbij gebruiken we botte zwaarden en de nodige beschermende  uitrusting om te garanderen dat de veiligheid gewaarborgd word.
-Wil jij nou meer te weten komen over hoe je met een zwaard moet vechten, of wil je het zelf een keer ervaren? Kom dan bij ons kijken! En hopelijk zien we je terug in een van onze lessen.  Onze workshops op Fantasy Court zijn alleen voor volwassenen boven de 18 jaar oud
-{{< figure src="images/2025/kramen/FB_IMG_1737924558002.jpg" alt="De Zwaardkring" class="vendorpicture" width="60%" >}}
-
----
-
 ### [Custom Script](customscript.nl)
 Stichting Custom Script Events organiseert Blood on the Clocktower speeldagen op beurzen en houdt eens per jaar hun eigen beurs. Hou jij wel van Weerwolven en andere sociale deductie spellen? Probeer het dan zeker eens bij ons uit!
 {{< figure src="images/2025/kramen/Clockathon-logo.png" alt="Custom Script" class="vendorpicture" width="60%" >}}
