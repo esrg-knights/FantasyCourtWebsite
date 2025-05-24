@@ -3,6 +3,11 @@ title: Visitors
 header-image:
   height: 91vh
   visibility: shown
+resources:
+    # Carousel resources are displayed in alphabetical order in the carousel.
+  - src: "fc-2022-veld.jpg"
+    name: "carousel/image-00"
+    title: "Fantasy Court muziekoptreden 2022"
 ---
 
 {{< message >}}
@@ -17,7 +22,7 @@ _You are all formally invited to enter the Fantasy Court._
 
 # Date and Location
 
-Fantasy Court takes place on the 8th of June on the Koe-veld on the campus of the Eindhoven University of Technology. The festival is free to visit. The festival terrain is open and does not require a ticket or reservation. Whether you are a student or not, a parent with children or coming on your own, something or organised for everyone. Would you like to know more? Feel free to take a look at the [program page.]({{< ref "/programma_2025" >}}).
+Fantasy Court takes place on the 8th of June on the Koe-veld on the campus of the Eindhoven University of Technology. The festival is free to visit. The festival terrain is open and does not require a ticket or reservation. Whether you are a student or not, a parent with children or coming on your own, something or organised for everyone. Would you like to know more? Feel free to take a look at the [program page.]({{< ref "/programma_2025" >}})
 
 {{< carousel "carousel/**" >}}
  
