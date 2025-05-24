@@ -11,7 +11,7 @@ _Dezen kunnen uw bezoek behagen_
 {{< /message >}}
 
 #  Vragen en Antwoorden
-Dit zijn veel gestelde vragen en de antwoorden daarop. Heb je een vraag die hier niet tussen staan? Voel je vrij om [een mail](mailto:organisatie@fantasycourt.nl?subject=Vraag)  te sturen. 
+Dit zijn veel gestelde vragen en de antwoorden daarop. Heb je een vraag die hier niet tussen staan? Voel je vrij om [een mail](mailto:organisatie@fantasycourt.nl?subject=Vraag) te sturen. 
 
 ---
 ## **Algemeen**
@@ -24,7 +24,7 @@ Fantasy court heeft geen geldopnamepunt op locatie. Veel verkopers accepteren zo
 ### Hoe houden we Fantasy Court gratis voor bezoekers?
 We hebben een groep loyale vrijwilligers vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) wiens bloed, zweet en tranen Fantasy Court mogelijk maken. Ook hebben we in 2024 en 2025 een financiële bijdrage gekregen vanuit [StEHven](https://stehven.nl/en/en-home/) waardoor we de faciliteiten kunnen betalen. Ten slotte ontvangen we geld vanuit de [Rabo Clubsupport](https://www.rabobank.nl/leden/clubsupport).
 
-{{<figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{<figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}}
+{{< figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{< figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}}
 
 
 Sinds vorig jaar kunnen onze bezoekers ons ook helpen door op het festival merch te kopen.
@@ -98,14 +98,14 @@ Het dragen  van en vechten met harde houten, metalen of plastic wapens is niet t
 De gouden regel is ”doe niks wat ons dwingt om ons wapenbeleid aan te scherpen”. Gebruik vooral je gezond verstand en zoek geen grenzen op zodat wij dat ook niet hoeven te doen.
 
 #### Veilig vechten regels
-1. Men mag niet met het wapen steken.
-2. Het is niet toegestaan om het hoofd of de nek te raken.
+1. Men mag niet met larp-rekwisieten steken.
+2. Het is niet toegestaan om het hoofd, geslachtsdelen of de nek te raken.
 3. Fysiek contact is ten alle tijden verboden.
 4. Men dient slagen in te houden.
 5. Het is niet toegestaan om tijdens een duel te rennen.
 6. Het is niet toegestaan om met schilden te slaan.
-7. Alhoewel het een geldige hitlocatie is verzoeken wij de deelnemers voorzichtig te zijn met het raken van geslachtsdelen, borsten en polsen.
-8. Het is toegestaan om onder- en bovenhands te slaan. Kijk hierbij wel uit voor hoofd en geslachtsdelen.
+7. Alhoewel het een geldige hitlocatie is verzoeken wij de deelnemers voorzichtig te zijn met het raken van borsten en polsen.
+8. Het is toegestaan om onder- en bovenhands te slaan. kijk hierbij wel uit voor hoofd enGeslachtsdelen.
 
 
 

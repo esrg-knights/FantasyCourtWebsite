@@ -39,7 +39,7 @@ resources:
 
 {{< message >}}
  _De tocht naar het hof is een lange reis_\
-_Daarom maakt deze pagina je wegwijs_
+ _Daarom maakt deze pagina je wegwijs_
 {{< /message >}}
 
 # Praktische Informatie
@@ -68,12 +68,12 @@ De gouden regel is ”doe niks wat ons dwingt om ons wapenbeleid aan te scherpen
 
 
 #### Veilig vechten regels
-1. Men mag niet met larp-Rekwisieten steken.
-2. Het is niet toegestaan om het hoofd of de nek te raken.
+1. Men mag niet met larp-rekwisieten steken.
+2. Het is niet toegestaan om het hoofd, geslachtsdelen of de nek te raken.
 3. Fysiek contact is ten alle tijden verboden.
 4. Men dient slagen in te houden.
 5. Het is niet toegestaan om tijdens een duel te rennen.
 6. Het is niet toegestaan om met schilden te slaan.
-7. Alhoewel het een geldige hitlocatie is verzoeken wij de deelnemers voorzichtig te zijn met het raken van geslachtsdelen, borsten en polsen.
-8. Het is toegestaan om onder- en bovenhands te slaan. Kijk hierbij wel uit voor hoofd en geslachtsdelen.
+7. Alhoewel het een geldige hitlocatie is verzoeken wij de deelnemers voorzichtig te zijn met het raken van borsten en polsen.
+8. Het is toegestaan om onder- en bovenhands te slaan. kijk hierbij wel uit voor hoofd enGeslachtsdelen.
 
