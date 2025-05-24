@@ -5,6 +5,35 @@ header-image:
   visibility: shown
 og:
   description: "Fantasy Court - Een gratis fantasy festival in Eindhoven"
+resources:
+    # Carousel resources are displayed in alphabetical order in the carousel.
+  - src: "01 fc-2022-balfolk.jpg"
+    name: "carousel/image-01"
+    title: "Fantasy Court balfolk 2022"
+  - src: "02_DSC5230.jpg"
+    name: "carousel/image-02"
+    title: "Fantasy Court balfolk 2024"
+  - src: "03_DSC5363.jpg"
+    name: "carousel/image-03"
+    title: "Fantasy Court volunteer 2024"
+  - src: "04 fc-2022-staal.jpg"
+    name: "carousel/image-04"
+    title: "Fantasy Court zwaardvechten 2022"
+  - src: "05 _DSC5218.jpg"
+    name: "carousel/image-05"
+    title: "Fantasy Court balfolk 2 2024"
+  - src: "06 fc-2022-boogschieten.jpg"
+    name: "carousel/image-06"
+    title: "Fantasy Court boogschieten 2022"
+  - src: "07 _DSC5134.jpg"
+    name: "carousel/image-07"
+    title: "Fantasy Court zwaardvechten 2024"
+  - src: "08 _DSC5866.jpg"
+    name: "carousel/image-08"
+    title: "Fantasy Court committee 2024"
+  - src: "09 Fantasy Court Eindhoven 2024-167.jpg"
+    name: "carousel/image-09"
+    title: "Fantasy Court crew 2024"
 ---
 
 {{< message >}}
