@@ -1,11 +1,11 @@
 ---
-title: Mood impression
+title: Impression
 og:
   description: "Fantasy Court - Free fantasy festival in Eindhoven"
 
 ---
-# Mood impression
-Fantasy Court has already had some great editions. Here you find some photos that show the mood of the festival:
+# Impression
+Fantasy Court has already had some great editions. Here you can find some photos that show the vibe of the festival:
 
 {{<gallery class="content-gallery" height="270" borderwidth= "3px">}}
   {{<image src="/images/2025/_DSC5086.JPG" >}}

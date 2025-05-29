@@ -5,36 +5,33 @@ header-image:
   visibility: shown
 resources:
     # Carousel resources are displayed in alphabetical order in the carousel.
-  - src: "fc-2022-muziek.jpg"
-    name: "carousel/image-00"
-    title: "Fantasy Court muziekoptreden 2022"
-  - src: "fc-2022-balfolk.jpg"
+  - src: "01 fc-2022-balfolk.jpg"
     name: "carousel/image-01"
     title: "Fantasy Court balfolk 2022"
-  - src: "fc-2022-workshop.jpg"
+  - src: "02_DSC5230.jpg"
     name: "carousel/image-02"
-    title: "Fantasy Court Balfolk workshop en markt 2022"
-  - src: "fc-2022-staal.jpg"
+    title: "Fantasy Court balfolk 2024"
+  - src: "03_DSC5363.jpg"
     name: "carousel/image-03"
-    title: "Fantasy Court zwaardvecht-demo met staal 2022"
-  - src: "fc-2022-waaiers.jpg"
+    title: "Fantasy Court volunteer 2024"
+  - src: "04 fc-2022-staal.jpg"
     name: "carousel/image-04"
-    title: "Fantasy Court waaiers 2022"
-  - src: "fc-2022-boogschieten.jpg"
+    title: "Fantasy Court zwaardvechten 2022"
+  - src: "05 _DSC5218.jpg"
     name: "carousel/image-05"
-    title: "Fantasy Court boogschieten 2022"
-  - src: "fc-2018-boogschieten.png"
+    title: "Fantasy Court balfolk 2 2024"
+  - src: "06 fc-2022-boogschieten.jpg"
     name: "carousel/image-06"
-    title: "Fantasy Court boogschieten 2018"
-  - src: "fc-2022-kleerhaak-workshop.jpg"
+    title: "Fantasy Court boogschieten 2022"
+  - src: "07 _DSC5134.jpg"
     name: "carousel/image-07"
-    title: "Fantasy Court rek-en-strek workshop 2022"
-  - src: "fc-2022-veld.jpg"
+    title: "Fantasy Court zwaardvechten 2024"
+  - src: "08 _DSC5866.jpg"
     name: "carousel/image-08"
-    title: "Fantasy Court 2022"
-  - src: "fc-2022-crew.jpg"
+    title: "Fantasy Court committee 2024"
+  - src: "09 Fantasy Court Eindhoven 2024-167.jpg"
     name: "carousel/image-09"
-    title: "Fantasy Court Organisatie en Vrijwilligers 2022"
+    title: "Fantasy Court crew 2024"
 ---
 
 {{< message >}}
@@ -42,15 +39,14 @@ _Farmers, nobles, citizens and travelers of all sort..._ \
 _You are all formally invited to enter the Fantasy Court._
 {{< /message >}}
 
-# We are busy translating the website into english. Most of the content is still in progress. Feel free to look at the Dutch site for up to date info.
 
 # What is Fantasy Court?
-##### Fantasy Court is a fantasy festival that is focused on the unique and somewhat niche culture surrounding fantasy and LARP (Live Action Role Playing). This festival has a vast array of stalls, associations, and activities that all fall under the purview of the awesome world of fantasy. This entails LARP associations, surprising board games, exotic foods, a LARP sword fighting tournament, LARP sword fighting for kids, storytellers, and a LARP archery range, as well as a wide variety of stalls that sell fantasy related wares. We offer all that belongs in the world of fantasy, and anything that will make you feel part of that world.
-Most importantly, everyone is welcome! Whether you’re a student or not, a parent with children or alone; it doesn't matter who you are. You will be welcome and you will find something to do. There will be workshops organised, various activities, and the impressive sword fighting tournament for children and adults! Do you want to know more? Check out [what’s happening ]({{< ref "/programma_2025" >}}).
+##### Fantasy Court is a fantasy festival that is focused on the unique and somewhat niche culture surrounding fantasy and LARP (Live Action Role Playing). This festival has a vast array of stalls, associations, and activities that all fall under the purview of the awesome world of fantasy. This entails LARP associations, surprising board games, exotic foods, a LARP sword fighting tournament, LARP sword fighting for kids, storytellers, and a LARP archery range, as well as a wide variety of stalls that sell fantasy-related wares. We offer all that belongs in the world of fantasy, and anything that will make you feel part of that world.
+##### Most importantly, everyone is welcome! Whether you’re a student or not, a parent with children or alone; it doesn't matter who you are. You will be welcome and you will find something to do. There will be workshops organised, various activities, and the impressive sword fighting tournament for children and adults! Do you want to know more? Check out [what’s happening ]({{< ref "/programma_2025" >}}).
 
 # Date and Location
 
-Fantasy Court takes place on the 8th of June on the Koe-veld on the campus of the Eindhoven University of Technology. The festival is free to visit. The festival terrain is open and does not require a ticket or reservation. Whether you are a student or not, a parent with children or coming on your own, something or organised for everyone. Would you like to know more? Feel free to take a look at the [program page.]({{< ref "/programma_2025" >}}).
+Fantasy Court takes place on the 8th of June on the Koe-veld on the campus of the Eindhoven University of Technology. The festival is free to visit. The festival terrain is open and does not require a ticket or reservation. Whether you are a student or not, a parent with children or coming on your own, something or organised for everyone. Would you like to know more? Feel free to take a look at the [program page.]({{< ref "/programma_2025" >}})
 
 {{< carousel "carousel/**" >}}
  
