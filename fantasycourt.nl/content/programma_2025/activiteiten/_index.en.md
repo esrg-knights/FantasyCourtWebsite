@@ -25,8 +25,9 @@ A complete list of rules can be found [here]({{< ref "/programma_2025/activiteit
 <!--{{<figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}-->
 
 ## Costume Competition
-Bring your finest fantasy garment creations and dazzle the jury with your skills! As an important note, this competition revolves around handmade costume pieces, and not who has bought the most beautiful outfit. This is not necessarily a cosplay competition, but we do not exclude cosplays.
+This year, Fantasy Court will again have a costume contest with fun prizes sponsored by our lovely exhibitors. You can register at the Fantasy Court Info stand on the day to participate in the Costume Contest. There are only limited spots, so first come, first served. It is important to note that these are homemade costumes. Please read [all the rules]({{< ref "/programma_2025/activiteiten/regels_kostuumwedstrijd" >}}). The costume contest starts at 2pm. If you want to participate, make sure you are on time.
 
+Translated with DeepL.com (free version)
 {{<figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}
 
 ## Activity Corner
