@@ -63,11 +63,11 @@ Je kunt je ter plekke inschrijven bij de Fantasy Court info stand. Er is maar ee
 Het toernooi bestaat uit een afvalcompetitie van duels met een tijdslimiet van twee minuten. Een overzicht van de regels kan worden gevonden op de [Activiteitenpagina]({{< ref "programma_2025/activiteiten/">}}). Deze zullen oop op locatie geprint worden.
 
 ### Hoe kan ik deelnemen aan de kostuumwedstrijd?
-Je kunt je op de dag van zelf bij de Fantasy Court Infostand inschrijven om deel te nemen aan de Kostuumwedstrijd. Er zijn slechts beperkte plekken, dus wie het eerst komt, wie het eerst maalt.
+Je kunt je op de dag van zelf bij de Fantasy Court Infostand inschrijven om deel te nemen aan de Kostuumwedstrijd. Er zijn slechts beperkte plekken, dus wie het eerst komt, wie het eerst maalt. Inschrijvingen sluiten uiterlijk 13:30.
 
 ### Wat zijn de regels van de kostuumwedstrijd?
-De kostuumwestrijd is open voor alle leeftijden. Je kan deelnemen in een zelfbedachte outfit. Onze zeer gewaardeerde jury zal de kostuums beoordelen. Hierin zullen ze een hoger oordeel geven aan zelfgemaakte creaties en gezamenlijk een winnaar selecteren.
-Een overzicht van de regels kan worden gevonden op de [Activiteitenpagina]({{< ref "programma_2025/activiteiten/">}}).
+De kostuumwestrijd is open voor alle leeftijden. Je kan deelnemen met een zelfbedachte en (voornamelijk) zelfgemaakte outfit, ook als iemand anders het voor je draagt als model. Directe cosplays zijn niet toegestaan, maar originele interpretaties van bestaande figuren wel. Onze zeer gewaardeerde jury zal de kostuums beoordelen. Hierin zullen ze een hoger oordeel geven aan zelfgemaakte creaties en gezamenlijk een winnaar selecteren.
+Een overzicht van de regels kan worden gevonden op de [Activiteitenpagina.]({{< ref "programma_2025/activiteiten/">}})
 
 ---
 ## **Overig**
@@ -91,9 +91,9 @@ Het meenemen van huisdieren op het campusterrein is toegestaan mits deze aangeli
 Iedereen is welkom en aangemoedigd om in kostuum, cosplay of historische kleding naar Fantasy Court te gaan. Zorg wel dat je kostuum acceptabel is om in een openbare ruimte te dragen.
 
 ### Mag ik een (larp)-zwaard meenemen naar Fantasy Court?
-Het dragen van foam larp zwaarden is toegestaan. Er mag met foam rekwisieten gevochten worden op de *daarvoor aangewezen plekken*. Men is zelf verantwoordelijk voor de veiligheid van de larp-rekwisieten. De organisatie mag ten alle tijden rekwisieten controleren en vragen om onveilige rekwisieten van het terrein te verwijderen. Houd bij het vechten ook rekening met de veilig vechten regels.
+Het dragen van foam larp zwaarden is toegestaan. Er mag met foam rekwisieten gevochten worden op de *daarvoor aangewezen plekken*. Men is zelf verantwoordelijk voor de veiligheid van de larp-rekwisieten. De organisatie mag ten alle tijden rekwisieten controleren en vragen om onveilige rekwisieten van het terrein te verwijderen. Houd bij het vechten ook rekening met de veilig vechten regels (zie onderstaand).
 
-Het dragen  van en vechten met harde houten, metalen of plastic wapens is niet toegestaan. Alsmede het dragen van “echt lijkende” larpwapens. Fantasy Court vindt plaats op openbaar terrein dus wij moeten ons aan de wapenwet houden. Ook ter plekke gekochte messen of andere wapens dienen verpakt te blijven.
+Het dragen van en vechten met harde houten, metalen of plastic wapens is niet toegestaan. Alsmede het dragen van “echt lijkende” larpwapens. Fantasy Court vindt plaats op openbaar terrein dus wij moeten ons aan de wapenwet houden. Ook ter plekke gekochte messen of andere wapens dienen verpakt te blijven.
 
 De gouden regel is ”doe niks wat ons dwingt om ons wapenbeleid aan te scherpen”. Gebruik vooral je gezond verstand en zoek geen grenzen op zodat wij dat ook niet hoeven te doen.
 

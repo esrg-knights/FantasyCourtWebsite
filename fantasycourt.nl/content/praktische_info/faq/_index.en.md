@@ -63,10 +63,10 @@ You can sign up on-site at the Fantasy Court info stand. Reserving a spot to par
 The tournament works on an elimination bracket system, composed of one-on-one duels limited to two minutes each. An overview of the rules can be found on the [Activities page,]({{< ref "programma_2025/activiteiten/">}}) but a printout will also be available to review at the tournament location.
 
 ### How do I participate in the costume contest?
-You can sign up on the day of the festival at the Fantasy Court info stand to take part in the costume contest. There are only a certain number of participation slots, which will be filled on a first-come first-serve basis.
+You can sign up on the day of the festival at the Fantasy Court info stand to take part in the costume contest. There are only a certain number of participation time slots, which will be filled on a first-come first-serve basis, so sign up as early as possible. Signups close at 13:30 at the latest, or earlier if all slots are filled.
 
 ### What are the rules of the costume contest?
-The costume contest is open to all ages. You can participate with any outfit or costume that you have designed and (mostly) made yourself. Our own grand jury will judge the costumes. Self-made costume pieces will be judged favorably, and the jury will collectively decide the winner.
+The costume contest is open to all ages. You can participate with any outfit or costume that you have designed and (mostly) made yourself, even if someone else wears it as your 'model.' Direct cosplays are not permitted, but reimaginings/original interpretations of existing characters are. Our own grand jury will judge the costumes. Self-made costume pieces will be judged favorably, and the jury will collectively decide the winner.
 You can find an overview of the rules on the [Activities page.]({{< ref "programma_2025/activiteiten/">}})
 
 ---
