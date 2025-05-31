@@ -22,9 +22,10 @@ Fantasy Court is a fantasy festival with a large variety of stalls, activities, 
 Fantasy Court does not have an ATM/cash machine on-site. Many vendors accept both cash and card payments, but some can only accept one of the two. Please make sure you are prepared for this in advance with sufficient cash. The closest ATM is about a kilometer away (by foot) on the Kruisstraat. 
 
 ### How do we keep Fantasy Court free for visitors?
-We have a group of loyal volunteers from the [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) (Eindhoven's roleplaying and board game association), whose blood, sweat, and tears make Fantasy Court possible. We have also been fortunate enough to receive a financial contribution in 2024 and 2025 from [StEHven](https://stehven.nl/en/en-home/), which allows us to pay for the facilities. Furthermore, we receive funds from the [Rabo Clubsupport](https://www.rabobank.nl/leden/clubsupport).
+We have a group of loyal volunteers from the [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) (Eindhoven's roleplaying and board game association), whose blood, sweat, and tears make Fantasy Court possible. We have also been fortunate enough to receive a financial contribution in 2024 and 2025 from [StEHven,](https://stehven.nl/en/en-home/) which allows us to pay for the facilities. Furthermore, we receive funds from the [Rabo Clubsupport.](https://www.rabobank.nl/leden/clubsupport)
 
 {{< figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{< figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}}
+
 
 Starting last year, we have also begun offering our own merch at the festival info stand, which allows our visitors to support us directly!
 

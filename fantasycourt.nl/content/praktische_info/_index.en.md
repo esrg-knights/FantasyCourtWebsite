@@ -37,7 +37,6 @@ resources:
     title: "Fantasy Court Image :counter"
 ---
 
-
 {{< message >}}
  _The trip to the court can be quite a long ride_\
 _Let this info page be your guide!_
@@ -46,7 +45,7 @@ _Let this info page be your guide!_
 # Practical Information
 
 ## Edition 2025
-Welcome to Fantasy Court 2025! This edition of the festival will take place on June 8 in Eindhoven on the TU/e campus, from 11:00 to 18:00! As soon as the information is made public, you will be able to find an overview of our program, the registered vendors and organizations, and a list of activites on the [Programme page.]({{< ref "/programma_2025" >}}) To help you find your way here, we have also included some more practical info:
+Welcome to Fantasy Court 2025! This edition of the festival will take place on June 8 in Eindhoven on the TU/e campus, from 11:00 to 18:00! As soon as the information is made public, you will be able to find an overview of our program, the registered vendors and organizations, and a list of activities on the [Programme page.]({{< ref "/programma_2025" >}}) To help you find your way here, we have also included some more practical info:
 
 ## Facilities
 There are a number of food stalls at the event. There is also a tap for free water nearby (but no free cups, so bring your own mug or bottle). There will be a mobile toilet unit set up at the event, including a large stall for those with mobility aids or large costumes. 

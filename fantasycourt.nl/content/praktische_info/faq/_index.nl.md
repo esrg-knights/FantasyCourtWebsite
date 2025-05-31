@@ -19,10 +19,10 @@ Dit zijn veel gestelde vragen en de antwoorden daarop. Heb je een vraag die hier
 Fantasy Court is een fantasyfestival met een grote verscheidenheid aan kraampjes, activiteiten en verenigingen die onder de noemer van fantasy vallen. Dit zijn onder andere Larp verenigingen, thematische bordspellen, exotisch eten, een Larp-zwaardvechttoernooi, Larp-boogschietenen een grote variatie aan marktkraampjes.
 
 ### Kan ik geld bijpinnen op Fantasy Court?
-Fantasy court heeft geen geldopnamepunt op locatie. Veel verkopers accepteren zowel contant als pinbetalingen. Maar sommigen kunnen enkel één van beiden accepteren. Zorg alstublieft dat je hierop voorbereid bent. Het dichtstbijzijnde pinautomaat is in de kruisstraat op ruwweg een kilometer lopen. 
+Fantasy Court heeft geen geldopnamepunt op locatie. Veel verkopers accepteren zowel contant als pinbetalingen. Maar sommigen kunnen enkel één van beiden accepteren. Zorg alstublieft dat je hierop voorbereid bent. Het dichtstbijzijnde pinautomaat is in de kruisstraat op ruwweg een kilometer lopen. 
 
 ### Hoe houden we Fantasy Court gratis voor bezoekers?
-We hebben een groep loyale vrijwilligers vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) wiens bloed, zweet en tranen Fantasy Court mogelijk maken. Ook hebben we in 2024 en 2025 een financiële bijdrage gekregen vanuit [StEHven](https://stehven.nl/en/en-home/) waardoor we de faciliteiten kunnen betalen. Ten slotte ontvangen we geld vanuit de [Rabo Clubsupport](https://www.rabobank.nl/leden/clubsupport).
+We hebben een groep loyale vrijwilligers vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) wiens bloed, zweet en tranen Fantasy Court mogelijk maken. Ook hebben we in 2024 en 2025 een financiële bijdrage gekregen vanuit [StEHven](https://stehven.nl/en/en-home/) waardoor we de faciliteiten kunnen betalen. Ten slotte ontvangen we geld vanuit de [Rabo Clubsupport.](https://www.rabobank.nl/leden/clubsupport)
 
 {{< figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{< figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}}
 
@@ -30,14 +30,14 @@ We hebben een groep loyale vrijwilligers vanuit het [Eindhovense Studenten Rolle
 Sinds vorig jaar kunnen onze bezoekers ons ook helpen door op het festival merch te kopen.
 
 ### Wat voor soort kramen zullen er zijn?
-We hebben een grote verscheidenheid aan standhouders. Zo zijn er onder andere mensen die zelf fantasy-kleding maken. Spellenverkopers en kunstenaars. Je kan ze allemaal vinden op de [lijst van kramen]({{< ref "/programma_2025/kramen/" >}}).
+We hebben een grote verscheidenheid aan standhouders. Zo zijn er onder andere mensen die zelf fantasy-kleding maken. Spellenverkopers en kunstenaars. Je kan ze allemaal vinden op de [lijst van kramen.]({{< ref "/programma_2025/kramen/" >}})
 
 ---
 ## **Muziek**
 ### Hebben jullie muziek?
 Fantasy court heeft live muziek. Zodra we de artiesten geboekt hebben kan je ze vinden op de [Lijst van artiesten]({{< ref "/programma_2025/artiesten/" >}}).
 
-### Kan ik op Fantasy Court Optreden?
+### Kan ik op Fantasy Court optreden?
 Super leuk dat je bij ons wil komen optreden, we zijn altijd super enthusiast over meer muzikanten. Stuur ons [een mailtje](mailto:fc@kotkt.nl) om hier verder over te praten.
 
 ---
