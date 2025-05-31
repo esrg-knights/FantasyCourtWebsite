@@ -46,7 +46,7 @@ _Let this info page be your guide!_
 # Practical Information
 
 ## Edition 2025
-Welcome to Fantasy Court 2025! This edition of the festival will take place on June 8 in Eindhoven on the TU/e campus, from 11:00 to 18:00! As soon as the information is made public, you will be able to find an overview of our program, the registered vendors and organizations, and a list of activites on the [Programme page]({{< ref "/programma_2025" >}}). To help you find your way here, we have also included some more practical info:
+Welcome to Fantasy Court 2025! This edition of the festival will take place on June 8 in Eindhoven on the TU/e campus, from 11:00 to 18:00! As soon as the information is made public, you will be able to find an overview of our program, the registered vendors and organizations, and a list of activites on the [Programme page.]({{< ref "/programma_2025" >}}) To help you find your way here, we have also included some more practical info:
 
 ## Facilities
 There are a number of food stalls at the event. There is also a tap for free water nearby (but no free cups, so bring your own mug or bottle). There will be a mobile toilet unit set up at the event, including a large stall for those with mobility aids or large costumes. 
@@ -54,7 +54,7 @@ There are a number of food stalls at the event. There is also a tap for free wat
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
 ## Location and Parking
-The event is on a field with no individual address on the Eindhoven University of Technology (TU/e) campus. The navigation address for the event and the nearby parking lot is: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is slightly to the south of this point, at the following coordinates: 51.447228696063085, 5.484236714828935
+The event is on a field with no individual address on the Eindhoven University of Technology (TU/e) campus. The navigation address for the event and the nearby parking lot is: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is slightly to the south of this point, at the following coordinates: 51.44723, 5.48424
 
 We are just a few minutes' walk to the northeast from the train- and bus station **Eindhoven Centraal**. Some small directional signs will also be set up on and near the campus.
 
@@ -75,6 +75,6 @@ The golden rule is ”don't do anything that forces us to make our weapon policy
 4. Hold back your blows, i.e., do not strike with full force.
 5. It is not permitted to run during a duel.
 6. It is not permitted to strike others with a shield.
-7. Please be extra careful when striking the chest, or wrists, as these areas are permitted to strike but may also be more painful.
-8. You may use overhand or understand strikes, but remember again to avoid the head and be careful with strikes to the crotch.
+7. Please be extra careful when striking the chest or wrists, as these areas are permitted to strike but may also be more painful.
+8. You may use overhand or understand strikes, but remember again to avoid the head and the crotch.
 

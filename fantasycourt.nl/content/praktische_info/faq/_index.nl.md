@@ -63,7 +63,7 @@ Je kunt je ter plekke inschrijven bij de Fantasy Court info stand. Er is maar ee
 Het toernooi bestaat uit een afvalcompetitie van duels met een tijdslimiet van twee minuten. Een overzicht van de regels kan worden gevonden op de [Activiteitenpagina]({{< ref "programma_2025/activiteiten/">}}). Deze zullen oop op locatie geprint worden.
 
 ### Hoe kan ik deelnemen aan de kostuumwedstrijd?
-Vanwege de grote interesse afgelopen jaar, moeten deelnemers zich van tevoren inschrijven. De details volgen nog.
+Je kunt je op de dag van zelf bij de Fantasy Court Infostand inschrijven om deel te nemen aan de Kostuumwedstrijd. Er zijn slechts beperkte plekken, dus wie het eerst komt, wie het eerst maalt.
 
 ### Wat zijn de regels van de kostuumwedstrijd?
 De kostuumwestrijd is open voor alle leeftijden. Je kan deelnemen in een zelfbedachte outfit. Onze zeer gewaardeerde jury zal de kostuums beoordelen. Hierin zullen ze een hoger oordeel geven aan zelfgemaakte creaties en gezamenlijk een winnaar selecteren.
