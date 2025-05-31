@@ -15,13 +15,13 @@ Alhoewel de organisatie voorzichtig te werk gaat is deelname op eigen risico.
 ## 1. Veilig vechten
 &nbsp;
 * Men mag niet met het wapen steken.
-* Het is niet toegestaan om het hoofd of de nek te raken.
+* Het is niet toegestaan om het hoofd, de nek, of de geslachtsdelen te raken.
 * Fysiek contact is ten alle tijden verboden.
 * Men dient slagen in te houden.
 * Het is niet toegestaan om tijdens een duel te rennen.
 * Het is niet toegestaan om met schilden te slaan.
-* Alhoewel het een geldige hitlocatie is verzoeken wij de deelnemers voorzichtig te zijn met het * raken van geslachtsdelen, borsten en polsen.
-* Het is toegestaan om onder- en bovenhands te slaan. kijk hierbij wel uit voor hoofd en geslachtsdelen.
+* Alhoewel het een geldige hitlocatie is verzoeken wij de deelnemers voorzichtig te zijn met het raken van bortsen en polsen.
+* Het is toegestaan om onder- en bovenhands te slaan. Kijk hierbij wel uit voor hoofd en geslachtsdelen.
 ## 2. Het duel
 &nbsp;
 * Het duel vind plaats op het duelveld. als een deelnemer het veld verlaat krijgt de tegenstander een punt.
@@ -33,7 +33,7 @@ Alhoewel de organisatie voorzichtig te werk gaat is deelname op eigen risico.
 * Een duel begint en hervat met aankondiging van de scheidsrechters en eindigt of wordt onderbroken door aankondiging van de scheidsrechters of als gevolg van deze regels.
 ## 3. Geldig contact van wapens
 &nbsp;
-* Een deelnemer is geraakt als er contact is tussen de deelnemer en het zwaard van de tegenstander
+* Een deelnemer is geraakt als er contact is tussen de deelnemer en het zwaard van de tegenstander.
 * Als iemand geraakt wordt is het die persoon diens verantwoordelijkheid om dit aan te geven. Dit kan met een verbaal signaal zoals "hit" of "geraakt" of door stil te staan en het zwaard met één hand horizontaal in de lucht te houden.
 * Het consequent niet aangeven van geraakt worden is vals spelen en kan als dusdanig worden bestraft.
 * Geldig contact is elk contact dat wordt gemaakt vanuit een grote slag zonder overtreding van de toernooiregels.

@@ -1,1 +1,1 @@
-lorem ipsum
+This page should not be visible. If you have somehow reached this page via a link on the Fantasy Court website, please send a mail to organisatie@fantasycourt.nl and we will resolve the technical issue.

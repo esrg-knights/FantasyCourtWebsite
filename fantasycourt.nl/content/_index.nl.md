@@ -46,7 +46,7 @@ resources:
 
 # Datum en Locatie
 
-Fantasy court vind plaats op 8 juni op het Koe-veld op de Campus van de Technische Universiteit Eindhoven. Het Festival is gratis te bezoeken. Het terrein is open en er is geen toegangsbewijs of reservering nodig. Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Wil je meer weten over onze activiteiten? Kijk dan op de [programma-pagina]({{< ref "/programma_2025" >}}).
+Fantasy court vind plaats op 8 juni op het Koe-veld op de Campus van de Technische Universiteit Eindhoven. Het Festival is gratis te bezoeken. Het terrein is open en er is geen toegangsbewijs of reservering nodig. Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. Wil je meer weten over onze activiteiten? Kijk dan op de [programma-pagina.]({{< ref "/programma_2025" >}})
 
 {{< carousel "carousel/**" >}}
 
@@ -55,12 +55,12 @@ Fantasy court vind plaats op 8 juni op het Koe-veld op de Campus van de Technisc
 
 {{< latestNews >}}
 
-Bekijk al het nieuws in het [nieuwsarchief]({{< ref "/news" >}} "naar de archieven!").
+Bekijk al het nieuws in het [nieuwsarchief.]({{< ref "/news" >}} "naar de archieven!")
  
 
 # Sponsoren
 
-Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) die ons facilitet met een veld voor het festival de vrijwilligers leveren. Verder ontvangen wij een financiële bijdrage vanuit [StEHven](https://stehven.nl/en/en-home/) die ons helpt om de faciliteiten op het veld te betalen. Ten slotte ontvangen we geld vanuit de [Rabo Clubsupport](https://www.rabobank.nl/leden/clubsupport).  
+Fantasy Court wordt georganiseerd vanuit het [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) die ons facilitet met een veld voor het festival de vrijwilligers leveren. Verder ontvangen wij een financiële bijdrage vanuit [StEHven](https://stehven.nl/en/en-home/) die ons helpt om de faciliteiten op het veld te betalen. Ten slotte ontvangen we geld vanuit de [Rabo Clubsupport.](https://www.rabobank.nl/leden/clubsupport)
 
 {{<figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{<figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}} 
 

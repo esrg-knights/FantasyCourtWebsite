@@ -60,7 +60,7 @@ Op **Zondag 11 Juni** was het weer zover, Fantasy Court 2023 was van **11.00-18.
 
 
 
-Fantasy Court 2023 vindt plaats op de campus van de Technische Universiteit Eindhoven op *het Koevveld*.
+Fantasy Court 2023 vindt plaats op de campus van de Technische Universiteit Eindhoven op *het Koeveld*.
 {{< renderImageResource id="fc-2023-map" path="fc-koeveld-campus-map.png" class="centeredimg" style="width: 400px;" >}}
 
 ## Editie 2022 - Open the Gates!
@@ -87,7 +87,7 @@ De Cursor heeft een video gemaakt en een [artikel](https://www.cursor.tue.nl/en/
 
 De editie [Fantasy Court 2018](https://www.facebook.com/events/121539801858080/), [Fantasy Court 2017](https://www.facebook.com/events/795289227288793/) en de voorloper [LarpBattle 2016](https://www.facebook.com/events/564866377026074/) trokken al veel enthousiast publiek en deze keer belooft het alleen nog maar beter te worden!
 
-Ook hebben we meegedaan bij het [“Freemdom is”](http://agendastrijp.nl/evenement/freedom-is-bevrijdingsfestival-eindhoven/) Bevrijdingsfestival van 5 mei 2017.
+Ook hebben we meegedaan bij het [“Freedom is”](http://agendastrijp.nl/evenement/freedom-is-bevrijdingsfestival-eindhoven/) Bevrijdingsfestival van 5 mei 2017.
 
 Daarnaast heeft een van de organisatoren, en meerdere leden van de ons overkoepelende studentenvereniging een geweldig [interview](https://www.ed.nl/eindhoven/eindje-mee-met-dide-vonk-3-3-larpers~a611d2be/) gegeven over wat LARPen nu eigenlijk is, en hoe ontzettend tof het wel niet is!
 

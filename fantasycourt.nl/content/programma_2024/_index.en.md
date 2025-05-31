@@ -9,9 +9,8 @@ title: Programme
 _All to amuse our amazing audience_
 {{< /message >}}
 
-# Program Edition 2024
+# Programme Edition 2024
 {{< figure src="/images/2024/Programma_2024_1.png" alt="Programme" width="80%" >}}
-
 
 # Confirmed Artists
 This year, Fantasy Court is pleased to announce the following artists: 
@@ -23,15 +22,14 @@ This year, Fantasy Court is pleased to announce the following artists:
 
 # Confirmed Activities
 So far, the following activities have been confirmed:
-
 ### On the Tournament Field
 Several activities and demonstrations will take place on the tournament field:
-- **LARP Sword fighting Tournament:** An exciting 1-on-1 tournament for all levels of experience! Can you win the grand prize? Attendance is free for all participants.
+- **LARP Sword fighting Tournament:** An exciting 1-on-1 tournament for all levels of experience! Can you win the grand prize? Participation is free for all participants.
 - **Historical sword fighting demonstration:** Throughout the day, the Zwaardkring shall be present to give demonstrations in historical sword fighting. They will explain about the medieval art of sword fighting, their weapons and much more. Do not shy away from asking them about their sport!
 
 ### On the stage
 
-- **Costume Competition:** In the morning at the info stand, you will be able to sign up for the costume competition! Wear your finest fantasy clothing creations and dazzle the jury with your skills! Note: this is not necessarily a cosplay competition, but we do not exclude cosplays.
+- **Costume Competition:** In the morning at the info stand, you will be able to sign up for the costume competition! Wear your finest fantasy clothing creations and dazzle the jury with your skills! It is mportant to know that this contest is focused on self-made outfits, and not who has bought the most beautiful costume. Note: this is not necessarily a cosplay competition, but we do not exclude cosplays.
 
 ### Activity corner
 In the world of fantasy, there is not only a lot to see, but also also many activities you can participate in.
@@ -39,7 +37,6 @@ In the world of fantasy, there is not only a lot to see, but also also many acti
 - **NERF Shooting Range:** A brand-new game created by Fantasy Court volunteers. Compete with your friends in this game of NERF dart shooting which tests your accuracy and speed. Can you pass the darts through the gates before they close?
 - **LARP Pluchie Archery:** Our classic 'stuffed animal archery' game previously seen at Koningsdag. Shoot soft foam arrows at cuddly toys and keep whichever you manage to hit!
 - **Various Outdoor Games:** We'll have plenty of simple field games open all day, such as cube.
-- **Larps** Our lovely LARPS 'Toys in the Attic' and Ravenskeep have returned and will be hosting some fun activities for you! Toys in the Attic will hand out quests for you to complete and Ravenskeep will play a sport from their larp. 
 
 ### At the vendors
 Not only do our vendors have great products for sale, some of them also have awesome activities!
@@ -102,7 +99,7 @@ Not only do our vendors have great products for sale, some of them also have awe
 - **[Yayday’s yay-days](https://www.instagram.com/life_is_art_apparently?igsh=YXE1ejhvb2drYzJl):** An artist creates all kinds of items. 
 - **[TheDreamyCauldron](https://www.etsy.com/shop/TheDreamyCauldron):** Dreams come true in the form of jewelry with magic potions.
 - **[Vintage Fantasy Flair](https://www.facebook.com/vintagefantasyflair):** Affordable Fantasy clothing and accessories in a 2nd hand look.
-- **[Cross Elf](-)** 
+- **Cross Elf**
 - **[Custom Costumes](customcostumes.nl):** Handmade ears, tails and other costume parts.
 - **[Nooni-en-Neik](https://www.nooni-en-neik.nl/):** Gnomes, gnomes, gnomes and gnomes.
 - **[Wancelot](wancelot.nl):** A die for every occasion.

@@ -1,12 +1,10 @@
-We will open the subscriptions soon. Do you have any questions---
-title: Vendors & Acts
-header-image:
-  url: images/FC_crew.jpg
-  position-x: 50%
-  position-y: 50%
+---
+title: Vendors
 og:
   description: "In order to make Fantasy Court the best version it could be, we are looking for people who can enrich the experience in their own way. Vendors, acts, workshops, demos, LARP associations, or anything else that fits!"
 ---
+
+# This page should not be visible. If you have somehow reached this page via a link on the Fantasy Court website, please send a mail to organisatie@fantasycourt.nl and we will resolve the technical issue.
 
 {{< message >}}
   _To all the farmers, bakers, salesmen, living of their goods_ \

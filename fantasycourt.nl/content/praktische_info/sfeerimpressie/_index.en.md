@@ -1,13 +1,13 @@
 ---
 title: Impression
 og:
-  description: "Fantasy Court - Free fantasy festival in Eindhoven"
+  description: "Fantasy Court - A free fantasy festival in Eindhoven"
 
 ---
 # Impression
 Fantasy Court has already had some great editions. Here you can find some photos that show the vibe of the festival:
 
-{{<gallery class="content-gallery" height="270" borderwidth= "3px">}}
+{{<gallery class="content-gallery" height="270">}}
   {{<image src="/images/2025/_DSC5086.JPG" >}}
   {{<image src="/images/2025/_DSC5134.JPG" >}}
   {{<image src="/images/2025/_DSC5138.JPG" >}}
