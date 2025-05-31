@@ -4,7 +4,7 @@ og:
   description: "Om Fantasy Court de beste versie ooit te kunnen geven zijn we op zoek naar mensen die de ervaring op hun eigen manier kunnen verrijken. Standhouders, acts, workshops, demo's, LARP-verenigingen, of iets anders dat past!"
 ---
 
-!!!!!DEZE WORDT NIET MEER GEBRUIKT ZO VER IK KAN ZIEN!!!!!!!!
+# This page should not be visible. If you have somehow reached this page via a link on the Fantasy Court website, please send a mail to organisatie@fantasycourt.nl and we will resolve the technical issue.
 
 {{< message >}}
   _Handelaren, edellieden en heren van de gunsten,_ \

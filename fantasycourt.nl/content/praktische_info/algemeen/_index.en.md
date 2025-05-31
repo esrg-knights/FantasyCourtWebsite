@@ -1,1 +1,1 @@
-# We are busy translating the website into english. Most of the content is still in progress. Feel free to look at the Dutch site for up to date info.
+This page should not be visible. If you have somehow reached this page via a link on the Fantasy Court website, please send a mail to organisatie@fantasycourt.nl and we will resolve the technical issue.

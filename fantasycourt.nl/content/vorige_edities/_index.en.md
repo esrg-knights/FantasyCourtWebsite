@@ -35,31 +35,41 @@ resources:
   - src: "**"
     name: "image-:counter"
     title: "Fantasy Court Image :counter"
+og:
+  description: "View the history of Fantasy Court!"
 ---
 
 {{< message >}}
 _Memories are made to last_ \
-_Therefore here we show our past._
+_Therefore here we show our past_
 {{< /message >}}
 
 # Previous Editions
+
+
 ## Edition 2024
 
-The 2024 Edition took place on the 9th of June. The festival grew a little with the addition of another piece of field, but kept its charm.
+The 2024 Edition took place on the 9th of June. The festival grew a little, in size but also in charm. We began investing in our own audio equipment so that we could be less reliant on needing to borrow all our technical items. We were also able to reserve an extra area of field next to our usual location so that we had more space to spread out.
+
+Thanks to a sponsorship by StEHven, we were able to invest in more facilities!
 
 
 ## Edition 2023
 
-On **Sunday, June 11th**, Fantasy Court returned from 11.00h to 18.00h. This edition again featured vendors selling their items at a market, epic battles for both veterans and beginners during the LARP-swordfighting tournament, beautiful music made by various artists, and the possibility to win plushies during archery! It was great to see the festival grow - in fact, we started reaching the space limits of our field.
+On **Sunday, June 11th**, Fantasy Court returned from 11:00 to 18:00. This edition again featured vendors selling their items at a market, epic battles for both veterans and beginners during the LARP-swordfighting tournament, beautiful music made by various artists, and the possibility to win plushies during archery! It was great to see the festival grow - in fact, we started reaching the space limits of our field.
 
+
+
+Fantasy Court 2023 took place on the campus of the Eindhoven University of Technology on *the Koeveld*.
+{{< renderImageResource id="fc-2023-map" path="fc-koeveld-campus-map.png" class="centeredimg" style="width: 400px;" >}}
 
 ## Edition 2022 - Open the Gates!
-The 2022-edition of Fantasy Court was a grand success, especially after all the lockdowns. The vibe was festive as always, with with a market, a LARP swordfighting tournament, and archery, just like in the good old days! For this reason, this edition also had a special theme: *Open the Gates!*.
+The 2022 edition of Fantasy Court was a grand success, especially after all the lockdowns. The vibe was festive as always, with with a market, a LARP swordfighting tournament, and archery, just like in the good old days! For this reason, this edition also had a special theme: *Open the Gates!*
 
-In 2022, we cooperated with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP-organisations together hosted a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, extra activities like a NERF shooting range were set up, meaning that there were a lot more fun things to do throughout the day itself.
+In 2022, we cooperated with the [LARP Platform](https://www.larp-platform.nl) to create a LARP-corner, where different LARP organisations together hosted a cosy corner for new people who are interested in LARP and the whole world around it. Furthermore, extra activities like a NERF shooting range were set up, meaning that there were a lot more fun things to do throughout the day itself.
 
 ## Edition 2021
-Fantasy Court 2021 took place online on this very website, where vendors who would have normally attended a physical event each got their own subpage. These subpages consisted of great photos, fun facts about vendors or Fantasy Court itself, and of course the items sold by each vendor. By "walking around" the digital festival, you got to know the answers to the treasure hunt, which would give you a chance to win the last [LARP Xperience box ](https://www.larp-platform.nl/merch/xperiencebox-2021/) from the LARP Platform!
+Fantasy Court 2021 took place online on this very website, where vendors who would have normally attended a physical event each got their own subpage. These subpages consisted of great photos, fun facts about vendors or Fantasy Court itself, and of course the items sold by each vendor. By "walking around" the digital festival, you got to know the answers to the treasure hunt, which would give you a chance to win the last [LARP Xperience box](https://www.larp-platform.nl/merch/xperiencebox-2021/) from the LARP Platform!
 
 *The winner of the treasure was announced through our social media. Congrats!*
 
@@ -74,8 +84,13 @@ The Cursor made a video and wrote an [article](https://www.cursor.tue.nl/en/news
 [Fantasy Court 2019](https://www.facebook.com/events/2583251595022623/) took place on the afternoon of the 2nd of June 2019, on the campus of the Technical University of Eindhoven. In order to ensure success, we ordered an extra serving of good weather. Sadly, we got a bit too much sun, resulting in high temperatures. This wasn't enough to spoil the fun, though, and with an additional layer of suntan, we managed to make it a beautiful event full of amazing stories, brave combat, and all-around fun.
 
 ## Predecessors
-The festival originally started back in 2016 as the [LarpBattle](https://www.facebook.com/events/564866377026074/), followed by two successful editions of Fantasy Court: [Fantasy Court 2018](https://www.facebook.com/events/121539801858080/) and [Fantasy Court 2017](https://www.facebook.com/events/795289227288793/").
-Since then the festival, has kept being developed to grow even better each year.
+
+The festival originally started back in 2016 as the [LarpBattle,](https://www.facebook.com/events/564866377026074/) followed by two successful editions of Fantasy Court: [Fantasy Court 2018](https://www.facebook.com/events/121539801858080/) and [Fantasy Court 2017](https://www.facebook.com/events/795289227288793/").
+Since then, the festival has kept being developed to grow even better each year.
+
+We also participated in the [“Freedom is”](http://agendastrijp.nl/evenement/freedom-is-bevrijdingsfestival-eindhoven/) freedom festival on May 5, 2017.
+
+One of the organisers, and several members of the student association we are connected to, also participated in an [interview](https://www.ed.nl/eindhoven/eindje-mee-met-dide-vonk-3-3-larpers~a611d2be/) about what LARP actually is, and how incredibly cool it is! (Interview is in Dutch)
 
 
 {{< message margin-top="80px" margin-bottom="100px">}}

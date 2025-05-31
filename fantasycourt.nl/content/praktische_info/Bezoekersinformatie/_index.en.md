@@ -1,1 +1,1 @@
-=this page should not be visible=
+This page should not be visible. All visitor information can be found at https://www.fantasycourt.nl/praktische_info/. If you have somehow reached this page via a link on the Fantasy Court website, please send a mail to organisatie@fantasycourt.nl and we will resolve the technical issue.

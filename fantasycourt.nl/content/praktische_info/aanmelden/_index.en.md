@@ -19,7 +19,6 @@ Om vast te stellen wat we bieden en verwachten hebben we een inschrijfreglement 
 
 <!--Bij vragen is het altijd mogelijk om contact met ons op te nemen via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl). Zo kijken wij graag of ook jij kan bijdragen aan een geweldig festival.-->
 
-
 # The signups for 2025 are now closed
 Signups for vendors are closed for this year's edition of the festival. Fantasy Court is freely accessible for visitors with no registration needed, so you are wlecome to stop by and subscribe for next year if you wish! If you have any questions or want to be added to the list of backup/replacement vendors, please [contact us.](mailto:standhouders@fantasycourt.nl)
 
