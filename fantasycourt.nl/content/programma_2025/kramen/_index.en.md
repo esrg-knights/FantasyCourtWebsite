@@ -31,7 +31,7 @@ Books4Life is a charity second-hand bookstore with an enormous collection of sci
 ---
 
 ### [Somnivera Events](www.somnivera-events.nl)
-Somnivera Events organizes magical events that completely immerse you in another world. Aisde from this, we also sell everything you could need for your fantasy outfit. From tiaras to elf ears, from witch's hats to gift necklaces. We also sell some nice little extra items such as book bags, keychains, and coin pouches!
+Somnivera Events organizes magical events that completely immerse you in another world. Aside from this, we also sell everything you could need for your fantasy outfit. From tiaras to elf ears, from witch's hats to gift necklaces. We also sell some nice little extra items such as book bags, keychains, and coin pouches!
 
 {{< figure src="images/2025/kramen/Screenshot_20240924_203452 - Irene Groot Nibbelink.jpg" alt="Somnivera Events" class="vendorpicture" width="60%" >}}
 
@@ -177,21 +177,21 @@ We are The Wanderer Games, also known as The Lugon Project. Lugon is an expansiv
 ---
 
 ### [CCGwinkel.nl](CCGwinkel.nl)
-The webshop for all your wargaming, boardgaming, roleplaying and collectable needs. Are you looking to improve your game evenigns with new rule sets, accessories, or collectibles? Then you've come to the right place!
+The webshop for all your wargaming, boardgaming, roleplaying and collectible needs. Are you looking to improve your game evenings with new rule sets, accessories, or collectibles? Then you've come to the right place!
 
 {{< figure src="images/2025/kramen/Maikeltegelaers-01 - Maikel Tegelaers.png" alt="CCGwinkel.n" class="vendorpicture" width="60%" >}}
 
 ---
 
 ### [Larpcenter.nl](Larpcenter.nl)
-We are here once more to provide all the LARP-articles you might need! This year, we are once again ready with our swords, armor pieces, and naturally our fantastic hangers. New this year, we also have a 'grabbelton' full of D&D minis! Don't miss out, come by our stand at Fantasy Court. We look forward to seeing you there!
+We are here once more to provide all the LARP articles you might need! This year, we are once again ready with our swords, armor pieces, and naturally our fantastic hangers. New this year, we also have a 'grabbelton' full of D&D minis! Don't miss out, come by our stand at Fantasy Court. We look forward to seeing you there!
 
 {{< figure src="images/2025/kramen/logo_large.webp" alt="Larpcenter.nl" class="vendorpicture" width="60%" >}}
 
 ---
 
 ### [Estonamy](https://www.instagram.com/estonamy?igsh=bG93MzM1MWdoZ3ox)
-As a 'creative millipede,' you can visit me for handmade and compound goods such as prints, stickers, crocheted keychains, posters, mystery CDs and more! Be amazed by illustrations, crochet pieces, new music, and even a bit of meme culture. You can find me under the artist name @estonamy!
+As a 'creative millipede,' you can visit me for handmade and compound goods such as prints, stickers, crocheted keychains, posters, mystery CDs, and more! Be amazed by illustrations, crochet pieces, new music, and even a bit of meme culture. You can find me under the artist name @estonamy!
 
 {{< figure src="images/2025/kramen/IMG-20240913-WA0069 - Esmee Kuilman.jpg" alt="Estonamy" class="vendorpicture" width="60%" >}}
 
@@ -210,7 +210,7 @@ I Do Hobbys was founded with the aim of turning hobby projects into real product
 
 ---
 
-### [Kapitein Kleerhaak en The Fantasy Fungi](Https://www.facebook.com/kapiteinkleerhaak)
+### [Kapitein Kleerhaak and The Fantasy Fungi](Https://www.facebook.com/kapiteinkleerhaak)
 Kapitein Kleerhaak (Captain Clothes-hanger) and The Fantasy Fungi are sailing this year once again to Fantasy Court. Not just with leather and embroidered crafts for fantasy, LARP, and RPG lovers, but also with a new treasure chest full of RPG books! Be sure to stop by and get yourself acquainted with the world of roleplay. Would you like to play a warrior in Dragonbane, or maybe a hobbit in The One Ring? Guaranteed fun for both new and experienced players!
 
 {{< figure src="images/2025/kramen/duo-logo3 - Jennifer Groeneveld.png" alt="Kapitein Kleerhaak en The Fantasy Fungi" class="vendorpicture" width="60%" >}}
@@ -310,7 +310,7 @@ Spooky Stuff, handmade home decorations with a dark edge.
 ---
 
 ### [Tell Tale Adventures](telltaleadventures.com)
-Step into the world of Tell Tale Adventures, your utimate destination for RPG adventure! Discover an amazing selection of compelling tabletop RPG adventures, designed to stimulate your imagination and enchant your group. Go yet another step further with our practical RPG-workshops, where storytelling, game mechanics, and character creation come to life. Perfect for beginners and seasoned adventurers, our workshops catalyzing creativity and collaboration. Are you excited to unleash your inner hero? Visit Tell Tale Adventures and embark today on your next epic quest!
+Step into the world of Tell Tale Adventures, your utimate destination for RPG adventure! Discover an amazing selection of compelling tabletop RPG adventures, designed to stimulate your imagination and enchant your group. Go yet another step further with our practical RPG workshops, where storytelling, game mechanics, and character creation come to life. Perfect for beginners and seasoned adventurers, our workshops catalyze creativity and collaboration. Are you excited to unleash your inner hero? Visit Tell Tale Adventures and embark today on your next epic quest!
 
 {{< figure src="images/2025/kramen/THTM v5.1 - Bjorn Rub.png" alt="Tell Tale Adventures" class="vendorpicture" width="40%" >}}
 
@@ -331,7 +331,7 @@ Lars Reen, a larper who makes costumes, is selling 10 years' worth of clothing p
 ---
 
 ### [Studio Wisely](https://www.instagram.com/studiowisely/profilecard/?igsh=Z3BkdjA4dHE0cDVw)
-Bij Studio Wisely you can find handmade products, for example felt brooches, ornaments, and cute creatures, as well as lovely earrings with beads of glass and natural stone. Without being limited to one style or medium, everything can be handmade with love and enjoyment!
+At Studio Wisely you can find handmade products, for example felt brooches, ornaments, and cute creatures, as well as lovely earrings with beads of glass and natural stone. Without being limited to one style or medium, everything can be handmade with love and enjoyment!
 
 {{< figure src="images/2025/kramen/Screenshot_20241221_141306_Instagram - Projekt Y.jpg" alt="Studio Wisely" class="vendorpicture" width="60%" >}}
 
@@ -345,7 +345,7 @@ Step into a world of fantasy and discover a special mix of costumes and accessor
 ---
 
 ### [Capimara]( https://bycapimara.com)
-Welcome to Capimara, where handmade TTRPG-accessories and magical curiosities come together! From unique polyhedral dice and deluxe dice bags and trays, to epoxy jewelry full of character and witchy wax melts - each piece is made with care, love, and craftsmanship. Whether you are already a seasoned adventurer or have just begun your first quest, at Capimara, you will find what you're looking for!
+Welcome to Capimara, where handmade TTRPG accessories and magical curiosities come together! From unique polyhedral dice and deluxe dice bags and trays, to epoxy jewelry full of character and witchy wax melts - each piece is made with care, love, and craftsmanship. Whether you are already a seasoned adventurer or have just begun your first quest, at Capimara, you will find what you're looking for!
 
 {{< figure src="images/2025/kramen/06092024-BRANDING-TAMARA-42 - Tamara van Gelder.jpg" alt="Capimara" class="vendorpicture" width="60%" >}}
 
@@ -374,28 +374,28 @@ Céline's Art Studio creates all kinds of stationary, sculptures and bookish ite
 ---
 
 ### [Legends Unbound]( www.legendsunbound.nl )
-Three friends, brought together by their passion for TTRPGs, share their combined creativity in Legends Unbound. In our webshop, you'll find unique, handmade accessories such as dice sets, trays, vaults, and fashion, fully personalizable to your wishes. We also offer live workshops and an ultimate D&D-experience where you can witness our passion for yourself. At Legends Unbound, everything revolves around craftsmanship, originality, and connecting people who share a love for TTRPGs!
+Three friends, brought together by their passion for TTRPGs, share their combined creativity in Legends Unbound. In our webshop, you'll find unique, handmade accessories such as dice sets, trays, vaults, and fashion, fully personalizable to your wishes. We also offer live workshops and an ultimate D&D experience where you can witness our passion for yourself. At Legends Unbound, everything revolves around craftsmanship, originality, and connecting people who share a love for TTRPGs!
 
 {{< figure src="images/2025/kramen/Collage LU - Danielle Ruiter.jpg" alt="Legends Unbound" class="vendorpicture" width="60%" >}}
 
 ---
 
 ### [Chaotic Spirit Studio](https://www.instagram.com/chaotic.spirit.studio/)
-Chaotic Spirit Studio is a game and art studio specializing in world-building, concept art, and game design, dedicated to creating captivating experiences for players of all ages.
+Chaotic Spirit Studio is a game and art studio specializing in worldbuilding, concept art, and game design, dedicated to creating captivating experiences for players of all ages.
 
 {{< figure src="images/2025/kramen/Logo wit met oranje vlam - Luc van der Burgh.png" alt="Legends Unbound" class="vendorpicture" width="40%" >}}
 
 ---
 
 ### [Horned Toad Games](https://www.hornedtoadgames.com/)
-Horned Toad Games is an indie boardgame publisher focused on publishing easy-to-learn yet tactically fun games. They also publish DND/TTRPG adventures in magazine format. 
+Horned Toad Games is an indie board game publisher focused on publishing easy-to-learn yet tactically fun games. They also publish DND/TTRPG adventures in magazine format. 
 {{< figure src="images/2025/kramen/Button - Robbin Hulsker.PNG" alt="Legends Unbound" class="vendorpicture" width="40%" >}}
 
 ---
 
 ### [Studio Vorm & Vlam](https://www.instagram.com/vormvlam.studio/)
 Studio Vorm & Vlam, Handmade ceramics that tell a story.
-Dream away with elegant mugs with matching saucers in the shape of an open book, enchanting "stirring staves" and stroopwafel coasters that look almost too delicious not to eat!
+Dream away with elegant mugs with matching saucers in the shape of an open book, enchanting stir-sticks, and stroopwafel coasters that look almost too delicious not to eat!
 
 Everything is cast by hand and designed with love. Playful, exciting, and completely in style for every fantasy lover who loves magical details!
 {{< figure src="images/2025/kramen/DSC05883_ETSY.jpg" alt="Studio Vorm & Vlam" class="vendorpicture" width="40%" >}}
@@ -408,7 +408,7 @@ Everything is cast by hand and designed with love. Playful, exciting, and comple
 ---
 
 ### [Fjälla Allround Make-up Artist](https://www.facebook.com/fjallamakeupartist/)
-Fjalla Allround Make-up Artist is an artist who makes silicone prosthetics for film and TV. Now you too can buy or order silicone prosthetics to make your look complete for a festival. Even custom sized fake teeth or vampire fangs can be made to order.
+Fjalla Allround Make-up Artist is an artist who makes silicone prosthetics for film and TV. Now you too can buy or order silicone prosthetics to make your look complete for a festival. Even custom fake teeth or vampire fangs can be made to order.
 {{< figure src="images/2025/kramen/Fjalla ehv (83).JPG" alt="Fjälla Allround Make-up Artist" class="vendorpicture" width="60%" >}}
 
 ---
@@ -420,13 +420,13 @@ Frescoboutique: we believe that everyone needs the chance to carry art and creat
 ---
 
 ### [Drakenlicht Illustraties](https://drakenlichtillustraties.nl/)
-Drakenlicht Illustraties maakt fantasy en mystery kunst, gemaakt met inkt, waterverf en potlood. Met magische onderwerpen uit de natuur zoals dieren en sterren, wordt je nieuwsgierigheid gewekt... Volg de draak met de lantaarn en ontdek fantastische werelden in deze kunst, in de vorm van ansichtkaarten, posters en gebruiksvoorwerpen!
+Drakenlicht Illustraties makes fantasy and mystery art, made with ink, watercolor, and pencil. With magical themes from nature such as animals and stars, your curiosity will be enticed... Follow the dragon with the lantern and discover fantastic worlds in this art, in the form of postcards, posters, and useful items!
 {{< figure src="images/2025/kramen/Visitekaartje Drakenlicht voorkant.jpg" alt="Drakenlicht Illustraties" class="vendorpicture" width="60%" >}}
 
 ---
 
 ### [Edge of Dusk](https://www.bluefernarts.com/)
-Annemieke van Barlingen is een Belgische kunstenares die onder de naam Blue Fern Arts handgeschilderde illustraties maakt geïnspireerd door sprookjes, fantasy en folklore.
+Annemieke van Barlingen is a Belgian artist who makes hand-painted illustrations under the name Blue Fern Arts, inspired by fairytales, fantasy, and folklore.
 {{< figure src="images/2025/kramen/FB_IMG_1736773754646.jpg" alt="Edge of Dusk" class="vendorpicture" width="40%" >}}
 
 ---

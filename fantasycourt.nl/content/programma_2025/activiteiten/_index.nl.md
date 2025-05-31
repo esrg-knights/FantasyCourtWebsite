@@ -24,25 +24,24 @@ Een volledige regeluitleg kan [hier]({{< ref "/programma_2025/activiteiten/toern
 <!--{{<figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}-->
 
 ## Kostuumwedstrijd
-Ook dit jaar heeft Fantasy Court weer een kostuumwedstrijd met leuke prijzen gesponsord door onze lieve standhouders. Je kunt je op de dag van zelf bij de Fantasy Court Infostand inschrijven om deel te nemen aan de Kostuumwedstrijd. Er zijn slechts beperkte plekken, dus wie het eerst komt, wie het eerst maalt. Belangrijk om te weten is dat het om zelfgemaakte kostuums gaat. Lees vooraf [de volledige regels door]({{< ref "/programma_2025/activiteiten/regels_kostuumwedstrijd" >}}). De kostuum wedstrijd begint om 14.00. Als je deel wilt nemen, zorg dat je op tijd bent.
+Ook dit jaar heeft Fantasy Court weer een kostuumwedstrijd met leuke prijzen gesponsord door onze lieve standhouders. Je kunt je op de dag van zelf bij de Fantasy Court Infostand inschrijven om deel te nemen aan de Kostuumwedstrijd. Er zijn slechts beperkte plekken, dus wie het eerst komt, wie het eerst maalt. Belangrijk om te weten is dat het om zelfgemaakte kostuums gaat. Lees vooraf [de volledige regels door]({{< ref "/programma_2025/activiteiten/regels_kostuumwedstrijd" >}}). De kostuum wedstrijd begint om 14.00. Als je deel wilt nemen, zorg dat je uiterlijk voor 13.30 inschrijft.
 
 {{< figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}
 
 ## Travelling frog trader.
 Kom langs bij de travelingfrogtrader ! Hun brengen van alles mee van hun avonturen. Als jij iets te ruilen hebt, dan geven hun heel graag iets retour aan jou mee! 
-Gelukkig voor alle liederen die niets hebben om te ruilen: Dit jaar zal er ook een grabbelton bij de Fantasy Court infostand te vinden zijn, vol leuke trinkets te vinden zijn. Wellicht zit er een waardig item tussen om te ruilen met deze mysterieuze handelaar.
-
+Gelukkig voor alle lieden die niets hebben om te ruilen: Dit jaar zal er ook een grabbelton bij de Fantasy Court infostand te vinden zijn, vol leuke trinkets. Wellicht zit er een waardig item tussen om te ruilen met deze mysterieuze handelaar.
 
 ## Balfolkworkshop
-Er zal een gratis balfolkworkshop zijn. Balfolk is een dansstijl gebaseerd op traditionele Franse en Nederlandse dansen. In de workshop zullen de deelnemers een aantal van deze dansen aangeleerd krijgen waarna er gezamenlijk gedanst kan worden. Zodra de begintijd van de workshop bekend is zal deze op de programmapagina zichtbaar zijn. 
+Er zal een gratis balfolkworkshop zijn. Balfolk is een dansstijl gebaseerd op traditionele Franse en Nederlandse dansen. In de workshop zullen de deelnemers een aantal van deze dansen aangeleerd krijgen waarna er gezamenlijk gedanst kan worden. De begintijd van de workshop is zichtbaar op de [programmapagina.]({{< ref "/programma_2025/" >}})
 
 ## Bordspellen met de Knights of the Kitchen Table
 Kom langs bij de kraam van de ESRG Knights of the Kitchen Table en duik in hun uitgebreide collectie vol bordspellen! Van klassiekers tot verborgen parels – er is voor ieder wat wils. De activiteit is gratis toegankelijk en perfect voor een ontspannen momentje lekker in de zon voor jong en oud. 
 
 ##  Immersive Maffia door Somnivera
-
+&nbsp;
 ## Somnivera Immersive Quests
-
+&nbsp;
 ## Maak je eigen karakter door Ravenskeep 
 Maak je karakter in de wereld van Ravenskeep, zoek een kostuum uit, en ga op de foto in een fantasiewereld. 
 
@@ -64,13 +63,13 @@ Ook dit jaar heeft Empire of minis weer verf en kwasten beschikbaar zodat je je 
 
 ## Jesmonite Dobbelsteen maken met Legends Unbound
 Wil je leren hoe je zelf een glorieuze 35mm twintigzijdige dobbelstenen maakt? Kom dan langs bij de workshop van Legends Unbound. Hier leer je Jesmonite te gieten en vervolgends de dobbelsteen te polijsten. De dobbelsteen mag je natuurlijk zelf naar huis nemen. 
-Aan deze workshop zijn kosten verbonden voor de materialen en instructie. Deze workshop vind op beperkte momenten plaats. Zodra het programma af is zullen deze tijden bekend gemaakt worden.
+Aan deze workshop zijn kosten verbonden voor de materialen en instructie. Deze workshop vind op beperkte momenten plaats, die zichtbaar zijn op de [programmapagina.]({{< ref "/programma_2025/" >}})
 
-## Schminken bij Ooakdolls
+## Schminken bij OOAKdolls
 Kom langs bij de kraam van OOAKdolls by Mariska om zelf een fantasyfiguur te worden. 
 
-## Dungeons and Dragons door Telltale Adventures.
-Altijd al interesse in D&D maar je weet niet hoe je begint? Telltale adventures helpt je graag met een workshop of demo. 
+## Dungeons and Dragons door Telltale Adventures
+Altijd al interesse in D&D maar je weet niet hoe je begint? Telltale Adventures helpt je graag met een workshop of demo. 
 voor workshop wordt een kleine bijdrage gevraagd. U krijgt een kortingsbon ter waarde van de bijdrage voor aankopen bij de kraam van Telltale Adventures. 
 
 ## Activiteitenhoek
@@ -80,7 +79,6 @@ En er is niet alleen veel te zien op het Fantasy Court festival. Er is ook een h
 - **Verschillende Buitenspellen**: We hebben nog een variatie aan andere veldspellen die de hele dag door te spelen zijn.
 
 {{< figure src="/images/2025/2023_archery.jpg" alt="Activiteitenhoek" height="400" >}}
-
 
 
 {{< message margin-top="80px" margin-bottom="100px">}}

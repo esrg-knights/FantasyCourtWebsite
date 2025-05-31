@@ -15,13 +15,13 @@ Our organisation runs the tournament as safely as possible, but participation is
 ## 1. Safety rules
 &nbsp;
 * It is forbidden to stab with a LARP sword.
-* It is not permitted to strike the head or neck, and these are not considered valid hit locations.
-* Physical contact is forbidden under any circumstances. You may only strike your opponent with a LARP sword.
+* It is not permitted to strike the head, neck, or genitals, and these are not considered valid hit locations.
+* Physical contact between people is forbidden under any circumstances.
 * Take care not to strike with full or excessive force.
 * It is not permitted to run or charge towards your opponent in a duel.
-* Shield-bashing is not allowed. (You may only strike your opponent with a LARP sword.)
-* Although these are valid hit locations, please be exceptionally cautious about strikes to the crotch, chest, or wrists.
-* Over-hand and under-hand strikes are both permitted, but again, please be sure to avoid strikes to the head and be careful about striking the crotch.
+* Shield-bashing is not allowed. (You may only strike your opponent with a LARP sword during the tournament.)
+* Although these are valid hit locations, please be exceptionally cautious about strikes to the chest or wrists.
+* Over-hand and under-hand strikes are both permitted, but again, please be sure to avoid strikes to the head and crotch.
 ## 2. The duel
 &nbsp;
 * Duels take place on the tournament field. If a participant exits the field during a duel, the opponent scores one point.
@@ -55,7 +55,7 @@ Our organisation runs the tournament as safely as possible, but participation is
 * If both duelists commit a violation at the same time during a match, neither receives a point. The rest of these rules still apply.
 ## 6. Referees
 &nbsp;
-* The referee team consistes of three individuals: one head referee and two 'hit referees'.
+* The referee team consists of three individuals: one head referee and two 'hit referees'.
 * The head referee keeps score and watches for violations. The head referee is also responsible for keeping order during the tournament.
 * Each hit referee is paired with one duelist and watches for when and where their assigned duelist is struck. They ultimately determine whether a strike is valid.
 * In the case of doubt about the validity of a strike, the relevant hit referee has the last word. Most other decisions are determined by majority vote, with the head referee presiding and making the final call when necessary.
