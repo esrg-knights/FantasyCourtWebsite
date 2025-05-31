@@ -53,7 +53,7 @@ Er zijn een aantal eetkramen op de markt. Daarnaast is er gratis kraanwater (aft
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
 
 ## Locatie en Parkeren
-Het evenement is op een veld zonder adres op de campus van de Technische Universiteit Eindhoven (TU/e). De nabijgelegen parkeerplaats en het navigatieadres is: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is ten zuiden daarvan, op coördinaten: 51.447228696063085, 5.484236714828935
+Het evenement is op een veld zonder adres op de campus van de Technische Universiteit Eindhoven (TU/e). De nabijgelegen parkeerplaats en het navigatieadres is: **Den Dolech 12, 5613 AZ, Eindhoven**. Fantasy Court is ten zuiden daarvan, op coördinaten: 51.44723, 5.48424
 
 Vanaf trein en busstation **Eindhoven Centraal** is het enkele minuten lopen naar het noordoosten. Op en rond de campus kun je ook kleine wegwijsbordjes vinden.
 

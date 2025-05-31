@@ -1,7 +1,7 @@
 ---
-# expirydate: "2025-09-01"
 title: Programme
-
+og:
+  description: "Fantasy Court - Festival programme"
 ---
 
 
@@ -16,9 +16,10 @@ Fantasy court 2025 takes place on sunday the 8th of June from 11.00 to 18.00. Yo
 {{</gallery >}}
 
 Want to know everything that happens? Feel free to check out the subpages.
-* [Confirmed artists]({{< ref "/programma_2025/artiesten" >}}).
-* [Confirmed activities]({{< ref "/programma_2025/activiteiten/" >}}).
-* [Confirmed vendors]({{< ref "/programma_2025/kramen/" >}}).
+
+* [Confirmed Musical Artists]({{< ref "/programma_2025/artiesten" >}})
+* [Confirmed Activities]({{< ref "/programma_2025/activiteiten/" >}})
+* [Confirmed Vendors and Organizations]({{< ref "/programma_2025/kramen/" >}})
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_
