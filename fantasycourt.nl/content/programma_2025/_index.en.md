@@ -3,9 +3,12 @@ title: Programme
 og:
   description: "Fantasy Court - Festival programme"
 ---
+{{< message >}}
+ _Knights, market stalls, and lovely tunes_  \
+_But the loveliest of all are still all of you!_
+{{< /message >}}
 
-
-Fantasy court 2025 takes place on sunday the 8th of June from 11.00 to 18.00. You can find the program here.
+Fantasy Court 2025 takes place on Sunday the 8th of June from 11:00 to 18:00. You can find the programme below (in Dutch).
 
 
 {{<gallery class="content-gallery" height="610">}}
@@ -15,8 +18,7 @@ Fantasy court 2025 takes place on sunday the 8th of June from 11.00 to 18.00. Yo
   {{<image src="/images/2025/programma/programma4.png" >}}
 {{</gallery >}}
 
-Want to know everything that happens? Feel free to check out the subpages.
-
+Want to know everything that will happen at the festival? Then have a look at these subpages:
 * [Confirmed Musical Artists]({{< ref "/programma_2025/artiesten" >}})
 * [Confirmed Activities]({{< ref "/programma_2025/activiteiten/" >}})
 * [Confirmed Vendors and Organizations]({{< ref "/programma_2025/kramen/" >}})

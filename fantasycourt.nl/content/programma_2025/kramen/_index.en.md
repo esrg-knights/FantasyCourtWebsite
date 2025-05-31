@@ -31,7 +31,7 @@ Books4Life is a charity second-hand bookstore with an enormous collection of sci
 ---
 
 ### [Somnivera Events](www.somnivera-events.nl)
-Somnivera Events organizes magical events that completely immerse you in another world. Aisde from this, we also sell everything you could need for your fantasy outfit. From tiaras to elf ears, vfrom witch's hats to gift necklaces. We also sell some nice little extra items such as book bags, keychains, and coin pouches!
+Somnivera Events organizes magical events that completely immerse you in another world. Aisde from this, we also sell everything you could need for your fantasy outfit. From tiaras to elf ears, from witch's hats to gift necklaces. We also sell some nice little extra items such as book bags, keychains, and coin pouches!
 
 {{< figure src="images/2025/kramen/Screenshot_20240924_203452 - Irene Groot Nibbelink.jpg" alt="Somnivera Events" class="vendorpicture" width="60%" >}}
 
@@ -47,6 +47,21 @@ We also support various roleplaying game campaigns and hold a monthly one-shot r
 All of this is based in our own association space, in the Luna building on the TU/e campus. In the Knights room, members often play a board game or a tabletop roleplaying session, do their homework, or just hang out, in the afternoons as well as evenings.
 
 {{< figure src="images/2025/kramen/BordspelAvond - ESRG Knights of the Kitchen Table.jpg" alt="E.S.R.G. Knights of the Kitchen Table" class="vendorpicture" width="60%" >}}
+
+---
+
+### [De Zwaardkring](https://www.zwaardkring.nl/)
+De Zwaardkring is a foundation that gives lessons in H.E.M.A. through all of Brabant. H.E.M.A. stands for 'Historical European Martial Arts' and is a sport based in historical combat practices. In short, it involves training in swordfighting the same way they did in the Middle Ages!
+
+As practitioners of historical combat arts, we want to come as close as possible to the context of traditional swordfighting. We do this by studying original manuscripts from those times, interpreting the techniques, and finally applying them through full-contact sparring. We use blunt swords and all necessary protective gear to make sure safety is guaranteed.
+Do you want to know more about how to fight with a sword, or do you want to experience it once for yourself? Come have a look at what we do! And hopefully we'll also see you again during one of our lessons. Our workshops at Fantasy Court are only for adults over 18 years old.
+{{< figure src="images/2025/kramen/FB_IMG_1737924558002.jpg" alt="De Zwaardkring" class="vendorpicture" width="60%" >}}
+
+---
+
+### [Custom Script](customscript.nl)
+The Custom Script Events Foundation organizes Blood on the Clocktower play sessions at events and holds their own events a couple of times a year. Do you love Werewolves and other social deduction games? Then definitely give it a try with us!
+{{< figure src="images/2025/kramen/Clockathon-logo.png" alt="Custom Script" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -71,6 +86,12 @@ iScoop Ice Cream: Refreshing, magical, and irresistible. Don't miss it at Fantas
 Enjoy traditional arepas and empenadas, together with super delicious salchipapas and quesadillas. Be enchanted by the best that Latin cuisine has to offer.
 
 {{< figure src="images/2025/kramen/20241012_132019 - Karina Sanchez.jpg" alt="La Salsa Latina" class="vendorpicture" width="60%" >}}
+
+---
+
+### [Zjee Café](https://zjeecafe.nl/)
+Zjee Café, for fair and sustainable coffee experiences. Coffee prepared with passion and pleasure.
+{{< figure src="images/2025/kramen/zjecafe.jpg" alt="Zjee Café" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -173,13 +194,6 @@ We are here once more to provide all the LARP-articles you might need! This year
 As a 'creative millipede,' you can visit me for handmade and compound goods such as prints, stickers, crocheted keychains, posters, mystery CDs and more! Be amazed by illustrations, crochet pieces, new music, and even a bit of meme culture. You can find me under the artist name @estonamy!
 
 {{< figure src="images/2025/kramen/IMG-20240913-WA0069 - Esmee Kuilman.jpg" alt="Estonamy" class="vendorpicture" width="60%" >}}
-
----
-
-### [New Dam](brittvandenelzen.com)
-Britt van den Elzen authors English-language science fiction & fantasy books with a touch of romance, and distributes these independently via her own publishing organization, New Dam.
-
-{{< figure src="images/2025/kramen/IMG_1377 - Britt van den Elzen.jpeg" alt="New Dam" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -316,13 +330,6 @@ Lars Reen, a larper who makes costumes, is selling 10 years' worth of clothing p
 
 ---
 
-### [Readmore Publishing House](https://readmore.be/)
-Readmore is a young publishing company that strives to offer reader affordable books that speak to them deeply. Good books don't have to be expensive. At Readmore we don't only place the emphasis on profit. We believe that a good product will find its own audience.
-
-{{< figure src="images/2025/kramen/Omnibus4 - Davinia Porreye.jpg" alt="Readmore Publishing House" class="vendorpicture" width="60%" >}}
-
----
-
 ### [Studio Wisely](https://www.instagram.com/studiowisely/profilecard/?igsh=Z3BkdjA4dHE0cDVw)
 Bij Studio Wisely you can find handmade products, for example felt brooches, ornaments, and cute creatures, as well as lovely earrings with beads of glass and natural stone. Without being limited to one style or medium, everything can be handmade with love and enjoyment!
 
@@ -358,12 +365,6 @@ Dreamchaserart sells all kinds of merchandise with her own fantastical artwork i
 
 ---
 
-### Sanne Verbaant
-A little magic! Second-hand, handmade, and upcycled items that bring a bit of magic into your daily life. Sustainable and made with love!
-
-{{< figure src="images/2025/kramen/Ontwerp zonder titel_20231115_184237_0000 - Sanne Verbaant.png" alt="Sanne Verbaant" class="vendorpicture" width="60%" >}}
-
----
 ### [Céline’s Art Studio](https://www.etsy.com/shop/CelinesArtStudioShop)
 
 Céline's Art Studio creates all kinds of stationary, sculptures and bookish items in magical and enchanting themes.
@@ -379,7 +380,57 @@ Three friends, brought together by their passion for TTRPGs, share their combine
 
 ---
 
+### [Chaotic Spirit Studio](https://www.instagram.com/chaotic.spirit.studio/)
+Chaotic Spirit Studio is a game and art studio specializing in world-building, concept art, and game design, dedicated to creating captivating experiences for players of all ages.
+
+{{< figure src="images/2025/kramen/Logo wit met oranje vlam - Luc van der Burgh.png" alt="Legends Unbound" class="vendorpicture" width="40%" >}}
+
+---
+
+### [Horned Toad Games](https://www.hornedtoadgames.com/)
+Horned Toad Games is an indie boardgame publisher focused on publishing easy-to-learn yet tactically fun games. They also publish DND/TTRPG adventures in magazine format. 
+{{< figure src="images/2025/kramen/Button - Robbin Hulsker.PNG" alt="Legends Unbound" class="vendorpicture" width="40%" >}}
+
+---
+
+### [Studio Vorm & Vlam](https://www.instagram.com/vormvlam.studio/)
+Studio Vorm & Vlam, Handmade ceramics that tell a story.
+Dream away with elegant mugs with matching saucers in the shape of an open book, enchanting "stirring staves" and stroopwafel coasters that look almost too delicious not to eat!
+
+Everything is cast by hand and designed with love. Playful, exciting, and completely in style for every fantasy lover who loves magical details!
+{{< figure src="images/2025/kramen/DSC05883_ETSY.jpg" alt="Studio Vorm & Vlam" class="vendorpicture" width="40%" >}}
+
+---
+
+### [Vonkenstaal](https://www.instagram.com/vonken_staal/)
+{{< figure src="images/2025/kramen/IMG-20221120-WA0008__01.jpg" alt="Vonkenstaal" class="vendorpicture" width="40%" >}}
+
+---
+
+### [Fjälla Allround Make-up Artist](https://www.facebook.com/fjallamakeupartist/)
+Fjalla Allround Make-up Artist is an artist who makes silicone prosthetics for film and TV. Now you too can buy or order silicone prosthetics to make your look complete for a festival. Even custom sized fake teeth or vampire fangs can be made to order.
+{{< figure src="images/2025/kramen/Fjalla ehv (83).JPG" alt="Fjälla Allround Make-up Artist" class="vendorpicture" width="60%" >}}
+
+---
+
+### [Frescoboutique](frescoboutique.com)
+Frescoboutique: we believe that everyone needs the chance to carry art and creativity with them. We offer clothing, tote bags, stickers, and much more, all designed by us. 
+{{< figure src="images/2025/kramen/IMG_1677.jpg" alt="Frescoboutique" class="vendorpicture" width="40%" >}}
+
+---
+
+### [Drakenlicht Illustraties](https://drakenlichtillustraties.nl/)
+Drakenlicht Illustraties maakt fantasy en mystery kunst, gemaakt met inkt, waterverf en potlood. Met magische onderwerpen uit de natuur zoals dieren en sterren, wordt je nieuwsgierigheid gewekt... Volg de draak met de lantaarn en ontdek fantastische werelden in deze kunst, in de vorm van ansichtkaarten, posters en gebruiksvoorwerpen!
+{{< figure src="images/2025/kramen/Visitekaartje Drakenlicht voorkant.jpg" alt="Drakenlicht Illustraties" class="vendorpicture" width="60%" >}}
+
+---
+
+### [Edge of Dusk](https://www.bluefernarts.com/)
+Annemieke van Barlingen is een Belgische kunstenares die onder de naam Blue Fern Arts handgeschilderde illustraties maakt geïnspireerd door sprookjes, fantasy en folklore.
+{{< figure src="images/2025/kramen/FB_IMG_1736773754646.jpg" alt="Edge of Dusk" class="vendorpicture" width="40%" >}}
+
+---
+
 {{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_
 {{< /message >}}
-

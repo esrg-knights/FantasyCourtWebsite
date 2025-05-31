@@ -53,8 +53,8 @@ Dit alles vindt plaats vanuit onze eigen verenigingsruimte, in het Luna gebouw o
 ### [De Zwaardkring](https://www.zwaardkring.nl/)
 De Zwaardkring is een stichting die les geeft in H.E.M.A. door heel Brabant. H.E.M.A. staat voor 'Historical European Martial Arts' en is dus een vechtsport met een historische basis. Dat klinkt vaag, maar kortom is het leren zwaardvechten zoals ze dat in de middeleeuwen deden!
 
-Als beoefenaars van de historische vechtkunst willen wij zo dicht mogelijk tot de context van het zwaardvechten van vroeger komen. Dit doen wij door manuscripten te bestuderen,  deze technieken te interpreteren, en  uiteindelijk ook toe te passen met full contact sparring. Daarbij gebruiken we botte zwaarden en de nodige beschermende  uitrusting om te garanderen dat de veiligheid gewaarborgd word.
-Wil jij nou meer te weten komen over hoe je met een zwaard moet vechten, of wil je het zelf een keer ervaren? Kom dan bij ons kijken! En hopelijk zien we je terug in een van onze lessen.  Onze workshops op Fantasy Court zijn alleen voor volwassenen boven de 18 jaar oud
+Als beoefenaars van de historische vechtkunst willen wij zo dicht mogelijk tot de context van het zwaardvechten van vroeger komen. Dit doen wij door manuscripten te bestuderen,  deze technieken te interpreteren, en uiteindelijk ook toe te passen met full contact sparring. Daarbij gebruiken we botte zwaarden en de nodige beschermende  uitrusting om te garanderen dat de veiligheid gewaarborgd word.
+Wil jij nou meer te weten komen over hoe je met een zwaard moet vechten, of wil je het zelf een keer ervaren? Kom dan bij ons kijken! En hopelijk zien we je terug in een van onze lessen. Onze workshops op Fantasy Court zijn alleen voor volwassenen boven de 18 jaar oud.
 {{< figure src="images/2025/kramen/FB_IMG_1737924558002.jpg" alt="De Zwaardkring" class="vendorpicture" width="60%" >}}
 
 ---
@@ -83,7 +83,7 @@ iScoop Ice Cream: Verkoelend, magisch en onweerstaanbaar. Mis het niet op Fantas
 ---
 
 ### [La Salsa Latina](https://www.instagram.com/la_salsa_latina?utm_source=qr&igsh=YjVtb3Z3MWp0ZWV0)
-geniet van de traditionele arepas en empenadas, samen met overheerlijke salchipapas and quesadillas. Laat jezelf betoveren door het beste wat de latijnse keuken te bieden heeft.
+Geniet van de traditionele arepas en empenadas, samen met overheerlijke salchipapas and quesadillas. Laat jezelf betoveren door het beste wat de latijnse keuken te bieden heeft.
 
 {{< figure src="images/2025/kramen/20241012_132019 - Karina Sanchez.jpg" alt="La Salsa Latina" class="vendorpicture" width="60%" >}}
 
@@ -255,7 +255,7 @@ Een creatieve mix van natuur, sprookjes en recycling. Een paar voorbeelden zijn 
 ---
 
 ### [Goudsmederij Scholten](www.goudsmederijscholten.nl )
-Betreed een wereld van magie en vakmanschap! Als goudsmid creČer ik unieke, handgemaakte sieraden die verhalen vertellen en de ziel van fantasie vangen. Elk stuk is met zorg vervaardigd, ge?nspireerd door eeuwenoude legendes, mystieke wezens en tijdloze schoonheid. Of je nu een ring met drakenmotief, een hanger vol geheimen of een armband met een vleugje magie zoekt ? bij mij vind je een sieraad dat perfect past bij jouw avontuur. Kom langs en laat je betoveren!
+Betreed een wereld van magie en vakmanschap! Als goudsmid creČer ik unieke, handgemaakte sieraden die verhalen vertellen en de ziel van fantasie vangen. Elk stuk is met zorg vervaardigd, geinspireerd door eeuwenoude legendes, mystieke wezens en tijdloze schoonheid. Of je nu een ring met drakenmotief, een hanger vol geheimen of een armband met een vleugje magie zoekt ? bij mij vind je een sieraad dat perfect past bij jouw avontuur. Kom langs en laat je betoveren!
 
 {{< figure src="images/2025/kramen/IMG_9943 - Goudsmederij Scholten.png" alt="Goudsmederij Scholten" class="vendorpicture" width="60%" >}}
 
@@ -364,6 +364,7 @@ Dreamchaserart verkoopt allerlei merchandise met haar eigen fantasierijke artwor
 {{< figure src="images/2025/kramen/20240420_094210 - marlon teunissen.jpg" alt="Dreamchaserart" class="vendorpicture" width="60%" >}}
 
 ---
+
 ### [Céline’s Art Studio](https://www.etsy.com/shop/CelinesArtStudioShop)
 
 Céline's Art Studio creates all kinds of stationary, sculptures and bookish items in magical and enchanting themes
@@ -378,7 +379,6 @@ Drie vrienden, verenigd door hun passie voor TTRPG’s, delen hun creativiteit v
 {{< figure src="images/2025/kramen/Collage LU - Danielle Ruiter.jpg" alt="Legends Unbound" class="vendorpicture" width="60%" >}}
 
 ---
-
 
 ### [Chaotic Spirit Studio](https://www.instagram.com/chaotic.spirit.studio/)
 Chaotic Spirit Studio is a game and art studio specializing in world-building, concept art, and game design, dedicated to creating captivating experiences for players of all ages.
