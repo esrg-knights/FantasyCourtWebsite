@@ -12,10 +12,10 @@ Fantasy Court 2025 takes place on Sunday the 8th of June from 11:00 to 18:00. Yo
 
 
 {{<gallery class="content-gallery" height="610">}}
-  {{<image src="/images/2025/programma/programma1.png" >}}
-  {{<image src="/images/2025/programma/programma2.png" >}}
-  {{<image src="/images/2025/programma/programma3.png" >}}
-  {{<image src="/images/2025/programma/programma4.png" >}}
+  {{<image src="/images/2025/programma/programma1_en.png" >}}
+  {{<image src="/images/2025/programma/programma2_en.png" >}}
+  {{<image src="/images/2025/programma/programma3_en.png" >}}
+  {{<image src="/images/2025/programma/programma4_en.png" >}}
 {{</gallery >}}
 
 Want to know everything that will happen at the festival? Then have a look at these subpages:

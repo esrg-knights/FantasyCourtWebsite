@@ -9,7 +9,7 @@ og:
 ## Wouter
 You have probably seen him more often at all the balfolk events in the Netherlands - Wouter with his accordion! On this versatile instrument, he will bring you along on a journey through all kinds of balfolk dances during the Balfolk Workshop and during a solo performance afterwards. So put on some comfortable shoes and dance to your heart's content!
 
-## Celia Onna 
+## Onna 
 Onna connects with her source, which lies deep-rooted in the Earth.
 Her creations are formed through her abstract dreams and fascinating experiences, and appear out of endless wonder for Mother Earth and her descendants. 
 In 2024, Onna released her first album, "Barefoot Promenade". This album is full of curiosity and love for the beauty and rawness of nature, and a passion for protecting our planet.
