@@ -12,10 +12,10 @@ Fantasy court 2025 vindt plaats op zondag 8 juni van 11.00 tot 18.00. Hieronder 
 
 
 {{<gallery class="content-gallery" height="610">}}
-  {{<image src="/images/2025/programma/programma1.png" >}}
-  {{<image src="/images/2025/programma/programma2.png" >}}
-  {{<image src="/images/2025/programma/programma3.png" >}}
-  {{<image src="/images/2025/programma/programma4.png" >}}
+  {{<image src="/images/2025/programma/programma1_nl.png" >}}
+  {{<image src="/images/2025/programma/programma2_nl.png" >}}
+  {{<image src="/images/2025/programma/programma3_nl.png" >}}
+  {{<image src="/images/2025/programma/programma4_nl.png" >}}
 {{</gallery >}}
 
 Ongeduldig om te weten wat er allemaal gaat komen? Neem dan alvast een kijkje op de subpaginas
