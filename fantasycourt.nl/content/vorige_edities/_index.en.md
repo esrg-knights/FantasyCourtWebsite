@@ -45,6 +45,11 @@ _Therefore here we show our past_
 {{< /message >}}
 
 # Previous Editions
+The 2025 edition took place on June 8th. The weather was a bit disappointing at first, but luckily the sun came out after the rain! Fortunately, the forecast didn’t stop our visitors and vendors from showing up. We had more activities than ever before! On top of that, we were even featured in several local newspapers and news reports!
+
+Our photographers were busy capturing the day, and the first photos are already available [here](https://1drv.ms/f/c/8be01703fcb02090/Eoa24LJNwnZGvCPHjpUlQT4Bv0L4w7tO-YY4qfg-oxV90g?e=WnLXAJ)!
+
+Thanks to sponsorship contributions from Enson, E.S.R.G. Knights of the Kitchen Table, the local Praxis, and StEHven, we were able to put together another wonderful edition.
 
 
 ## Edition 2024

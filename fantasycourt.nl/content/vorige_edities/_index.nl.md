@@ -45,6 +45,12 @@ og:
 {{< /message >}}
 
 # Voorgaande Edities
+## Editie 2025
+Editie 2025 heeft plaatsgevonden op 8 juni. Het weer viel een beetje tegen, maar na de regen kwam gelukkig zonneschijn! De weersvoorspelling heeft onze bezoekers en standhouders gelukkig niet weerhouden om te komen. We hebben de meeste activiteiten ooit gehad! Daarnaast zijn we zelfs in een aantal lokale kranten en nieuwsberichten aangekondigd!
+
+Onze fotografen hebben ook druk geschoten, en de eerste foto’s zijn al [hier](https://1drv.ms/f/c/8be01703fcb02090/Eoa24LJNwnZGvCPHjpUlQT4Bv0L4w7tO-YY4qfg-oxV90g?e=WnLXAJ) te vinden!
+
+Dankzij een sponsorbijdrage van Enson, E.S.R.G. Knights of the Kitchen Table, de locale Praxis en StEHven waren we in staat om weer een prachtige editie neer te zetten.
 
 
 ## Editie 2024
