@@ -47,7 +47,9 @@ resources:
 
 # Date and Location
 
-Fantasy Court takes place on the 8th of June on the Koeveld on the campus of the Eindhoven University of Technology. The festival is free to visit. The festival terrain is open and does not require a ticket or reservation. Whether you are a student or not, a parent with children or coming on your own, there will be something organized for everyone. Would you like to know more? Feel free to take a look at the [Programme page.]({{< ref "/programma_2025" >}})
+Fantasy Court takes place on the 24th of May on the Koeveld on the campus of the Eindhoven University of Technology. The festival is free to visit. The festival terrain is open and does not require a ticket or reservation. Whether you are a student or not, a parent with children or coming on your own, there will be something organized for everyone. 
+
+<!--- Would you like to know more? Feel free to take a look at the [Programme page.]({{< ref "/programma_2025" >}}) -->
 
 {{< carousel "carousel/**" >}}
  

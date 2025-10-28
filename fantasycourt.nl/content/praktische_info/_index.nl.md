@@ -44,8 +44,8 @@ resources:
 
 # Praktische Informatie
 
-## Editie 2025
-Welkom op Fantasy Court 2025! Deze editie vindt plaats op 8 juni te Eindhoven op de TU/e campus van 11.00 tot 18.00u! Zodra het bekend is zal een overzicht van ons programma, de standhouders en organisaties en de activiteiten te vinden zijn op de [programma-pagina]({{< ref "/programma_2025" >}}). Om je weg naar ons te vinden, hebben we hier nog wat praktische informatie:
+## Editie 2026
+Welkom op Fantasy Court 2026! Deze editie vindt plaats op 24 mei te Eindhoven op de TU/e campus van 11.00 tot 18.00u! Zodra het bekend is zal een overzicht van ons programma, de standhouders en organisaties en de activiteiten te vinden zijn op de [programma-pagina]({{< ref "/programma_2026" >}}). Om je weg naar ons te vinden, hebben we hier nog wat praktische informatie:
 
 ## Faciliteiten
 Er zijn een aantal eetkramen op de markt. Daarnaast is er gratis kraanwater (aftappunt, neem je eigen mok/beker/flesje mee). Er is een mobiele toiletvoorziening inclusief een toilet voor mensen in rolstoel of met grote kostuums. 

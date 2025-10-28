@@ -80,28 +80,28 @@ weight = 4
 [[languages.nl.menu.main]]
 identifier = "programma"
 title = "Programma"
-url = "/programma_2025/"
+url = "/programma_2026/"
 weight = 4
 
 [[languages.nl.menu.main]]
 identifier = "Performers"
 parent = "programma"
 title = "Artiesten"
-url = "/programma_2025/artiesten/"
+url = "/programma_2026/artiesten/"
 weight = 1
 
 [[languages.nl.menu.main]]
 identifier = "Activities"
 parent = "programma"
 title = "Activiteiten"
-url = "/programma_2025/activiteiten/"
+url = "/programma_2026/activiteiten/"
 weight = 2
 
 [[languages.nl.menu.main]]
 identifier = "Vendors"
 parent = "programma"
 title = "Kramen- Standhouders"
-url = "/programma_2025/kramen/"
+url = "/programma_2026/kramen/"
 weight = 3
 
 [[languages.nl.menu.main]]
@@ -180,28 +180,28 @@ weight = 4
 [[languages.en.menu.main]]
 identifier = "programma"
 title = "Programme"
-url = "/programma_2025/"
+url = "/programma_2026/"
 weight = 4
 
 [[languages.en.menu.main]]
 identifier = "Performers"
 parent = "programma"
 title = "Performers"
-url = "/programma_2025/artiesten/"
+url = "/programma_2026/artiesten/"
 weight = 1
 
 [[languages.en.menu.main]]
 identifier = "Activities"
 parent = "programma"
 title = "Activities"
-url = "/programma_2025/activiteiten/"
+url = "/programma_2026/activiteiten/"
 weight = 2
 
 [[languages.en.menu.main]]
 identifier = "Vendors"
 parent = "programma"
 title = "Vendors"
-url = "/programma_2025/kramen/"
+url = "/programma_2026/kramen/"
 weight = 3
 
 [[languages.en.menu.main]]
