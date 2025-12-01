@@ -10,22 +10,22 @@ og:
   _Uw aanwezigheid is gewenst, met uw waren en uw kunsten_
 {{< /message >}}
 
-<!--# Standhouders Editie 2025
-Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken. Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en het gespecialiseerde aanbod. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt? Als je onze visie deelt kan je je inschrijven op [het inschrijfformulier](https://docs.google.com/forms/d/e/1FAIpQLSdgNXPGttfaqPzkXfZpr1McJyhMBjCHTCpDKVrfEfgqgnLUFQ/viewform?usp=sf_link). Heb je vragen? Neem dan [contact](mailto:standhouders@fantasycourt.nl) met ons op.
-Fantasy Court vindt plaats op Zondag 8 Juni 2025, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.30u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken.
+# Standhouders Editie 2026
+Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken. Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en het gespecialiseerde aanbod. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt? Als je onze visie deelt kan je je inschrijven op [het inschrijfformulier](https://docs.google.com/forms/d/e/1FAIpQLSemY9RDnzeXth9cXJcMcuNsrznzqJhe8I4_LivV0cS0lXS7Xg/viewform). Heb je vragen? Neem dan [contact](mailto:standhouders@fantasycourt.nl) met ons op.
+Fantasy Court vindt plaats op Zondag 24 Mei 2026, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.45u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken.
 
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
-Om vast te stellen wat we bieden en verwachten hebben we een inschrijfreglement opgesteld. Dit kan je [hier vinden.](https://docs.google.com/document/d/1lWsQuVgl0SjMx5kb9iwUHwva5-iMHPq9/edit?usp=sharing&ouid=118033485815882455862&rtpof=true&sd=true)
+Om vast te stellen wat we bieden en verwachten hebben we een inschrijfreglement opgesteld. Dit kan je [hier vinden.](https://docs.google.com/document/d/1XUXkLEacFNgodthwWWKF9LCKf39YQrA0/edit#heading=h.gjdgxs)
 
 <!--Bij vragen is het altijd mogelijk om contact met ons op te nemen via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl). Zo kijken wij graag of ook jij kan bijdragen aan een geweldig festival.-->
 
-# De inschrijvingen voor 2025 zijn gesloten 
+<!-- # De inschrijvingen voor 2025 zijn gesloten 
 Inschrijvingen voor standhouders zijn gesloten voor de editie van dit jaar. Fantasy court is gratis toegankelijk voor bezoekers zonder inschrijving, dus je kan wel langskomen en je volgend jaar inschrijven als het je bevalt! Heb je vragen of wil je op de reservelijst komen? Neem dan [contact](mailto:standhouders@fantasycourt.nl) met ons op.
 
 Fantasy Court vindt plaats op zondag 8 juni 2025, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.30u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken.
 
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
-Om vast te stellen wat we bieden en verwachten hebben we een inschrijfreglement opgesteld. Dit kan je [hier vinden.](https://docs.google.com/document/d/1lWsQuVgl0SjMx5kb9iwUHwva5-iMHPq9/edit?usp=sharing&ouid=118033485815882455862&rtpof=true&sd=true)
+Om vast te stellen wat we bieden en verwachten hebben we een inschrijfreglement opgesteld. Dit kan je [hier vinden.](https://docs.google.com/document/d/1lWsQuVgl0SjMx5kb9iwUHwva5-iMHPq9/edit?usp=sharing&ouid=118033485815882455862&rtpof=true&sd=true) -->
 
 ## Windpreventie
 

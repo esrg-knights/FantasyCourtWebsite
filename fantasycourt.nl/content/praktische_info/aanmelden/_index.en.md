@@ -10,22 +10,22 @@ og:
   _Please bring the best of your wares and your art_
 {{< /message >}}
 
-<!--# Standhouders Editie 2025
-Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken. Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en het gespecialiseerde aanbod. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt? Als je onze visie deelt kan je je inschrijven op [het inschrijfformulier](https://docs.google.com/forms/d/e/1FAIpQLSdgNXPGttfaqPzkXfZpr1McJyhMBjCHTCpDKVrfEfgqgnLUFQ/viewform?usp=sf_link). Heb je vragen? Neem dan [contact](mailto:standhouders@fantasycourt.nl) met ons op.
-Fantasy Court vindt plaats op Zondag 8 Juni 2025, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.30u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken.
+# Standhouders Editie 2026
+To make Fantasy Court even better we are always looking for more people who are able to enrich our event. We attract a wonderful, enthusiastic audience looking for amazing vibes and the specialized selection we offer. After all, where else in the Netherlands will you find a festival that focuses primarily on LARP and related activities? If you share our vision, you can sign up using [the registration form](https://docs.google.com/forms/d/e/1FAIpQLSemY9RDnzeXth9cXJcMcuNsrznzqJhe8I4_LivV0cS0lXS7Xg/viewform). Do you have any questions? Then feel free to [contact us](mailto:standhouders@fantasycourt.nl).
+Fantasy Court takes place on Sunday, May 24th 2026, on the Koeveld at the campus of Technical University of Eindhoven (Den Dolech 12, TU/e, Eindhoven). Setup is scheduled to be finished by 10.45, and the festival ends at 18.00. The idea is to make it a cozy late morning and afternoon together.
 
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
-Om vast te stellen wat we bieden en verwachten hebben we een inschrijfreglement opgesteld. Dit kan je [hier vinden.](https://docs.google.com/document/d/1lWsQuVgl0SjMx5kb9iwUHwva5-iMHPq9/edit?usp=sharing&ouid=118033485815882455862&rtpof=true&sd=true)
+To make sure expectations are set we have created sign-up regulations. Which can be found [here.](https://docs.google.com/document/d/1XUXkLEacFNgodthwWWKF9LCKf39YQrA0/edit#heading=h.gjdgxs)
 
 <!--Bij vragen is het altijd mogelijk om contact met ons op te nemen via [standhouders@fantasycourt.nl](mailto:standhouders@fantasycourt.nl). Zo kijken wij graag of ook jij kan bijdragen aan een geweldig festival.-->
 
-# The signups for 2025 are now closed
+<!--# The signups for 2025 are now closed
 Signups for vendors are closed for this year's edition of the festival. Fantasy Court is freely accessible for visitors with no registration needed, so you are wlecome to stop by and subscribe for next year if you wish! If you have any questions or want to be added to the list of backup/replacement vendors, please [contact us.](mailto:standhouders@fantasycourt.nl)
 
 Fantasy Court takes place on Sunday, June 8, 2025, on the Koeveld of the Technische Universiteit Eindhoven (TU/e) campus (Den Dolech 12, TU/e, Eindhoven). The planned end of setup is at 10:30 in anticipation of the official start at 11:00, and the festival comes to a close at 18:00. The intent is to make it a nice and comfortable late-morning and afternoon experience.
 
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
-To clearly establish our expectations and what we offer, we have composed a set of signup regulations. You can find them [here.](https://docs.google.com/document/d/1lWsQuVgl0SjMx5kb9iwUHwva5-iMHPq9/edit?usp=sharing&ouid=118033485815882455862&rtpof=true&sd=true)
+To clearly establish our expectations and what we offer, we have composed a set of signup regulations. You can find them [here.](https://docs.google.com/document/d/1lWsQuVgl0SjMx5kb9iwUHwva5-iMHPq9/edit?usp=sharing&ouid=118033485815882455862&rtpof=true&sd=true)-->
 
 ## Wind prevention
 
@@ -41,7 +41,7 @@ Just like last year, LARP organizations are welcome to present themselves at Fan
 
 <!-- Inschrijfkosten voor LARP-organisaties en goede doelen is €10,- mits er een (kleine) activiteit wordt georganiseerd door de vereniging. Dit kan een spelletje uit de LARP zijn, quests of bijvoorbeeld vertaalsleutels maken! Voor goede doelen zijn er geen inschrijfkosten. Larps en goede doelen  kunnen zelf een tent meenemen of een kraam huren tegen de normale kosten. Alternatief kunnen wij per organisatie maximaal één tafel gratis regelen. Het is toegestaan, en wordt zelfs aangemoedigd, om dingen als props en decoratie mee te nemen om zo je eigen hoekje verder te kunnen personaliseren.-->
 
-The deadline for Fantasy Court 2025 has passed, but if you still really want to participate, [contact](mailto:standhouders@fantasycourt.nl) us and we can look at what might still be possible (such as putting you on the backup list).
+<!--The deadline for Fantasy Court 2025 has passed, but if you still really want to participate, [contact](mailto:standhouders@fantasycourt.nl) us and we can look at what might still be possible (such as putting you on the backup list).-->
 
 # Market stalls
 As usual, there will again be a market! Picture stalls that sell things related to LARP, roleplaying games, or board games, or something else related to the Fantasy genre. This ranges from jewelry and costumes to books and dice. There are of course reserved places for stalls that sell food and drink.
