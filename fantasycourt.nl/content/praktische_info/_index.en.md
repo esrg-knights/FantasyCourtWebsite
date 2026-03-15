@@ -57,7 +57,7 @@ The event is on a field with no individual address on the Eindhoven University o
 
 We are just a few minutes' walk to the northeast from the train- and bus station **Eindhoven Centraal**. Some small directional signs will also be set up on and near the campus.
 
-**Parking at the TU/e campus** is free only for the first 30 minutes, and costs €0.50 per 15 minutes beyond that, up to a maximum of €7.50 in one day. **Off-campus parking** is free on the _Rachelsmolen_ or along the nearby parallel road _Onze Lieve Vrouwestraat_.
+**Parking at the TU/e campus** is free only for the first 30 minutes, and costs €0.50 per 15 minutes beyond that, up to a maximum of €10 in one day.
 
 ### Larp-swords at Fantasy Court 
 Carrying foam larp swords at Fantasy Court is permitted. Visitors may fight, duel, and spar using foam larp props at the *designated spots* on the tournament field and around the border of the site. Each person is responsible for the safety of their own larp props. The event organizers may at any time check foam props and ask for unsafe items to be removed from the site. Anyone participating in larp battles must take the safety rules (see below) into account.

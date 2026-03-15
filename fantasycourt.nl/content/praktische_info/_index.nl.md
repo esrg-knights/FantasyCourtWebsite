@@ -57,7 +57,7 @@ Het evenement is op een veld zonder adres op de campus van de Technische Univers
 
 Vanaf trein en busstation **Eindhoven Centraal** is het enkele minuten lopen naar het noordoosten. Op en rond de campus kun je ook kleine wegwijsbordjes vinden.
 
-**Parkeren op de TU/e campus** is de eerste 30 minuten gratis, daarna is er betaald parkeren voor €0.50 per kwartier, tot een maximum van €7.50 voor de hele dag. **Parkeren buiten de campus** is gratis aan de _Rachelsmolen_ of op de parallelweg langs de _Onze Lieve Vrouwestraat_.
+**Parkeren op de TU/e campus** is de eerste 30 minuten gratis, daarna is er betaald parkeren voor €0.50 per kwartier, tot een maximum van €10 voor de hele dag.
 
 ### Larp-zwaarden op Fantasy Court 
 Het dragen van foam larp zwaarden is toegestaan. Er mag met foam Rekwisieten gevochten worden op de *daarvoor aangewezen plekken* in het toernooiveld en aan de rand van het terrein. Men is zelf verantwoordelijk voor de veiligheid van de larp-Rekwisieten. De organisatie mag ten alle tijden Rekwisieten controleren en vragen om onveilige Rekwisieten van het terrein te verwijderen. Houd bij het vechten ook rekening met de veilig vechten regels.
