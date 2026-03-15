@@ -22,7 +22,7 @@ Fantasy Court is a fantasy festival with a large variety of stalls, activities, 
 Fantasy Court does not have an ATM/cash machine on-site. Many vendors accept both cash and card payments, but some can only accept one of the two. Please make sure you are prepared for this in advance with sufficient cash. The closest ATM is about a kilometer away (by foot) on the Kruisstraat. 
 
 ### How do we keep Fantasy Court free for visitors?
-We have a group of loyal volunteers from the [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) (Eindhoven's roleplaying and board game association), whose blood, sweat, and tears make Fantasy Court possible. We have also been fortunate enough to receive a financial contribution in 2024 and 2025 from [StEHven,](https://stehven.nl/en/en-home/) which allows us to pay for the facilities. Furthermore, we receive funds from the [Rabo Clubsupport.](https://www.rabobank.nl/leden/clubsupport)
+We have a group of loyal volunteers from the [Eindhovense Studenten Rollenspel Genootschap Knights of the Kitchen Table](https://kotkt.nl) (Eindhoven's roleplaying and board game association), whose blood, sweat, and tears make Fantasy Court possible. We have also been fortunate enough to receive a financial contribution in 2024, 2025, and 2026 from [StEHven,](https://stehven.nl/en/en-home/) which allows us to pay for the facilities. Furthermore, we receive funds from the [Rabo Clubsupport.](https://www.rabobank.nl/leden/clubsupport)
 
 {{< figure src="/images/Sponsor_scuffed_solution.png" alt="Rabobank and knights" width="100%" >}}{{< figure src="/images/logo stehven.png" alt="StEHven" width="100%" >}}
 
@@ -30,12 +30,12 @@ We have a group of loyal volunteers from the [Eindhovense Studenten Rollenspel G
 Starting last year, we have also begun offering our own merch at the festival info stand, which allows our visitors to support us directly!
 
 ### What kinds of stalls will be present at the festival?
-We have a huge variety of stands each year. Among them are vendors who make fantasy clothing by hand, game vendors, and visual artists, but also much more! You can find a description of each stand on the [list of stalls]({{< ref "/programma_2025/kramen/" >}}) page.
+We have a huge variety of stands each year. Among them are vendors who make fantasy clothing by hand, game vendors, and visual artists, but also much more! You can find a description of each stand on the [list of stalls]({{< ref "/programma_2026/kramen/" >}}) page.
 
 ---
 ## **Music**
 ### Do you have music at the festival?
-Fantasy Court offers live music. As soon as we have booked the artists, you can find them on the [list of performers]({{< ref "/programma_2025/artiesten/" >}}) page.
+Fantasy Court offers live music. As soon as we have booked the artists, you can find them on the [list of performers]({{< ref "/programma_2026/artiesten/" >}}) page.
 
 ### Can I perform at Fantasy Court?
 It's wonderful that you would like to perform for us, we are always super enthusiastic about adding new musicians to our lineup! Send us [an email](mailto:fc@kotkt.nl) to discuss the details with us.
@@ -60,14 +60,14 @@ The EHBO (emergency first aid) kit will be present at the Fantasy Court info sta
 You can sign up on-site at the Fantasy Court info stand. Reserving a spot to participate in the tournament works on a first-come, first-serve basis, so be sure to go by the info stand and sign up as soon as you arrive at the festival.
 
 ### What are the rules for the swordfighting tournament?
-The tournament works on an elimination bracket system, composed of one-on-one duels limited to two minutes each. An overview of the rules can be found on the [Activities page,]({{< ref "programma_2025/activiteiten/">}}) but a printout will also be available to review at the tournament location.
+The tournament works on an elimination bracket system, composed of one-on-one duels limited to two minutes each. An overview of the rules can be found on the [Activities page,]({{< ref "programma_2026/activiteiten/">}}) but a printout will also be available to review at the tournament location.
 
 ### How do I participate in the costume contest?
 You can sign up on the day of the festival at the Fantasy Court info stand to take part in the costume contest. There are only a certain number of participation time slots, which will be filled on a first-come first-serve basis, so sign up as early as possible. Signups close at 13:30 at the latest, or earlier if all slots are filled.
 
 ### What are the rules of the costume contest?
 The costume contest is open to all ages. You can participate with any outfit or costume that you have designed and (mostly) made yourself, even if someone else wears it as your 'model.' Direct cosplays are not permitted, but reimaginings/original interpretations of existing characters are. Our own grand jury will judge the costumes. Self-made costume pieces will be judged favorably, and the jury will collectively decide the winner.
-You can find an overview of the rules on the [Activities page.]({{< ref "programma_2025/activiteiten/">}})
+You can find an overview of the rules on the [Activities page.]({{< ref "programma_2026/activiteiten/">}})
 
 ---
 ## **Other**
