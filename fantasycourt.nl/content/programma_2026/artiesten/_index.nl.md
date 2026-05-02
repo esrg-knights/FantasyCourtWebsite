@@ -6,25 +6,23 @@ og:
 # Artiesten
 
 Zodra de artiesten voor Fantasy court 2026 bekend zijn, zijn ze hier te vinden.
-<!---
-## Wouter
-Je hebt hem waarschijnlijk al vaker langs zien komen op alle balfolk evenementen in Nederland - Wouter met zijn accordion! Op dit veelzijdige instrument neemt hij je mee langs alle dansen uit het balfolk repertoire tijdens de Balfolk Workshop en tijdens een solo optreden erna. Dus doe makkelijke schoenen aan en dans erop los!
 
-## Onna 
-Onna verbindt zich met haar oorsprong, die diepgeworteld ligt in de Aarde.
-Haar creaties worden gevormd door haar abstracte dromen en fascinerende ervaringen, en komen tevoorschijn vanuit een oneindige bewondering voor Moeder Aarde en haar afstammelingen. 
-In 2024 bracht Onna haar eerste album "Barefoot Promenade" uit. Dit album is gevuld met nieuwsgierigheid en liefde voor de schoonheid en rauwheid van de natuur, en passie voor de bescherming van onze planeet. 
-Tijdens haar optreden op Fantasy Court zal ze haar muziek intiem voordragen met zang en piano, terwijl ze wordt begeleid door een cellist.
-Stap met blote voeten in de wereld van Onna en word betoverd door haar mystieke melodieën.
+## Feephifolk
+Phi komt Fantasy Court weer aan het dansen zetten met de ritmische klanken van de draailier. Met hun folk-geïnspireerde nummers kom je helemaal in de fantasy sfeer. Van grommende grondtonen naar zwepende melodieën tot opwekkende ritmes heeft deze solo artiest alles in huis om een volledige act neer te zetten.
 
-## [FeePhiFolkFum](https://www.youtube.com/@FeePhiFolkFum/playlists)
-Draailiermuziek met een mix van zelfgeschreven nummers en liedjes uit verscheidende folktradities.
+## Andawenn
+Andawenn speelt sfeervolle instrumentale muziek uit Ierland, Schotland en Bretagne. Maaike de Waal; Ierse fluit, dwarsfluit en whistles, Hans Elzinga; gitaren. Betoverend mooie melodieën om stil naar te luisteren, maar ook dansmuziek om bij te bewegen.
 
-##  Fjodor de harpist
-Iemand die dit jaar zijn debuut maakt als artiest op Fantasy court. Fjodor de Harpist neemt jullie mee in een magische wereld van muziek. Laat je meeslepen op de droomachtige klanken van de Harp en geniet van het Fantastische Fantasycourt.
+## Gwendolyn Snowdon
+Multi instrumentalist en folkzangeres Gwendolyn Snowdon zingt oude  èn hedendaagse eigengeschreven folkliedjes met veel passie en plezier.  Laat je meevoeren op een muzikale reis die je meevoert langs Ierland,  Groot-Brittannië, Frankrijk, Zweden, Nederland en België, vol magie en  symboliek, weemoed, oude legenden en liefdesverhalen die vaker dan niet  eindigen in drama.
+
+## Edward fiddler
+
+## Fjodor de Harpist
+Fjodor de Harpist keert voor het tweede jaar op rij terug naar Fantasy Court. Met zijn harp neemt hij u mee op een magische reis door het festival. Van Keltisch geïnspireerde melodieën tot iconische soundtracks uit films en games zoals Lord of the Rings en Baldur’s Gate, muziek die u volledig onderdompelt in de wereld van fantasie.
+
+## de Kerkstakkers
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
 {{< /message >}}
-
--->

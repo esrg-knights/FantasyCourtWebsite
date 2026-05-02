@@ -7,25 +7,22 @@ og:
 
 As soon as the Musicians for Fantasy court 2026 are revealed, they can be found here.
 
-<!---
-## Wouter
-You have probably seen him more often at all the balfolk events in the Netherlands - Wouter with his accordion! On this versatile instrument, he will bring you along on a journey through all kinds of balfolk dances during the Balfolk Workshop and during a solo performance afterwards. So put on some comfortable shoes and dance to your heart's content!
+## Feephifolk
+Phi is coming to get Fantasy Court dancing again with the rhythmic sounds of the hurdy-gurdy. With their folk-inspired songs you get completely into the fantasy atmosphere. From growling drones to sweeping melodies to uplifting rhythms this solo artist has everything needed to put on a complete act.
 
-## Onna 
-Onna connects with her source, which lies deep-rooted in the Earth.
-Her creations are formed through her abstract dreams and fascinating experiences, and appear out of endless wonder for Mother Earth and her descendants. 
-In 2024, Onna released her first album, "Barefoot Promenade". This album is full of curiosity and love for the beauty and rawness of nature, and a passion for protecting our planet.
-During her performance at Fantasy Court, she will play her music intimately with vocals and piano, while accompanied by a cellist.
-Step with bare feet into the world of Onna and be enchanted by her mystical melodies.
+## Andawenn
+Andawenn plays atmospheric instrumental music from Ireland, Scotland and Brittany. Maaike de Waal; Irish flute, transverse flute and whistles, Hans Elzinga; guitars. Enchantingly beautiful melodies to listen to quietly, but also dance music to move to.
 
-## [FeePhiFolkFum](https://www.youtube.com/@FeePhiFolkFum/playlists)
-Hurdy-gurdy music with a mix of self-written pieces and tunes from various folk traditions.
+## Gwendolyn Snowdon
+Multi instrumentalist and folk singer Gwendolyn Snowdon sings old  and contemporary self-written folk songs with a lot of passion and joy.  Let yourself be carried away on a musical journey that takes you along Ireland,  Great Britain, France, Sweden, the Netherlands and Belgium, full of magic and  symbolism, melancholy, old legends and love stories that more often than not  end in drama.
 
-##  Fjodor the harpist
-Someone who makes his debut at Fantasy Court this year. Fjodor the Harpist will bring you along into a magical world of music. Be carried along by the dreamlike sounds of the harp and enjoy the fantastic Fantasy Court.
+## Edward fiddler
+
+## Fjodor de Harpist
+Fjodor de Harpist returns to Fantasy Court for the second year in a row. With his harp he takes you on a magical journey through the festival. From Celtic-inspired melodies to iconic soundtracks from films and games such as Lord of the Rings and Baldur’s Gate, music that fully immerses you in the world of fantasy.
+
+## de Kerkstakkers
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_
 {{< /message >}}
-
--->
