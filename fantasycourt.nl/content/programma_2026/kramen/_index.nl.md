@@ -4,9 +4,9 @@ og:
   description: "Bevestigde standhouders"
 ---
 
-# Bevestigde standhouders 1
+# Bevestigde standhouders
 
-De volgende standhouders zullen op Fantasy court te vinden zijn:
+De volgende standhouders zullen op Fantasy Court te vinden zijn:
 
 ---
 
