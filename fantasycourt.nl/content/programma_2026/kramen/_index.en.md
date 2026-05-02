@@ -8,432 +8,593 @@ og:
 
 The following vendors will be present at Fantasy Court:
 
--
-
-<!---
----
-### [Toys in the Attic](https://toysintheattic.nl/)
-Toys in the Attic organizes various larps within one universe, varying in genre from fantasy to steampunk to post-apocalyptic. Their larps have a strong focus on drama and intrigue, wherein players may make difficult choices and must choose their friends carefully.
-
-{{< figure src="images/2025/kramen/447744630_772929214823542_1872700178885417646_n - Toys in The Attic.jpg" alt="Toys in the attic" class="vendorpicture" width="60%" >}}
-
 ---
 
-### [LARP-association Ravenskeep Adventures](www.ravenskeep.nl)
+### Dreamchaserart
 
-{{< figure src="images/2025/kramen/_Ravenskeep logo 2 - Ravenskeep Secretaris.png" alt="LRP-vereniging Ravenskeep Adventures" class="vendorpicture" width="40%" >}}
+sells all kinds of merchandise with her own imaginative artwork which is inspired by anime and manga. Visit their stand to find fun things such as keychains, stickers, mugs, washi tape, pins and much more!
+
+{{< figure src="images/2026/kramen/pat-4 - marlon teunissen.jpg" alt="Dreamchaserart" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Books4Life Eindhoven](https://www.books4life-eindhoven.nl/)
-Books4Life is a charity second-hand bookstore with an enormous collection of sci-fi and fantasy books, as well as dedicated volunteers available to provide advice and information about the books. Come enjoy their broad selection and shockingly favorable prices! The profits from Books4Life are donated to various good-works organisations, such as Armoedefonds, Amnesty International, and Oxfam Novib. Books4Life also supports local charity initiatives such as Soep&Co, Caritas and Buurtgezinnen.
+### The Fantasy Bug
 
-{{< figure src="images/2025/kramen/IMG_20210713_141613 - Bestuur Books 4 Life Eindhoven.jpg" alt="Books4Life Eindhoven" class="vendorpicture" width="60%" >}}
+If you are a fan of magic, fairy tales and medieval influences, come by the Fantasy Bug!
 
----
+Handmade fairy tale atmosphere. Products from reused material, DIY sets, crocheted plushies, accessories, crochet patterns and much more.
 
-### [Somnivera Events](www.somnivera-events.nl)
-Somnivera Events organizes magical events that completely immerse you in another world. Aside from this, we also sell everything you could need for your fantasy outfit. From tiaras to elf ears, from witch's hats to gift necklaces. We also sell some nice little extra items such as book bags, keychains, and coin pouches!
-
-{{< figure src="images/2025/kramen/Screenshot_20240924_203452 - Irene Groot Nibbelink.jpg" alt="Somnivera Events" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/20230402_100900 - Mettie Buitendijk.jpg" alt="The Fantasy Bug" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [E.S.R.G. Knights of the Kitchen Table](https://kotkt.nl/)
-Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table, or simply the Knights, is Eindhoven's one and only student board- and roleplaying game association. Are you crazy about board games, or do you enjoy letting your imagination run free in a roleplaying game? Then you've come to the right place!
+### Somnivera Events
 
-Each week we play several board games - well-known board games such as Catan and Ticket to Ride, but also more obscure games like Race for the Galaxy, Big Book of Madness, Kingsburg, Terraforming Mars and around 250 other games are all available for our members to play.
+Somnivera Events organizes magical events for everyone who wants to get away from the ordinary world for a while. During Fantasy Court you can join a short activity for free to get to know one of our games! Besides this we sell all kinds of fun, funny and special (fantasy) accessories.
 
-We also support various roleplaying game campaigns and hold a monthly one-shot roleplaying evening. Not only the famous Dungeons and Dragons, but also Pathfinder, Blades in the Dark, World of Darkness, and many more.
-
-All of this is based in our own association space, in the Luna building on the TU/e campus. In the Knights room, members often play a board game or a tabletop roleplaying session, do their homework, or just hang out, in the afternoons as well as evenings.
-
-{{< figure src="images/2025/kramen/BordspelAvond - ESRG Knights of the Kitchen Table.jpg" alt="E.S.R.G. Knights of the Kitchen Table" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/Screenshot_20251116-204558~2 - Irene Groot Nibbelink.png.jpg" alt="Somnivera Events" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [De Zwaardkring](https://www.zwaardkring.nl/)
-De Zwaardkring is a foundation that gives lessons in H.E.M.A. through all of Brabant. H.E.M.A. stands for 'Historical European Martial Arts' and is a sport based in historical combat practices. In short, it involves training in swordfighting the same way they did in the Middle Ages!
+### Lotte beads and more
 
-As practitioners of historical combat arts, we want to come as close as possible to the context of traditional swordfighting. We do this by studying original manuscripts from those times, interpreting the techniques, and finally applying them through full-contact sparring. We use blunt swords and all necessary protective gear to make sure safety is guaranteed.
-Do you want to know more about how to fight with a sword, or do you want to experience it once for yourself? Come have a look at what we do! And hopefully we'll also see you again during one of our lessons. Our workshops at Fantasy Court are only for adults over 18 years old.
-{{< figure src="images/2025/kramen/FB_IMG_1737924558002.jpg" alt="De Zwaardkring" class="vendorpicture" width="60%" >}}
+Hi,
+I am Charlotte, from Lotte beads and more. 
+Once only for myself as a hobby, now also for you!
+I make my "lotte items" by hand so everything is unique and made with love.
+What I make...Cute hair stuff and...More! 
+So think of dread-sets on elastic and on clip-ins, hair rings, hair pins, pirate hats, dread accessories, dread/hair beads, hair/dread wraps, hair chains, feather necklaces on clip-ins, earrings, necklaces, linen pouch bags, linen bags and much more, of course I also love making custom-items, especially according to wishes. 
 
----
+Hope to see you soon, 
+Lots of love, Charlotte
 
-### [Custom Script](customscript.nl)
-The Custom Script Events Foundation organizes Blood on the Clocktower play sessions at events and holds their own events a couple of times a year. Do you love Werewolves and other social deduction games? Then definitely give it a try with us!
-{{< figure src="images/2025/kramen/Clockathon-logo.png" alt="Custom Script" class="vendorpicture" width="60%" >}}
-
----
-
-## Food and drink
-
----
-### [Kürtőskalács Nederland](schoorsteenbrood.nl)
-The Koekenbakkers from Kürtőskalács Nederland are returning to bake you delicious, artisinal chimney bread once again at Fantasy Court! Everything is prepared fresh on-site, and you can even stop by to see for yourself how is it prepared. Chimney bread is best eaten together with your friends, as kürtőskalács is traditionally meant to be shared. Simply unwind a piece, break it off of the coil, and enjoy! You can also choose from several appetizing flavors.
-
-{{< figure src="images/2025/kramen/Basis stand 5x5 - Kurtoskalacs Benelux Nederland - Team Kurtos.jpeg" alt="Kürtőskalács Nederland" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/Screenshot_20251114_124520_Gallery - Charlotte van de Wiel.jpg" alt="Lotte beads and more" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [iScoop Ice Cream](iscoop.nl)
-iScoop Ice Cream: Refreshing, magical, and irresistible. Don't miss it at Fantasy Court!
+### Alissa's Craftings
 
-{{< figure src="images/2025/kramen/DSC02309-1024x683 - Guus Janssen.webp" alt="iScoop Ice Cream" class="vendorpicture" width="60%" >}}
+At Alissa's Craftings you will find unique, handmade chainmail jewelry, made from Anodized Aluminum, stainless steel and Titanium. Each piece of jewelry is woven together ring by ring until the final result. Have you seen something you like, but not in the right color or material? I also do customs, so you can have your own item made completely according to your wishes!
 
----
-
-### [La Salsa Latina](https://www.instagram.com/la_salsa_latina?utm_source=qr&igsh=YjVtb3Z3MWp0ZWV0)
-Enjoy traditional arepas and empenadas, together with super delicious salchipapas and quesadillas. Be enchanted by the best that Latin cuisine has to offer.
-
-{{< figure src="images/2025/kramen/20241012_132019 - Karina Sanchez.jpg" alt="La Salsa Latina" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/20251102_084615 - Alissa Slokker.jpg" alt="Alissa's Craftings" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Zjee Café](https://zjeecafe.nl/)
-Zjee Café, for fair and sustainable coffee experiences. Coffee prepared with passion and pleasure.
-{{< figure src="images/2025/kramen/zjecafe.jpg" alt="Zjee Café" class="vendorpicture" width="60%" >}}
+### Spirit Lights
+
+Spirit lights has handmade spiritual items such as candles, incense and spellkits. In addition various supplies for the real DIY witch!
+
+{{< figure src="images/2026/kramen/inbound1660926598711959108 - Mykkie Mouse.png" alt="Spirit Lights" class="vendorpicture" width="60%" >}} 
 
 ---
 
-## Shops and visual artists
+### Red Dragon Jewellery
 
----
-### [Arctis ira](https://www.instagram.com/arctis_ira/)
-An artist with an offering of various stickers, prints, charms, and other fun goodies.
+Red Dragon Jewellery brings local hand-forged jewelry to fantasy court. From silver to bone, with wood or with stone.
 
-{{< figure src="images/2025/kramen/WhatsApp Image 2024-08-21 at 08.36.28 - Ann.jpeg" alt="TArctis ira" class="vendorpicture" width="60%" >}}
-
----
-
-### [EverAfterPrint](https://www.instagram.com/everafterprint/)
-EverAfterprint are a writer and an illustrator who work together to create and publish LGBTQ+ books! Our books vary from fantasy to paranormal romance. Everything we write includes a pinch of magic! And if you would like to make stories yourself together with your friends, we also offer queer TTRPG adventures and a compendium full of queer NPCs to include in your session.
-
-{{< figure src="images/2025/kramen/P1015037- - Renée Zonneveld.JPG" alt="EverAfterPrint" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/IMG-20241122-WA0006 - inkywinkz@hotmail.com.jpg" alt="Red Dragon Jewellery" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [The Secret Moon Shop](https://linktr.ee/the_secret_moon_shop?utm_source=linktree_profile_share&ltsid=fb8c1639-c3ca-4b14-87df-c2012c499f4a)
-The Secret Moon Shop, handmade potions and other magical products. Will you come share in the magic?
+### Fairyland
 
-{{< figure src="images/2025/kramen/IMG_8957 - Bombus Pascuorum.jpeg" alt="The Secret Moon Shop" class="vendorpicture" width="60%" >}}
+Fantasyshop Fairyland specializes in Larp and Medieval clothing, Celtic leather goods and jewelry, Games with Fantasy and Historical Themes and New Age items. Besides fairs and an online shop you can also visit us in our store in the Brabant village of Aarle-Rixtel.
 
----
-
-### [Lotte beads and more](https://www.instagram.com/lotte.beads.and.more?igsh=MTc1dG1wZzl6NTBqdw==)
-I'm Charlotte, from Lotte beads & more. Once upon a time, I created only for myself as a hobby, but now also for you!
-I make my "lotte items" by hand, so everything is unique and made especially for you.
-What do I make? Cute hair stuff and more!
-Hair rings with or without wooden hairpins. "Lotte" hairpins, hair jewelry in all sorts of colors, some in beaded styles, etc. Clip-in hair feathers.
-Hair-cuffs, hair-spirals, jewelry for dreads and dread-Spiral / Spiralocks.
-Dreads on clip-ins and on hairbands with and without beads/dread jewelry. Dreads can also be custom made! Linen pouches, bags, and pencil cases decorated with mini art pieces. Charm necklaces on leather cords,  pendants, and ear-cuffs.
-Also my Little Art, tiny art pieces on e.g. canvas, in frames, on cards, even on or inside vintage teacups.
-So, I have a whole stall full of "lotte items" made with love...
-
-{{< figure src="images/2025/kramen/IMG_20240806_130553_432 - Charlotte van de Wiel.jpg" alt="Lotte beads and more" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/kleding 1 - Fantasyshop Fairyland.jpg" alt="Fairyland" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Elfdehands boeken](https://www.facebook.com/profile.php?id=100094237038702)
-At Elfdehands books, you will find 'that one book'. Fantasy, Sci-Fi, Adventure, Horror, History, Magic, Myths, and more. Sometimes the books have passed through eleven hands before you, and sometimes even through elven hands! What adventure will YOU embark on?
+### Whimsy Cottage
 
-{{< figure src="images/2025/kramen/IMG_20240309_144952 - Rosalie Zandbergen.jpg" alt="Elfdehands boeken" class="vendorpicture" width="60%" >}}
+Looking for something unique & quirky with a touch of fantasy? 👀
 
----
+Discover special 3D designs at Whimsy Cottage:
+✍️ Designed with love
+✨ Carefully printed
+💅 Including hand-painted options!
 
-### [Jack of Dice](jackofdice.nl)
-Jack of Dice. For all your solid-state randomizer arrays, shiny clickclacks, number nuggets and dice!
+For the inner crafty crow, gift goblin or treasure hunter who is always looking for something special 🐉
 
-{{< figure src="images/2025/kramen/IMG_20241011_144341856_HDR - shop@jackofdice.nl.jpg" alt="Jack of Dice" class="vendorpicture" width="60%" >}}
-
----
-
-### [Narquelics Chainmail Jewelry](www.narquelics.com)
-Handmade jewelry and accesories made from chain mail rings.
-Come by the stand to see in person how chain mail rings are made, and leave with a beautiful piece of history!
-
-{{< figure src="images/2025/kramen/chainmail - Narquelics Chainmail Jewelry.jpg" alt="Narquelics Chainmail Jewelry" class="vendorpicture" width="60%" >}}
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Whimsy Cottage" class="vendorpicture" width="60%" >}} -->
 
 ---
 
-### [Empire of Minis](https://empireofminis.com)
-Level up your tabletop role-playing adventures with unique miniature figures, or let your creativity run free while painting a character's bust. High-quality miniatures and busts for tabletop roleplaying and painting enthusiasts.
+### Dragons' Garden
 
-{{< figure src="images/2025/kramen/Empire-of-Minis - Roxanne van Schaik.png" alt="Empire of Minis" class="vendorpicture" width="60%" >}}
-
----
-
-### [Wiggleys Wonder Workshop](https://wiggleyswonderworkshop.com)
-Find your new familiar or adopt a companion from a wide selection of peculiar beasts and dragons, cute magnets, and magical keychains.
-
-{{< figure src="images/2025/kramen/Wiggleys-Wonder-Workshop - Roxanne van Schaik.png" alt="Wiggleys Wonder Workshop" class="vendorpicture" width="60%" >}}
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Dragons' Garden" class="vendorpicture" width="60%" >}} -->
 
 ---
 
-### [The Wanderer Games](https://thewanderergames.com)
-We are The Wanderer Games, also known as The Lugon Project. Lugon is an expansive TTRPG setting project focused on the interaction between evolution and magic! We are working on developing a large number of detailed books, from the Player Codex (successfully funded on Kickstarter in September 2024) to an Ecology Codex. Stop by and take a look!
+### Jack of Dice
 
-{{< figure src="images/2025/kramen/The Wanderer Games Temporary Logo Area - Mark Evegaars.png" alt="The Wanderer Games" class="vendorpicture" width="60%" >}}
+Jack of Dice. Shiny mathrocks, nummy number nuggets, radical randomisers and dice!
 
----
-
-### [CCGwinkel.nl](CCGwinkel.nl)
-The webshop for all your wargaming, boardgaming, roleplaying and collectible needs. Are you looking to improve your game evenings with new rule sets, accessories, or collectibles? Then you've come to the right place!
-
-{{< figure src="images/2025/kramen/Maikeltegelaers-01 - Maikel Tegelaers.png" alt="CCGwinkel.n" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/IMG_20250904_153844 - Xander Brevoort.jpg" alt="Jack of Dice" class="vendorpicture" width="60%" >}} 
 
 ---
 
-### [Larpcenter.nl](Larpcenter.nl)
-We are here once more to provide all the LARP articles you might need! This year, we are once again ready with our swords, armor pieces, and naturally our fantastic hangers. New this year, we also have a 'grabbelton' full of D&D minis! Don't miss out, come by our stand at Fantasy Court. We look forward to seeing you there!
+### Jody’s Crafted World
 
-{{< figure src="images/2025/kramen/logo_large.webp" alt="Larpcenter.nl" class="vendorpicture" width="60%" >}}
+Jody’s Crafted World
+Step into a world full of cute little monsters, magical little creatures and unique handmade decoration! My crocheted fantasy figures and other creative collections are perfect for everyone who loves dark whimsy and small creations with big character. Come discover who chooses you to take home!
 
----
-
-### [Estonamy](https://www.instagram.com/estonamy?igsh=bG93MzM1MWdoZ3ox)
-As a 'creative millipede,' you can visit me for handmade and compound goods such as prints, stickers, crocheted keychains, posters, mystery CDs, and more! Be amazed by illustrations, crochet pieces, new music, and even a bit of meme culture. You can find me under the artist name @estonamy!
-
-{{< figure src="images/2025/kramen/IMG-20240913-WA0069 - Esmee Kuilman.jpg" alt="Estonamy" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/IMG_9109 - Jody de Vogel.png" alt="Jody’s Crafted World" class="vendorpicture" width="60%" >}} 
 
 ---
 
-### [I Do Hobbys](Idohobbys.com)
-I Do Hobbys was founded with the aim of turning hobby projects into real products. You will mainly find products related to: design, 3D printing , programming & electronics. But this can be expanded in the future if other interests are discovered. Currently the main focus is D&D related items and products that try to make your game easier and more fun to play!
+### Arcane Trove
 
-{{< figure src="images/2025/kramen/20241026_103815 - Lara s.jpg" alt="I Do Hobbys" class="vendorpicture" width="60%" >}}
+A small treasure chamber full of handmade magic.
+Our little companions are eager to go on an adventure with you — every item is made with love, detail and a touch of mysticism. Or rather safely on an adventure at the table? The Trove, is open!
 
----
-
-### [CrossElf](https://www.instagram.com/crispelf/)
-
-{{< figure src="images/2025/kramen/Tekengebied 1 - Romniss.png" alt="CrossElf" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/APromo Ash - Mill Anie.webp" alt="Arcane Trove" class="vendorpicture" width="60%" >}} 
 
 ---
 
-### [Kapitein Kleerhaak and The Fantasy Fungi](Https://www.facebook.com/kapiteinkleerhaak)
-Kapitein Kleerhaak (Captain Clothes-hanger) and The Fantasy Fungi are sailing this year once again to Fantasy Court. Not just with leather and embroidered crafts for fantasy, LARP, and RPG lovers, but also with a new treasure chest full of RPG books! Be sure to stop by and get yourself acquainted with the world of roleplay. Would you like to play a warrior in Dragonbane, or maybe a hobbit in The One Ring? Guaranteed fun for both new and experienced players!
+### Nooni-en-Neik (Nooni Design)
 
-{{< figure src="images/2025/kramen/duo-logo3 - Jennifer Groeneveld.png" alt="Kapitein Kleerhaak en The Fantasy Fungi" class="vendorpicture" width="60%" >}}
+Nooni-en-Neik: Together Nooni Design (Fiona Brandenburg-de Werd) and Neik (Aniek ter Riet) make the most beautiful fairy-tale products. Aniek is a goldsmith and makes beautiful jewelry, treasure chests and saltstone lamps with special hand-forged silhouettes. In addition she makes seasonal table figures from wool felt. Fiona loves gnomes and has produced a huge collection of gnome cards, prints and calendars and has published her first gnome children's book. In addition she sells handmade gnome doors and houses, needle-felted dragons and leather pouches, embroidered bags and cases made from recycled material. 
 
----
+Actually too much to mention. Come and have a look and immerse yourself in the magical fairy-tale world of Nooni-en-Neik.
 
-### [OOAKdolls by Mariska](https://www.ooakdolls.nl/)
-I sell handmade fantasy dolls made from polymer clay. I can also cheer you up with a face paint creation!
+Www.nooni-en-neik.nl
 
-{{< figure src="images/2025/kramen/6cad1805-7f69-4a8b-83df-245bcda87a85 - Marco Tempelaar.jpeg" alt="OOAKdolls by Mariska" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/PROMO_afbeelding_Nooni-en-Neik - Nooni Design.jpg" alt="Nooni-en-Neik (Nooni Design)" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Nooni-en-Neik.nl](Www.nooni-en-neik.nl)
-Nooni-en-Neik is a collaboration between Nooni Design (Fiona Brandenburg-de Werd) and Neik (Aniek ter Riet). Together, they make the most beautiful fairytale products. Aniek is a goldsmith who makes gorgeous jewelry, treasure boxes, and salt lamps with special hand-forged silhouettes. Alongside these, she also makes seasonal figures out of wool felt. Fiona is crazy about kabouters (gnomes) and has produced an enormous collection of kabouter cards, prints, calendars, etc. She sells handmade mini kabouter doors and houses. She also makes other fairytale items such as felted dragons and leather and fabric pouches, bags, and pencil cases.
+### Lilypad Crafts
 
-There are really too many things to mention! Come see for yourself and immerse yourself in the magical fairytale world of Nooni-en-Neik.
+Lilypad Crafts is a fun handmade company with a nostalgic touch that focuses on bookish items and journaling. With a simple colorful style and cute little animals this artist brings a smile to your face. Whether you like to collect trinkets or prefer washi tape, journals and stickers, this artist has a bit of everything
 
-{{< figure src="images/2025/kramen/kraam_FantasyCourt24 - Nooni Design.jpg" alt="Nooni-en-Neik.nl" class="vendorpicture" width="60%" >}}
-
----
-
-### [Vintage Fantasy Flair](https://www.facebook.com/vintagefantasyflair )
-Give more Flair to your costume and come rummage through treasures from another time. Be quick, because each piece is unique!
-
-{{< figure src="images/2025/kramen/PXL_20241012_114444773 - Brenda Van Roij.jpg" alt="Vintage Fantasy Flair" class="vendorpicture" width="60%" >}}
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Lilypad Crafts" class="vendorpicture" width="60%" >}} -->
 
 ---
 
-### [Lovely Lich](www.instagram.com/lovely.lich)
-At Lovely Lich, you can find all kinds of handmade and painted jewelry, home decorations, and larp props with a dark fantasy theme!
+### Kapitein Kleerhaak - The Fantasy Harbour
 
-{{< figure src="images/2025/kramen/IMG-20241206-WA0008 - Emma.jpg" alt="Lovely Lich" class="vendorpicture" width="60%" >}}
+Of course Kapitein Kleerhaak and The Fantasy Fungi are joining again! Besides handmade leather and embroidery work (dice bags, bags, bracers and other unique costume accessories) we are also bringing a nice collection of high quality printed miniatures and exciting roleplaying games again. Will you come by to search among our treasures, or just for a nice chat? 
 
----
+Can't wait? We now also have a store in Beek (Limburg)!
+For more information you can find us on Facebook and Instagram as @kapiteinkleerhaak or @the_fantasy_harbour
 
-### [The Fantasy Bug](https://www.thefantasybug.nl)
-A creative mix of nature, fairytales, and recycling. As a few examples, fairy doors and wizard wands made from gathered wood, dreamcatchers, POURP pouches, and crocheted items such as plushies, mushrooms, octopotions and flower wreaths. Everything has its own story, and the Fantasy Bug loves to make a fairytale out of each one.
-
-{{< figure src="images/2025/kramen/IMG_20230819_134205_093 - Mettie Buitendijk.jpg" alt="The Fantasy Bug" class="vendorpicture" width="60%" >}}
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Kapitein Kleerhaak - The Fantasy Harbour" class="vendorpicture" width="60%" >}} -->
 
 ---
 
-### [Goudsmederij Scholten](www.goudsmederijscholten.nl )
-Enter a world of magic and craftsmanship! As a goldsmith, I create hand-made jewelry that tell stories and capture the soul of fantasy. Each piece is crafted with care, inspired by centuries-old legends, mystical creatures, and timeless elegance. Whether you are searching for a ring with a dragon motif, a pendant full of secrets, or an arm band with a pinch of magic, here you will find a piece that perfectly suits your personal adventure. Come by and be enchanted!
+### Steamer Leather
 
-{{< figure src="images/2025/kramen/IMG_9943 - Goudsmederij Scholten.png" alt="Goudsmederij Scholten" class="vendorpicture" width="60%" >}}
+We at Steamer Leather make handmade leather items in Steampunk and Fantasy style. From keychains and bags to dragons and full armor, if it is made of leather we can make it!
 
-
-### [Atelier Spintol](https://www.facebook.com/share/yoaB5omkZYoCtbEs/)
-Atelier Spintol, at the intersection of fantasy and history! This studio specializes in accessories such as hats and small bags, but certainly doesn't shy away from making full, possibly custom-tailored outfits. As a small business, we take pride in the craftsmanship and care we devote to making our clothing, and we pay close attention to even the smallest details!
-
-{{< figure src="images/2025/kramen/inbound6946450037592906056 - Emma Drost.jpg" alt="Atelier Spintol" class="vendorpicture" width="60%" >}}
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Steamer Leather" class="vendorpicture" width="60%" >}} -->
 
 ---
 
-### [FAE Games](faegames.com)
-FAE Games stands for Fabled Adventurers Extraordinaire. We are always in search of adventure, and we do that in our own special way. Our Dungeons & Dragons books transport you to any possible places in the universe, from the kingdoms of the archfey to the palaces of the djinn. What we offer will inspire both new and experienced players.
+### Nether & Fable
 
-{{< figure src="images/2025/kramen/logo-faegames - Stephan de Jong.jpg" alt="FAE Games" class="vendorpicture" width="60%" >}}
+Nether and Fable is a small tabletop accessories and artifacts shop. From dicebags with compartments in different sizes, dice made of resin or jesmonite in the most unusual shapes and designs, to luxury wooden game tokens and geeky art objects, it can all be found with us. All our products are handmade in our own studio and designed by ourselves or in collaboration with other talented Dutch artists.
 
----
-
-### [The Dreamy Cauldron en Red Dragon Jewellery](@thedreamycauldron.shop)
-A shop where dreams come true, in the form of fantasy potions as jewelry! Here you will find small necklaces, chokers, earrings, and more, with whichever potion you would like to carry with pride. 
-
-{{< figure src="images/2025/kramen/Afbeelding van WhatsApp op 2024-11-29 om 13.22.28_3d9ec82b - Ellen W.jpg" alt="The Dreamy Cauldron en Red Dragon Jewellery" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/IMG_20251117_084325 - Caitlin Kwaijtaal.jpg" alt="Nether & Fable" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Nature Deco](Www.nature-deco.nl )
-Nature Deco, a shop from Veghel with self-made preserved butterflies and insects. Take a look at the stand and be amazed by the gorgeous colors! If you want to learn this technique yourself, you can also sign up for a workshop held in our store in Veghel!
+### Praktijk Aegle
 
-{{< figure src="images/2025/kramen/Screenshot_20241213_085858_Photos - An Beelen.jpg" alt="Nature Deco" class="vendorpicture" width="60%" >}}
+I am Fleurtje Leenders from Praktijk Aegle.
 
----
+During Fantasy Court I will be present with my tarot cards and oracle cards.
 
-### [Nether & Fable](https://netherandfable.com/)
-Nether & Fable is a small tabletop shop that dreams big and where each accessory is a nod to the love that we have for table games. From dice and dice bags in various sizes to accessories for card games like MTG, they are all handmade and ready to make your play at the table even better.
+A moment to pause for a while, gain insight and feel what your intuition wants to tell you. Get to know the magic of my cards.
 
-{{< figure src="images/2025/kramen/DSC6264 - Caitlin Kwaijtaal.png" alt="Nether & Fable" class="vendorpicture" width="60%" >}}
+I look forward to meeting you.
 
----
+Praktijk Aegle
 
-### [Divini Couture](https://divinicouture.com/)
-See and be seen! That is an essential element of Fantasy Court, and Divine Couture makes that possible! She makes clothing and costumes tailored to size for Live Roleplay, and offers all types of supplies for your own costume projects. Are you still searching for that one specific clasp or special brooch? Then definitely come by and have a rummage!
-
-{{< figure src="images/2025/kramen/_X0A2776 - Annet N.jpg" alt="Divini Couture" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/IMG_1054 - Praktijk Aegle.jpeg" alt="Praktijk Aegle" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Spooky Stuff](https://www.facebook.com/SpookyStuff2/)
-Spooky Stuff, handmade home decorations with a dark edge.
+### Studio Vorm & Vlam
 
-{{< figure src="images/2025/kramen/spooky stelletje - Tamara van Son.jpg" alt="Spooky Stuff" class="vendorpicture" width="60%" >}}
+Studio Vorm & Vlam brings imagination to life in handmade ceramics, work that is not only functional, but also carries a story and wonder. Studio Vorm & Vlam is busy working on a new collection and that would therefore also be presented at Fantasy Court.
 
----
-
-### [Tell Tale Adventures](telltaleadventures.com)
-Step into the world of Tell Tale Adventures, your utimate destination for RPG adventure! Discover an amazing selection of compelling tabletop RPG adventures, designed to stimulate your imagination and enchant your group. Go yet another step further with our practical RPG workshops, where storytelling, game mechanics, and character creation come to life. Perfect for beginners and seasoned adventurers, our workshops catalyze creativity and collaboration. Are you excited to unleash your inner hero? Visit Tell Tale Adventures and embark today on your next epic quest!
-
-{{< figure src="images/2025/kramen/THTM v5.1 - Bjorn Rub.png" alt="Tell Tale Adventures" class="vendorpicture" width="40%" >}}
+{{< figure src="images/2026/kramen/Joyce_VormVlam - Joyce U.png" alt="Studio Vorm & Vlam" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [ArrowGlass](https://www.arrowglass-atelier.com/)
-At ArrowGlass you will find handmade glass art pieces that have been made with authentic craftsmanship into whimsical decoration!
+### Larpcenter
 
-{{< figure src="images/2025/kramen/20241206_124832 - Lynn Gommans.jpg" alt="ArrowGlass" class="vendorpicture" width="40%" >}}
+Discover the world of live role-playing at LarpCenter.nl!
 
----
+Step out of everyday reality and experience adventures you will never forget. At LarpCenter.nl you will find everything you need for an immersive LARP experience: from accessories, mini's and minigames for both beginners and seasoned players.
 
-### [Lars Reen](https://www.instagram.com/lars.en.zynia/)
-Lars Reen, a larper who makes costumes, is selling 10 years' worth of clothing pieces. In 2015 I began making my own costumes, dresses covered in embroidery, hoods, and gowns. I hope to give these a lovely new home where they will again be worn at larp events.
+Whether you are looking for historical costumes, fantasy weapons, magical props or practical equipment for battles and quests, we make sure you can fully immerse yourself in your role. With high-quality products and personal advice we help you take your LARP experience to the next level.
 
-{{< figure src="images/2025/kramen/Lars kleding - Lars Reen - Contemporary Artist.png" alt="Lars Reen" class="vendorpicture" width="60%" >}}
+Dare to dream. Dare to play. Dare to live in another world.
 
----
-
-### [Studio Wisely](https://www.instagram.com/studiowisely/profilecard/?igsh=Z3BkdjA4dHE0cDVw)
-At Studio Wisely you can find handmade products, for example felt brooches, ornaments, and cute creatures, as well as lovely earrings with beads of glass and natural stone. Without being limited to one style or medium, everything can be handmade with love and enjoyment!
-
-{{< figure src="images/2025/kramen/Screenshot_20241221_141306_Instagram - Projekt Y.jpg" alt="Studio Wisely" class="vendorpicture" width="60%" >}}
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Larpcenter" class="vendorpicture" width="60%" >}} -->
 
 ---
 
-### [The Wolf and the Rabbit](https://www.instagram.com/timkerkhofart/)
-Step into a world of fantasy and discover a special mix of costumes and accessories, art and curiosities, jewelry and rare items! Whether you're looking for a unique outfit, artwork with a story, or a special jewel that's just a little bit different - our stall is full of surprises for adventurers and collectors. Come by and be enchanted!
+### Local Hopup Shop
 
-{{< figure src="images/2025/kramen/471822065_899402382176224_1662299735076617867_n - Tim Kerkhof.jpg" alt="The Wolf and the Rabbit" class="vendorpicture" width="60%" >}}
+CCGwinkel, we provide everything to take roleplaying and boardgaming to 11! from dice to game systems, we have everything you need!
 
----
-
-### [Capimara]( https://bycapimara.com)
-Welcome to Capimara, where handmade TTRPG accessories and magical curiosities come together! From unique polyhedral dice and deluxe dice bags and trays, to epoxy jewelry full of character and witchy wax melts - each piece is made with care, love, and craftsmanship. Whether you are already a seasoned adventurer or have just begun your first quest, at Capimara, you will find what you're looking for!
-
-{{< figure src="images/2025/kramen/06092024-BRANDING-TAMARA-42 - Tamara van Gelder.jpg" alt="Capimara" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/CCGwinkel standaard res - Maikel Tegelaers.png" alt="Local Hopup Shop" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Fairyland](fairyland.nl)
-If you're in search of Larp/Medieval clothing then you will find your place at Fairyland. Also for games and Celtic jewelry!-->
+### Mushrooms and Moths
 
-<!--{{< figure src="images/2025/kramen/" alt="Fairyland" class="vendorpicture" width="60%" >}}-->
-<!---
----
+Mushrooms and Moths has been creating handmade jewelry, accessories, decor and art from polymer clay since 2022. Each work is carefully shaped, painted and finished by hand, this results in unique works one by one. Are you looking for an addition to your daily outfit, larp costume or for a special occasion? Or are you looking for a unique work to place in your home? You have come to the right place either way!
 
-### [Dreamchaserart](www.dreamchaserart.com)
-Dreamchaserart sells all kinds of merchandise with her own fantastical artwork inspired by anime and manga. Visit their stand to find nice items such as keychains, stickers, mugs, washi tape, pins, and even more!
-
-{{< figure src="images/2025/kramen/20240420_094210 - marlon teunissen.jpg" alt="Dreamchaserart" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/Mushrooms and Moths - Alexander en Anne Bremers.png" alt="Mushrooms and Moths" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Céline’s Art Studio](https://www.etsy.com/shop/CelinesArtStudioShop)
+### Vintage Fantasy Flair
 
-Céline's Art Studio creates all kinds of stationary, sculptures and bookish items in magical and enchanting themes.
+Give more Flair to your costume and come browse among treasures from the past. 
+Be quick highly honored audience because every piece is unique!
 
-{{< figure src="images/2025/kramen/moi - Céline Vu.png" alt="Céline's Art Studio" class="vendorpicture" width="40%" >}}
-
----
-
-### [Legends Unbound]( www.legendsunbound.nl )
-Three friends, brought together by their passion for TTRPGs, share their combined creativity in Legends Unbound. In our webshop, you'll find unique, handmade accessories such as dice sets, trays, vaults, and fashion, fully personalizable to your wishes. We also offer live workshops and an ultimate D&D experience where you can witness our passion for yourself. At Legends Unbound, everything revolves around craftsmanship, originality, and connecting people who share a love for TTRPGs!
-
-{{< figure src="images/2025/kramen/Collage LU - Danielle Ruiter.jpg" alt="Legends Unbound" class="vendorpicture" width="60%" >}}
+{{< figure src="images/2026/kramen/6B47C3AF-8B2F-44FB-B326-27868DEE1018_1_201_a - Vintagefantasyflair.jpeg" alt="Vintage Fantasy Flair" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Chaotic Spirit Studio](https://www.instagram.com/chaotic.spirit.studio/)
-Chaotic Spirit Studio is a game and art studio specializing in worldbuilding, concept art, and game design, dedicated to creating captivating experiences for players of all ages.
+### Mamorumori
 
-{{< figure src="images/2025/kramen/Logo wit met oranje vlam - Luc van der Burgh.png" alt="Legends Unbound" class="vendorpicture" width="40%" >}}
+At the Mamorumori forest you are welcome at the adoption center where many residents are eager to find a new home. Will your new housemate come from winter, spring, summer or autumn? Read their biographies carefully and find the match!
 
----
-
-### [Horned Toad Games](https://www.hornedtoadgames.com/)
-Horned Toad Games is an indie board game publisher focused on publishing easy-to-learn yet tactically fun games. They also publish DND/TTRPG adventures in magazine format. 
-{{< figure src="images/2025/kramen/Button - Robbin Hulsker.PNG" alt="Legends Unbound" class="vendorpicture" width="40%" >}}
+{{< figure src="images/2026/kramen/artistalleystand - Slowy Z.jpg" alt="Mamorumori" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Studio Vorm & Vlam](https://www.instagram.com/vormvlam.studio/)
-Studio Vorm & Vlam, Handmade ceramics that tell a story.
-Dream away with elegant mugs with matching saucers in the shape of an open book, enchanting stir-sticks, and stroopwafel coasters that look almost too delicious not to eat!
+### ArrowGlass
 
-Everything is cast by hand and designed with love. Playful, exciting, and completely in style for every fantasy lover who loves magical details!
-{{< figure src="images/2025/kramen/DSC05883_ETSY.jpg" alt="Studio Vorm & Vlam" class="vendorpicture" width="40%" >}}
+Whimsical handmade glass art.
 
----
-
-### [Vonkenstaal](https://www.instagram.com/vonken_staal/)
-{{< figure src="images/2025/kramen/IMG-20221120-WA0008__01.jpg" alt="Vonkenstaal" class="vendorpicture" width="40%" >}}
+{{< figure src="images/2026/kramen/3 - Henk Van Opkankeren.jpg" alt="ArrowGlass" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Fjälla Allround Make-up Artist](https://www.facebook.com/fjallamakeupartist/)
-Fjalla Allround Make-up Artist is an artist who makes silicone prosthetics for film and TV. Now you too can buy or order silicone prosthetics to make your look complete for a festival. Even custom fake teeth or vampire fangs can be made to order.
-{{< figure src="images/2025/kramen/Fjalla ehv (83).JPG" alt="Fjälla Allround Make-up Artist" class="vendorpicture" width="60%" >}}
+### Drakenlicht Illustraties
+
+Drakenlicht Illustraties makes magical and wondrous hand-drawn illustrations with a lot of fantasy. Themes such as dragons, enchanted forests and castles often appear. Drakenlicht Illustraties also makes custom art for example for children's books or art on the wall. For a touch of magic in your own project!
+
+{{< figure src="images/2026/kramen/Screenshot_20251117_165636_WhatsApp - Babs van der Hoeven.jpg" alt="Drakenlicht Illustraties" class="vendorpicture" width="60%" >}} 
 
 ---
 
-### [Frescoboutique](frescoboutique.com)
-Frescoboutique: we believe that everyone needs the chance to carry art and creativity with them. We offer clothing, tote bags, stickers, and much more, all designed by us. 
-{{< figure src="images/2025/kramen/IMG_1677.jpg" alt="Frescoboutique" class="vendorpicture" width="40%" >}}
+### sacredfire games
+
+Sacredfire Games
+We are an independent game design company, focusing on the development of TTRPG systems and supplements.
+
+Our goal is to change the norm of the game industry, to give our consumers what they want by making complete products and for a reasonable price.
+
+
+{{< figure src="images/2026/kramen/WhatsApp Image 2024-07-10 at 14.20.49 - Jeffrey Seedrak.jpeg" alt="sacredfire games" class="vendorpicture" width="60%" >}} 
 
 ---
 
-### [Drakenlicht Illustraties](https://drakenlichtillustraties.nl/)
-Drakenlicht Illustraties makes fantasy and mystery art, made with ink, watercolor, and pencil. With magical themes from nature such as animals and stars, your curiosity will be enticed... Follow the dragon with the lantern and discover fantastic worlds in this art, in the form of postcards, posters, and useful items!
-{{< figure src="images/2025/kramen/Visitekaartje Drakenlicht voorkant.jpg" alt="Drakenlicht Illustraties" class="vendorpicture" width="60%" >}}
+### Narquelics Chainmail Jewelry
+
+Narquelics Chainmail Jewelry - Handmade jewelry and accessories from chainmail rings. Come watch live at the stand how chainmail is made and walk away with a beautiful piece of history!
+
+{{< figure src="images/2026/kramen/3 - Narquelics Chainmail Jewelry.jpeg" alt="Narquelics Chainmail Jewelry" class="vendorpicture" width="60%" >}}
 
 ---
 
-### [Edge of Dusk](https://www.bluefernarts.com/)
-Annemieke van Barlingen is a Belgian artist who makes hand-painted illustrations under the name Blue Fern Arts, inspired by fairytales, fantasy, and folklore.
-{{< figure src="images/2025/kramen/FB_IMG_1736773754646.jpg" alt="Edge of Dusk" class="vendorpicture" width="40%" >}}
+### Books4life Eindhoven
+
+Books4Life Eindhoven is a charity secondhand bookstore with a huge fantasy/sci-fi collection. Come enjoy our wide range and astonishingly good prices! The proceeds of Books4Life go to all kinds of charities, including the Armoedefonds, Amnesty International and Oxfam Novib. Books4Life also supports various local charities.
+
+{{< figure src="images/2026/kramen/b4lgevel - Bestuur Books 4 Life Eindhoven.jpg" alt="Books4life Eindhoven" class="vendorpicture" width="60%" >}}
 
 ---
 
-{{< message margin-top="80px" margin-bottom="100px">}}
-_See you at the court!_
-{{< /message >}}
--->
+### La Salsa Latina
+
+At La Salsa Latina you discover magical Latin flavors: fresh arepas, empanadas, quesadillas and colorful salsas that give every adventurer energy.
+Perfect for heroes, elves, wizards and festivalgoers! Come complete your taste quest at our food truck.
+
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="La Salsa Latina" class="vendorpicture" width="60%" >}} -->
+
+---
+
+### Adorns by Marion
+
+Adorns by Marion are self-made jewelry and decorations, made from epoxy. For everyone who likes to look special. Personally I for example absolutely love fairy tale figures, such as elves and other mythical figures. I am Marion van Roij and adorns means, it adorns you.
+
+{{< figure src="images/2026/kramen/Photoroom_20251118_172733 - Marion Van Roij.jpeg" alt="Adorns by Marion" class="vendorpicture" width="60%" >}}
+
+---
+
+### Edge of Dusk
+
+Annemieke van Barlingen is a Belgian artist who, under the name Blue Fern Arts, creates paintings and illustrations using traditional media, drawing inspiration from folklore, fairy tales, mythology and the natural world. Discover the dark and whimsical universe she has created through her artwork, various printed goods and handmade trinkets
+
+{{< figure src="images/2026/kramen/Screenshot_20250820-103927 - Blue Fern Arts.png" alt="Edge of Dusk" class="vendorpicture" width="60%" >}}
+
+---
+
+### Jess of All Trades
+
+As her name already suggests, Jess of All Trades likes to explore everything creative. With her handmade interactive plushies and funny trinkets and prints, she hopes to bring a smile to your face!
+
+{{< figure src="images/2026/kramen/Polish_20250513_192544466 - Jess B.jpg" alt="Jess of All Trades" class="vendorpicture" width="60%" >}}
+
+---
+
+### Barbwire & Roses
+
+Barbwire & Roses is a small company that mainly focuses on the larp market. You can find handmade leather goods, unique props, but also a selection of resale items such as shirts, cloaks and larp weapons.
+
+{{< figure src="images/2026/kramen/inbound419988501192869838 - Harley Quinn.jpg" alt="Barbwire & Roses" class="vendorpicture" width="60%" >}} 
+
+---
+
+### Elfdehands boeken
+
+At Elfdehands boeken you will find that one book. Fantasy, Sci-Fi, Adventure, Horror, History, Magic, Mythical creatures and more. Sometimes the books have passed through eleven pairs of hands and very occasionally also through a few elven hands. What adventure will you end up in?
+
+{{< figure src="images/2026/kramen/IMG-20250618-WA0009 - Rosalie Zandbergen.jpg" alt="Elfdehands boeken" class="vendorpicture" width="60%" >}}
+
+---
+
+### Nature Deco
+
+Nature Deco, the shop (from Veghel!) with beautiful mounted butterflies and insects and much more!
+
+{{< figure src="images/2026/kramen/IMG_20251120_202611 - An Beelen.jpg" alt="Nature Deco" class="vendorpicture" width="60%" >}} 
+
+---
+
+### The Beaded Dragon Shop
+
+The Beaded Dragon makes magical upcycled jewelry for all fairies, princes and princesses! Here you will find your unique piece of jewelry, perfect for the most beautiful outfits!
+
+{{< figure src="images/2026/kramen/IMG-20250920-WA0005 - Marah de Boom.jpg" alt="The Beaded Dragon Shop" class="vendorpicture" width="60%" >}}
+
+---
+
+### Illustrations by Eline
+
+At Eline you discover a colorful range of hand-drawn illustrations on prints, cards, bookmarks, keychains and more! Inspired by Fairy tales, fantasy and nature she depicts sweet little animals and atmospheric landscapes.
+
+{{< figure src="images/2026/kramen/IMG_4240 - Elaine Wizardeye.heic" alt="Illustrations by Eline" class="vendorpicture" width="60%" >}}
+
+---
+
+### EverAfterPrint
+
+EverAfterprint are a writer and illustrator who together create and publish LGBTQ+ books! Our books range from fantasy to paranormal romance. So everything has a touch of magic! And if you want to make stories with your friends yourself, then we also have queer TTRPG adventures and a compendium full of queer NPCs.
+
+{{< figure src="images/2026/kramen/P1015009- - Renée Zonneveld.JPG" alt="EverAfterPrint" class="vendorpicture" width="60%" >}} 
+
+---
+
+### by bien
+
+I make spiritual crochet work, spirotdolls, and ritual smudge/power objects. This under the name by bien.
+
+{{< figure src="images/2026/kramen/inbound1207784441542247910 - sabine marse van kroonenburg.webp" alt="by bien" class="vendorpicture" width="60%" >}}
+
+---
+
+### Stichting De Zwaardkring
+
+De Zwaardkring is a foundation that provides training in H.E.M.A.—Historical European Martial Arts. This martial art is based on historical sources and focuses on sword fighting as it was practiced in the Middle Ages. It may sound a bit mysterious, but in fact with us you simply learn real sword fighting based on centuries-old techniques!
+As enthusiastic practitioners of these historical martial arts we try to approach the original context as well as possible. We dive into old manuscripts, reconstruct techniques and then put them into practice during realistic, full-contact sparring sessions.
+
+Are you curious how sword fighting really works, or would you like to try it yourself? Then definitely come by our stand at Fantasy Court!
+
+{{< figure src="images/2026/kramen/1764515643755 - Eef Shamoun.jpg" alt="Stichting De Zwaardkring" class="vendorpicture" width="60%" >}} 
+
+---
+
+### Kobold Trinkets
+
+At Kobold Trinkets you dive into a world full of geeky treasures. Almost everything is handmade: unique figurines of Koroks, Pikmin and my own DnD-miniatures, 3D Pokémon cards, nerdy T-shirts and special magnets of dragon trophies and mushrooms. Besides all this handmade work I am also bringing a dice gachapon-machine for the real daredevils.
+
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Kobold Trinkets" class="vendorpicture" width="60%" >}} -->
+
+---
+
+### Iron crispelf
+
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Iron crispelf" class="vendorpicture" width="60%" >}} -->
+
+---
+
+### Custom Costumes
+
+The handmade luxury faux-fur ears and tails, and handmade horns, make every Larp costume complete! Don't forget to decorate your bag with our patches and buttons. And we specialize in custom orders so definitely show us your character.
+
+{{< figure src="images/2026/kramen/IMG_20250801_115451949_MFNR - Little Kaori.jpg" alt="Custom Costumes" class="vendorpicture" width="60%" >}}
+
+---
+
+### I Do Hobbys
+
+I Do Hobbys was founded with the aim of turning hobby projects into real products. You will mainly find products related to: design, 3D printing , programming & electronics. But this can be expanded in the future if other interests are discovered. Currently the main focus is dnd related items and products that try to make your game easier and more fun to play!
+
+{{< figure src="images/2026/kramen/490273407_967556338694161_6642855311180452955_n - justin v. bruchem.jpg" alt="I Do Hobbys" class="vendorpicture" width="60%" >}}
+
+---
+
+### Wood & Beetle
+
+Visit the magical stand of Wood & Beetle. Sustainable jewelry and wooden art with a soul.
+
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Wood & Beetle" class="vendorpicture" width="60%" >}} -->
+
+---
+
+### SilverEyeDice
+
+SilverEyeDice offers everything the tabletop hero needs! Going into battle with the most beautiful twenty-sided weapons? Check! Fashionable accessories? Check! A drink for the bleeding? Check!
+
+{{< figure src="images/2026/kramen/20251126_122501 - Ingher Kee.jpg" alt="SilverEyeDice" class="vendorpicture" width="60%" >}}
+
+---
+
+### FAE Games
+
+At FAE Games we have everything for a wild journey within the Feywild! Are you more looking for more inspiration about walking plants, mushroom politics and candy that turns your hair green? Then you have come to the right place.
+
+{{< figure src="images/2026/kramen/logo-faegames - Stephan van Hugten.jpg" alt="FAE Games" class="vendorpicture" width="60%" >}}
+
+---
+
+### Elfje
+
+Let yourself be enchanted by the jewelry, stickers and merch of Elfje! Don't be shy and definitely come by for something beautiful, something cute or just a nice chat!
+
+{{< figure src="images/2026/kramen/ketting - Eefje van Asperen.jpg" alt="Elfje" class="vendorpicture" width="60%" >}}
+
+---
+
+### Goudsmederij Scholten
+
+I am Goldsmith Angeline Scholten, maker of unique handmade jewelry. Each piece of jewelry is a one-of-a-kind design and carries its own magic and story. Just like you no piece is the same. At this fantasy fair I take you into my world full of creativity, mysticism and beauty.
+
+{{< figure src="images/2026/kramen/IMG_1569 - Info Goudsmederij Scholten.HEIC" alt="Goudsmederij Scholten" class="vendorpicture" width="60%" >}}
+
+---
+
+### Piko Ceramics
+
+Piko Ceramics makes handmade ceramics with a strong fantasy and narrative influence. Each piece is shaped and glazed by hand in our own studio, so no item is the same. Think of unique mugs and objects that feel as if they come from another world — perfect for fantasy lovers, readers and dreamers who love craft and magic.
+
+{{< figure src="images/2026/kramen/WhatsApp Image 2026-01-04 at 12.12.10 - Anna Ivanova.jpeg" alt="Piko Ceramics" class="vendorpicture" width="60%" >}}
+
+---
+
+### Studio Fade
+
+At Studio FADE you can find handmade products of leather and ceramics in different styles! I work with themes from nature, Fantasy and the past. All products are made with love in the atelier of Studio FADE in Breukelen! Perfect for decorative or functional products or as an addition to your costume or daily look!
+
+Instagram and tiktok: @bystudiofade
+
+{{< figure src="images/2026/kramen/Afbeelding van WhatsApp op 2025-11-04 om 21.25.21_c5aa7f24 - Leanne de Haan.jpg" alt="Studio Fade" class="vendorpicture" width="60%" >}} 
+
+---
+
+### Céline's Art Studio
+
+Céline’s Art Studio is the go-to place for all your magical stationery, bookish products, and fantasy art prints. Let yourself be carried away to enchanted worlds far beyond, and discover your very own piece of magic. Behind every personally illustrated design lies a unique story, brought to life to inspire your creativity.
+
+{{< figure src="images/2026/kramen/TT-MeBrusselsComicCon-18-11-2024 - C#U00e9line Vu.png" alt="Céline's Art Studio" class="vendorpicture" width="60%" >}}
+
+---
+
+### Ddaywitch
+
+Hi!! Ddaywitch here! I sell handmade fantasy candles, gemstones, jewelry, Airbrush art, potionbottles and much more fun stuff! I really look forward to seeing you at the FantasyCourt! I am excited, hopefully you are too!
+
+{{< figure src="images/2026/kramen/IMG_20240603_222107_755 - D-day Witch.jpg" alt="Ddaywitch" class="vendorpicture" width="60%" >}}
+
+---
+
+### Divini Couture
+
+Seeing and being seen! That is an essential part of Fantasy Court and Divine Couture makes that possible! They make clothing and costumes to measure for Live Roleplay, and offer all supplies for your own costume projects. Are you still looking for that one clasp or special brooch? Then definitely come browse!
+
+{{< figure src="images/2026/kramen/Social Media Divini Couture - Annet Nijmeijer.jpg" alt="Divini Couture" class="vendorpicture" width="60%" >}}
+
+---
+
+### Rosa
+
+Clothing for people with their own unique taste🌺
+
+{{< figure src="images/2026/kramen/IMG_9152 - Helena Lopes Vieira.jpeg" alt="Rosa" class="vendorpicture" width="60%" >}} 
+
+---
+
+### Saline green creative
+
+Meet the Maker of Rescued Magic!
+At the market you will find me, a creative person who gives old forgotten materials new life and transforms them into unique, imaginative treasures. From quirky caps, hats and beanies to playful scarves, bags with glittering bag charms and fidgets: each piece has its own story and is made with care, craftsmanship and a pinch of magic.
+I transform rescued materials into something very special, so you can take home a sustainable and enchanting item. Come by, discover my handmade creations and let yourself be surprised by the magic of reuse!
+
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Saline green creative" class="vendorpicture" width="60%" >}} -->
+
+---
+
+### Demyx/de Seizoenen van nibbik
+
+Jewelry from Vintage cutlery
+
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Demyx/de Seizoenen van nibbik" class="vendorpicture" width="60%" >}} -->
+
+---
+
+### The Morrigan Leather
+
+Do you want a unique look that is made completely according to your wishes or are you still looking for fun additions to your cool costume? The Morrigan Leather is happy to help you make that happen! Come quickly to see what fun things are possible!
+
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="The Morrigan Leather" class="vendorpicture" width="60%" >}} -->
+
+---
+
+### Witch & Warrior Crafts
+
+In a cozy little hut, deep in the forest, live a witch and a warrior. Outside the warrior tells bold stories while selling his handmade shields – robust, unique and steeped in adventure. Inside you will find the witch, surrounded by fragrant herb blends, crocheted creations full of magic and sparkling jewelry of clay and gemstones.
+
+Come by, let yourself be enchanted by our world and take a piece home.
+
+{{< figure src="images/2026/kramen/20250919_191848 - Yvonne B.jpg" alt="Witch & Warrior Crafts" class="vendorpicture" width="60%" >}}
+
+---
+
+### Natalie Thorpe- fantasy author
+
+Fantasy author Natalie Thorpe 
+Natalie Thorpe writes fantasy in all forms: from the epic adventures in The Wilt Trilogy and a historical fantasy about the Scottish king Macbeth to spicy contemporary paranormal romances and folk horror—always full of suspense, chaos and magic!
+
+{{< figure src="images/2026/kramen/author promo FBinsta - Natalie Thorpe.jpg" alt="Natalie Thorpe- fantasy author" class="vendorpicture" width="60%" >}}
+
+---
+
+### Valhalla Boardgames
+
+The nicest board games, TCGs and TTRPG supplies can be found at Valhalla Boardgames!
+
+<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Valhalla Boardgames" class="vendorpicture" width="60%" >}} -->
+
+---
+
+### Fjalla Allround make-up Artist
+
+Come watch the Special effects makeup demo and get inspired. Get to know silicone prostheses and 2 component silicone for creating your look for parties, festivals and gatherings.
+
+{{< figure src="images/2026/kramen/IMG-20250618-WA0016 - Loes de Jong.jpg" alt="Fjalla Allround make-up Artist" class="vendorpicture" width="60%" >}}
+
+---
+
+### mondays wednesday
+
+mondays wednesday, we sell: hand-bound sketch and notebooks, handmade paper, illustrations and other creative trinkets. Besides this we also facilitate a workshop paper making and button making. If this sounds like something for you come by.
+
+{{< figure src="images/2026/kramen/4E84CDD1-8B2F-44FB-B326-27868DEE1018_1_201_a - mondays_wednesday.jpeg" alt="mondays wednesday" class="vendorpicture" width="60%" >}}
+
+---
+
+### Akni uitgeverij
+
+---
+
+### Mathijsen engineering
+
+---
+
+### The Dreamy Cauldron
+
+--- 
+
+### Toys in the Attic
+
+---
+
