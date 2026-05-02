@@ -14,7 +14,7 @@ De volgende standhouders zullen op Fantasy court te vinden zijn:
 
 verkoopt allerlei merchandise met haar eigen fantasierijke artwork welke is geïnspireerd door anime en manga. Bezoek hun stand om leuke spulletjes te vinden zoals sleutelhangers, stickers, mokken, washi tape, pins en nog veel meer!
 
-{{< figure src="images/2026/kramen/pat-4 - marlon teunissen.jpg" alt="Dreamchaserart" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/pat-4 - marlon teunissen.jpg" alt="Dreamchaserart" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -24,7 +24,7 @@ Als je fan bent van magie, sprookjes en middeleeuwse invloeden, kom dan langs bi
 
 Handgemaakte sprookjes sfeer. Producten van hergebruikt materiaal, DIY sets, gehaakte knuffels, accessoires, haakpatronen en nog veel meer.
 
-{{< figure src="images/2026/kramen/20230402_100900 - Mettie Buitendijk.jpg" alt="The Fantasy Bug" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/20230402_100900 - Mettie Buitendijk.jpg" alt="The Fantasy Bug" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -32,7 +32,7 @@ Handgemaakte sprookjes sfeer. Producten van hergebruikt materiaal, DIY sets, geh
 
 Somnivera Events organiseert magische evenementen voor iedereen die even weg wilt uit de gewone wereld. Tijdens Fantasy Court kun je gratis meedoen met een korte activiteit om kennis te maken met één van onze spellen! Hiernaast verkopen wij allerlei leuke, grappige en bijzondere (fantasy) accessoires.
 
-{{< figure src="images/2026/kramen/Screenshot_20251116-204558~2 - Irene Groot Nibbelink.png.jpg" alt="Somnivera Events" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/Screenshot_20251116-204558~2 - Irene Groot Nibbelink.png.jpg" alt="Somnivera Events" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -48,7 +48,7 @@ Dus denk aan dread-sets aan elastiek en aan clip-ins, haarringen, haarpinnen, pi
 Hope to see you soon, 
 Lots of love, Charlotte
 
-{{< figure src="images/2026/kramen/Screenshot_20251114_124520_Gallery - Charlotte van de Wiel.jpg" alt="Lotte beads and more" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/Screenshot_20251114_124520_Gallery - Charlotte van de Wiel.jpg" alt="Lotte beads and more" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -56,7 +56,7 @@ Lots of love, Charlotte
 
 Bij Alissa's Craftings kom je unieke, handgemaakte maliënsieraden tegen, gemaakt van Geanodiseerd Aluminium, rvs en Titanium. Elk sieraad wordt ring voor ring met elkaar verwoven tot het uiteindelijke resultaat. Heb je iets gezien wat je leuk vind, maar niet de juiste kleur of materiaal? Ik doe ook aan customs, zodat je je eigen item helemaal naar wens kan laten maken!
 
-{{< figure src="images/2026/kramen/20251102_084615 - Alissa Slokker.jpg" alt="Alissa's Craftings" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/20251102_084615 - Alissa Slokker.jpg" alt="Alissa's Craftings" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -64,7 +64,7 @@ Bij Alissa's Craftings kom je unieke, handgemaakte maliënsieraden tegen, gemaak
 
 Spirit lights heeft zelfgemaakte spirituele artikelen zoals kaarsen, wierook en spellkits. Daarnaast verschillende benodigdheden voor de echte DIY heks!
 
-{{< figure src="images/2026/kramen/inbound1660926598711959108 - Mykkie Mouse.png" alt="Spirit Lights" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/inbound1660926598711959108 - Mykkie Mouse.png" alt="Spirit Lights" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -72,7 +72,7 @@ Spirit lights heeft zelfgemaakte spirituele artikelen zoals kaarsen, wierook en 
 
 Red Dragon Jewellery brengt lokale handgesmede sieraden naar fantasy court. Van zilver tot been, met hout of met steen.
 
-{{< figure src="images/2026/kramen/IMG-20241122-WA0006 - inkywinkz@hotmail.com.jpg" alt="Red Dragon Jewellery" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/IMG-20241122-WA0006 - inkywinkz@hotmail.com.jpg" alt="Red Dragon Jewellery" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -80,7 +80,7 @@ Red Dragon Jewellery brengt lokale handgesmede sieraden naar fantasy court. Van 
 
 Fantasyshop Fairyland is gespecialiseerd in Larp- en Middeleeuwen kleding, Kelditsche lederwaren en sieraden, Spellen met Fantasy en Historisch Thema en New Age artikelen. Naast beursen en een onlineshop hebben we kunt u ons ook bezoeken in onze winkel in het Brabantse dorpje Aarle-Rixtel.
 
-{{< figure src="images/2026/kramen/kleding 1 - Fantasyshop Fairyland.jpg" alt="Fairyland" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/kleding 1 - Fantasyshop Fairyland.jpg" alt="Fairyland" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -95,13 +95,13 @@ Ontdek bij Whimsy Cottage bijzondere 3D designs:
 
 Voor de innerlijke crafty crow, gift goblin of treasure hunter die altijd op zoek is naar iets speciaals 🐉
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Whimsy Cottage" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Whimsy Cottage" class="vendorpicture" width="60%" >}} -->
 
 ---
 
 ### Dragons' Garden
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Dragons' Garden" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Dragons' Garden" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -109,7 +109,7 @@ Voor de innerlijke crafty crow, gift goblin of treasure hunter die altijd op zoe
 
 Jack of Dice. Shiny mathrocks, nummy number nuggets, radical randomisers and dice!
 
-{{< figure src="images/2026/kramen/IMG_20250904_153844 - Xander Brevoort.jpg" alt="Jack of Dice" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/IMG_20250904_153844 - Xander Brevoort.jpg" alt="Jack of Dice" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -118,7 +118,7 @@ Jack of Dice. Shiny mathrocks, nummy number nuggets, radical randomisers and dic
 Jody’s Crafted World
 Stap binnen in een wereld vol schattige monstertjes, magische wezentjes en unieke handgemaakte decoratie! Mijn gehaakte fantasy-figuren en andere creatieve collecties zijn perfect voor iedereen die houdt van dark whimsy en kleine creaties met een groot karakter. Kom ontdekken wie jou kiest om mee naar huis te gaan!
 
-{{< figure src="images/2026/kramen/IMG_9109 - Jody de Vogel.png" alt="Jody’s Crafted World" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/IMG_9109 - Jody de Vogel.png" alt="Jody’s Crafted World" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -127,7 +127,7 @@ Stap binnen in een wereld vol schattige monstertjes, magische wezentjes en uniek
 Een kleine schatkamer vol handgemaakte magie.
 Onze kleine begeleiders popelen om mee op avontuur te gaan met jou — elk item wordt met liefde, detail en een vleugje mystiek gemaakt. Of liever veilig aan tafel op avontuur? De Trove, staat open!
 
-{{< figure src="images/2026/kramen/APromo Ash - Mill Anie.webp" alt="Arcane Trove" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/APromo Ash - Mill Anie.webp" alt="Arcane Trove" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -139,7 +139,7 @@ Eigenlijk te veel om op te noemen. Kom vooral kijken en je onder dompelen in de 
 
 Www.nooni-en-neik.nl
 
-{{< figure src="images/2026/kramen/PROMO_afbeelding_Nooni-en-Neik - Nooni Design.jpg" alt="Nooni-en-Neik (Nooni Design)" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/PROMO_afbeelding_Nooni-en-Neik - Nooni Design.jpg" alt="Nooni-en-Neik (Nooni Design)" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -147,7 +147,7 @@ Www.nooni-en-neik.nl
 
 Lilypad Crafts is een leuke handgemaakt bedrijf met een nostalgische tint dat zich focust op bookish items en journaling. Met een simpele kleurrijke stijl en schattige beestjes tovert deze artiest een lach op je gezicht. Of je nou graag trinkets collect of liever washi tape, journals en stickers, deze artiest heeft van alles wat
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Lilypad Crafts" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Lilypad Crafts" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -158,7 +158,7 @@ Uiteraard zijn Kapitein Kleerhaak en The Fantasy Fungi weer van de partij! Naast
 Kun je niet wachten? We hebben tegenwoordig ook een winkel in Beek (Limburg)!
 Voor meer informatie kun je ons vinden op Facebook en Instagram als @kapiteinkleerhaak of @the_fantasy_harbour
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Kapitein Kleerhaak - The Fantasy Harbour" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Kapitein Kleerhaak - The Fantasy Harbour" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -166,7 +166,7 @@ Voor meer informatie kun je ons vinden op Facebook en Instagram als @kapiteinkle
 
 Wij bij Steamer Leather maken handgemaakte leren artikelen in Steampunk en Fantasy stijl. Van sleutelhangers en tassen tot draken en volledige pantsers, als het van leer is kunnen wij het maken!
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Steamer Leather" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Steamer Leather" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -174,7 +174,7 @@ Wij bij Steamer Leather maken handgemaakte leren artikelen in Steampunk en Fanta
 
 Nether and Fable is een kleine tabletop accessoires en artifacts shop. Van dicebags met vakjes in verschillende maten, dobbelstenen van resin of jesmonite in de meest apparte vormen en designs, tot luxe houten game tokens en geeky kunstobjecten, het is allemaal bij ons te vinden. Al onze producten zijn zelf gemaakt in onze eigen studio en zelf of in samenwerking met andere getalenteerde Nederlandse artists ontworpen.
 
-{{< figure src="images/2026/kramen/IMG_20251117_084325 - Caitlin Kwaijtaal.jpg" alt="Nether & Fable" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/IMG_20251117_084325 - Caitlin Kwaijtaal.jpg" alt="Nether & Fable" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -190,7 +190,7 @@ Ik kijk ernaar uit je te ontmoeten.
 
 Praktijk Aegle
 
-{{< figure src="images/2026/kramen/IMG_1054 - Praktijk Aegle.jpeg" alt="Praktijk Aegle" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/IMG_1054 - Praktijk Aegle.jpeg" alt="Praktijk Aegle" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -198,7 +198,7 @@ Praktijk Aegle
 
 Studio Vorm & Vlam brengt verbeelding tot leven in handgemaakte keramiek, werk dat niet alleen functioneel is, maar ook een verhaal en verwondering meedraagt. Studio Vorm & Vlam is druk bezig met een nieuwe collectie en die zou dan ook bij de Fantasy Court gepresenteerd worden.
 
-{{< figure src="images/2026/kramen/Joyce_VormVlam - Joyce U.png" alt="Studio Vorm & Vlam" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/Joyce_VormVlam - Joyce U.png" alt="Studio Vorm & Vlam" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -212,7 +212,7 @@ Of je nu op zoek bent naar historische kostuums, fantasywapens, magische props o
 
 Durf te dromen. Durf te spelen. Durf te leven in een andere wereld.
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Larpcenter" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Larpcenter" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -220,7 +220,7 @@ Durf te dromen. Durf te spelen. Durf te leven in een andere wereld.
 
 CCGwinkel, wij leveren alles om roleplaying en boardgaming naar 11 te tillen! van dice tot aan spelsystemen, wij hebben alles wat je nodig hebt!
 
-{{< figure src="images/2026/kramen/CCGwinkel standaard res - Maikel Tegelaers.png" alt="Local Hopup Shop" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/CCGwinkel standaard res - Maikel Tegelaers.png" alt="Local Hopup Shop" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -228,7 +228,7 @@ CCGwinkel, wij leveren alles om roleplaying en boardgaming naar 11 te tillen! va
 
 Mushrooms and Moths creëert sinds 2022 handgemaakte sieraden, accessoires, decor en kunst van polymeerklei. Elk werk is zorgvuldig zelf vormgegeven, geschilderd en afgewerkt, dit resulteert in stuk voor stuk unieke werken. Zoek je een aanvulling op je dagelijkse outfit, larp-costuum of voor een speciale gelegenheid? Of ben je juist op zoek naar een uniek werk om in je huis te plaatsen? Je bent bij ons hoe dan ook aan het juiste adres!
 
-{{< figure src="images/2026/kramen/Mushrooms and Moths - Alexander en Anne Bremers.png" alt="Mushrooms and Moths" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/Mushrooms and Moths - Alexander en Anne Bremers.png" alt="Mushrooms and Moths" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -237,7 +237,7 @@ Mushrooms and Moths creëert sinds 2022 handgemaakte sieraden, accessoires, deco
 Geef meer Flair aan uw kostuum en kom snuffelen tussen schatten van toen. 
 Wees snel hoog geëerd publiek want elk stuk is uniek!
 
-{{< figure src="images/2026/kramen/6B47C3AF-8B2F-44FB-B326-27868DEE1018_1_201_a - Vintagefantasyflair.jpeg" alt="Vintage Fantasy Flair" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/6B47C3AF-8B2F-44FB-B326-27868DEE1018_1_201_a - Vintagefantasyflair.jpeg" alt="Vintage Fantasy Flair" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -245,7 +245,7 @@ Wees snel hoog geëerd publiek want elk stuk is uniek!
 
 Bij het Mamorumori bos ben je welkom bij het adoptiecentrum waar een tal van bewoners staan te springen om een nieuw huis te vinden. Komt jouw nieuwe huisgenoot uit de winter, lente, zomer of herfst? Lees hun biografieën goed door en vind de match!
 
-{{< figure src="images/2026/kramen/artistalleystand - Slowy Z.jpg" alt="Mamorumori" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/artistalleystand - Slowy Z.jpg" alt="Mamorumori" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -253,7 +253,7 @@ Bij het Mamorumori bos ben je welkom bij het adoptiecentrum waar een tal van bew
 
 Whimsical handmade glass art.
 
-{{< figure src="images/2026/kramen/3 - Henk Van Opkankeren.jpg" alt="ArrowGlass" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/3 - Henk Van Opkankeren.jpg" alt="ArrowGlass" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -261,7 +261,7 @@ Whimsical handmade glass art.
 
 Drakenlicht Illustraties maakt magische en wonderlijke handgetekende illustraties met veel fantasy. Thema's als draken, betoverde bossen en kastelen komen vaak voor. Ook maakt Drakenlicht Illustraties kunst op maat voor bijvoorbeeld kinderboeken of kunst aan de muur. Voor een vleugje magie in je eigen project!
 
-{{< figure src="images/2026/kramen/Screenshot_20251117_165636_WhatsApp - Babs van der Hoeven.jpg" alt="Drakenlicht Illustraties" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/Screenshot_20251117_165636_WhatsApp - Babs van der Hoeven.jpg" alt="Drakenlicht Illustraties" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -273,7 +273,7 @@ We are an independent game design company, focusing on the development of TTRPG 
 Our goal is to change the norm of the game industry, to give our consumers what they want by making complete products and for a reasonable price.
 
 
-{{< figure src="images/2026/kramen/WhatsApp Image 2024-07-10 at 14.20.49 - Jeffrey Seedrak.jpeg" alt="sacredfire games" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/WhatsApp Image 2024-07-10 at 14.20.49 - Jeffrey Seedrak.jpeg" alt="sacredfire games" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -281,7 +281,7 @@ Our goal is to change the norm of the game industry, to give our consumers what 
 
 Narquelics Chainmail Jewelry - Handgemaakte sieraden en accessoires van maliënkolderringen. Kom live kijken bij de stand hoe maliënkolders gemaakt worden en loop weg met een prachtig stukje geschiedenis!
 
-{{< figure src="images/2026/kramen/3 - Narquelics Chainmail Jewelry.jpeg" alt="Narquelics Chainmail Jewelry" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/3 - Narquelics Chainmail Jewelry.jpeg" alt="Narquelics Chainmail Jewelry" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -289,7 +289,7 @@ Narquelics Chainmail Jewelry - Handgemaakte sieraden en accessoires van maliënk
 
 Books4Life Eindhoven is een liefdadigheids tweedehands boekenwinkel met een enorme fantasy/sci-fi collectie. Kom genieten van ons brede aanbod en verbluffend gunstige prijzen! De opbrengst van Books4Life gaat naar allerlei goede doelen, waaronder het Armoedefonds, Amnesty International en Oxfam Novib. Ook ondersteunt Books4Life diverse lokale goede doelen.
 
-{{< figure src="images/2026/kramen/b4lgevel - Bestuur Books 4 Life Eindhoven.jpg" alt="Books4life Eindhoven" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/b4lgevel - Bestuur Books 4 Life Eindhoven.jpg" alt="Books4life Eindhoven" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -298,7 +298,7 @@ Books4Life Eindhoven is een liefdadigheids tweedehands boekenwinkel met een enor
 Bij La Salsa Latina ontdek je magische Latin smaken: verse arepas, empanada’s, quesadilla’s en kleurrijke salsas die elke avonturier energie geven.
 Perfect voor helden, elven, tovenaars en festivalgangers! Kom jouw smaak-quest voltooien bij onze foodtruck.
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="La Salsa Latina" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="La Salsa Latina" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -306,7 +306,7 @@ Perfect voor helden, elven, tovenaars en festivalgangers! Kom jouw smaak-quest v
 
 Adorns by Marion zijn zelf gemaakte sieraden en versieringen, gemaakt van epoxy. Voor iedereen die het leuk vind om er bijzonder uit te zien. Zelf vind ik bijv sprookjes figuren, zoals elfjes en andere mythische figuren helemaal geweldig. Ik ben Marion van Roij en adorns betekent, het siert je.
 
-{{< figure src="images/2026/kramen/Photoroom_20251118_172733 - Marion Van Roij.jpeg" alt="Adorns by Marion" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/Photoroom_20251118_172733 - Marion Van Roij.jpeg" alt="Adorns by Marion" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -314,7 +314,7 @@ Adorns by Marion zijn zelf gemaakte sieraden en versieringen, gemaakt van epoxy.
 
 Annemieke van Barlingen is a Belgian artist who, under the name Blue Fern Arts, creates paintings and illustrations using traditional media, drawing inspiration from folklore, fairy tales, mythology and the natural world. Discover the dark and whimsical universe she has created through her artwork, various printed goods and handmade trinkets
 
-{{< figure src="images/2026/kramen/Screenshot_20250820-103927 - Blue Fern Arts.png" alt="Edge of Dusk" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/Screenshot_20250820-103927 - Blue Fern Arts.png" alt="Edge of Dusk" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -322,7 +322,7 @@ Annemieke van Barlingen is a Belgian artist who, under the name Blue Fern Arts, 
 
 Zoals haar naam al doet vermoeden, verkent Jess of All Trades graag alles wat creatief is. Met haar handgemaakte interactieve knuffels en geinige snuisterijen en printjes, hoopt ze een lach op je gezicht te toveren!
 
-{{< figure src="images/2026/kramen/Polish_20250513_192544466 - Jess B.jpg" alt="Jess of All Trades" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/Polish_20250513_192544466 - Jess B.jpg" alt="Jess of All Trades" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -330,7 +330,7 @@ Zoals haar naam al doet vermoeden, verkent Jess of All Trades graag alles wat cr
 
 Barbwire & Roses is een klein bedrijf dat zich voornamelijk richt op de larp markt. Je kan er handgemaakte lederwaren vinden, unieke props, maar ook een selectie resale items zoals shirts, cloaks en larp wapens.
 
-{{< figure src="images/2026/kramen/inbound419988501192869838 - Harley Quinn.jpg" alt="Barbwire & Roses" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/inbound419988501192869838 - Harley Quinn.jpg" alt="Barbwire & Roses" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -338,7 +338,7 @@ Barbwire & Roses is een klein bedrijf dat zich voornamelijk richt op de larp mar
 
 Bij Elfdehands boeken vind je dat ene boek. Fantasy, Sci-Fi, Avontuur, Horror, Geschiedenis, Magie, Fabeldieren en meer. Soms zijn de boeken door elf paar handen gegaan en héél soms ook door een paar elfenhanden. In welk avontuur kom je terecht?
 
-{{< figure src="images/2026/kramen/IMG-20250618-WA0009 - Rosalie Zandbergen.jpg" alt="Elfdehands boeken" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/IMG-20250618-WA0009 - Rosalie Zandbergen.jpg" alt="Elfdehands boeken" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -346,7 +346,7 @@ Bij Elfdehands boeken vind je dat ene boek. Fantasy, Sci-Fi, Avontuur, Horror, G
 
 Nature Deco, de winkel (uit Veghel!) met prachtige opgezette vlinders en insecten en nog veel meer!
 
-{{< figure src="images/2026/kramen/IMG_20251120_202611 - An Beelen.jpg" alt="Nature Deco" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/IMG_20251120_202611 - An Beelen.jpg" alt="Nature Deco" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -354,7 +354,7 @@ Nature Deco, de winkel (uit Veghel!) met prachtige opgezette vlinders en insecte
 
 The Beaded Dragon maakt magische geupcyclede sieraden voor alle feeën, prinsen en prinsessen! Hier vind je jouw unieke sieraad, perfect voor bij de mooiste outfits!
 
-{{< figure src="images/2026/kramen/IMG-20250920-WA0005 - Marah de Boom.jpg" alt="The Beaded Dragon Shop" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/IMG-20250920-WA0005 - Marah de Boom.jpg" alt="The Beaded Dragon Shop" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -362,7 +362,7 @@ The Beaded Dragon maakt magische geupcyclede sieraden voor alle feeën, prinsen 
 
 Bij Eline ontdek je een kleurrijk aanbod van handgetekende illustraties op prints, kaarten, boekenleggers, sleutelhangers en meer! Geïnspireerd door Sprookjes, fantasy en natuur verbeeld ze lieve diertjes en sfeervolle landschappen.
 
-{{< figure src="images/2026/kramen/IMG_4240 - Elaine Wizardeye.heic" alt="Illustrations by Eline" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/IMG_4240 - Elaine Wizardeye.heic" alt="Illustrations by Eline" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -370,7 +370,7 @@ Bij Eline ontdek je een kleurrijk aanbod van handgetekende illustraties op print
 
 EverAfterprint zijn een schrijver en illustrator die samen LGBTQ+ boeken creeëren en publiceren! Onze boeken variëren van fantasy tot paranormale romance. Alles heeft dus een vleugje magie! En als je nou zelf verhalen wil maken met je vrienden, dan hebben we ook queer TTRPG adventuren en een compendium vol met queer NPCs.
 
-{{< figure src="images/2026/kramen/P1015009- - Renée Zonneveld.JPG" alt="EverAfterPrint" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/P1015009- - Renée Zonneveld.JPG" alt="EverAfterPrint" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -378,7 +378,7 @@ EverAfterprint zijn een schrijver en illustrator die samen LGBTQ+ boeken creeër
 
 Ik maak spiritueel haakwerk, spirotdolls, en rituele smudge/krachtvoorwerpen. Dit inde de naam by bien.
 
-{{< figure src="images/2026/kramen/inbound1207784441542247910 - sabine marse van kroonenburg.webp" alt="by bien" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/inbound1207784441542247910 - sabine marse van kroonenburg.webp" alt="by bien" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -389,7 +389,7 @@ Als enthousiaste beoefenaars van deze historische krijgskunsten proberen we de o
 
 Ben jij benieuwd hoe zwaardvechten nu écht in zijn werk gaat, of wil je het zelf eens proberen? Kom dan zeker langs bij onze stand op Fantasy Court!
 
-{{< figure src="images/2026/kramen/1764515643755 - Eef Shamoun.jpg" alt="Stichting De Zwaardkring" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/1764515643755 - Eef Shamoun.jpg" alt="Stichting De Zwaardkring" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -397,13 +397,13 @@ Ben jij benieuwd hoe zwaardvechten nu écht in zijn werk gaat, of wil je het zel
 
 Bij Kobold Trinkets duik je in een wereld vol geeky treasures. Bijna alles is handgemaakt: unieke figurines van Koroks, Pikmin en mijn eigen DnD-miniatures, 3D Pokémon kaarten, nerdy T-shirts en bijzondere magneten van drakentrofeeën en paddenstoelen. Naast al dit handgemaakte werk neem ik ook een dice gachapon-machine mee voor de echte durfallen.
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Kobold Trinkets" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Kobold Trinkets" class="vendorpicture" width="60%" >}} -->
 
 ---
 
 ### Iron crispelf
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Iron crispelf" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Iron crispelf" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -411,7 +411,7 @@ Bij Kobold Trinkets duik je in een wereld vol geeky treasures. Bijna alles is ha
 
 Het handgemaakte luxe nep-bont oortjes en staarten, en handgemaakte horentjes, maken wij elk Larp kostuum compleet! Vergeet niet je tas te decoreren met onze patches en buttons. En we specialiseren ons op op maat gemaakte bestellingen dus laat ons vooral je character zien.
 
-{{< figure src="images/2026/kramen/IMG_20250801_115451949_MFNR - Little Kaori.jpg" alt="Custom Costumes" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/IMG_20250801_115451949_MFNR - Little Kaori.jpg" alt="Custom Costumes" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -419,7 +419,7 @@ Het handgemaakte luxe nep-bont oortjes en staarten, en handgemaakte horentjes, m
 
 I Do Hobbys was founded with the aim of turning hobby projects into real products. You will mainly find products related to: design, 3D printing , programming & electronics. But this can be expanded in the future if other interests are discovered. Currently the main focus is dnd related items and products that try to make your game easier and more fun to play!
 
-{{< figure src="images/2026/kramen/490273407_967556338694161_6642855311180452955_n - justin v. bruchem.jpg" alt="I Do Hobbys" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/490273407_967556338694161_6642855311180452955_n - justin v. bruchem.jpg" alt="I Do Hobbys" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -427,7 +427,7 @@ I Do Hobbys was founded with the aim of turning hobby projects into real product
 
 Bezoek de magische stand van Wood & Beetle. Duurzame sieraden en houten kunst met een ziel.
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Wood & Beetle" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Wood & Beetle" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -435,7 +435,7 @@ Bezoek de magische stand van Wood & Beetle. Duurzame sieraden en houten kunst me
 
 SilverEyeDice biedt alles wat de tafeltopheld nodig heeft! De strijd aangaan met de mooiste twintigzijdige wapens? Check! Modieuze accessoires? Check! Drankje voor het bloeden? Check!
 
-{{< figure src="images/2026/kramen/20251126_122501 - Ingher Kee.jpg" alt="SilverEyeDice" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/20251126_122501 - Ingher Kee.jpg" alt="SilverEyeDice" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -443,7 +443,7 @@ SilverEyeDice biedt alles wat de tafeltopheld nodig heeft! De strijd aangaan met
 
 Bij FAE Games hebben we alles voor een wilde reis binnen de Feywild! Ben je meer op zoek naar meer inspiratie over wandelende planten, paddestoelenpolitiek en snoep waar je haar groen van wordt? Dan ben je bij ons aan het juiste adres.
 
-{{< figure src="images/2026/kramen/logo-faegames - Stephan van Hugten.jpg" alt="FAE Games" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/logo-faegames - Stephan van Hugten.jpg" alt="FAE Games" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -451,7 +451,7 @@ Bij FAE Games hebben we alles voor een wilde reis binnen de Feywild! Ben je meer
 
 Laat je betoveren door de sieraden, stickers en merch van Elfje! Wees niet verlegen en kom zeker langs voor wat moois, wat schattig of gewoon een leuk praatje!
 
-{{< figure src="images/2026/kramen/ketting - Eefje van Asperen.jpg" alt="Elfje" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/ketting - Eefje van Asperen.jpg" alt="Elfje" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -459,7 +459,7 @@ Laat je betoveren door de sieraden, stickers en merch van Elfje! Wees niet verle
 
 Ik ben Goudsmid Angeline Scholten, maker van unieke handgemaakte sieraden. Elk sieraad is een eenmalig ontwerp en draagt zijn eigen magie en verhaal. Net als jij is geen enkel stuk hetzelfde. Op deze fantasiebeurs neem ik je mee in mijn wereld vol creativiteit, mystiek en schoonheid.
 
-{{< figure src="images/2026/kramen/IMG_1569 - Info Goudsmederij Scholten.HEIC" alt="Goudsmederij Scholten" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/IMG_1569 - Info Goudsmederij Scholten.HEIC" alt="Goudsmederij Scholten" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -467,7 +467,7 @@ Ik ben Goudsmid Angeline Scholten, maker van unieke handgemaakte sieraden. Elk s
 
 Piko Ceramics maakt handgemaakte keramiek met een sterke fantasy- en verhalende inslag. Elk stuk wordt met de hand gevormd en geglazuurd in eigen atelier, waardoor geen enkel item hetzelfde is. Denk aan unieke mokken en objecten die voelen alsof ze uit een andere wereld komen — perfect voor fantasy-liefhebbers, lezers en dromers die houden van ambacht en magie.
 
-{{< figure src="images/2026/kramen/WhatsApp Image 2026-01-04 at 12.12.10 - Anna Ivanova.jpeg" alt="Piko Ceramics" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/WhatsApp Image 2026-01-04 at 12.12.10 - Anna Ivanova.jpeg" alt="Piko Ceramics" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -475,9 +475,7 @@ Piko Ceramics maakt handgemaakte keramiek met een sterke fantasy- en verhalende 
 
 Bij Studio FADE kan je terecht voor handgemaakte producten van leer en keramiek in verschillende stijlen! Ik werk met thema's uit de natuur, Fantasy en het verleden. Alle producten zijn met liefde in het atelier van Studio FADE in Breukelen gemaakt! Perfect voor decoratieve of functionele producten of als toevoeging aan je kostuum of dagelijkse look!
 
-Instagram en tiktok: @bystudiofade
-
-{{< figure src="images/2026/kramen/Afbeelding van WhatsApp op 2025-11-04 om 21.25.21_c5aa7f24 - Leanne de Haan.jpg" alt="Studio Fade" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/Afbeelding van WhatsApp op 2025-11-04 om 21.25.21_c5aa7f24 - Leanne de Haan.jpg" alt="Studio Fade" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -485,7 +483,7 @@ Instagram en tiktok: @bystudiofade
 
 Céline’s Art Studio is the go-to place for all your magical stationery, bookish products, and fantasy art prints. Let yourself be carried away to enchanted worlds far beyond, and discover your very own piece of magic. Behind every personally illustrated design lies a unique story, brought to life to inspire your creativity.
 
-{{< figure src="images/2026/kramen/TT-MeBrusselsComicCon-18-11-2024 - C#U00e9line Vu.png" alt="Céline's Art Studio" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/TT-MeBrusselsComicCon-18-11-2024 - C#U00e9line Vu.png" alt="Céline's Art Studio" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -493,7 +491,7 @@ Céline’s Art Studio is the go-to place for all your magical stationery, booki
 
 Hoi!! Ddaywitch hier! Ik verkoop zelfgemaakte fantasy kaarsen, edelstenen, sieraden, Airbrush kunst, potionbottles en veel meer leuks! Ik zie jullie heel graag op de FantasyCourt! Ik heb er zin in, hopelijk jullie ook!
 
-{{< figure src="images/2026/kramen/IMG_20240603_222107_755 - D-day Witch.jpg" alt="Ddaywitch" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/IMG_20240603_222107_755 - D-day Witch.jpg" alt="Ddaywitch" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -501,7 +499,7 @@ Hoi!! Ddaywitch hier! Ik verkoop zelfgemaakte fantasy kaarsen, edelstenen, siera
 
 Zien en gezien worden! Dat is een essentieel onderdeel van Fantasy Court en Divine Couture maakt dat mogelijk! Zij maakt kleding en kostuums op maat voor Live Roleplay, en biedt alle benodigdheden voor je eigen kostuumprojecten. Zoek je nog die ene sluiting of bijzondere broche? Kom dan zeker even snuffelen!
 
-{{< figure src="images/2026/kramen/Social Media Divini Couture - Annet Nijmeijer.jpg" alt="Divini Couture" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/Social Media Divini Couture - Annet Nijmeijer.jpg" alt="Divini Couture" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -509,7 +507,7 @@ Zien en gezien worden! Dat is een essentieel onderdeel van Fantasy Court en Divi
 
 Kleding voor mensen met een eigen unieke smaak🌺
 
-{{< figure src="images/2026/kramen/IMG_9152 - Helena Lopes Vieira.jpeg" alt="Rosa" class="vendorpicture" width="60%" >}} 
+{{< figure src="/images/2026/kramen/IMG_9152 - Helena Lopes Vieira.jpeg" alt="Rosa" class="vendorpicture" width="60%" >}} 
 
 ---
 
@@ -519,7 +517,7 @@ Ontmoet de Maker van Geredde Magie!
 Op de markt vind je mij, een creatieveling die oude vergeten materialen nieuw leven inblaast en ze omtovert tot unieke, fantasierijke schatten. Van eigenzinnige petten, hoedjes en mutsen tot speelse sjaals, tassen met glinsterende tassenhangers en fidgets: elk stuk heeft zijn eigen verhaal en wordt met zorg, vakmanschap en een snufje toverkracht gemaakt.
 Ik transformeer geredde materialen tot iets heel bijzonders, zodat jij een duurzaam én betoverend item mee naar huis kunt nemen. Kom langs, ontdek mijn handgemaakte creaties en laat je verrassen door de magie van hergebruik!
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Saline green creative" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Saline green creative" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -527,7 +525,7 @@ Ik transformeer geredde materialen tot iets heel bijzonders, zodat jij een duurz
 
 Sieraden van Vintage bestek
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Demyx/de Seizoenen van nibbik" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Demyx/de Seizoenen van nibbik" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -535,7 +533,7 @@ Sieraden van Vintage bestek
 
 Wil jij een unieke look die helemaal naar wens op maat gemaakt word of zoek je nog leuke toevoegingen aan je vette costuum? The Morrigan Leather helpt je graag om dat waar te maken! Kom snel kijken wat voor leuks er mogelijk is!
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="The Morrigan Leather" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="The Morrigan Leather" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -545,7 +543,7 @@ In een knus hutje, diep in het bos, wonen een heks en een krijger. Buiten vertel
 
 Kom langs, laat je betoveren door onze wereld en neem een stukje mee naar huis.
 
-{{< figure src="images/2026/kramen/20250919_191848 - Yvonne B.jpg" alt="Witch & Warrior Crafts" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/20250919_191848 - Yvonne B.jpg" alt="Witch & Warrior Crafts" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -554,7 +552,7 @@ Kom langs, laat je betoveren door onze wereld en neem een stukje mee naar huis.
 Fantasy author Natalie Thorpe 
 Natalie Thorpe schrijft fantasy in alle vormen: van de epische avonturen in The Wilt Trilogy en een historische fantasy over de Schotse koning Macbeth tot pittige hedendaagse paranormale romances en folkhorror—altijd vol spanning, chaos en magie!
 
-{{< figure src="images/2026/kramen/author promo FBinsta - Natalie Thorpe.jpg" alt="Natalie Thorpe- fantasy author" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/author promo FBinsta - Natalie Thorpe.jpg" alt="Natalie Thorpe- fantasy author" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -562,7 +560,7 @@ Natalie Thorpe schrijft fantasy in alle vormen: van de epische avonturen in The 
 
 De leukste bordspellen, TCGs en TTRPG benodigdheden vind je bij Valhalla Boardgames!
 
-<!-- {{< figure src="images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Valhalla Boardgames" class="vendorpicture" width="60%" >}} -->
+<!-- {{< figure src="/images/2026/kramen/ADD_IMAGE_FILENAME_HERE.jpg" alt="Valhalla Boardgames" class="vendorpicture" width="60%" >}} -->
 
 ---
 
@@ -570,7 +568,7 @@ De leukste bordspellen, TCGs en TTRPG benodigdheden vind je bij Valhalla Boardga
 
 Kom kijken naar de Special effects makeu-up demo en laat je inspireren. Maak kennis met silicone protheses en 2 componenten silicone voor het maken van jou look voor feestjes, festivals en bijeenkomsten.
 
-{{< figure src="images/2026/kramen/IMG-20250618-WA0016 - Loes de Jong.jpg" alt="Fjalla Allround make-up Artist" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/IMG-20250618-WA0016 - Loes de Jong.jpg" alt="Fjalla Allround make-up Artist" class="vendorpicture" width="60%" >}}
 
 ---
 
@@ -578,7 +576,7 @@ Kom kijken naar de Special effects makeu-up demo en laat je inspireren. Maak ken
 
 mondays wednesday, wij verkopen: handgebonden schets- notitieboeken, handgeschept papier, illustraties en anderen creatieve snuisterijen. Hiernaast faciliteren wij ook een workshop papier scheppen en buttons maken. Als dit je wat lijkt kom dan gezellig langs.
 
-{{< figure src="images/2026/kramen/4E84CDD1-8B2F-44FB-B326-27868DEE1018_1_201_a - mondays_wednesday.jpeg" alt="mondays wednesday" class="vendorpicture" width="60%" >}}
+{{< figure src="/images/2026/kramen/4E84CDD1-8B2F-44FB-B326-27868DEE1018_1_201_a - mondays_wednesday.jpeg" alt="mondays wednesday" class="vendorpicture" width="60%" >}}
 
 ---
 

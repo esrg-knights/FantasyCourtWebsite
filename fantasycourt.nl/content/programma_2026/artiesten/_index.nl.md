@@ -16,7 +16,8 @@ Andawenn speelt sfeervolle instrumentale muziek uit Ierland, Schotland en Bretag
 ## Gwendolyn Snowdon
 Multi instrumentalist en folkzangeres Gwendolyn Snowdon zingt oude  èn hedendaagse eigengeschreven folkliedjes met veel passie en plezier.  Laat je meevoeren op een muzikale reis die je meevoert langs Ierland,  Groot-Brittannië, Frankrijk, Zweden, Nederland en België, vol magie en  symboliek, weemoed, oude legenden en liefdesverhalen die vaker dan niet  eindigen in drama.
 
-## Edward fiddler
+## Edward Fiddler
+Edward Fiddler en zijn piratencrew maken Fantasy Court weer onveilig.
 
 ## Fjodor de Harpist
 Fjodor de Harpist keert voor het tweede jaar op rij terug naar Fantasy Court. Met zijn harp neemt hij u mee op een magische reis door het festival. Van Keltisch geïnspireerde melodieën tot iconische soundtracks uit films en games zoals Lord of the Rings en Baldur’s Gate, muziek die u volledig onderdompelt in de wereld van fantasie.
