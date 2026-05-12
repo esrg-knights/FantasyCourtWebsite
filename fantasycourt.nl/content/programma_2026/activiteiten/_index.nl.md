@@ -28,7 +28,7 @@ Ook dit jaar heeft Fantasy Court weer een kostuumwedstrijd met leuke prijzen ges
 {{< figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}
 
 ## Balfolkworkshop door Isa en Dirk
-Er zal een gratis balfolkworkshop zijn. Balfolk is een dansstijl gebaseerd op traditionele Franse en Nederlandse dansen. In de workshop zullen de deelnemers een aantal van deze dansen aangeleerd krijgen waarna er gezamenlijk gedanst kan worden. De begintijd van de workshop is zichtbaar op de [programmapagina.]({{< ref "/programma_2026/" >}})
+Er zal een gratis balfolkworkshop zijn. Balfolk is een dansstijl gebaseerd op traditionele Franse en Nederlandse dansen. In de workshop zullen de deelnemers een aantal van deze dansen aangeleerd krijgen waarna er gezamenlijk gedanst kan worden.
 
 ##  Immersive Maffia door Somnivera
 &nbsp;

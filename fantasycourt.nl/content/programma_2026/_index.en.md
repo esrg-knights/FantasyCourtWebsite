@@ -8,7 +8,7 @@ og:
 _But the loveliest of all are still all of you!_
 {{< /message >}}
 
-Fantasy Court 2025 takes place on Sunday the 8th of June from 11:00 to 18:00. <!--You can find the programme below (in Dutch).-->
+Fantasy Court 2026 takes place on Sunday the 24th of May from 11:00 to 18:00. <!--You can find the programme below (in Dutch).-->
 
 <!-->
 {{<gallery class="content-gallery" height="610">}}
