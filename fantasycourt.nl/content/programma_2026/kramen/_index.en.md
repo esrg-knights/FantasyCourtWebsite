@@ -496,14 +496,6 @@ Hi!! Ddaywitch here! I sell handmade fantasy candles, gemstones, jewelry, Airbru
 
 ---
 
-### Divini Couture
-
-Seeing and being seen! That is an essential part of Fantasy Court and Divine Couture makes that possible! They make clothing and costumes to measure for Live Roleplay, and offer all supplies for your own costume projects. Are you still looking for that one clasp or special brooch? Then definitely come browse!
-
-{{<figure src="/images/2026/kramen/Social Media Divini Couture - Annet Nijmeijer.jpg" alt="Divini Couture" class="vendorpicture" width="60%" >}}
-
----
-
 ### Rosa
 
 Clothing for people with their own unique taste🌺

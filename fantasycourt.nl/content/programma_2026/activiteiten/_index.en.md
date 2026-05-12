@@ -35,6 +35,48 @@ This year, Fantasy Court will again have a costume contest with fun prizes spons
 ## Balfolk workshop
 There will be a free balfolk workshop. Balfolk is a dance style based on traditional French and Dutch dances. In the workshop, the participants will learn a number of these dances, and thereafter will be able to dance them together. You can check the start time in the [programme schedule.]({{< ref "/programma_2026/" >}})
 
+## Immersive Mafia by Somnivera
+&nbsp;
+
+## Blood on the Clocktower by Custom Script Events
+Blood on the Clocktower is a new and popular deduction game. Will the villagers manage to find the Demon? Or will the village end up drenched in blood? Only one way to find out. Want to be sure of a spot? Register for a time slot now through our website! https://customscript.nl/.
+
+## Making 2-Component Prosthetics by Fjalla
+At Fjalla you will learn how to apply a silicone prosthetic or make a 2-component silicone prosthetic.
+
+## Flow Arts by Nozdormu
+&nbsp;
+
+## TTRPG Workshop by Sacred Fire Games
+Sacred Fire Games hosts tabletop role-playing game oneshots during Fantasy Court.
+
+## Leather Stamping by Captain Kleerhaak
+&nbsp;
+
+## Insect Mounting by Nature Deco
+&nbsp;
+
+## Clay Stamping by Piko Ceramics
+Come see how Piko Ceramics shows how they work, and try it yourself with handmade stamps.
+
+## Two-Handed Sword Fighting Training by Zwaardkring
+At Zwaardkring you will learn to fight with synthetic longswords in a two-handed sword fighting workshop.
+
+## Sword Fighting Training by Sport 365
+Join a mini sword fighting workshop given by Sport 365.
+
+## Paper Making by Mondays Wednesday
+In this workshop you can make your own piece of paper. This is done using a paper mould and a tub of water with the paper base in it.
+
+## Pouch-Making Workshop by Mondays Wednesday
+&nbsp;
+
+## Stories in the Tent by Toys in the Attic
+Come listen to stories told by Toys in the Attic.
+
+## Tarot Readings by Aegle
+&nbsp;
+
 {{< message margin-top="80px" margin-bottom="100px">}}
 _See you at the court!_
 {{< /message >}}
