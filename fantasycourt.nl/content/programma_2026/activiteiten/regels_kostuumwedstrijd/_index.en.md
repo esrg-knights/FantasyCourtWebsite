@@ -1,43 +1,41 @@
 ---
-title: Costume Contest Rules
+title: costume contest rules
 og:
   description: "Fantasy Court - Costume contest rules"
 ---
     
-
-# Comprehensive Explanation Costume Contest
-The following describes how the contest will proceed, as well as the rules for participation.
+# Detailed Explanation Costume contest
+Below the course of the contest is described, as well as the rules for participation. 
 
 ## Registration
-You can register at the Fantasy Court info stand on the day of the festival to participate in the costume contest. There are only limited spots. We will ask for your age and your name. Our volunteers will then ask some questions to determine whether you meet all the conditions to participate. After this, you can choose a time slot, again on a first-come first-served basis. During this time slot, you can show your costume to the judges. You must be present 10 minutes before the start of your time slot. Registration closes at 13.30 or when there are no more spots available, whichever comes first. There is no entry fee to participate in the costume contest.
+You can register on the day of Fantasy Court at the Fantasy Court information stand to participate in the Costume contest. There are only limited spots. We ask for your age and your name here. Our volunteers will then ask a number of questions to determine whether you meet the rules to be allowed to participate. After this you can choose a time slot, again first come, first served. During this time slot you can show your costume to the jury. Be present 10 minutes before the start. Registration closes at 13.30 or when there are no spots left, whichever of the two is earlier. There are no registration costs for participating in the costume contest.
 
 ## Participation
-We expect you to comply with the rules described below. In addition, we expect you to be present on time. We will not be searching or calling, so if you are not there, you will be deregistered and cannot participate. Our volunteers will accompany you to and from the judging. After judging, there will be a photo opportunity with a photographer. These photos will come online later, as well as the group photo of all participants. The costume contest will start at 14:00.
+We expect that you meet the rules described below. In addition, we expect that you are present on time. We will not search or announce, so if you are not there, you will be deregistered and can no longer participate. Our volunteers will guide you to and from the jury. After the judging there is a photo moment with a photographer. These photos will come online later, as well as the group photo of all participants. The costume contest will start at 14.00.
 
 ## Judging and Award Ceremony
-Judging takes 2.5 minutes. Think carefully in advance about what you want to say and what you are most proud of in what you have made. Above all, make sure the judges know about these highlights!
+Judging takes 2.5 minutes. Think carefully beforehand about what you want to say and what you are most proud of with what you have made. Especially show these things too!
 
-Important to keep in mind: The individual parts of your costume are just as important as the whole. We judge on how it fits together visually. We like it if you explain why you went for specific garments or if you have a nice story about your costume. For example, if you portray a self-made character, tell why they wear these clothes. 
+Important to keep in mind: The individual parts of your costume are just as important as the whole. We judge on how it visually fits together. We like it if you explain why you went for specific clothing pieces or if you have a fun story about your costume. For example, are you portraying a self-made character, tell why they wear these clothes. 
 
-State clearly if you made something yourself as well as if you did not. Suspicion of providing this information incorrectly will result in disqualification. 
+Clearly mention if you made something yourself and also if you did not. Suspicion of falsely providing this information leads to disqualification. 
 
-After the judges have judged all the costumes, they will add up the scores and meet to decide on the final winners. Note: There are more prizes than just the top three. Some of these categories are secret so people cannot intentionaly aim to win them. So simply come as you are!
+After the jury has judged all costumes, they will add up the scores and deliberate about the final winners. Note! There are more prizes than just the top 3. Some of these categories are secret so that people cannot deliberately play into them. So especially come as you are.
 
 ## Exclusion from Participation
+Costumes may not be obscene or offensive, incite hatred or provoke. There is also a swimsuit policy: everything that a swimsuit covers must also be covered on stage. The costumes in the costume contest may not be bought. The costume contest is not open to characters from published works, including films, TV shows, comic books, cartoons, video games and card games, i.e. it is not a cosplay contest. However, original interpretations of existing figures are allowed, for example Steampunk Batman, Indiana Jones if he had lived in 1350, Brave’s Merida reimagined as a fairy, etc. are examples of costumes that would be allowed. 
 
-Costumes must not be obscene, offensive, incite hatred or be provocative. Also, we adhere to a swimsuit policy: anything that a standard swimsuit covers must also be covered on stage. The costumes in the costume contest may not be bought. The costume contest is not open to characters from published works, including films, TV shows, comic books, cartoons, video games and card games, i.e. it is not a cosplay contest. However, original interpretations of existing characters are allowed, e.g. Steampunk Batman, Indiana Jones if he lived in 1350, Brave's Merida reimagined as a fairy, etc. are examples of costumes that would be allowed. 
-
-The final choice of whether someone qualifies to participate lies with the volunteer at the info booth, and their choice is decisive. Fantasy Court volunteers and organisation are excluded from participating in the costume contest to win prizes. 
+The final choice lies with the volunteer at the information stand and their choice is final. Volunteers and organization of Fantasy Court are excluded from participating in the costume contest to win prizes. 
 
 # Prizes
-All prizes of the costume contest are sponsored by various Fantasy Court exhibitors. These prizes are a surprise and will be announced during the ceremony. No cash prize is available and prizes may not be exchanged for cash.
+The prizes for the costume contest are sponsored by the vendors of Fantasy Court. No rights can be derived from the prizes announced on our socials. We rely on the information provided to us by the vendors and accept no responsibility for any inaccuracies or changes. The prizes are divided over first, second and third places, and judge’s favourites in the costume and sword fighting contest. There is no cash prize available and prizes may not be exchanged for money.
 
 # General Rules
 &nbsp;
-* Costumes should be homemade or significantly modified existing items: Mention if you made something yourself, but also if you did not. The majority of your costume should be homemade.  The more you have made yourself, the higher we rate it. We expect you to have made at least 70% yourself, as it is not unexpected that some items were bought. Purchased costumes may not compete. Having bought or not made the costume yourself, and not reporting this, is an automatic disqualification from the competition and future competitions. Creative reuse of material and recycling of a costume is highly appreciated, however, you must have structurally changed or added things yourself. Otherwise, we will treat it as a bought costume;
- * Costumes not made by the wearer are only allowed if the creator is present: you can have someone else participate as your 'model' in your self-created costume. However, you must be present to explain how you made it and the like. Also, the other person may not have paid any money for the costume (i.e. no commissioned costumes, etc.);
- * Group costumes are not possible, these can only participate as single participants and will be judged separately;
- * There is no minimum age limit, although in the case of young participants we do ask that parents stay with them for a while to make it less nerve-wracking; 
- * A volunteer from the organisation will be present at the registration point. The volunteer will judge whether your costume meets the requirements of the competition. We therefore ask that you approach our volunteers respectfully. Insulting, disrespecting, or in any other way mistreating volunteers is an automatic disqualification, and a disqualification for this and all future competitions at Fantasy Court;
- * Not being present during your call-time is an automatic deregistration and disqualification;
- * The organisation reserves the right to deregister you at any time for any reason.
+* Costumes must be self-made or significantly altered existing items: Mention if you made something yourself, but also if you did not. The majority of your costume must be self-made. The more you have made yourself, the higher we will judge this. We expect that you have made at least 70% yourself, since it is not unexpected that a number of items have been bought. Bought costumes may not participate. Having bought or not having made the costume yourself, and not reporting this, is an automatic deregistration and disqualification from the contest and future contests. Creatively reusing material and thrifted parts of a costume is greatly appreciated, however the intention is that you have structurally changed or added things to it yourself. Otherwise we treat it as a bought costume;
+* Non-self-made costumes are only allowed if the maker is present: You may let someone else participate with your self-made costume. However, you must then be present to explain how you made it and such. The other person also may not have paid money for the costume, so no commission costume etc.;
+* Group costumes are not possible, these can only participate as separate participants and will be judged separately.
+* There is no minimum age limit, but for young participants we ask that parents stay with them for a moment to make it a bit less scary; 
+* At the registration point there is a volunteer of the organization. This person judges whether your costume meets the requirements of the contest, and has the final say on whether you go through to judging. We therefore ask that you approach our volunteers respectfully. Insulting, disrespectfully treating, or in any other way not correctly interacting with volunteers is an automatic deregistration and qualification for this and all future contests at Fantasy Court
+* Not being present during your call-time is an automatic deregistration and disqualification.
+* The organization reserves the right at all times to deregister you for any reason whatsoever.
