@@ -33,7 +33,7 @@ This year, Fantasy Court will again have a costume contest with fun prizes spons
 {{<figure src="/images/2025/_DSC5390.JPG" alt="Costume contest" height="400" >}}
 
 ## Balfolk workshop
-There will be a free balfolk workshop. Balfolk is a dance style based on traditional French and Dutch dances. In the workshop, the participants will learn a number of these dances, and thereafter will be able to dance them together. You can check the start time in the [programme schedule.]({{< ref "/programma_2026/" >}})
+There will be a free balfolk workshop. Balfolk is a dance style based on traditional French and Dutch dances. In the workshop, the participants will learn a number of these dances, and thereafter will be able to dance them together.
 
 ## Immersive Mafia by Somnivera
 &nbsp;

@@ -8,7 +8,7 @@ og:
 _Maar het mooiste is nog steeds ons publiek_
 {{< /message >}}
 
-Fantasy court 2025 vindt plaats op zondag 8 juni van 11.00 tot 18.00. <!-- Hieronder staat het programma.-->
+Fantasy court 2025 vindt plaats op zondag 24 Mei van 11.00 tot 18.00. <!-- Hieronder staat het programma.-->
 
 <!--
 {{<gallery class="content-gallery" height="610">}}
