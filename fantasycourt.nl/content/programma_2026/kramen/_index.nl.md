@@ -495,14 +495,6 @@ Hoi!! Ddaywitch hier! Ik verkoop zelfgemaakte fantasy kaarsen, edelstenen, siera
 
 ---
 
-### Divini Couture
-
-Zien en gezien worden! Dat is een essentieel onderdeel van Fantasy Court en Divine Couture maakt dat mogelijk! Zij maakt kleding en kostuums op maat voor Live Roleplay, en biedt alle benodigdheden voor je eigen kostuumprojecten. Zoek je nog die ene sluiting of bijzondere broche? Kom dan zeker even snuffelen!
-
-{{<figure src="/images/2026/kramen/Social Media Divini Couture - Annet Nijmeijer.jpg" alt="Divini Couture" class="vendorpicture" width="60%" >}}
-
----
-
 ### Rosa
 
 Kleding voor mensen met een eigen unieke smaak🌺

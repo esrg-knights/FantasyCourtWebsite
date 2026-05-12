@@ -27,8 +27,50 @@ Ook dit jaar heeft Fantasy Court weer een kostuumwedstrijd met leuke prijzen ges
 
 {{< figure src="/images/2025/_DSC5390.JPG" alt="Kostuumwedstrijd" height="400" >}}
 
-## Balfolkworkshop
+## Balfolkworkshop door Isa en Dirk
 Er zal een gratis balfolkworkshop zijn. Balfolk is een dansstijl gebaseerd op traditionele Franse en Nederlandse dansen. In de workshop zullen de deelnemers een aantal van deze dansen aangeleerd krijgen waarna er gezamenlijk gedanst kan worden. De begintijd van de workshop is zichtbaar op de [programmapagina.]({{< ref "/programma_2026/" >}})
+
+##  Immersive Maffia door Somnivera
+&nbsp;
+
+## Blood on the Clocktower door Custom Script Events
+Blood on the Clocktower is een nieuw en populair deductiespel. Lukt het de dorpsbewoners om de Demon te vinden? Of eindigt het dorp doordrenkt in bloed? Maar één manier om het te vinden. Wil je verzekerd zijn van een plek? Schrijf je dan nu alvast in voor een tijdslot via onze website! https://customscript.nl/.
+
+## 2 Componenten Prothese maken door Fjalla
+Bij Fjalla leer je om een silicone prothese plakken of een 2 componenten silicone prothese maken.
+
+## Flow arts door Nozdormu
+&nbsp;
+
+## TTRPG workshop door Sacred Fire Games
+Sacred Fire Games host table top role playing game oneshots tijdens Fantasy Court.
+
+## Leerstempelen door Kapiteit Kleerhaak
+&nbsp;
+
+## Insecten opzetten door Nature Deco
+&nbsp;
+
+## Clay stamping door Piko Ceramics
+Kom kijken hoe Piko Ceramics laat zien hoe ze te werk gaan, en kom het zelf proberen met hand gemaakte stempels.
+
+## Tweehandig zwaardvecht training door Zwaardkring
+Bij zwaardkring leer je vechten met kunststoffen langzwaarden voor een workshop tweehandig vechten met zwaard en schild.
+
+## Zwaardvecht training door Sport 365
+Volg een mini zwaardvecht workshop gegeven door Sport 365.
+
+## Papier scheppen door Mondays Wednesday
+Bij deze workshop kan je zelf een eigen papiertje maken. Dit wordt gedaan door middel van een schepraam en een bak water met de papier basis erin.
+
+## Buidelmaak Workshop door Mondays Wednesday
+&nbsp;
+
+## Verhalen in de Tent door Toys in the Attic
+Kom luisteren naar verhalen verteld door Toys in the Attic.
+
+## Tarot lezingen door Aegle
+&nbsp;
 
 {{< message margin-top="80px" margin-bottom="100px">}}
 _Tot op het hof!_
