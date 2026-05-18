@@ -68,12 +68,11 @@ De gouden regel is ”doe niks wat ons dwingt om ons wapenbeleid aan te scherpen
 
 
 #### Veilig vechten regels
-1. Men mag niet met larp-rekwisieten steken.
-2. Het is niet toegestaan om het hoofd, geslachtsdelen of de nek te raken.
-3. Fysiek contact is ten alle tijden verboden.
-4. Men dient slagen in te houden.
+1. Het is niet toegestaan om met het wapen te steken.
+2. Het is niet toegestaan om het hoofd of de nek te raken.
+3. Het is niet toegestaan om doelbewust te mikken op polsen, geslachtsdelen en borsten. 
+4. Het is niet toegestaan om fysiek contact te maken met je tegenstander.
 5. Het is niet toegestaan om tijdens een duel te rennen.
-6. Het is niet toegestaan om met schilden te slaan.
-7. Alhoewel het een geldige hitlocatie is verzoeken wij de deelnemers voorzichtig te zijn met het raken van borsten en polsen.
-8. Het is toegestaan om onder- en bovenhands te slaan. kijk hierbij wel uit voor hoofd enGeslachtsdelen.
+6. Het is niet toegestaan om met een schild te slaan.
+7. Slagen moeten altijd worden ingehouden. Onderhands en bovenhands slaan is toegestaan, mits dit veilig gebeurt
 
