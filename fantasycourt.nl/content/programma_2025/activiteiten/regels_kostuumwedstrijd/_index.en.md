@@ -3,7 +3,11 @@ title: Costume Contest Rules
 og:
   description: "Fantasy Court - Costume contest rules"
 ---
-    
+
+{{< message >}}
+If you see this page something is wrong please go to home page.
+{{< /message >}}
+<!--    
 
 # Comprehensive Explanation Costume Contest
 The following describes how the contest will proceed, as well as the rules for participation.

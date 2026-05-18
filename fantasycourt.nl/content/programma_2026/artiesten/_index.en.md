@@ -7,7 +7,7 @@ og:
 
 As soon as the Musicians for Fantasy court 2026 are revealed, they can be found here.
 
-## Feephifolk
+## Feephifolkfum
 Phi is coming to get Fantasy Court dancing again with the rhythmic sounds of the hurdy-gurdy. With their folk-inspired songs you get completely into the fantasy atmosphere. From growling drones to sweeping melodies to uplifting rhythms this solo artist has everything needed to put on a complete act.
 
 ## Andawenn

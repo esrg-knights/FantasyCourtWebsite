@@ -4,6 +4,12 @@ og:
   description: "Confirmed vendors"
 ---
 
+{{< message >}}
+If you see this page something is wrong please go to home page.
+{{< /message >}}
+
+<!-->
+
 # Confirmed vendors
 
 The following vendors will be present at Fantasy Court:

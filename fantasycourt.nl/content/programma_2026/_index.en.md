@@ -12,10 +12,10 @@ Fantasy Court 2026 takes place on Sunday the 24th of May from 11:00 to 18:00. <!
 
 <!-->
 {{<gallery class="content-gallery" height="610">}}
-  {{<image src="/images/2025/programma/programma1_en.png" >}}
-  {{<image src="/images/2025/programma/programma2_en.png" >}}
-  {{<image src="/images/2025/programma/programma3_en.png" >}}
-  {{<image src="/images/2025/programma/programma4_en.png" >}}
+  {{<image src="/images/2026/programma/1.png" >}}
+  {{<image src="/images/2026/programma/2.png" >}}
+  {{<image src="/images/2026/programma/3.png" >}}
+  {{<image src="/images/2026/programma/4.png" >}}
 {{</gallery >}}-->
 
 Want to know everything that will happen at the festival? Then have a look at these subpages:

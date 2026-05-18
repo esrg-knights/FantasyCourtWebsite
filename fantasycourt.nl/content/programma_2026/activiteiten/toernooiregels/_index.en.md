@@ -14,14 +14,14 @@ Our organisation runs the tournament as safely as possible, but participation is
 
 ## 1. Safety rules
 &nbsp;
-* It is forbidden to stab with a LARP sword.
-* It is not permitted to strike the head, neck, or genitals, and these are not considered valid hit locations.
-* Physical contact between people is forbidden under any circumstances.
-* Take care not to strike with full or excessive force.
-* It is not permitted to run or charge towards your opponent in a duel.
-* Shield-bashing is not allowed. (You may only strike your opponent with a LARP sword during the tournament.)
-* Although these are valid hit locations, please be exceptionally cautious about strikes to the chest or wrists.
-* Over-hand and under-hand strikes are both permitted, but again, please be sure to avoid strikes to the head and crotch.
+* It is not allowed to thrust with the weapon.
+* It is not allowed to hit the head or neck.
+* It is not allowed to deliberately aim for wrists, genitals, or breasts.
+* It is not allowed to make physical contact with your opponent.
+* It is not allowed to run during a duel.
+* It is not allowed to strike with a shield.
+* Blows must always be controlled. Both underhand and overhead strikes are allowed, provided this is done safely.
+
 ## 2. The duel
 &nbsp;
 * Duels take place on the tournament field. If a participant exits the field during a duel, the opponent scores one point.

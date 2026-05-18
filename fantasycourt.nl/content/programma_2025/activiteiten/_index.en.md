@@ -3,7 +3,10 @@ title: Programme
 og:
   description: "Fantasy Court - Activities"
 ---
-
+{{< message >}}
+If you see this page something is wrong please go to home page.
+{{< /message >}}
+<!--
 # Activities
 
 ## Larp Swordfighting Tournament

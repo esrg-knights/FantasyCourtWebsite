@@ -14,14 +14,14 @@ Alhoewel de organisatie voorzichtig te werk gaat is deelname op eigen risico.
 
 ## 1. Veilig vechten
 &nbsp;
-* Men mag niet met het wapen steken.
-* Het is niet toegestaan om het hoofd, de nek, of de geslachtsdelen te raken.
-* Fysiek contact is ten alle tijden verboden.
-* Men dient slagen in te houden.
+* Het is niet toegestaan om met het wapen te steken.
+* Het is niet toegestaan om het hoofd of de nek te raken.
+* Het is niet toegestaan om doelbewust te mikken op polsen, geslachtsdelen en borsten. 
+* Het is niet toegestaan om fysiek contact te maken met je tegenstander.
 * Het is niet toegestaan om tijdens een duel te rennen.
-* Het is niet toegestaan om met schilden te slaan.
-* Alhoewel het een geldige hitlocatie is verzoeken wij de deelnemers voorzichtig te zijn met het raken van bortsen en polsen.
-* Het is toegestaan om onder- en bovenhands te slaan. Kijk hierbij wel uit voor hoofd en geslachtsdelen.
+* Het is niet toegestaan om met een schild te slaan.
+* Slagen moeten altijd worden ingehouden. Onderhands en bovenhands slaan is toegestaan, mits dit veilig gebeurt
+
 ## 2. Het duel
 &nbsp;
 * Het duel vind plaats op het duelveld. als een deelnemer het veld verlaat krijgt de tegenstander een punt.

@@ -589,3 +589,14 @@ Mondays Wednesday, we sell: hand-bound sketch and notebooks, handmade paper, ill
 
 ---
 
+### HeksenKetels
+
+A touch of magic on the fire… HeksenKetels will be present at Fantasy Court!
+
+Among smoke, herbs, and crackling flames, HeksenKetels prepares their artisanal dishes. From steaming stews and hearty soups to grilled corn on the cob and flavorful meat and vega(n) dishes.
+
+For adventurers, stallholders, and visitors who love warm, honest, and freshly made food.
+
+Follow the scent of herbs and fire, and discover HeksenKetels during Fantasy Court.
+
+---

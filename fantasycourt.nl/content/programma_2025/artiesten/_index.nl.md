@@ -3,6 +3,11 @@ title: Programma
 og:
   description: "Fantasy Court - Bevestigde artiesten"
 ---
+
+{{< message >}}
+Als je deze pagina ziet is er iets mis ga alsjeblieft naar de homepagina.
+{{< /message >}}
+<!--
 # Artiesten
 
 

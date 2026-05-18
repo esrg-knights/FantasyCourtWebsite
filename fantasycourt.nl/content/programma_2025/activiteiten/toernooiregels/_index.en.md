@@ -4,6 +4,10 @@ og:
   description: "Fantasy Court - Tournament rules"
 ---
 {{< message >}}
+If you see this page something is wrong please go to home page.
+{{< /message >}}
+<!--
+{{< message >}}
   _Keep in mind these tournament rules_ \
   _Behave as honorable knights, not as fools_
 {{< /message >}}

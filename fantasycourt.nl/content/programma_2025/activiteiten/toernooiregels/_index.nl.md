@@ -4,6 +4,10 @@ og:
   description: "Fantasy Court - Toernooiregels"
 ---
 {{< message >}}
+Als je deze pagina ziet is er iets mis ga alsjeblieft naar de homepagina.
+{{< /message >}}
+<!--
+{{< message >}}
   _Neemt in acht de regels van dit toernooi_ \
   _Anders veranderd deze strijd in een zooi_
 {{< /message >}}
