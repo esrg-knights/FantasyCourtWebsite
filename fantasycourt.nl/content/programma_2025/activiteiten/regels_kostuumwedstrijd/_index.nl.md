@@ -3,7 +3,11 @@ title: regels kostuumwedstrijd
 og:
   description: "Fantasy Court - Kostuumwedstrijdregels"
 ---
-    
+
+{{< message >}}
+Als je deze pagina ziet is er iets mis ga alsjeblieft naar de homepagina.
+{{< /message >}}
+<!--    
 
 # Uitgebreide Uitleg Kostuum wedstrijd
 Hieronder staat het verloop van de wedstrijd beschreven, evenals de regels voor deelname. 

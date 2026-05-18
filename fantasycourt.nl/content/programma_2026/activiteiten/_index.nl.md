@@ -37,7 +37,7 @@ Er zal een gratis balfolkworkshop zijn. Balfolk is een dansstijl gebaseerd op tr
 Blood on the Clocktower is een nieuw en populair deductiespel. Lukt het de dorpsbewoners om de Demon te vinden? Of eindigt het dorp doordrenkt in bloed? Maar één manier om het te vinden. Wil je verzekerd zijn van een plek? Schrijf je dan nu alvast in voor een tijdslot via onze website! https://customscript.nl/.
 
 ## 2 Componenten Prothese maken door Fjalla
-Bij Fjalla leer je om een silicone prothese plakken of een 2 componenten silicone prothese maken.
+Bij Fjalla leer je om een 2 componenten silicone prothese maken. En kan je kijken hoe een silicone prothese geplakt wordt.
 
 ## Flow arts door Nozdormu
 &nbsp;
@@ -48,7 +48,7 @@ Sacred Fire Games host table top role playing game oneshots tijdens Fantasy Cour
 ## Leerstempelen door Kapiteit Kleerhaak
 &nbsp;
 
-## Insecten opzetten door Nature Deco
+## Insecten opzetten door NatureDeco
 &nbsp;
 
 ## Clay stamping door Piko Ceramics
@@ -63,13 +63,13 @@ Volg een mini zwaardvecht workshop gegeven door Sport 365.
 ## Papier scheppen door Mondays Wednesday
 Bij deze workshop kan je zelf een eigen papiertje maken. Dit wordt gedaan door middel van een schepraam en een bak water met de papier basis erin.
 
-## Buidelmaak Workshop door Mondays Wednesday
+## Buidelmaak Workshop door Wetlandtreasures
 &nbsp;
 
 ## Verhalen in de Tent door Toys in the Attic
 Kom luisteren naar verhalen verteld door Toys in the Attic.
 
-## Tarot lezingen door Aegle
+## Tarot lezingen door Praktijk Aegle
 &nbsp;
 
 {{< message margin-top="80px" margin-bottom="100px">}}

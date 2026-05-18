@@ -587,3 +587,12 @@ Mondays Wednesday, wij verkopen: handgebonden schets- notitieboeken, handgeschep
 ### Toys in the Attic
 
 ---
+
+### HeksenKetels
+
+Een vleugje magie op het vuur… De HeksenKetels zijn aanwezig op Fantasy Court!
+Tussen rook, kruiden en knisperend vuur bereiden De HeksenKetels hun ambachtelijke gerechten. Van dampende stoofpotten en stevige soepen tot gegrilde maiskolven en smaakvolle vlees- en vega(n) gerechten.
+Voor avonturiers, standhouders en bezoekers die houden van warm, eerlijk en vers eten.
+Laat je leiden door de geur van kruiden en vuur en ontdek De HeksenKetels tijdens Fantasy Court.
+
+---

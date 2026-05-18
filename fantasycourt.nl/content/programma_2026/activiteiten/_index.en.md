@@ -42,7 +42,7 @@ There will be a free balfolk workshop. Balfolk is a dance style based on traditi
 Blood on the Clocktower is a new and popular deduction game. Will the villagers manage to find the Demon? Or will the village end up drenched in blood? Only one way to find out. Want to be sure of a spot? Register for a time slot now through our website! https://customscript.nl/.
 
 ## Making 2-Component Prosthetics by Fjalla
-At Fjalla you will learn how to apply a silicone prosthetic or make a 2-component silicone prosthetic.
+At Fjalla, you will learn how to make a two-component silicone prosthetic, and you can see how a silicone prosthetic is applied.
 
 ## Flow Arts by Nozdormu
 &nbsp;
@@ -53,7 +53,7 @@ Sacred Fire Games hosts tabletop role-playing game oneshots during Fantasy Court
 ## Leather Stamping by Captain Kleerhaak
 &nbsp;
 
-## Insect Mounting by Nature Deco
+## Insect Mounting by NatureDeco
 &nbsp;
 
 ## Clay Stamping by Piko Ceramics
@@ -68,13 +68,13 @@ Join a mini sword fighting workshop given by Sport 365.
 ## Paper Making by Mondays Wednesday
 In this workshop you can make your own piece of paper. This is done using a paper mould and a tub of water with the paper base in it.
 
-## Pouch-Making Workshop by Mondays Wednesday
+## Pouch-Making Workshop by Wetlandtreasures
 &nbsp;
 
 ## Stories in the Tent by Toys in the Attic
 Come listen to stories told by Toys in the Attic.
 
-## Tarot Readings by Aegle
+## Tarot Readings by Practice Aegle
 &nbsp;
 
 {{< message margin-top="80px" margin-bottom="100px">}}

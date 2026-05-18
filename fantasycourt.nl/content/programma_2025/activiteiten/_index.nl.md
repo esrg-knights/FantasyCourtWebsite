@@ -4,6 +4,10 @@ og:
     description: "Fantasy Court - Activiteiten"
 ---
 
+{{< message >}}
+Als je deze pagina ziet is er iets mis ga alsjeblieft naar de homepagina.
+{{< /message >}}
+<!--
 # Activiteiten
 
 ## Larp Zwaardvecht Toernooi

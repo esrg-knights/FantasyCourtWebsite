@@ -7,7 +7,7 @@ og:
 
 Zodra de artiesten voor Fantasy court 2026 bekend zijn, zijn ze hier te vinden.
 
-## Feephifolk
+## Feephifolkfum
 Phi komt Fantasy Court weer aan het dansen zetten met de ritmische klanken van de draailier. Met hun folk-geïnspireerde nummers kom je helemaal in de fantasy sfeer. Van grommende grondtonen naar zwepende melodieën tot opwekkende ritmes heeft deze solo artiest alles in huis om een volledige act neer te zetten.
 
 ## Andawenn

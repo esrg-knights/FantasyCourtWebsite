@@ -3,6 +3,11 @@ title: Programme
 og:
   description: "Fantasy Court - Confirmed musical artists"
 ---
+{{< message >}}
+If you see this page something is wrong please go to home page.
+{{< /message >}}
+<!--
+
 # Musicians
 
 

@@ -4,6 +4,11 @@ og:
   description: "Bevestigde standhouders"
 ---
 
+{{< message >}}
+Als je deze pagina ziet is er iets mis ga alsjeblieft naar de homepagina.
+{{< /message >}}
+<!--
+
 # Bevestigde standhouders
 
 De volgende standhouders zullen op Fantasy court te vinden zijn:
