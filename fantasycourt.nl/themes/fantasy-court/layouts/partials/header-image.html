@@ -9,7 +9,7 @@
         ' role="img" aria-label='{{ $.Param "header-image.alt" }}'>
 
         <div class="logo" {{ $.Param "header-image.visibility" }}>
-            <img src= "/images/Fc_letterlogo_myrna-v2.png" alt="FC Logo">
+            <img src= "/images/Fc_letterlogo_myrna-v2.png" alt="FC Logo" fetchpriority="high" loading=eager>
                 <h1>{{ i18n "header_date" }}</h1>
         </div>
     </div>
