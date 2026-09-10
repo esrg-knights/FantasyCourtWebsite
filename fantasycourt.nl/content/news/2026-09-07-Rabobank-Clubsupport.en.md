@@ -3,11 +3,9 @@ type: news
 title: "Rabobank Clubsupport"
 publishDate: 2026-09-07T12:00:00+02:00 
 ---
+Hear Ye, Hear Ye: vote for Fantasy Court!
+We’re slowly awakening from our post-Fantasy Court summer slumber, and preparations for the 2027 edition are already in full swing. However, we could really use your help with that! Are you a Rabobank member and do you live in or near Eindhoven? Then you can vote for our parent organization, the E.S.R.G. Knights of the Kitchen Table, in Rabobank’s Club Support poll. The contribution we receive from this campaign helps us make Fantasy court possible year after year.
 
-## Rabobank Clubsupport
-Spread the word, spread the word: vote for Fantasy Court! We’re slowly waking up from our post-Fantasy Court summer slumber, and preparations for 2027 are already well underway. And this is where we could really use your help!
-Are you a Rabobank member and do you live in the Eindhoven region? Then please vote for our parent organisation, E.S.R.G. Knights of the Kitchen Table. We will use this contribution to help make Fantasy Court possible again every year.
+Voting is possible from September 7 through 29 via the Rabobank website at https://www.rabobank.nl/leden/clubsupport/stemmen, and every vote makes a difference! We at Fantasy Court always strive to keep our events as accessible as possible, for both exhibitors and for guests. But since we’re a nonprofit, we rely heavily on sponsors and grants to organize our events, so every little bit helps.
 
-You can vote from 7 through 29 September via the Rabobank website: https://www.rabobank.nl/leden/clubsupport/stemmen. Every vote helps enormously! Each year, Fantasy Court works hard to keep our event as accessible as possible, both for vendors and for visitors. As we are a non-profit event, we depend on sponsors and grants to organise Fantasy Court, and every little bit helps.
-
-And really, who hasn’t dreamed of an extra portable toilet at Fantasy Court?
+And let’s be honest: who doesn’t dream of an extra portable toilet at Fantasy Court?
