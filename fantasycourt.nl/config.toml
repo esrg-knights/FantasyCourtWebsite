@@ -223,7 +223,7 @@ date = [":filename", ":default"]
 
 # TODO
 [[cascade]]
-  [cascade._build]
+  [cascade.build]
     list = 'local'
     publishResources = false
     render = 'never'
@@ -244,7 +244,7 @@ date = [":filename", ":default"]
   [privacy.instagram]
     disable = false
     simple = false
-  [privacy.twitter]
+  [privacy.x]
     disable = false
     enableDNT = true
     simple = false
