@@ -10,7 +10,7 @@ og:
   _Uw aanwezigheid is gewenst, met uw waren en uw kunsten_
 {{< /message >}}
 
-# Standhouders Editie 2026
+# Standhouders Editie 2027
 Om Fantasy Court nog beter te maken zijn wij altijd op zoek naar meer mensen die ons evenement kunnen verrijken. Wij bieden jullie een geweldig, enthousiast publiek dat komt voor de sfeer en het gespecialiseerde aanbod. Want waar in Nederland vind je nou een festival dat zich vooral met LARP en gerelateerde zaken bezighoudt? Als je onze visie deelt kan je je inschrijven via het inschrijfformulier. Deze kan je hier vinden zodra inschrijvingen open gaan<!--[het inschrijfformulier](https://docs.google.com/forms/d/e/1FAIpQLSemY9RDnzeXth9cXJcMcuNsrznzqJhe8I4_LivV0cS0lXS7Xg/viewform)-->. Heb je vragen? Neem dan [contact](mailto:standhouders@fantasycourt.nl) met ons op.
 Fantasy Court vindt plaats op Zondag 23 Mei 2027, op het Koeveld op het terrein van de Technische Universiteit Eindhoven (Den Dolech 12, TU/e, Eindhoven). Het geplande einde van de opbouw is om 10.45u, en het festival is ten einde om 18.00u. Het is de bedoeling om er een gezellige late ochtend en middag van te maken.
 
@@ -41,7 +41,7 @@ Net zoals afgelopen jaar zijn LARP-organisaties welkom om zich op Fantasy Court 
 
 <!-- Inschrijfkosten voor LARP-organisaties en goede doelen is €10,- mits er een (kleine) activiteit wordt georganiseerd door de vereniging. Dit kan een spelletje uit de LARP zijn, quests of bijvoorbeeld vertaalsleutels maken! Voor goede doelen zijn er geen inschrijfkosten. Larps en goede doelen  kunnen zelf een tent meenemen of een kraam huren tegen de normale kosten. Alternatief kunnen wij per organisatie maximaal één tafel gratis regelen. Het is toegestaan, en wordt zelfs aangemoedigd, om dingen als props en decoratie mee te nemen om zo je eigen hoekje verder te kunnen personaliseren.-->
 
-De inschrijvingen sluiten op zondag 14 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.
+<!--De inschrijvingen sluiten op zondag 14 april. Is deze deadline verstreken maar wil je toch meedoen? Neem dan even [contact](mailto:standhouders@fantasycourt.nl) met ons op; dan kijken we samen wat er nog mogelijk is.-->
 
 # Marktkramen
 Zoals gebruikelijk is er weer een markt! Denk hierbij aan kramen die dingen gerelateerd aan LARP, rollenspellen, of bordspellen verkopen, of iets anders gerelateerd aan het genre van Fantasy. Dit varieert van sieraden en kostuums tot boeken en dobbelstenen. Ook is er uiteraard plaats voor kramen die etenswaren of dranken verkopen.
