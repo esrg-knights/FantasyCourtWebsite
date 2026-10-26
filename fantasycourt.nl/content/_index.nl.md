@@ -46,7 +46,7 @@ resources:
 
 # Datum en Locatie
 
-Fantasy court vind plaats op 24 mei op het Koe-veld op de Campus van de Technische Universiteit Eindhoven. Het Festival is gratis te bezoeken. Het terrein is open en er is geen toegangsbewijs of reservering nodig. Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. 
+Fantasy court vind plaats op 23 mei op het Koe-veld op de Campus van de Technische Universiteit Eindhoven. Het Festival is gratis te bezoeken. Het terrein is open en er is geen toegangsbewijs of reservering nodig. Of je nu wel of geen student bent, een ouder met kinderen of een zelfstandige; voor iedereen wordt wat georganiseerd. 
 
 <!--- Wil je meer weten over onze activiteiten? Kijk dan op de [programma-pagina.]({{< ref "/programma_2025" >}}) -->
 
