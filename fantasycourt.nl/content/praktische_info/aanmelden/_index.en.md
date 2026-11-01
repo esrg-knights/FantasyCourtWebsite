@@ -11,7 +11,7 @@ og:
 {{< /message >}}
 
 # Standhouders Editie 2027
-To make Fantasy Court even better we are always looking for more people who are able to enrich our event. We attract a wonderful, enthusiastic audience looking for amazing vibes and the specialized selection we offer. After all, where else in the Netherlands will you find a festival that focuses primarily on LARP and related activities? If you share our vision, you can sign up using the registration form that will be shown here when sign-ups are open<!--[the registration form](https://docs.google.com/forms/d/e/1FAIpQLSemY9RDnzeXth9cXJcMcuNsrznzqJhe8I4_LivV0cS0lXS7Xg/viewform)-->. Do you have any questions? Then feel free to [contact us](mailto:standhouders@fantasycourt.nl).
+To make Fantasy Court even better we are always looking for more people who are able to enrich our event. We attract a wonderful, enthusiastic audience looking for amazing vibes and the specialized selection we offer. After all, where else in the Netherlands will you find a festival that focuses primarily on LARP and related activities? If you share our vision, you can sign up using [the registration form](https://forms.gle/dVzcpddgYL6NgfMv8). Do you have any questions? Then feel free to [contact us](mailto:standhouders@fantasycourt.nl).
 Fantasy Court takes place on Sunday, May 23rd 2027, on the Koeveld at the campus of Technical University of Eindhoven (Den Dolech 12, TU/e, Eindhoven). Setup is scheduled to be finished by 10.45, and the festival ends at 18.00. The idea is to make it a cozy late morning and afternoon together.
 
 {{< figure src="/fc-koeveld-campus-map.png" alt="Map" class="campusmap" width="100%" >}}
